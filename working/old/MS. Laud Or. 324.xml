@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?oxygen RNGSchema="enrich-wamcp-hebrew.rnc" type="compact"?>
+<?xml-stylesheet type="text/css" href="http://tei.oucs.ox.ac.uk/ENRICH/enrich.css" title="ENRICH CSS" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Laud Or. 324</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <name type="person">[Name of cataloguer]</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Laud_Or_324</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Laud_Or_324" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Laud Oriental Collection</collection>
+                        </collection>
+
+
+
+                        <idno>MS. Laud Or. 324</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">25</idno>
+                        </altIdentifier>
+<altIdentifier type="other">
+    <idno type="sum_cat_no">1262</idno>
+</altIdentifier>
+                        <altIdentifier type="former">
+                            <idno>Uri 5</idno>
+                        </altIdentifier>
+
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Torah with Targum Onḳelos </summary>
+                        <msItem n="1" xml:id="MS_Laud_Or_324_a">
+                            <locus>ff. 1v-</locus>
+
+
+                            <title>Pentateuch  <foreign xml:lang="heb">תורה</foreign></title>
+                            
+                            <note>With Targum Onḳelos after each verse. On the margins the small
+                                masorah with some additions, such as Num. 4. <foreign xml:lang="heb"
+                                    >מפי החזן מטרוייש</foreign>. The larger masorah ceases on Gen.
+                                16; it is to be found again on Ex. 14:15 and a few lines at the end
+                                of Numbers and the beginning of Deut.</note>
+                            <note>On fol. 60 an extract from Targum Yerushalmi, different from the
+                                edn., ed. from this MS by A. Epstein in REJ 30 (1895): 46-47.</note>
+                            <note>Copied by Simḥah b. Judah of Nuremberg, who copied the Worms
+                                Mahzor in 1272 (MS Jerusalem JNUL 4° 781/1). The
+                                vocalizer-Masorete's name was probably Baruch (pointed out in the
+                                masorah on fol. 16v).</note>
+
+                            <colophon><foreign xml:lang="heb">"הסופר שמחה לא יוזק"</foreign></colophon>
+                            <textLang mainLang="heb">Hebrew</textLang>
+
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+
+                        <objectDesc form="codex">
+
+                            <supportDesc material="perg">
+
+                                <support> parchment <watermark/>
+                                </support>
+                                <extent> ff. 264 <dimensions type="leaf" unit="mm">
+                                        <height quantity="528">528</height>
+                                        <width quantity="377">377</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals; no folios marked 77 or 101; fol. 199 is double.</foliation>
+                                <collation> 
+                                </collation>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="3">Hair side/flesh side are indistinguishable, pricking, ruling are often visible.
+                                    
+                                   </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Ashkenazi square script</summary>
+                            <handNote scope="sole" script="ashkenazi" rend="square">
+                               </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>Not decorated.
+                              </decoNote>
+                        </decoDesc>
+                        <additions/>
+
+
+                        <bindingDesc>
+                            <p>Brown leather binding, blind-tooled, with the gold-tooled coat of arms of
+                                Archbisop Laud in the middle; holes for straps.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+
+                        <origin>
+                            <origPlace>[Germany]</origPlace>
+                            <origDate when="1272" >[about 1272]</origDate>
+                        </origin>
+                        <provenance>Ownership inscription: "Liber Guil[ie]lmi Laud Archiepi[scopi]
+                            Cant[uariensis] et Cancellarii Universitatis Oxon[iensis]
+                            1634" (fol. 1v); Small round stamp of the Bibliotheca Bodleiana on every recto.</provenance>
+
+                        <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl><ref facs="bej0039.jpg">No.
+                                    25</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                        Bodleian Library; Supplement of Addenda and Corrigenda to
+                                        Vol. I, </bibl><ref facs="beo0058.jpg">No. 25</ref>, and on the
+                                    data of the Institute of Microfilmed Hebrew Manuscripts,
+                                    National Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref
+                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                                        >Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 33038</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
+                                Bodleian Library (Oxford, 1886), no. 25.</bibl>
+                            <bibl>A. Epstein in REJ 30 (1895): 46-47</bibl>
+                            <bibl></bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                                manuscripts in the Bodleian Library; Supplement of Addenda and
+                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                                Press, 1994), no. 25.</bibl>
+                        </listBibl>
+                    </additional>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl></desc>
+                </taxonomy>
+
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl></desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl><ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref></bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl><ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref></bibl></desc>
+                </taxonomy>
+
+
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term> Biblical MSS</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+                    <term><persName ref="http://viaf.org/viaf/54940373">Laud, William,
+                            1573-1645</persName></term>
+                    <term>Bible. Pentateuch.</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-02-20">
+                <name type="person"> Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+
+    </facsimile>
+</TEI>

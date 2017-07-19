@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_317">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Canonici Or. 97</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>[Name of cataloguer]</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Can_Or_97</idno>
+            <idno type="msID">MS_Canonici_Or_97</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="MS_Canonici_Or_97" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Canonici Oriental Collection</collection>
+                        </collection>
+
+                        <idno>MS. Canonici Or. 97</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">1989</idno>
+                        </altIdentifier>
+
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no"> 20451</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>Miscellany</summary>
+                        <msItem xml:id="MS_Canonici_Or_97-item1" n="1">
+                            <locus>ff. 2r-54r</locus>
+                            <author>Rieti, Moses ben Isaac da, 1388-1460? ריאיטי,
+                                    משה בן יצחק</author>
+                            <title>Miḳdash meʿaṭ</title>
+                            <title>
+                        <foreign xml:lang="he">מקדש מעט</foreign>
+                     </title>
+                            <note/>
+                            <colophon>Colophon on fol. 1r: <foreign xml:lang="he">"וליקוטים אחרים,
+                                נעתקו על ידי ... ברוך בכה"ר שלמה ז"ל כהן ז"ל פה אנגייארי ארץ
+                                טוסקאנה ... בחדש תמוז שנת יפתח ה’ לך את א’ו’צ’ר’ו’ ה’ט’ו’ב’ את
+                                השמים לאלף הששי"</foreign>. Italian translation of the colophon on fol. [v] verso.</colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+                        <msItem xml:id="MS_Canonici_Or_97-item2" n="2">
+                            <locus>ff. 55v-59r</locus>
+                            <author>Rieti, Moses ben Isaac da, 1388-1460? ריאיטי,
+                                משה בן יצחק</author>                            
+                     <title>Igeret yaʿar ha-Levanon</title>
+                            <title>
+                        <foreign xml:lang="he"> אגרת יער הלבנון</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+                        <msItem xml:id="MS_Canonici_Or_97-item3" n="3">
+                            <locus>ff. 59v-60v</locus>
+                            <author>Rieti, Moses ben Isaac da, 1388-1460? ריאיטי,
+                                משה בן יצחק</author>
+                            <title>Ḳinah</title>
+                            <title>
+                        <foreign xml:lang="he">קינה</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+                        <msItem xml:id="MS_Canonici_Or_97-item4" n="4">
+                            <locus>ff. 61r-63v</locus>
+
+                            <title>Alphabet of Ben Sira</title>
+                            <title>
+                        <foreign xml:lang="he">אלפא ביתא דבן סירא</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+                        <msItem xml:id="MS_Canonici_Or_97-item5" n="5">
+                            <locus>ff. 64r-66r</locus>
+
+                            <title>Extracts of grammatical texts</title>
+                            <title>
+                        <foreign xml:lang="he"> לקוטים בדקדוק </foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+                        <msItem xml:id="MS_Canonici_Or_97-item6" n="6">
+                            <locus>ff. 66v</locus>
+
+                            <title>Ṭaʿame ha-mitsṿot</title>
+                            <title>
+                        <foreign xml:lang="he">טעמי מצוות</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+                        <msItem xml:id="MS_Canonici_Or_97-item7" n="7">
+                            <locus>ff. 67r-68v</locus>
+                            <author>Pontsibontsi, Shlomoh ben Eliyah פונציבונצי, שלמה בן אליה</author>
+                            <title>Commentary on the Pentateuch (Genesis)</title>
+                            <title>
+                        <foreign xml:lang="he">פרוש התורה (בראשית)</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+                        <msItem xml:id="MS_Canonici_Or_97-item8" n="8">
+                            <locus>ff. 69r-172v</locus>
+
+                            <title>Ergon</title>
+                            <title>
+                        <foreign xml:lang="he">אגרון</foreign>
+                     </title>
+                            <note/>
+                                                       <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>paper</support>
+                                <extent>ff. 177<dimensions type="leaf" unit="mm">
+                                        <height quantity="000"/>
+                                        <width quantity="000"/>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals. Fols. 150, 165, 173-174 are blank.</foliation>
+                                <collation> Quires of mostly 8 leaves 
+                                        <signatures>no signatures</signatures>
+                                    <catchwords>catchwords at the end of quires</catchwords>
+                                </collation>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="2">Text in one and two columns.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Italian cursive script, numerous maniculae in the margins.</summary>
+                            <handNote scope="sole" script="italian" rend="cursive"> </handNote>
+
+                        </handDesc>
+
+                        <decoDesc>
+                            <decoNote>Not decorated.</decoNote>
+                        </decoDesc>
+
+                        <additions/>
+
+                        <bindingDesc>
+                            <p>Light brown leather binding.</p>
+                        </bindingDesc>
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <origPlace>Anghiari, Tuscany (Italy)</origPlace>
+                            <origDate notBefore="1401" notAfter="1565">1565</origDate>
+                        </origin>
+                        <provenance>Ownership inscription on fol. 2r.</provenance>
+                        <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his
+                            brother Giuseppe, and on his death in 1807 to Giovanni Perissinotti and
+                            Girolamo Cardina, who divided them. To the former fell the MSS., then
+                            about 3550 in number, and, after many attempts to sell them, the
+                            Bodleian became the purchaser of the greater part in 1817, for £5444 5s.
+                            1d., or including incidental expenses about £6030, the largest single
+                            purchase ever made by the Library. The formal list of volumes handed
+                            over was signed on May 18, 1817, and the books probably arrived later
+                            that year.</acquisition>
+                    </history>
+
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl> (<ref facs="bej0376.jpg bej0377.jpg">No. 1989</ref>,
+                                        <bibl>Catalogue of the Hebrew manuscripts in the Bodleian
+                                        Library; Supplement of Addenda and Corrigenda to Vol. I
+                                   </bibl>
+                           <ref facs="beo0237.jpg">No. 1989</ref>, and on the data
+                                    of the <ref target="http%3A%2F%2Faleph.nli.org.il%2FF%2FE4SAV8FCS1LE3CKR349UR2JLT9YUCPV5B6MBA52UB62PCYAV7C-02234%3Ffunc%3Dfull-set-set%26set_number%3D001906%26set_entry%3D000004%26format%3D999">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 19151</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                1989.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 1989.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+               </desc>
+                </taxonomy>
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+               </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Poetry</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+                    <term>
+                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi,
+                        1727-1805</persName>
+               </term>
+
+                </keywords>
+
+                <keywords scheme="#IMHM">
+                    <term>
+                  <persName xml:lang="he"> יקותיאל בן שלמה, הרופא, מנרבונא
+                        </persName>
+               </term>
+                    <term>
+                  <persName xml:lang="he"> ברוך בן שלמה כהן</persName>
+               </term>
+                    <term>
+                  <persName xml:lang="he">שושן, נסים</persName>
+               </term>
+                    <term>
+                  <persName xml:lang="he"> חנין, נחמן בן שבתי</persName>
+               </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+            <change when="2015-06-14">
+                <persName> Zsofia Buda</persName> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+    </facsimile>
+</TEI>

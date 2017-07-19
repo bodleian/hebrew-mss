@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?oxygen RNGSchema="enrich-wamcp-hebrew.rnc" type="compact"?>
+<?xml-stylesheet type="text/css" href="http://tei.oucs.ox.ac.uk/ENRICH/enrich.css" title="ENRICH CSS" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Laud Or. 322</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <name type="person">[Name of cataloguer]</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Laud_Or_322</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Laud_Or_322" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Laud Oriental Collection</collection>
+                        </collection>
+
+
+
+                        <idno>MS. Laud Or. 322</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">643</idno>
+                        </altIdentifier>
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no"> 462</idno>
+                        </altIdentifier>
+
+                        <altIdentifier type="former">
+                            <idno>Uri 175</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno>Laud A. 163</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno>Sub Fen. IX</idno>
+                        </altIdentifier>
+
+                    </msIdentifier>
+                    <msContents>
+                        <summary><title>Isaiah Trani, Pisḳe Riaz </title></summary>
+                        <msItem n="1" xml:id="MS_Laud_Or_322_a">
+                            <locus>ff. 1r-343v</locus>
+                            <author ref="http://viaf.org/viaf/293743688"><persName>Isaiah ben Elijah, di
+                                Trani, -approximately 1280</persName>  <persName xml:lang="heb">טרני, ישעיה בן אליהו די</persName></author>
+                            <title>Pisḳe Riaz   <foreign xml:lang="heb">פסקי ריא"ז </foreign></title>
+                            
+                            <note>Undoubtedly copied by Benjamin who frequently pointed out the
+                                acrostics of this name (e.g., fols. 92v, 166v, 305v). </note>
+                            <note>Marginal notes containing omission and by a later Italian hand
+                                containing remarks.</note>
+                            <colophon/>
+                            <textLang mainLang="heb">Hebrew</textLang>
+
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+
+                        <objectDesc form="codex">
+
+                            <supportDesc material="perg">
+
+                                <support> parchment <watermark/>
+                                </support>
+                                <extent>ff. 343 <dimensions type="leaf" unit="mm">
+                                        <height quantity="410">410</height>
+                                        <width quantity="285">285</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals</foliation>
+                                <collation>34 quires: i-ix<hi rend="sup">10</hi>, x<hi rend="sup"
+                                        >8</hi>, xi-xiii<hi rend="sup">10, xiv<hi rend="sup"
+                                        />10-2</hi>, xv-xx<hi rend="sup">10</hi>, xxi<hi rend="sup"
+                                        >14</hi>, xxii-xxxii<hi rend="sup">10</hi>, xxxiii<hi
+                                        rend="sup">8</hi>, xxxiv<hi rend="sup">8-1</hi>; fol. 175 is
+                                    double <catchwords>catchwords at the end of quires. Hebrew
+                                        characters to number the quires: quires i-iv (<foreign
+                                            xml:lang="heb">א-ד</foreign>), quires xv-xxi (<foreign
+                                            xml:lang="heb">א-ח</foreign>), quires xxii-</catchwords>
+                                </collation>
+                                <condition>Good condition.</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="2"> </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Italian semi-cursive script.</summary>
+                            <handNote scope="sole" script="italian" rend="semi-cursive"> </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote type="unspecified"> Floral decoration in ink (fol. 137)
+                            </decoNote>
+                            <decoNote type="diagram"> Diagram on outer margin on fol. 2r
+                            </decoNote>
+                        </decoDesc>
+                        <additions>Fol. 9 is amended with a leaf from a Latin
+                            manuscript.</additions>
+
+
+                        <bindingDesc>
+                            <p> Brown leather binding, blind-tooled, with the gold-tooled coat of
+                                arms of Archbisop Laud in the middle; holes for straps.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+
+                        <origin>
+                            <origPlace>[Italy]</origPlace><origDate notBefore="1375"
+                                notAfter="1400">[late 14th century]</origDate>
+                        </origin>
+                        <provenance>Censor's signature: Dominico Irosolomi[ta]no 1597 (fol. 342v);
+                            purchase note <quote xml:lang="heb">זה הרבינו ישעיה האחרון הוא של האחים
+                                במר" שלמה וכמר" אברהם הזרחי מקולונייא יורשי המנוח כמר" מרדכי
+                                מקולונייא</quote> (fol. 135v); several purchase notes at the end of
+                            the MS (fol. 343r); ownership inscription: "Liber Guil[iel]mi Laude
+                            Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis
+                            Oxon[iensis] 1635" (fol. 1r); undeciphered Hebrew note (written twice)
+                            on fol. 1r</provenance>
+
+                        <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl> (<ref
+                                        facs="bej0099.jpg bej0100.jpg">No. 643</ref>,
+                                        <bibl>Catalogue of the Hebrew manuscripts in the Bodleian
+                                        Library; Supplement of Addenda and Corrigenda to Vol. I
+                                   </bibl><ref facs="beo0105.jpg">No. 643</ref>, and on the data
+                                    of the Institute of Microfilmed Hebrew Manuscripts, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref
+                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                                        >Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 20559</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
+                                Bodleian Library (Oxford, 1886), no. 643.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                                manuscripts in the Bodleian Library; Supplement of Addenda and
+                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                                Press, 1994), no. 643.</bibl>
+                        </listBibl>
+                    </additional>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl></desc>
+                </taxonomy>
+
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl></desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl><ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref></bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl><ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref></bibl></desc>
+                </taxonomy>
+
+
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Thalmud, Halakhah</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+                    <term><persName ref="http://viaf.org/viaf/54940373">Laud, William,
+                            1573-1645</persName></term>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-01-03">
+                <name type="person"> Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+
+    </facsimile>
+</TEI>

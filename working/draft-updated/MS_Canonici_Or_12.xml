@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_217">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Canonici Or. 12</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>[Name of cataloguer]</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Can_Or_12</idno>
+            <idno type="msID">MS_Canonici_Or_12</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="MS_Canonici_Or_12" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Canonici Oriental Collection</collection>
+                        </collection>
+
+                        <idno>MS. Canonici Or. 12</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">1217</idno>
+                        </altIdentifier>
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no"> 20365</idno>
+                        </altIdentifier>
+
+
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Collection of Yiddish and Hebrew texts  </summary>
+                        <msItem xml:id="MS_Canonici_Or_12-item1" n="1">
+                            <locus>ff. 1r-90r</locus>
+                            <author ref="http://viaf.org/viaf/305856430">Molin, Yaacov,
+                                -1427    מולן, יעקב בן משה, הלוי</author>
+                            <title>Minhagim ba-Yidish  <foreign xml:lang="he"> מנהגים ביידיש</foreign>
+                     </title>                            
+                            <note>Yiddish translation of a minhagim collection attributed to the
+                                    <persName ref="http://viaf.org/viaf/305856430">Maharil</persName> (<persName ref="http://viaf.org/viaf/305856430">Jacob
+                                Möllin</persName>)</note>
+                            <colophon>
+                        <foreign xml:lang="he">"תם ונשלם ... נאם הסופר קלונימוס בר
+                                    אדו’ א"מ כמ"ר שמעון יזיי"א וסיימתיו חצי טבת שנת שי"ד לפ"ק פה
+                                    ויניזייה הבירה"</foreign>(fol. 90r)</colophon>
+                            <textLang mainLang="yi">Yiddish</textLang>
+
+                        </msItem>
+                        <msItem xml:id="MS_Canonici_Or_12-item2" n="2">
+                            <locus>ff. 91r-109r</locus>
+                            <title>Mitsṿot nashim in Yiddish</title>
+                            <note>In rhyme</note>
+                            <colophon/>
+                            <textLang mainLang="yi">Yiddish </textLang>
+                            
+
+                        </msItem>
+                        <msItem xml:id="MS_Canonici_Or_12-item3" n="3">
+                            <locus>ff. 110r-116r</locus>
+                            <author ref="http://viaf.org/viaf/98048540">Meir ben Isaac Sheliʼaḥ
+                                Ẓibbur, -approximately 1096    מאיר בן יצחק, ש"ץ</author>
+                            <title>Aḳdamut milin     <foreign xml:lang="he">אקדמות מילין</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew with Yiddish translation</textLang>
+
+                        </msItem>
+                        <msItem xml:id="MS_Canonici_Or_12-item4" n="4">
+                            <locus>ff. 116v-181v</locus>
+                            <title>Yiddish translation of the Five Scrolls  <foreign xml:lang="he">תרגום יידיש לכתובים (חמש מגלות)</foreign> ‬</title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="yi">Yiddish</textLang>
+
+                        </msItem>
+                        <msItem xml:id="MS_Canonici_Or_12-item5" n="5">
+                            <locus>ff. 182r-202r</locus>
+                            <title>Yiddish translation of piyyutim and seliḥot for Yamim
+                                Noraim   <foreign xml:lang="he">תרגום פיוטים וסליחות לימים נוראים ליידיש</foreign>
+                     </title>
+                            <note/>
+                            
+                            <colophon/>
+                            <textLang mainLang="yi">Yiddish</textLang>
+
+                        </msItem>
+                        <msItem xml:id="MS_Canonici_Or_12-item6" n="6">
+                            <locus>ff. 203r-207r</locus>
+                            <author ref="http://viaf.org/viaf/61782655">Levita, Elijah, 1468 or
+                                1469-1549      אליהו בן אשר, הלוי, אשכנז </author>
+                            <title>ha-Mavdil ben ḳodesh le-ḥol   <foreign xml:lang="he">המבדיל בין קדש לחול</foreign>
+                     </title>                           
+                            <note/>
+                            <colophon>
+                        <note>Colophon of items 1-6 on fol. 207r: <foreign xml:lang="he">"תם ונשלם המנבגי’ אונ’ דיני חלה אונ’ הדלקת
+                                        הנר אונ’ חמש מגילות אונ’חידושי בין שבת אונ’ איצה בחור ציד
+                                        אונ’ אקדמות אונ’ רענט[...] נאם הסופר קלונימוס בר אדו’ א"מ
+                                        כמ"ר שמעון יזיי"א וסיימתיו חצי טבת שנת שי"ד לפ"ק פה ויניזייה
+                                        הבירה"</foreign>
+                        </note>
+                     </colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+
+                        </msItem>
+                        <msItem xml:id="MS_Canonici_Or_12-item7" n="7">
+                            <locus>ff. 207v-213v</locus>                    
+                            <title>Poems in Yiddish   <foreign xml:lang="he">שירים ביידיש</foreign>
+                     </title>
+                            <note>
+                        <foreign xml:lang="he">שני שירים. הראשון שיר לעג של ליצן שתחילתו:
+                                    "וואלט איר הערל איין נויש גריכט"; השני שיר על תקופות בחיי האדם
+                                    עם תרגום לאיטלקית אחרי כל בית ותחילתו: "די מענש גיגלכן צו איינם
+                                    מלך צו איינר חזיר"</foreign>
+                     </note>
+
+                            <colophon/>
+                            <textLang mainLang="yi">Yiddish</textLang>
+
+                        </msItem>
+                        <msItem xml:id="MS_Canonici_Or_12-item8" n="8">
+                            <locus>ff. 214r-215r</locus>                            
+                            <title>Riddles in Yiddish   <foreign xml:lang="he">חידות ופתרונן : ביידיש</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>                            
+                            <textLang mainLang="yi">Yiddish</textLang>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_Canonici_Or_12-item9" n="9">
+                            <locus>ff. 216r-241r</locus>
+                            <title>Yiddish translation of Pirḳe Avot  <foreign xml:lang="he">תרגום פרקי אבות ליידיש</foreign>
+                     </title>
+                            <note/>
+                            <colophon>
+                        <foreign xml:lang="he">"אלו הפרקי’ התחלתי ליל א שלמחר היה יו’
+                                    ב כה, וסיימתי’ יו’ ד כ"ז דיצימר [1553], דהינו בזמן שלשה
+                                    ימי’".</foreign>(fol. 241r)</colophon>
+                            <textLang mainLang="yi">Yiddish</textLang>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_Canonici_Or_12-item10" n="10">
+                            <locus>ff. 241v-258r</locus>  
+                            <title>Maaśiyot ba-Yidish  <foreign xml:lang="he">מעשיות ביידיש</foreign>
+                     </title>
+                            <note/>                         
+                            <colophon/>
+                            <textLang mainLang="yi">Yiddish</textLang>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_Canonici_Or_12-item11" n="11">
+                            <locus>ff. 258r-266v</locus>                           
+                            <title>Poems in Yiddish  <foreign xml:lang="he">שירים ביידיש</foreign>
+                     </title>
+                            <note>
+                        <foreign xml:lang="he">שני שירים, הראשון ביידיש (258א-261ב): "דז
+                                    ליד הוט אליה בחור גמכט אויף די שריפה בין ווניציג (בויניציאה),
+                                    תחילתו: "נון וויל איך איין ווינציג זינגן"; ‬ ‫ השני (הועתק
+                                    פעמיים 262א-266ב) ויכוח על עדיפות בין מים ויין מאת זלמן סופר,
+                                    תחילתו: "זרע הגפן אני נקרא" עם תרגום ליידיש אחרי כל
+                                    בית</foreign>
+                     </note>
+
+                            <colophon/>
+                            <textLang mainLang="yi"/>
+
+                        </msItem>
+                        <msItem xml:id="MS_Canonici_Or_12-item12" n="12">
+                            <locus>ff. 266v-269r</locus>
+                            <title>Maʾaśeh ben Sabar in Yiddish <foreign xml:lang="he">מעשה בן סבר :ביידיש</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="yi">Yiddish</textLang>
+
+                        </msItem>
+                        <msItem xml:id="MS_Canonici_Or_12-item13" n="13">
+                            <locus>ff. 269v-274r</locus>
+                            <title>Yiddish translation of the 72 pasuḳim  <foreign xml:lang="he">תרגום שבעים ושנים פסוקים ע"ד שם של שבעים ושנים
+                                ליידיש</foreign>
+                     </title>
+                            <note/>
+                           <colophon/>
+                            <textLang mainLang="yi">Yiddish</textLang>
+
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+
+                        <objectDesc form="codex">
+
+                            <supportDesc material="chart">
+
+                                <support>paper <watermark/>
+                                </support>
+                                <extent>ff. <dimensions type="leaf" unit="mm">
+                                        <height quantity="0"/>
+                                        <width quantity="0"/>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals: from left to right in the
+                                    middle of the lower margin with pen starting with 122; from right to left (
+                                    and this is considered the correct one) in the upper margin with pencil. </foliation>
+                                <collation/>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"> parchment: hair side/flesh side: type of
+                                    pricking, ruling paper: </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Ashkenazi cursive script</summary>
+                            <handNote scope="sole" script="ashkenazi" rend="cursive"> </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>Not decorated. </decoNote>
+                        </decoDesc>
+                        <additions/>
+
+
+                        <bindingDesc>
+                            <p>Leather binding.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+
+                        <origin>
+                            <origPlace>Venice (Italy)</origPlace>
+                            <origDate when="1553">1553</origDate>
+                            
+                        </origin>
+                        <provenance/>
+
+                        <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl> (<ref facs="bej0251.jpg bej0252.jpg">No. 1217</ref>,
+                                        <bibl>Catalogue of the Hebrew manuscripts in the Bodleian
+                                        Library; Supplement of Addenda and Corrigenda to Vol. I
+                                   </bibl>
+                           <ref facs="beo0155.jpg">No. 1217</ref>, and on the
+                                    data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000092847&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,
+                                    National Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 16677</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
+                                Bodleian Library (Oxford, 1886), no. 1217.</bibl>
+                            <bibl>
+                        <foreign xml:lang="he">נ’ שטיף, "פירוט רב", צייטשריפט (אינסטיטוט
+                                    פאר ווייסרוסלענדישע קולטור, יידישע אפטיילונג), מינסק 1926, כרכים
+                                    א, עמ’ 141-158, ב-ג (1928), עמ’ 525-54</foreign>
+                     </bibl>
+                            <bibl>Meitlis, Jakob, Das Maassebuch: seine Entstehung und
+                                Quellengeschichte: zugleich ein Beitrag zur Einführung in die
+                                altjiddische Agada (Berlin: Buchhandlung Rubin Mass 1933),
+                                86-91.</bibl>
+                            <bibl>Meitlis, Jakob, Das Maassebuch: seine Entstehung und
+                                altjiddische Agada (Berlin: Buchhandlung Rubin Mass 1933),
+                                86-91.</bibl>
+                            <bibl>
+                        <foreign xml:lang="he"> צפתמן,ש., הסיפורת ביידיש ... (ירושלים,
+                                    תשמ"ה), 13-14 ‬</foreign>
+                     </bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                                manuscripts in the Bodleian Library; Supplement of Addenda and
+                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                                Press, 1994), no. 1217.</bibl>
+                            <bibl>Turniansky, Chava and Erika Timm, ed. Yiddish in Italia: Yiddish
+                                manuscripts and printed books from the 15th to the 17th century
+                                (Milano: Associazione italiana Amici dell'Università di Gerusalemme,
+                                2003), 35.</bibl>
+                            <bibl>Birnbaum, Salomo, "Specimens of Yiddish from Eight Centuries" Ein
+                                Leben für die Wissenschaft: Linguistik. 1, ed. Erika Timm (Berlin:
+                                Walter de Gruyter, 2011), 212-213.</bibl>
+                            
+                            
+                        </listBibl>
+                    </additional>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+               </desc>
+                </taxonomy>
+
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+               </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+                </taxonomy>
+
+
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Translations of Liturgies</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+                    <term>
+                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi,
+                            1727-1805</persName>
+               </term>
+                    <term/>
+                </keywords>
+                <keywords scheme="IMHM">
+                    <term>
+                  <persName xml:lang="he">פישקרול, קלונימוס בן שמעון
+                        (מעתיק)</persName>
+               </term>
+                    <term>
+                  <persName xml:lang="he">צונצין, שמריה (בעלים) ‬</persName>
+               </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+            <change when="2014-03-21">
+                <persName> Zsofia Buda</persName> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+
+    </facsimile>
+</TEI>

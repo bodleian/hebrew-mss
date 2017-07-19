@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?oxygen RNGSchema="enrich-wamcp-hebrew.rnc" type="compact"?>
+<?xml-stylesheet type="text/css" href="http://tei.oucs.ox.ac.uk/ENRICH/enrich.css" title="ENRICH CSS" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Laud Or. 113</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <name type="person">[Name of cataloguer]</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Laud_Or_113</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Laud_Or_113" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Laud Oriental Collection</collection>
+                        </collection>
+
+
+
+                        <idno>MS. Laud Or. 113</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">2142</idno>
+                        </altIdentifier>
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no"></idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno>Kennicott 67</idno>
+                        </altIdentifier>
+
+                    </msIdentifier>
+                    <msContents><summary>Miscellaneous notes on medicine</summary></msContents>
+                    <physDesc>
+                        <p>ff. vi + 416 + v </p>
+                        <bindingDesc>
+                            <p>Red goat leather binding, gold-tooled, marble paper pastedowns, gild
+                                fore-edge.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>Owner's inscription on flyleaf fol. v: "Liber Guil[ielmi] Laud
+                            Archiepi[scopi] Cant. et Cancellari[i] Universit[atis] Oxon[iensis]
+                            1638"</provenance>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                    Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                    Neubauer, Oxford 1886, </bibl><ref facs="bej0406.jpg bej0407.jpg">No.
+                                        2142</ref>, <bibl>Catalogue of the Hebrew manuscripts in
+                                            the Bodleian Library; Supplement of Addenda and Corrigenda
+                                            to Vol. I, </bibl><ref facs="beo0255.jpg beo0256.jpg">No. 2142</ref>, and on
+                                    the data of the Institute of Microfilmed Hebrew Manuscripts,
+                                    National Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref
+                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                                        >Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 19956</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
+                                Bodleian Library (Oxford, 1886), no. 2142.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                                manuscripts in the Bodleian Library; Supplement of Addenda and
+                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                                Press, 1994), no. 2142.</bibl>
+                        </listBibl>
+                    </additional>
+                    <msPart n="1" xml:id="MS_Laud_Or_113_1">
+                        <altIdentifier type="partial">
+                            <idno>MS. Laud Or 113/1</idno>
+
+                        </altIdentifier>
+                        <msContents>                          
+                            <msItem n="1" xml:id="MS_Laud_Or_113_1_a">
+                                <locus>ff.21r-23v</locus>
+                                <author ref="http://viaf.org/viaf/88896884"><persName>Harizi, Judah ben
+                                    Solomon, active 12th century-13th century</persName></author>
+                                <author><persName xml:lang="heb">חריזי, יהודה בן
+                                    שלמה</persName></author>
+                                <title>Refuʾat ha-Geṿiyah</title>
+                                <title xml:lang="heb">רפואת הגויה</title>
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+                            <msItem n="2" xml:id="MS_Laud_Or_113_1_b">
+                                <locus>ff.23v-24r</locus>
+    
+                                <title>Shemot ha-mifalim ha-nirmazim</title>
+                                <title xml:lang="heb">שמות המפעלים הנרמזים</title>
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="3" xml:id="MS_Laud_Or_113_1_c">
+                                <locus>ff.24r-25v</locus>
+    
+                                <title>Arbaʿ ha-marot ke-neged arbaʿah yesodot ha-olam</title>
+                                <title xml:lang="heb"> ארבע המרות כנגד ארבעה יסודות העולם</title>
+                                <note/>
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="4" xml:id="MS_Laud_Or_113_1_d">
+                                <locus>ff.25v-28r</locus>
+    
+                                <title>Dine ha-mazalot ṿe-ṭevam ṿe-ḥaluḳatam ever ever ṿe-taḥluhehem </title>
+                                <title xml:lang="heb">דיני המזלות וטבעם וחלוקתם אבר אבר
+                                    ותחלואיהם</title>
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="5" xml:id="MS_Laud_Or_113_1_e">
+                                <locus>ff.28v-54v</locus>
+                                <author>Alṭabari, Eli ben Barikh (?)</author>
+                                <author><persName xml:lang="heb"> אלטברי, אלי בן
+                                    בריך(?)</persName></author>
+                                <title>Segulot Alṭabari</title>
+                                <title xml:lang="heb">סגולות אלטאברי</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="6" xml:id="MS_Laud_Or_113_1_f">
+                                <locus>ff.54v-56v</locus>
+                                <author ref="http://viaf.org/viaf/95159227">Saʻadia ben Joseph,
+                                    882-942</author>
+                                <author><persName xml:lang="heb"/>סעדיה בן יוסף, אלפיומי (מיוחס לו) ‬</author>
+                                <title>Sefer Goralot</title>
+                                <title xml:lang="heb">ספר גורלות</title>
+
+                                <note>On fol. : <quote xml:lang="heb">"גורלות מר’ סעדיה נסו אותם אנשי בבל ואשכנז’ וספרד’"</quote></note>
+<!-- CHECK MS for folio number -->
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="7" xml:id="MS_Laud_Or_113_1_g">
+                                <locus>ff.57r-62v</locus>
+    
+
+                                <title>Goralot Aḥitofel(The Oracles of Ahitophel) </title>
+                                <title xml:lang="heb">גורלות אחיתופל</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="8" xml:id="MS_Laud_Or_113_1_h">
+                                <locus>ff.62v-64v</locus>
+                                <author ref="http://viaf.org/viaf/7524651"><persName>Aristotle</persName><persName xml:lang="heb">אריסטו</persName>(מיוחס
+                                    לו)</author>
+                                <title>Sod ha-sodot</title>
+                                <title xml:lang="heb">סוד הסודות</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+
+                            <msItem n="9" xml:id="MS_Laud_Or_113_1_i">
+                                <locus>ff.64v-67v</locus>
+    
+
+                                <title>Ḥokhmat ha-yad</title>
+                                <title xml:lang="heb">חכמת היד</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="10" xml:id="MS_Laud_Or_113_1_j">
+                                <locus>ff.67v-68v</locus>
+    
+
+                                <title>Simane ha-ḥodashim</title>
+                                <title xml:lang="heb">סימני החדשים</title>
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="11" xml:id="MS_Laud_Or_113_1_k">
+                                <locus>ff.68v-71r</locus>
+                                <author ref="http://viaf.org/viaf/235675121"><persName>Jean, de Saint-Amand,
+                                    active 13th century-14th century</persName></author>
+                                <author><persName xml:lang="heb">יוהנס מסנט אמנד</persName></author>
+                                <title>Hatsaʿah</title>
+                                <title xml:lang="heb">הצעה</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="12" xml:id="MS_Laud_Or_113_1_l">
+                                <locus>ff.71r-77v</locus>
+    
+
+                                <title>Goralot</title>
+                                <title xml:lang="heb"> גורלות</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="13" xml:id="MS_Laud_Or_113_1_m">
+                                <locus>ff.77v-78r</locus>
+    
+
+                                <title>Pitaron ḥalomot</title>
+                                <title xml:lang="heb">פתרון חלומות</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="14" xml:id="MS_Laud_Or_113_1_n">
+                                <locus>ff.78r-96v</locus>
+                                <author ref=" http://viaf.org/viaf/226497544"><persName>Bernard, de Gordon,
+                                    approximately 1260-approximately 1318</persName></author>
+                                <author><persName xml:lang="heb">ברנרד דה גורדון</persName></author>
+
+                                <title xml:lang="lat">Lilium medicinae</title>
+                                <title xml:lang="heb">שושן הרפואה (לקוטים)</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="15" xml:id="MS_Laud_Or_113_1_o">
+                                <locus>ff.97r-98v</locus>
+                                <author ref="http://viaf.org/viaf/130475687"><persName>Asaph, ha-Rofe, active
+                                    6th century </persName></author>
+                                <author><persName xml:lang="heb">אסף הרופא</persName></author>
+                                <title>Refuʾot</title>
+                                <title xml:lang="heb"> רפואות</title>
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="16" xml:id="MS_Laud_Or_113_1_p">
+                                <locus>ff.99r-125v</locus>
+                                <author ref="http://viaf.org/viaf/95159227"><persName>Saʻadia ben Joseph,
+                                    882-942</persName></author>
+                                <author><persName xml:lang="heb">יעקב בן יוסף
+                                    הלוי</persName></author>
+                                <title>ha-Maʾamar ba-ḥazirim</title>
+                                <title xml:lang="heb">המאמר בחזירים</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="17" xml:id="MS_Laud_Or_113_1_q">
+                                <locus>ff.126r-195r</locus>
+    
+
+                                <title>Liḳuṭim ba-refuʾah</title>
+                                <title xml:lang="heb">לקוטים ברפואה</title>
+                                <note>Among others contains extracts on ear diseases, poisons,
+                                    bites, wounds and pains.</note>
+                                <note>Extracts from <persName>Galen</persName>, <persName>Bernard de
+                                        Gordon</persName>, etc. </note>
+                                <note>At the end: <foreign xml:lang="heb">"נבחר ונלקט מספר הבחירה
+                                        אשר יסדה השר ברפואת אנשי זמננו"</foreign></note>
+                                <!-- Check what JNUL says about scribe CHECK MS -->
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="18" xml:id="MS_Laud_Or_113_1_r">
+                                <locus>ff.195r-197v</locus>
+                                <author ref="http://viaf.org/viaf/112670997"><persName>Ibn Māsawayh,
+                                    Yūḥannā, -857 or 858</persName></author>
+                                <author><persName xml:lang="heb">מאסויה, יחיא
+                                    אבן</persName></author>
+                                <title>Anṭidoṭarium (extracts)</title>
+                                <title xml:lang="heb"> אנטידוטריום (לקוטים)</title>
+                                <note>Anonym translator.</note>
+                                <note>At the beginning: <foreign xml:lang="heb">"קצת ענינים נלקטים
+                                        מאינטיטוארי בן מאסויא"</foreign>; at the end: <foreign
+                                        xml:lang="heb">"ע"כ מרקוח בן מאסוייא"</foreign></note>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="19" xml:id="MS_Laud_Or_113_1_s">
+                                <locus>ff.197v-203v</locus>
+    
+
+                                <title>Liḳuṭim ba-refuʾah</title>
+                                <title xml:lang="heb">לקוטים ברפואה</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="20" xml:id="MS_Laud_Or_113_1_t">
+                                <locus>ff.203v-230v</locus>
+    
+
+                                <title>Mi she-yeʾekhol ṿe-yishteh</title>
+                                <title xml:lang="heb">מה שיאכל וישתה</title>
+
+                                <note>
+                                    <foreign xml:lang="heb">"בחיובי מה שיאכל וישתה, נבחר מספר קטן
+                                        הכמות ורב האיכות לא ידעתי שמו ושם מחברו והוא שער
+                                        שלישי</foreign></note>
+                                <!-- CHECK MS where it the citation -->
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="21" xml:id="MS_Laud_Or_113_1_u">
+                                <locus>ff.230v-233v</locus>
+                                <author ref="http://viaf.org/viaf/95154093"><persName>Rāzī, Abū Bakr
+                                    Muḥammad ibn Zakarīyā, 865?-925?</persName></author>
+                                <author><persName xml:lang="heb">ראזי, מחמד בן
+                                    זכריה</persName></author>
+                                <title>Sefer Almantsuri (extracts from part 3)</title>
+                                <title xml:lang="heb">אלמנצורי (לקוטים מחלק ג)</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="22" xml:id="MS_Laud_Or_113_1_v">
+                                <locus>ff.233v-248v</locus>
+    
+
+                                <title>Liḳuṭim ba-refuʾah</title>
+                                <title xml:lang="heb">לקוטים ברפואה</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="23" xml:id="MS_Laud_Or_113_1_w">
+                                <locus>ff.248v-250v</locus>
+    
+
+                                <title>Sod ha-Ibur</title>
+                                <title xml:lang="heb">סוד העבור</title>
+
+                                <note>On fol. 249v, King Robert is mentioned as alive (died in
+                                    1343): <quote xml:lang="heb">"מאי’ ארנבט דוילא נובא לאדננו מלך
+                                        רובירט יע"א"</quote>. Thus the text must have been written
+                                    not later than 1343</note>
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="24" xml:id="MS_Laud_Or_113_1_x">
+                                <locus>ff.251r-258v</locus>
+    
+
+                                <title>Terufot u-merḳaḥot le-maḥalot nashim</title>
+                                <title xml:lang="heb">תרופות ומרקחות למחלות נשים</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="25" xml:id="MS_Laud_Or_113_1_y">
+                                <locus>ff.258v-260r</locus>
+                                <author ref="http://viaf.org/viaf/65305329"><persName>Todros ben Isaac, active
+                                    1321-1322</persName> </author>
+                                <author><persName xml:lang="heb">יצחק טודרוס
+                                    הרופא</persName></author>
+                                <title>Maʾamar ba-laḳuʾah</title>
+                                <title xml:lang="heb">המאמר בלאקואה</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+
+                            <msItem n="26" xml:id="MS_Laud_Or_113_1_z">
+                                <locus>ff.260v-271r</locus>
+    
+
+                                <title>Terufot u-mishḥaot</title>
+                                <title xml:lang="heb"> תרופות ומשחות</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="27" xml:id="MS_Laud_Or_113_1_aa">
+                                <locus>ff.271r-275r</locus>
+                                <author ref="http://viaf.org/viaf/100205722"><persName>Guy, de Chauliac,
+                                    approximately 1300-1368</persName></author>
+                                
+                                <title>Kirurgia (maʾamar 7 limud 2: ba-terufot praṭiyot (Chirurgia
+                                    magna)</title>
+                                <title xml:lang="heb">כירורגיאה (מאמר ז למוד ב: בתרופות
+                                    פרטיות)</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="28" xml:id="MS_Laud_Or_113_1_bb">
+                                <locus>ff.275r-277r</locus>
+                                <author ref="http://viaf.org/viaf/89770781"><persName>Avicenna,
+                                    980?-1037</persName></author>
+                                <author><persName xml:lang="heb">אבן סינא, אלחסין בן
+                                        עבדאללה</persName></author>
+                                <title>Ḳanon (sefer 1)(Canon medicinae)</title>
+                                <title xml:lang="heb">קאנון (ספר א’)</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="29" xml:id="MS_Laud_Or_113_1_cc">
+                                <locus>ff.277b-280r</locus>
+                                <author ref="http://viaf.org/viaf/307289072">Lattes, Isaak ben Jakob ca. 2. H. 14. Jh.</author>
+                                <author><persName xml:lang="heb">לטיש, יצחק בן
+                                    יעקב</persName></author>
+                                <title>Maʾamar be-veḳiaʿ</title>
+                                <title xml:lang="heb">המאמר בבקיעה</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="30" xml:id="MS_Laud_Or_113_1_dd">
+                                <locus>ff.280r-316v</locus>
+    
+
+                                <title>Terufot u-mirshamim </title>
+                                <title xml:lang="heb">תרופות ומרשמים</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="31" xml:id="MS_Laud_Or_113_1_ee">
+                                <locus>ff.316v-348v</locus>
+    
+
+                                <title>Terufot ṿe-segulot</title>
+                                <title xml:lang="heb">תרופות וסגלות</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="32" xml:id="MS_Laud_Or_113_1_ff">
+                                <locus>ff.348v-350r</locus>
+                                <author ref="http://viaf.org/viaf/287984736"><persName>Hippocrates</persName></author>
+                                <author xml:lang="heb"><persName> היפוקרטס (מיוחס לו)</persName></author>
+
+                                <title>Perush ha-Sefer he-ḥatum ha-nimtsa ba-ḳever Avuḳraṭ</title>
+                                <title xml:lang="heb">פרוש הספר החתום הנמצא בקבר אבוקראט</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="33" xml:id="MS_Laud_Or_113_1_gg">
+                                <locus>ff.350r-351v</locus>
+    
+
+                                <title>Sefer refafot</title>
+                                <title xml:lang="heb">ספר רפפות</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="34" xml:id="MS_Laud_Or_113_1_hh">
+                                <locus>ff.351v-374r</locus>
+    
+
+                                <title>Terufot ṿe-segulot</title>
+                                <title xml:lang="heb">תרופות וסגלות</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="35" xml:id="MS_Laud_Or_113_1_ii">
+                                <locus>ff.374r-385r</locus>
+    
+                                <author><persName xml:lang="heb"/></author>
+                                <title>Meleʾakhat ha-tsevaim</title>
+                                <title xml:lang="heb">מלאכת הצבעים</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="36" xml:id="MS_Laud_Or_113_1_jj">
+                                <locus>ff.385r-395v</locus>
+    
+
+                                <title>Terufot ṿe-segulot</title>
+                                <title xml:lang="heb">תרופות וסגלות</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="37" xml:id="MS_Laud_Or_113_1_kk">
+                                <locus>ff.395v-396v</locus>
+    
+
+                                <title>Liḳuṭim ba-asṭrologiyah</title>
+                                <title xml:lang="heb">לקוטים באסטרולוגיה</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="38" xml:id="MS_Laud_Or_113_1_ll">
+                                <locus>ff.396v-399r</locus>
+    
+                                <author><persName xml:lang="heb">זהראוי, כ’לף בן
+                                    אלעבאס</persName></author>
+                                <title>ha-Tseruf</title>
+                                <title xml:lang="heb">הצרוף</title>
+
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="39" xml:id="MS_Laud_Or_113_1_mm">
+                                <locus>ff.399r-405v</locus>
+    
+
+                                <title>Terufot ṿe-segulot</title>
+                                <title xml:lang="heb">תרופות וסגלות</title>
+
+                                <note/>
+                                <colophon>Colophon on fol. 405v: "<foreign xml:lang="heb">תם ונשלם ... וידאל [=חיים בן דוד]
+                                        דיטורנון הכותב
+                                    יצ"ו"</foreign></colophon>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+
+                                <supportDesc material="chart">
+
+                                    <support> paper<watermark> (watermarks similar to Briquet no.
+                                            4362, dated 1523; cf. the groupings by
+                                            Briquet)</watermark>
+                                    </support>
+                                    <extent> ff. 406 <dimensions type="leaf" unit="mm">
+                                            <height quantity="196">196</height>
+                                            <width quantity="151">151</width>
+                                        </dimensions>
+                                    </extent>
+                                    <foliation>Foliation with Arabic numerals; earlier foliation
+                                        with Hebrew characters starting on fol. 21 (=fol. א). until
+                                        fol. 405 (fol. <foreign>שפה</foreign>)</foliation>
+                                    <collation>
+                                        <signatures>No signatures</signatures>,
+                                            <catchwords>catchwords were at the bottom of each verso
+                                            (many are missing now due to trimming). </catchwords>
+                                    </collation>
+                                    <condition>In acceptable condition.</condition>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"> </layout>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary> Sephardi semi-cursive script.</summary>
+                                <handNote scope="sole" script="sephardi" rend="semi-cursive">Scribe
+                                    is <persName>Vidal</persName> Diturnon (di Tournon?) (<foreign
+                                        xml:lang="heb">וידאל [=חיים בן דוד] דיטורנון</foreign>) who
+                                    was the scribe of Paris BnF hèbr. 133.</handNote>
+                            </handDesc>
+                            <decoDesc>
+                                <decoNote>Not decorated. </decoNote>
+                            </decoDesc>
+                            <additions/>
+
+                        </physDesc>
+                        <history>
+                            <origin><origPlace>[Provence]</origPlace><origDate notBefore="1501"
+                                    notAfter="1600">[16th century]</origDate></origin>
+                            <provenance>Owner's inscriptions: <foreign xml:lang="heb">"יוסף הלוי
+                                    בכמו"ה דמר(?) יצחק הלוי זלה"ה"</foreign>(<locus>fol.
+                                    21r</locus>),<foreign xml:lang="heb">"יוסף הלוי בריה דמר יצחק
+                                    הלוי זלה"ה בזמן הגרוש שהיו קוברים הספרים בקרפינטרץ</foreign>"
+                                    (<locus>fol. 405v</locus>)</provenance>
+                            <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+                        </history>
+                    </msPart>
+                    <msPart n="2" xml:id="MS_Laud_Or_113_2">
+                        <altIdentifier type="partial">
+                            <idno>MS. Laud Or 113/2</idno>
+                        </altIdentifier>
+                        <msContents>
+                            <msItem n="40" xml:id="MS_Laud_Or_113_2_a">
+                                <locus>ff. 407r</locus>
+                                <author ref="http://viaf.org/viaf/101087390"><persName>Recanati, Menahem ben
+                                    Benjamin, active 13th century-14th century</persName></author>
+                                <author><persName xml:lang="heb">ריקנטי, מנחם בן
+                                    בנימין</persName></author>
+                                <title>Paragraph from Recanati's commentary on the Torah</title>
+                                <note/>
+                                <colophon>Colophon on fol. 407r: <foreign xml:lang="heb"> "על ידי שמואל בונפוש דמרשלייה אשר
+                                        בא מירושלם בשנת י’צ’י’ץ’ ... תם בשנת ר’א’ה’ אנכי ... ח’ ימים
+                                        לחדש אלול"</foreign></colophon>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="41" xml:id="MS_Laud_Or_113_2_b">
+                                <locus>ff. 407v-408r</locus>
+    
+                                <title xml:lang="heb">טעמי אותיות רבתיות וזעירות</title>
+                                <note/>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+                            <msItem n="42" xml:id="MS_Laud_Or_113_2_c">
+                                <locus>f. 408v-416r</locus>
+    
+                                <title xml:lang="heb">שמושי תהלים</title>
+                                <note/>
+                                <colophon><foreign xml:lang="heb">"נשלם על ידי שמואל בונפוש דמרשלה
+                                        איש ירושלים בשנת ה’ד’ו’ר’ בלבושו כ"א לחדש
+                                        טבת.</foreign>(<locus>fol. 416r</locus>)</colophon>
+
+                                <textLang mainLang="heb">Hebrew</textLang>
+                            </msItem>
+
+
+
+
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+
+                                <supportDesc material="chart">
+
+                                    <support> Paper<watermark/>
+                                    </support>
+                                    <extent> ff. 10 <dimensions type="leaf" unit="mm">
+                                            <height quantity="196">196</height>
+                                            <width quantity="151">151</width>
+                                        </dimensions>
+                                    </extent>
+                                    <foliation>Foliation with Arabic numerals, conitnuation of Part
+                                        1.</foliation>
+                                    <collation> 1 quire of 10 leaves, <signatures/>,
+                                            <catchwords>catchwords at the bottom of each verso .
+                                        </catchwords>
+                                    </collation>
+                                    <condition>In acceptable condition.</condition>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"> </layout>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary> Sephardi semi-cursive script.</summary>
+                                <handNote scope="sole" script="sephardi" rend="semi-cursive"
+                                > </handNote>
+                            </handDesc>
+                            <decoDesc>
+                                <decoNote>Not decorated. </decoNote>
+                            </decoDesc>
+
+                        </physDesc>
+                        <history>
+                            <origin><origPlace>[Provence]</origPlace><origPlace when="1446">1446
+                                    (or 1441?)</origPlace></origin>
+                            <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+                        </history>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl></desc>
+                </taxonomy>
+
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl></desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl><ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref></bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl><ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref></bibl></desc>
+                </taxonomy>
+
+
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Medicine</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+                    <term ref="MS_Laud_Or_113_1_w"><persName ref="http://viaf.org/viaf/100189814"
+                            >Arnaldus de Villanueva</persName></term>
+                    <term ref="MS_Laud_Or_113_1_w"><persName ref="http://viaf.org/viaf/34501062"
+                            >Robert, King of Naples, approximately 1275-1343</persName></term>
+                    <term><persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-12-21">
+                <name type="person">Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+
+    </facsimile>
+</TEI>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_418">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Poc. 276</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>[Name of cataloguer]</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Poc_276</idno>
+            <idno type="msID">MS_Poc_276</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="MS_Poc_276" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Pococke Collection</collection>
+                        </collection>
+
+                        <idno>MS. Poc. 276</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">1335</idno>
+                        </altIdentifier>
+
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no">5387</idno>
+                        </altIdentifier>
+
+                        <altIdentifier type="former">
+                            <idno>Uri 407</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>Miscellany of philosophical texts</summary>
+                        <msItem xml:id="MS_Poc_276-item1" n="1">
+                            <locus>ff. 1r-39v</locus>
+                            <author ref="http://lccn.loc.gov/n83043340">Baṭalyawsī, ʻAbd
+                                    Allāh ibn Muḥammad, 1052 or 1053-1127   בטליוסי, אבו מחמד עבדאללה בן
+                                מחמד</author>
+                            <title>Sefer ʿagolot raʿeynyot   <foreign xml:lang="he">ספר עגולות רעיוניות</foreign>
+                     </title>
+                            <note>Moses Ibn Tibon's translation.</note>
+
+                            <colophon>Colophon on fol. 39v, dated: <foreign xml:lang="he">"נשלמה
+                                    עגולה רעיונית ... ביום חמשי יום התענית שנת קפ"ה לפרט
+                                    קטן"</foreign>
+                     </colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+                        <msItem xml:id="MS_Poc_276-item2" n="2">
+                            <locus>ff. 41r-59r</locus>
+                            <author ref="http://viaf.org/viaf/64172358">Ibn Tibon, Mosheh,
+                                    active 13th century   תבון, משה
+                                    בן שמואל אבן</author>
+                            <title>ʿOlam ḳaṭan    <foreign xml:lang="he"> עולם קטן</foreign>
+                     </title>
+                            <note/>
+                            <colophon>Colophon of the scribe Tanḥum ben Mosheh on fol. 55v: <foreign xml:lang="he">"תכל מלאכת עבודת
+                                    הקבוץ הזה בראשון בשלשי בחתשי בשביעי לשנת חמשת אלפים ושמונים וחמש
+                                    לבריאת עולם ... פה קשטילו וכתבתיו אני תמחום ב"ר משה זלה"ה למה"ר שלמה בכ"ר
+                                    יהושע ז"ל והם ששה ספרים"</foreign>
+                     </colophon>
+                            <note>According to the colophon it was written for Shlomoh ben Yehoshua</note>
+                            <note>Incomplete, in the colophon, the scribe Tanḥum ben Mosheh of Beaucaire (see
+                                Sirat, p. 256) mentions six works (books)Another part of the original manuscript is in Paris, BnF (MS hèbr. 923).</note>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="perg">
+                                <support/>
+                                <extent>ff. 59<dimensions type="leaf" unit="mm">
+                                        <height quantity="000"/>
+                                        <width quantity="000"/>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals starting from fol.
+                                    1.</foliation>
+                                <collation>5 quires: i-iv<hi rend="sup">10</hi>, v<hi rend="sup">10-1</hi>. The first 14 quires are missing, they are in
+                                    Paris, BnF, MS hèbr. 923 (copied in 1424).
+                                        <signatures>Signatures in Hebrew characters starting from
+                                        15</signatures>
+                                    <catchwords>catchwords at the end of quires.</catchwords>
+                                </collation>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1">Text in one column.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Sephardi semi-cursive script.</summary>
+                            <handNote scope="sole" script="sephardi" rend="semi-cursive"> </handNote>
+
+                        </handDesc>
+
+                        <decoDesc>
+                            <decoNote type="other">Full page decorations (fols. 40v, 56r, 56v,
+                                57r)</decoNote>
+                            <decoNote type="illustration">Full-page illustration (fol.
+                                40r)</decoNote>
+                            <decoNote type="border">Floral full and partial borders (e.g., fols. 1r,
+                                21r, 41r, 55r, 55v)</decoNote>
+                            <decoNote type="initial">Decoration around initial word (e.g., fols. 1v,
+                                7r, 7v, 9r, 16v, 41r)</decoNote>
+                        </decoDesc>
+
+                        <additions/>
+
+                        <bindingDesc>
+                            <p>Brown leather binding.</p>
+                        </bindingDesc>
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <origPlace>Castel Durante (Italy)</origPlace>
+                            <origDate when="1425">1425</origDate>
+                        </origin>
+                        <provenance>Censors' signatures: "[...]" (fol. 55v); "Fr[a] Hipp[olitu]s
+                            1601"; Latin inscription on fol. 58v: "Ioannis Prot(?)" (fol.
+                            59v)</provenance>
+                        <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
+                    </history>
+
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl>
+                           <ref facs="bej0274.jpg">No.
+                                        1335</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                        Bodleian Library; Supplement of Addenda and Corrigenda to
+                                        Vol. I, </bibl>
+                           <ref facs="beo0168.jpg">No. 1335</ref>, and on
+                                    the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162677&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,
+                                    National Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 22149</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                1335.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 1335.</bibl>
+                            <bibl>Cirat, Colette, <hi rend="caps">Hebrew Manuscripts of the Middle
+                                    Ages</hi> (Cambridge: Cambridge University Press, 2002),
+                                256</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+               </desc>
+                </taxonomy>
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+               </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Philosophy</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+                    <term>
+                  <persName>Ibn Tibon, Mosheh, active 13th century</persName>
+               </term>
+                </keywords>
+
+                <keywords scheme="#IMHM">
+                    <term>
+                  <persName>Hippolitus Ferrarensis </persName>(censor)</term>
+                    <term>
+                  <persName>
+                     <foreign xml:lang="he"> שלמה בן יהושע</foreign>
+                  </persName>
+               </term>
+                    <term>
+                  <persName>
+                     <foreign xml:lang="he">תנחום בן משה</foreign>
+                  </persName>
+               </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+            <change when="2015-08-09">
+                <persName> Zsofia Buda</persName> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+    </facsimile>
+</TEI>

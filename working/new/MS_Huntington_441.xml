@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?oxygen RNGSchema="enrich-wamcp-hebrew.rnc" type="compact"?>
+<?xml-stylesheet type="text/css" href="http://tei.oucs.ox.ac.uk/ENRICH/enrich.css" title="ENRICH CSS" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Huntington 441</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <name type="person">[Name of cataloguer]</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Hunt_441</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Hunt_441" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Huntington Collection</collection>
+                        </collection>
+
+                        <idno>MS.  Huntington 441</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">1655</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno>Uri 378</idno>
+                        </altIdentifier>
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no"> 5907</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>Collection of kabbalistic texts</summary>
+                        <msItem n="1" xml:id="MS_Hunt_441_a">
+                            <locus>ff. 1r-18r</locus>
+                            <author><persName>Yosef Ḳasṭel</persName><persName xml:lang="heb"> קשטיל, יוסף</persName></author>
+                            <title>Responsa to the questions about kabbalah posed by R. Yehudah Ḥayṭ</title>
+                            <title>
+                                <foreign xml:lang="heb">תשובות לשאלות על דרך הקבלה ששאל ר’ יהודה חייט</foreign></title>                       
+                            <note></note>
+                            <colophon></colophon>
+                            <textLang mainLang="heb">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem n="2" xml:id="MS_Hunt_441_b">
+                            <locus>ff. 18r-39v</locus>
+                            <author><persName>Yaʿaḳov ben Yaʿaḳov ha-Kohen</persName><persName
+                                xml:lang="heb">יעקב בן יעקב הכהן</persName></author>
+                            <title>Perush merkhavat Yeḥezkiel</title>
+                            <title>
+                                <foreign xml:lang="heb">פרוש מרכבת יחזקאל</foreign></title>
+                            <note>Commentary on the hafṭarah about Ezekiel's Vision (Ez. 1:1-28 and 3:12), the hafṭarah for the first day of Shavuot.</note>
+                            <colophon></colophon>
+                            <textLang mainLang="heb">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem n="3" xml:id="MS_Hunt_441_c">
+                            <locus>ff. 39v-71v</locus>
+                            <author ref="http://viaf.org/viaf/88057479"><persName>Gikatilla, Joseph ben Abraham, 1248- </persName><persName
+                                xml:lang="heb">ג’קטילה, יוסף בן אברהם</persName></author>
+                            <title>Perush maʿaśeh merkhavah</title>
+                            <title>
+                                <foreign xml:lang="heb">פרוש מעשה מרכבה</foreign></title>
+                            <note>Commentary on the hafṭarah about Ezekiel's Vision (Ez. 1:1-28 and 3:12), the hafṭarah for the first day of Shavuot.</note>  
+                            <colophon></colophon>
+                            <textLang mainLang="heb">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem n="4" xml:id="MS_Hunt_441_d">
+                            <locus>ff. 72r-144v</locus>
+                            <author ref="http://viaf.org/viaf/79260667"><persName>Moses ben Shem Tov, de Leon, 1250-1305</persName><persName
+                                xml:lang="heb">ליאון, משה די</persName></author>
+                            <title>Sefer ha-Shem</title>
+                            <title>
+                                <foreign xml:lang="heb">ספר השם</foreign></title>
+                            <note></note>
+                            <colophon></colophon>
+                            <textLang mainLang="heb">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem n="5" xml:id="MS_Hunt_441_e">
+                            <locus>ff. 145v-215v</locus>
+                            <author ref="http://viaf.org/viaf/79260667"><persName>Moses ben Shem Tov, de Leon, 1250-1305</persName><persName
+                                xml:lang="heb">ליאון, משה די</persName></author>
+                            <title>Mishkan ha-ʿedut</title>
+                            <title>
+                                <foreign xml:lang="heb">משכן העדות</foreign></title>
+    
+                            <note></note>
+                            <colophon></colophon>
+                            <textLang mainLang="heb">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem n="6" xml:id="MS_Hunt_441_f">
+                            <locus>ff. 216r-237r</locus>
+                            <author ref="http://viaf.org/viaf/44658675"><persName>Baḥya ben Asher ben Ḥlava, ?-1340</persName><persName
+                                xml:lang="heb">בחיי בן אשר אבן חלאוה</persName></author>
+                            <title>Shulḥan shel ʾarbaʿ</title>
+                            <title>
+                                <foreign xml:lang="heb">שלחן של ארבע</foreign></title>                                                       
+                            <note></note>
+                            <colophon></colophon>
+                            <textLang mainLang="heb">Hebrew</textLang>
+                        </msItem>
+                        
+                        
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>paper <watermark>(groups of watermarks)</watermark></support>
+                                <extent>ff. 237 <dimensions type="leaf" unit="mm">
+                                        <height quantity="000"/>
+                                        <width quantity="000"/>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals. Fol. 71 is double, fol. 215 is threefoold, fol. 144 missed in foliation.</foliation>
+                                <collation> 
+                                </collation>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1">Text in one column.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Sephardi cursive and semi--cursive scripts.</summary>
+                            <handNote scope="sole" script="sephardi" rend="cursive">Fols. 1-13: Sephardi cursive script</handNote>
+                            <handNote scope="sole" script="sephardi" rend="semi-cursive">Fols. 14-215(iii) and fols. 216r-237r: Sephardi semi-cursive script.</handNote>
+                            
+                        </handDesc>
+                        
+
+                        <decoDesc>
+                            <decoNote ></decoNote>
+                            
+                        </decoDesc>
+
+                        <additions/>
+
+                        <bindingDesc>
+                            <p></p>
+                        </bindingDesc>
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <origPlace>[North Africa]</origPlace><origDate notBefore="1501" notAfter="1525"
+                                >[early 16th century]</origDate>
+                        </origin>
+                        <provenance></provenance>
+                        <acquisition>It belonged to the oriental collection of <persName
+                                ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>
+                            (1636/7-1701), and was bought in 1693 together with 645 other MSS for
+                            £752 10s. </acquisition>
+                    </history>
+
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl><ref facs="bej0325.jpg">No.
+                                        1655</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                        Bodleian Library; Supplement of Addenda and Corrigenda to
+                                        Vol. I, </bibl><ref facs="beo0198.jpg beo0199.jpg">No. 1655</ref>, and on
+                                    the data of the <ref
+                                        target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000065361&amp;local_base=NNLMSS"
+                                        >Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref
+                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                                        >Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 17396</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                1655.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 1655.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl></desc>
+                </taxonomy>
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl></desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl><ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref></bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl><ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref></bibl></desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Kabbalah</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+
+                    <term><persName ref="http://viaf.org/viaf/34684157">Robert
+                        Huntington</persName></term>
+                    
+                    <term/>
+                </keywords>
+
+                <keywords scheme="#IMHM">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-08-14">
+                <name type="person"> Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+    </facsimile>
+</TEI>

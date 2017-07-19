@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?oxygen RNGSchema="enrich-wamcp-hebrew.rnc" type="compact"?>
+<?xml-stylesheet type="text/css" href="http://tei.oucs.ox.ac.uk/ENRICH/enrich.css" title="ENRICH CSS" ?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Laud Or. 157</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <name type="person">[Name of cataloguer]</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Laud_Or_157</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Laud_Or_157" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Laud Oriental Collection</collection>
+                        </collection>
+
+
+
+                        <idno>MS. Laud Or. 157</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">2120</idno>
+                        </altIdentifier>
+                        
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no"> 466</idno>
+                        </altIdentifier>
+
+                        <altIdentifier type="former">
+                            <idno>Uri 410</idno>
+                        </altIdentifier>
+
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Sefer ha-ḥefets ha-shalem</summary>
+                        <msItem n="1" xml:id="MS_Laud_Or_157_a">
+                            <locus/>
+                            <author ref="http://viaf.org/viaf/100178533"><persName>Abū al-Qāsim Khalaf ibn
+                                ʻAbbās al-Zahrāwī, -1013?</persName></author>
+
+                            <title>Sefer ha-ḥefets ha-shalem (Liber theoricae necnon
+                                practicae)</title>
+                            <title xml:lang="heb">ספר החפץ בשלם</title>
+                            <note>Translated from Arabic by <persName>Meshullam ben Yonah</persName>
+                                at the request of his friend Shalem.</note>
+                            <note>Note in Latin about the content (fol. [ii]r); numerous medical notes in Latin
+                                and a Hebrew note ("<foreign xml:lang="heb">הספר הזה חברו החכם בגדול
+                                    המכונה עלזהראוי</foreign>") on fol. [iii]r, numerous Hebrew
+                                notes on fol. [iii]v.</note>
+                            <note>Numerous marginal and interlinear glosses, notes in Hebrew, some in Latin,
+                                chapter numbers in the margin.</note>
+                            <note>Fols. 213-214 are blank. </note>
+                            <note>Glosses, notes at the beginning (flyleaf) and indexes added at the end (fols. 212r, 215r-217r) in Italian hands.</note>
+                            <colophon/>
+                            <textLang mainLang="heb">Hebrew</textLang>
+
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+
+                        <objectDesc form="codex">
+
+                            <supportDesc material="chart">
+
+                                <support> Early Spanish paper with chain-lines spaced 50-55mm apart
+                                    and zizag signs along the folding line of sheets; outer sheets
+                                    of quires made of parchment. <watermark/>
+                                </support>
+                                <extent> ff. 217<dimensions type="leaf" unit="mm">
+                                        <height quantity="365">365</height>
+                                        <width quantity="180">180</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in both Hebrew (earlier) and Arabic (more recent) numerals.</foliation>
+                                <collation> 14 quires: i<hi rend="sup">18</hi>, ii<hi rend="sup"
+                                        >14</hi>, iii-xi<hi rend="sup">16</hi>, xii<hi rend="sup"
+                                        >18</hi>, xiii<hi rend="sup">20</hi>, xiv<hi rend="sup"
+                                        >4</hi>
+                                    <signatures>Signatures in Hebrew characters, not always
+                                        visible</signatures>, <catchwords>no
+                                        catchwords.</catchwords>
+                                </collation>
+                                <condition>Script faded away on several folios.</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"> </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Sephardi semi-cursive script.</summary>
+                            <handNote scope="sole" script="sephardi" rend="semi-cursive"
+                            > </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote type="unspecified"> </decoNote>
+                        </decoDesc>
+                        <additions/>
+
+                        <bindingDesc>
+                            <p>Brown leather binding, blind-tooled, with the gold-tooled coat of
+                                arms of Archbisop Laud in the middle; holes for straps; spine
+                                slightly damaged.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+
+                        <origin>
+                            <origPlace>[Spain]</origPlace>
+                            <origDate notBefore="1201" notAfter="1275">[early-mid 13th century]</origDate>
+                        </origin>
+                        <provenance>Censor's signature: "Dominico Irosolomitano" (fol. 212r);
+                            owner's inscription: "Liber Guil[ielmi] Laud Archiepi[scopi]
+                            Cant[uariensis] et Cancellar[ii] Universit[atis] Oxon[iensis] 1637"
+                            (fol. [iii]v)</provenance>
+                        <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl><ref facs="bej0399.jpg">No.
+                                        2120</ref>, <bibl>Catalogue of the Hebrew manuscripts in
+                                        the Bodleian Library; Supplement of Addenda and Corrigenda
+                                        to Vol. I, </bibl><ref facs="beo0253.jpg">No. 2120</ref>, and on
+                                    the data of the Institute of Microfilmed Hebrew Manuscripts,
+                                    National Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref
+                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                                        >Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 19934</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
+                                Bodleian Library (Oxford, 1886), no. 2120.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                                manuscripts in the Bodleian Library; Supplement of Addenda and
+                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                                Press, 1994), no. 2120.</bibl>
+                        </listBibl>
+                    </additional>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl></desc>
+                </taxonomy>
+
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl></desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl><ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref></bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl><ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref></bibl></desc>
+                </taxonomy>
+
+
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Medicine</term>
+                </keywords>
+                
+                <keywords scheme="#LCSH"><term><persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName></term></keywords>
+
+                <keywords scheme="IMHM">
+                    <term><persName>Dominico Irosolomitano</persName></term>
+                   <term><persName xml:lang="heb">משלם בן יונה</persName></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-01-03">
+                <name type="person"> Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+
+    </facsimile>
+</TEI>

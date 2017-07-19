@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_23">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of Ms. 187</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>[Name of cataloguer]</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Christ Church Library</publisher>
+                <pubPlace>
+                    <address>
+                        <addrLine>Christ Church (Oxford)</addrLine>
+                        <street>St Aldates</street>
+                        <settlement>Oxford</settlement>
+                        <postCode>OX1 1DP</postCode>
+                        <addrLine>
+                            <ref target="http://www.chch.ox.ac.uk/library">Christ Church Library</ref>
+                        </addrLine>
+                        <addrLine>
+                            <email>library@chch.ox.ac.uk</email>
+                        </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>ChCh_MS_187</idno>
+            <idno type="msID">MS_187</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="MS_187" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Christ Church (Oxford)</institution>
+                        <repository>Christ Church Library</repository>
+                        <collection>
+                            <collection type="main">Special Collections</collection>
+                            <collection type="sub">Hebrew Manuscripts</collection>
+                        </collection> 
+                        
+                        
+                        
+                        <idno>MS. 187</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">2453</idno>
+                        </altIdentifier>
+                        
+                        <altIdentifier type="former">
+                            <idno>F. 13</idno>
+                        </altIdentifier>                        
+                        
+                    </msIdentifier>               
+                    <msContents>
+                        <summary>
+                     <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName> and <persName key="n 78095790" ref="http://viaf.org/viaf/264344179">Thomas Aquinas</persName>, translated by <persName>Eli Ḥabillo</persName>
+                  </summary>
+                        
+                        <msItem xml:id="MS_187-item1" n="1"><!-- give item an xml id: letters instead of numbers -->
+                            <locus from="1a" to="39b">ff. 1r-39v</locus>
+                            
+                            <author key="n 86827222" ref="http://viaf.org/viaf/78775033">
+                                Versor, Johannes, -approximately 1485 <!-- LOC name -->
+                                 <!-- alternative Latin name -->
+                                וירשוריו <!-- hebrew name -->
+                                וירשור <!-- alternative Hebrew name -->
+                            </author>
+                            <editor role="translator">
+                                <persName type="standard">Habillo, Eli ben Joseph</persName>
+                                <persName xml:lang="he-Latn-x-lc" type="alt">Ḥabilyo, ʿEli ben Yosef</persName> 
+                        <!-- alternative Latin name -->
+                                <persName xml:lang="he">חביליו, עלי בן יוסף</persName> 
+                        <!-- hebrew name -->
+                                <persName xml:lang="he" type="alt"/> 
+                        <!-- alternative Hebrew name -->
+                                
+                            </editor>
+                            
+                            <title xml:lang="he-Latn-x-lc">Sefer ha-shamayim ṿeha-ʿolam la-ḥakham Ṿerśoryo mi-Pariś holekh ʿal derekh sheʾelot</title> 
+                     <!-- Hebrew in Latin char. -->
+                            <title xml:lang="he-Latn-x-lc" type="alt"/>
+                            <title xml:lang="he">ספר השמים והעולם לחכם וירשוריו מפאריש הולך על דרך השאלות</title> 
+                     <!-- Hebrew -->
+                            <title xml:lang="he" type="alt"/>
+                            <title xml:lang="en" type="desc">Johannes Versor's quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s De caelo et mundo</title>
+                            <note>The text on f. 1v is continued on f. 3r.</note>
+                            <note>F. 2 is a later addition, which contains part of a medical treatise.</note>
+                            <note>On ff. 36v-37v there are indices of the questions on 'de generatione et corruptione' and 'de anima'; these are repeated (in a different hand) on <locus from="38a" to="38b">ff. 38r-38v</locus>, 
+                                followed by the questions on 'de sensu', 'de memoria', 'de somno', and on Thomas Aquinas's'de ente et essentia'.</note>
+                            <incipit/>
+                            <explicit/>
+                            <colophon>Translator's colophon on f. 36r: 
+                                <foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז''ל ה''ה ביום חמישי בשנים עשר יום לחדש כסליו שנת ר'ל'ד' לפרט היצירה בכאן במונתשון [...]</foreign> [i.e. <date calendar="Gregorian">1473</date>]
+                            </colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                            <listBibl>
+                                <bibl>
+                           <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162985&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                        </bibl> 
+                        <!--if it is about this particular msItem, and not the entire MS-->
+                            </listBibl>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_187-item2" n="2"><!-- give item an xml id: letters instead of numbers -->
+                            <locus from="39b" to="68a">ff. 39v-68r</locus>
+                            <author key="n 86827222" ref="http://viaf.org/viaf/78775033">
+                                Versor, Johannes, -approximately 1485 <!-- LOC name -->
+                                 <!-- alternative Latin name -->
+                                וירשוריו <!-- hebrew name -->
+                                וירשור <!-- alternative Hebrew name -->
+                            </author>
+                            <editor role="translator">
+                                <persName type="standard">Habillo, Eli ben Joseph</persName>
+                                <persName xml:lang="he-Latn-x-lc" type="alt">Ḥabilyo, ʿEli ben Yosef</persName> 
+                        <!-- alternative Latin name -->
+                                <persName xml:lang="he">חביליו, עלי בן יוסף</persName> 
+                        <!-- hebrew name -->
+                                <persName xml:lang="he" type="alt"/> 
+                        <!-- alternative Hebrew name -->
+                                
+                            </editor>
+                            
+                            <title xml:lang="he-Latn-x-lc">Sefer haṿayah ṿe-hefsed la-ḥakham Ṿerśoryo holekh ʿal derekh sheʾelot</title> 
+                     <!-- Hebrew in Latin char. -->
+                            <title xml:lang="he-Latn-x-lc" type="alt"/>
+                            <title xml:lang="he">ספר הויה והפסד לחכם וירשוריו הולך על דרך שאלות</title> 
+                     <!-- Hebrew -->
+                            <title xml:lang="he" type="alt"/>
+                            <title xml:lang="en" type="desc">
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De generatione et corruptione'</title>
+                            <note/>
+                            <incipit/>
+                            <explicit/>
+                            <colophon>Translator's colophon on f. 68r:
+                                <foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו זלה''ה בכ''א יום לחדש טבת שנת ר'ל'ג' לפרט במונתשון [...]</foreign> [i.e. <date calendar="Gregorian">1472</date>]</colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                            <listBibl>
+                                <bibl>
+                           <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162986&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                        </bibl> 
+                        <!--if it is about this particular msItem, and not the entire MS-->
+                            </listBibl>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_187-item3" n="3">
+                            <locus from="68a" to="119a">68r-119r</locus>
+                            <author key="n 86827222" ref="http://viaf.org/viaf/78775033">
+                                Versor, Johannes, -approximately 1485 <!-- LOC name -->
+                                 <!-- alternative Latin name -->
+                                וירשוריו <!-- hebrew name -->
+                                וירשור <!-- alternative Hebrew name -->
+                            </author>
+                            <editor role="translator">
+                                <persName type="standard">Habillo, Eli ben Joseph</persName>
+                                <persName xml:lang="he-Latn-x-lc" type="alt">Ḥabilyo, ʿEli ben Yosef</persName> 
+                        <!-- alternative Latin name -->
+                                <persName xml:lang="he">חביליו, עלי בן יוסף</persName> 
+                        <!-- hebrew name -->
+                                <persName xml:lang="he" type="alt"/> 
+                        <!-- alternative Hebrew name -->
+                                
+                            </editor>
+                            <title xml:lang="he-Latn-x-lc">Sefer ha-nefesh la-ḥakham Ṿerśor mi-Pariś holekh ʿal derekh ha-sheʾelot</title> 
+                     <!-- Hebrew in Latin char. -->
+                            <title xml:lang="he-Latn-x-lc" type="alt"/>
+                            <title xml:lang="he">ספר הנפש לחכם וירשור מפריש הולך על דרך השאלות</title> 
+                     <!-- Hebrew -->
+                            <title xml:lang="he" type="alt"/>
+                            <title xml:lang="en" type="desc">
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De anima'</title>
+                            <note/>
+                            <incipit/>
+                            <explicit/>
+                            <colophon>Translator's colophon of f. 119r:
+                                <foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז'ל ה'ה' ביום ששי בשלשה ועשרים יום לחדש טבת שנת רלג לפרט בכאן במונטאשון [...]</foreign> [i.e. <date calendar="Julian">1472</date>]</colophon>
+                            <textLang mainLang="he"/>
+                            <listBibl>
+                                <bibl>
+                           <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162987&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                        </bibl> 
+                        <!--if it is about this particular msItem, and not the entire MS-->
+                            </listBibl>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_187-item4" n="4"><!-- give item an xml id: letters instead of numbers -->
+                            <locus from="119b" to="128b">119v-128v</locus>
+                            <author key="n 86827222" ref="http://viaf.org/viaf/78775033">
+                                Versor, Johannes, -approximately 1485 <!-- LOC name -->
+                                 <!-- alternative Latin name -->
+                                וירשוריו <!-- hebrew name -->
+                                וירשור <!-- alternative Hebrew name -->
+                            </author>
+                            <editor role="translator">
+                                <persName type="standard">Habillo, Eli ben Joseph</persName>
+                                <persName xml:lang="he-Latn-x-lc" type="alt">Ḥabilyo, ʿEli ben Yosef</persName> 
+                        <!-- alternative Latin name -->
+                                <persName xml:lang="he">חביליו, עלי בן יוסף</persName> 
+                        <!-- hebrew name -->
+                                <persName xml:lang="he" type="alt"/> 
+                        <!-- alternative Hebrew name -->
+                                
+                            </editor>
+                            
+                            <title xml:lang="he-Latn-x-lc">Sefer ḥush u-muḥash la-ḥakham Ṿerśoryo</title> 
+                     <!-- Hebrew in Latin char. -->
+                            <title xml:lang="he-Latn-x-lc" type="alt"/>
+                            <title xml:lang="he">ספר חוש ומוחש לחכם וירשוריו</title> 
+                     <!-- Hebrew -->
+                            <title xml:lang="he" type="alt"/>
+                            <title xml:lang="en" type="desc">
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De sensu et sensibilibus'</title>
+                            <note/>
+                            <incipit/>
+                            <explicit/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                            <listBibl>
+                                <bibl>
+                           <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162988&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                        </bibl> 
+                        <!--if it is about this particular msItem, and not the entire MS-->
+                            </listBibl>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_187-item5" n="5"><!-- give item an xml id: letters instead of numbers -->
+                            <locus from="128b" to="132b">128v-132v</locus>
+                            <author key="n 86827222" ref="http://viaf.org/viaf/78775033">
+                                Versor, Johannes, -approximately 1485 <!-- LOC name -->
+                                 <!-- alternative Latin name -->
+                                וירשוריו <!-- hebrew name -->
+                                וירשור <!-- alternative Hebrew name -->
+                            </author>
+                            <editor role="translator">
+                                <persName type="standard">Habillo, Eli ben Joseph</persName>
+                                <persName xml:lang="he-Latn-x-lc" type="alt">Ḥabilyo, ʿEli ben Yosef</persName> 
+                        <!-- alternative Latin name -->
+                                <persName xml:lang="he">חביליו, עלי בן יוסף</persName> 
+                        <!-- hebrew name -->
+                                <persName xml:lang="he" type="alt"/> 
+                        <!-- alternative Hebrew name -->
+                                
+                            </editor>
+                            
+                            <title xml:lang="he-Latn-x-lc">Sefer zekhirah ṿe-hizdakrut la-ḥakham Ṿerśoryo u-mispar sheʾelotaṿ ḥamishah</title> 
+                     <!-- Hebrew in Latin char. -->
+                            <title xml:lang="he-Latn-x-lc" type="alt"/>
+                            <title xml:lang="he">ספר זכירה והזדכרות לחכם וירשוריו ומספר שאלותיו חמשה</title> 
+                     <!-- Hebrew -->
+                            <title xml:lang="he" type="alt"/>
+                            <title xml:lang="en" type="desc">
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De memoria et reminiscentia'</title>
+                            <note/>
+                            <incipit/>
+                            <explicit/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                            <listBibl>
+                                <bibl>
+                           <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162989&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                        </bibl> 
+                        <!--if it is about this particular msItem, and not the entire MS-->
+                            </listBibl>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_187-item6" n="6"><!-- give item an xml id: letters instead of numbers -->
+                            <locus from="132b" to="136b">132v-136v</locus>
+                            <author key="n 86827222" ref="http://viaf.org/viaf/78775033">
+                                Versor, Johannes, -approximately 1485 <!-- LOC name -->
+                                 <!-- alternative Latin name -->
+                                וירשוריו <!-- hebrew name -->
+                                וירשור <!-- alternative Hebrew name -->
+                            </author>
+                            <editor role="translator">
+                                <persName type="standard">Habillo, Eli ben Joseph</persName>
+                                <persName xml:lang="he-Latn-x-lc" type="alt">Ḥabilyo, ʿEli ben Yosef</persName> 
+                        <!-- alternative Latin name -->
+                                <persName xml:lang="he">חביליו, עלי בן יוסף</persName> 
+                        <!-- hebrew name -->
+                                <persName xml:lang="he" type="alt"/> 
+                        <!-- alternative Hebrew name -->
+                                
+                            </editor>
+                            
+                            <title xml:lang="he-Latn-x-lc">Sefer shenah ṿe-yeḳitsah la-ḥakham Ṿerśoryo u-mispar maʾamaraṿ sheloshah</title> 
+                     <!-- Hebrew in Latin char. -->
+                            <title xml:lang="he-Latn-x-lc" type="alt"/>
+                            <title xml:lang="he">ספר שינה ויקיצה לחכם וירשוריו ומספר מאמריו ג'</title> 
+                     <!-- Hebrew -->
+                            <title xml:lang="he" type="alt"/>
+                            <title xml:lang="en" type="desc">
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De somno et vigilia'</title>
+                            <note/>
+                            <incipit/>
+                            <explicit/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                            <listBibl>
+                                <bibl>
+                           <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162990&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                        </bibl> 
+                        <!--if it is about this particular msItem, and not the entire MS-->
+                            </listBibl>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_187-item7" n="7"><!-- give item an xml id: letters instead of numbers -->
+                            <locus from="136b" to="138a">136v-138r</locus>
+                            <author key="n 86827222" ref="http://viaf.org/viaf/78775033">
+                                Versor, Johannes, -approximately 1485 <!-- LOC name -->
+                                 <!-- alternative Latin name -->
+                                וירשוריו <!-- hebrew name -->
+                                וירשור <!-- alternative Hebrew name -->
+                            </author>
+                            <editor role="translator">
+                                <persName type="standard">Habillo, Eli ben Joseph</persName>
+                                <persName xml:lang="he-Latn-x-lc" type="alt">Ḥabilyo, ʿEli ben Yosef</persName> 
+                        <!-- alternative Latin name -->
+                                <persName xml:lang="he">חביליו, עלי בן יוסף</persName> 
+                        <!-- hebrew name -->
+                                <persName xml:lang="he" type="alt"/> 
+                        <!-- alternative Hebrew name -->
+                                
+                            </editor>
+                            
+                            <title xml:lang="he-Latn-x-lc">Sefer ʾorekh ha-ḥayim ṿe-ḳitsuram la-ḥakham Ṿerśoryo</title> 
+                     <!-- Hebrew in Latin char. -->
+                            <title xml:lang="he-Latn-x-lc" type="alt"/>
+                            <title xml:lang="he">ספר אורך החיים וקצורם לחכם וירשוריו</title> 
+                     <!-- Hebrew -->
+                            <title xml:lang="he" type="alt"/>
+                            <title xml:lang="en" type="desc">
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De longitudine et brevitate vitae'</title>
+                            <note/>
+                            <incipit/>
+                            <explicit/>
+                            <colophon>Translator's colophon on f. 138r:
+                                <foreign xml:lang="he">נשלמה העתקת המאמרים הטבעיים הקטנים הנק' בלעז פארווש נאטוראליש על ידי עלי בר' יוסף חביליו זלה''ה אור ליום ראשון בששה עשר יום לחדש אדר ראשון שנת ר'לג לפרט היצירה במונתשון [...]</foreign> [i.e. <date calendar="Gregorian">1473</date>]
+                            </colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                            <listBibl>
+                                <bibl>
+                           <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162991&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                        </bibl> 
+                        <!--if it is about this particular msItem, and not the entire MS-->
+                            </listBibl>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_187-item8" n="8"><!-- give item an xml id: letters instead of numbers -->
+                            <locus from="138a" to="150b">138r-150v</locus>
+                            <author key="n 86827222" ref="http://viaf.org/viaf/78775033">
+                                Versor, Johannes, -approximately 1485 <!-- LOC name -->
+                                 <!-- alternative Latin name -->
+                                וירשוריו <!-- hebrew name -->
+                                וירשור <!-- alternative Hebrew name -->
+                            </author>
+                            <editor role="translator">
+                                <persName type="standard">Habillo, Eli ben Joseph</persName>
+                                <persName xml:lang="he-Latn-x-lc" type="alt">Ḥabilyo, ʿEli ben Yosef</persName> 
+                        <!-- alternative Latin name -->
+                                <persName xml:lang="he">חביליו, עלי בן יוסף</persName> 
+                        <!-- hebrew name -->
+                                <persName xml:lang="he" type="alt"/> 
+                        <!-- alternative Hebrew name -->
+                                
+                            </editor>
+                            <title xml:lang="he-Latn-x-lc">Sheʾelot maʾamar ba-nimtsaʾ ṿeha-mahut ʾasher ḥibro ha-ḥakham Ṭomaś de ʾAḳino meha-ḥakham Ṿerśoryo</title> 
+                     <!-- Hebrew in Latin char. -->
+                            <title xml:lang="he-Latn-x-lc" type="alt"/>
+                            <title xml:lang="he">שאלות מאמר בנמצא והמהות אשר חברו החכם טומאש די אקינו מהחכם וירשוריו</title> 
+                     <!-- Hebrew -->
+                            <title xml:lang="he" type="alt"/>
+                            <title xml:lang="en" type="desc">
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 78095790" ref="http://viaf.org/viaf/264344179">Thomas Aquinas</persName>'s 'De ente et essentia'</title>
+                            <note>Incomplete; ends within question 13 (of 14).</note>
+                            <!-- There are stubs of cut paper at the end and in the middle. With some different Hebrew text on them. What is this? 
+                                Plus, Latin scribbling 151r-->
+                            <incipit/>
+                            <explicit/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                            <listBibl>
+                                <bibl>
+                           <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162992&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                        </bibl> 
+                        <!--if it is about this particular msItem, and not the entire MS-->
+                            </listBibl>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_187-item9" n="9"><!-- give item an xml id: letters instead of numbers -->
+                            <locus from="151a" to="270b">151r-270v</locus>
+                            <author key="n 86827222" ref="http://viaf.org/viaf/78775033">
+                                Versor, Johannes, -approximately 1485 <!-- LOC name -->
+                                 <!-- alternative Latin name -->
+                                וירשוריו <!-- hebrew name -->
+                                וירשור <!-- alternative Hebrew name -->
+                            </author>
+                            <editor role="translator">
+                                <persName type="standard">Habillo, Eli ben Joseph</persName>
+                                <persName xml:lang="he-Latn-x-lc" type="alt">Ḥabilyo, ʿEli ben Yosef</persName> 
+                        <!-- alternative Latin name -->
+                                <persName xml:lang="he">חביליו, עלי בן יוסף</persName> 
+                        <!-- hebrew name -->
+                                <persName xml:lang="he" type="alt"/> 
+                        <!-- alternative Hebrew name -->                                
+                            </editor>
+                            
+                            <title xml:lang="he-Latn-x-lc">[Sefer ha-shemaʿ ha-ṭivʿi la-ḥakham Ṿerśoryo]</title> 
+                     <!-- Hebrew in Latin char. -->
+                            <title xml:lang="he-Latn-x-lc" type="alt"/>
+                            <title xml:lang="he">[ספר השמע הטבעי לחכם וירשוריו]</title> 
+                     <!-- Hebrew -->
+                            <title xml:lang="he" type="alt"/>
+                            <title xml:lang="en" type="desc">
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'Physica'</title>
+                            <note>Beginning missing</note>
+                            <note/>
+                     <!-- This should be in the general physical description, right? -->
+                            <note>At the end (f. 270v) a poem, beginning התוכל לבבי, with the translator's acrostic.</note>
+                            <incipit/>
+                            <explicit/>
+                            <colophon>Translator's colophon on f. 270r:
+                                <foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר יוסף חביליו ז''ל ה''ה ביום חמשי בשבעה ועשרים יום לחדש שבט שנת חמשת אלפים ומאתים ושלשים ושנים למניננו במונתשון [...]</foreign> [i.e. 1472]
+                            </colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                            <listBibl>
+                                <bibl>
+                           <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162993&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                        </bibl> 
+                        <!--if it is about this particular msItem, and not the entire MS-->
+                            </listBibl>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        
+                        <objectDesc form="codex">
+                            <!-- The @form attribute on the objectDesc element 
+                                takes possible values of 'codex', 'leaf', 'scroll', 'rotulus', or 'other'. -->
+                            <supportDesc material="chart">
+                                <!-- The @material attribute on supportDesc describes the material of the object as:
+                                    'chart' (paper), 'mixed', 'perg' (parchment), 'leather', 'papyrus', or 'unknown'.
+                                -->
+                                <support>
+                           <material>paper</material>, <watermark>watermarks similar to Briquet no. 11136, dated 1497</watermark> 
+                           <!-- parchment: Oriental/non-Oriental 
+                                    paper: Oriental/non-Oriental, <watermark/> -->
+                                </support>
+                                <extent>ff. 269 [foliated as 270]<!-- [number of leaves(etc.)] --> 
+                                    <dimensions type="leaf" unit="mm">
+                                    <height min="000" max="000" n="defective"/>
+                                    <width quantity="000"/>
+                                </dimensions>
+                                </extent>
+                                <foliation>Modern pencil foliation. Fol. [176] misnumbered as 177, fol. [235] misnumbered as 236, foliation missing on the leaf after fol. 247. <!-- [A description of the numbering system(s) used to
+                                    count the leaves or pages in a codex] --></foliation>
+                                <collation>Mostly quires of 6 bifolia. 
+                                    <formula>1(13), 2-10(12), 11(14), 12(15), 13(11), 14-22(12)</formula>
+                                                         
+                                    <signatures/>
+                                    <catchwords>On ff. 1-37, ff. 151-270 repeated words.
+                                        On f. 2 and ff. 39-150 catchwords in the left lower margin of the versos. 
+                                        </catchwords>
+                                </collation>
+                                <condition>Binding partly detached.</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1" ruledLines="31 38" writtenLines="31 38"> 
+                                    <locus>ff. 1, 3-37, 151-270</locus>: 36 ruled lines.
+                                    <locus>f. 2</locus>: 31 ruled lines. 
+                                    <locus>ff. 38-121</locus>: 38 ruled lines. 
+                                    <locus>ff. 122-150</locus>: 33 ruled lines.
+                                    
+                                     <!-- The @columns attribute on layout 
+                                        is required.  Here the @ruledLines 
+                                        (or optionally @writtenLines) attribute 
+                                        gives the minimum and maximum number 
+                                        of ruled (or written) lines -->
+                                    <!-- parchment: hair side/flesh side: type of pricking, ruling
+                                        paper:  -->
+                                    <!-- [A description of the layout of the manuscript
+                                        possibly including a <locus>[Applicable folios]</locus> if
+                                        more than one layout is provided.] --></layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Fols. 2, 38-121, 122-150 are written by different hands.</summary>
+                            <handNote scope="sole" script="sephardi" rend="semi-cursive">
+                                Ff. 1, 3-37, 151-270: sephardic semi-cursive script, headings in square script. 
+                                (Last word of verso repeated on the following recto.) 
+                                <!-- Note: the @scope and @script attributes 
+                                    are required and predefined on the handNote 
+                                    element.  The defaults for @scope are: 'major', 
+                                    'minor', or 'sole' and for @script they are: 
+                                    'ashkenazi', 'byzantine', 'italian', 'oriental', 
+                                    'sephardi', or 'unknown'.
+                                    @rend attribute: 'square', 'semi-cursive', 'cursive'.
+                                -->
+                                <!-- Line justification practices and para-scriptural elements [A
+                                    description of the hand, perhaps using <locus>[Applicable
+                                    folios]</locus> if the hand is only used in certain
+                                    places.] -->
+                            </handNote>
+                            <handNote scope="sole" script="sephardi" rend="semi-cursive">
+                                F. 2: sephardic semi-cursive script, headings in larger semi-cursive characters.
+                                (Catchword in the left lower margin of the verso.)
+                            </handNote>
+                            <handNote scope="sole" script="sephardi" rend="semi-cursive">
+                                Ff. 38-121: sephardic semi-cursive script, headings in square script.
+                                (Catchwords in the left lower margin of the versos.)
+                            </handNote>
+                            <handNote scope="sole" script="sephardi" rend="semi-cursive">
+                                Ff. 122-150: sephardic semi-cursive script, headings in square script.
+                                (Catchwords in the left lower margin of the versos.)
+                            </handNote>
+                            <!-- More handNote elements for each hand in the manuscript -->
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote type="other">Not decorated.
+                                <!-- the @type attribute can be used to specify 
+                                    which aspects of the manuscript decoration 
+                                    this note discusses.  The @type allows the 
+                                    following values: 'border', 'diagram', 'initial', 
+                                    'marginal', 'miniature', 'mixed', 'paratext', 
+                                    'secondary', 'illustration', 'printmark', 
+                                    'publishmark', 'vignette', frieze', 'map', 
+                                    'unspecified' or 'other'.
+                                -->
+                                <!-- [A discussion about this particular type of decoration] -->
+                            </decoNote>
+                        </decoDesc>
+                        <additions>
+                            <p>On ff. 151r, 156r, 193r and 200r Latin scribbling in the margin (upside down).</p>
+                        </additions>
+                        <bindingDesc>
+                            <p>Parchment binding.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>                        
+                        <origin>
+                            <origPlace>[Provence]</origPlace>
+                            <origDate notBefore="1490" notAfter="1510">[c. 1500]</origDate>
+                        </origin>                       
+                        <provenance/>                           
+                        <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the
+                            library in <date calendar="Gregorian" when="1683">1683</date> by
+                                <persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John
+                                Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See
+                            the Christ Church Library Donors Book, p. 194.)</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                    Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf
+                                    Neubauer, Oxford 1886</bibl>,
+                                    <bibl>Catalogue of the Hebrew manuscripts in the Bodleian
+                                        Library; Supplement of Addenda and Corrigenda to Vol. I
+                                    </bibl>, and on the
+                                    data of the Institute of Microfilmed Hebrew Manuscripts,
+                                    National Library of Israel, with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Access to the Hebrew manuscripts at Christ Church is
+                                    strictly by appointment only: please email <email>library@chch.ox.ac.uk</email> 
+                                    or <email>cristina.neagu@chch.ox.ac.uk</email>.</p>
+                            </availability>
+                        </adminInfo>
+                        
+                        
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 15579</idno>
+                            </bibl>
+                        </surrogates> 
+                        
+                        <listBibl>
+                            <bibl>Kitchin, George William, <hi rend="italic">Catalogus codicum mss. qui in bibliotheca Ædis Christi apud Oxonienses adservantur</hi> (Oxford, 1867), 
+                            no. 187.</bibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                Manuscripts in the Bodleian Library </hi>(Oxford, 1886), 
+                                no. 2453.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), 
+                                no. 2453.</bibl>    
+                            <bibl>
+                        <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162983&amp;local_base=NNLMSS">
+                                Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
+                     </bibl>
+                            <bibl>Steinschneider, Moritz, <hi rend="italic">Die hebraeischen Übersetzungen des Mittelalters und die Juden als Dolmetscher</hi> (Berlin, 1893), 
+                                483-8.</bibl>
+                            <bibl>Zonta, Mauro, <hi rend="italic">Hebrew Scholasticism in the Fifteenth Century</hi> (Dordrecht, 2006), 
+                                165-208.</bibl>
+                        </listBibl>
+                    </additional>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue
+                        of the Hebrew Manuscripts in the Bodleian
+                        Library, vol. ii, by Adolf Neubauer and Arthur Ernest
+                        Cowley, Oxford 1906</bibl>
+               </desc>
+                </taxonomy>
+                <!-- 
+                    <taxonomy xml:id="Neubauer">
+                    <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by
+                    Adolf Neubauer, Oxford 1886</bibl>
+                    
+                    </taxonomy>
+                    <taxonomy xml:id="LCSH">
+                    <bibl><ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                    Congress Subject Headings</ref></bibl>
+                    </taxonomy>
+                    <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl><ref target="http://www.jnul.huji.ac.il/imhm/">
+                    Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                    University Library, Jerusalem</ref></bibl></desc>
+                    </taxonomy>
+                    </classDecl>
+                -->
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>College mss.</term>
+                </keywords>
+                <keywords scheme="LCSH">
+                    <term>
+                  <ref>Aristotle. Physics -- Early works to 1800</ref>
+               </term>
+                    <term>
+                  <ref>Philosophy -- Early works to 1800</ref>
+               </term>
+                </keywords>
+                
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+            <change when="2015-04-30">
+                <persName>Sabine Arndt</persName> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>        
+    </facsimile>
+</TEI>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_384">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Opp. Add. 4° 124a </title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>[Name of cataloguer]</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Opp_Add_Qu_124a</idno>
+            <idno type="msID">MS_Opp_Add_4°_124a</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="MS_Opp_Add_4°_124a" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Oppenheim Collection</collection>
+                        </collection>
+
+
+
+                        <idno>MS. Opp. Add. 4° 124a</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">2338</idno>
+                        </altIdentifier>
+
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no">30894f</idno>
+                        </altIdentifier>
+
+
+
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Midrash ha-Gadol (Genesis)</summary>
+                        <msItem xml:id="MS_Opp_Add_4°_124a-item1" n="1">
+                            <locus>ff. 1r-155r</locus>
+                            <author ref="http://viaf.org/viaf/19572491">Adani, David ben
+                                    Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
+                            <title>Midrash ha-Gadol (Genesis)</title>
+                            <title>
+                                <foreign xml:lang="he">מדרש הגדול (בראשית)</foreign>
+                     </title>
+                            <note>Part of a group of four MSS containing Midrash ha-Gadol; see also
+                                    <ref target="#MS_Opp_Add_Qu_124b">MS. Opp. Add. 4° 124b</ref>,
+                                    <ref target="#MS_Opp_Add_Qu_124c">MS. Opp. Add. 4° 124c</ref>,
+                                    <ref target="#MS_Opp_Add_Qu_124d">MS. Opp. Add. 4° 124d</ref>
+                     </note>
+                            <note>Colophon of the scribe on fol. 154r relates only to fols.
+                                135r-154r. Dated 7 Kislev 1909 SA (1597 CE)</note>
+                            <colophon>Colophon on fol. 154r: <foreign xml:lang="he">"נשלם זה המדרש
+                                    ... בתרין בשבא דהוא שבעה יומין בירח כסלו שנת א’תתק"ט במאתא
+                                    תנעם"</foreign>
+                     </colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+
+                    </msContents>
+
+                    <physDesc>
+
+                        <objectDesc form="codex">
+
+                            <supportDesc material="chart">
+                                <support>paper</support>
+                                <extent>ff. 155 <dimensions type="leaf" unit="mm">
+                                        <height quantity="0"/>
+                                        <width quantity="0"/>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals. </foliation>
+                                <collation/>
+
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"> </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary> Yemenite semi-cursive scripts, different hands.</summary>
+                            <handNote scope="minor" script="yemenite" rend="semi-cursive">Scribe of
+                                colophon wrote fols. 135-154. Fols. 2-130 written by a different
+                                hand, fols. 131-134 again by a different hand. Fol. 1r was completed
+                                by a later hand. </handNote>
+
+
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+
+
+                        <bindingDesc>
+                            
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+
+                        <origin>
+                            <origPlace>[Yemen]</origPlace>
+                            <origDate when="1597">1597</origDate>
+                        </origin>
+                        <provenance/>
+
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf
+                                        Neubauer, Oxford 1886, </bibl> (<ref facs="bej0443.jpg bej0444.jpg">No. 2338</ref>,
+                                        <bibl>Catalogue of the Hebrew manuscripts in the Bodleian
+                                        Library; Supplement of Addenda and Corrigenda to Vol. I
+                                        </bibl>
+                           <ref facs="beo0284.jpg">No. 2338</ref>, and on the
+                                    data of the <ref target="http%3A%2F%2Faleph.nli.org.il%2FF%2F61LN56HMNS2KCF11Y3TDDLM7NBBAQSP193DIEJMTX2GF256P6A-03604%3Ffunc%3Dfull-set-set%26set_number%3D043004%26set_entry%3D000005%26format%3D999">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer.</source>
+
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 21030</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                2338.</bibl>
+
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                    Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 2338.</bibl>
+
+
+                        </listBibl>
+                    </additional>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+               </desc>
+                </taxonomy>
+
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+               </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+                </taxonomy>
+
+
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Additional MSS</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+                    <term>
+                  <placeName/>
+               </term>
+
+
+                </keywords>
+                <keywords scheme="#IMHM">
+                    <term>
+                  <persName xml:lang="he"> </persName>
+               </term>
+                    <term>
+                  <placeName>Tanam (Yemen)</placeName>
+               </term>
+
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+            <change when="2015-08-20">
+                <persName> Zsofia Buda</persName> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+
+    </facsimile>
+</TEI>

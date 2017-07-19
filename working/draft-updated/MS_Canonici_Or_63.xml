@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_280">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Canonici Or. 63</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>[Name of cataloguer]</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Can_Or_63</idno>
+            <idno type="msID">MS_Canonici_Or_63</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="MS_Canonici_Or_63" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Canonici Oriental Collection</collection>
+                        </collection> 
+                        
+                        
+                        
+                        <idno>MS. Canonici Or. 63</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">1377</idno>
+                        </altIdentifier>
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no"> 20417</idno>
+                        </altIdentifier>
+                        
+                        
+                        
+                    </msIdentifier>
+                    <msContents>
+                  <summary>Collection of philosophical texts</summary>
+                        <msItem xml:id="MS_Canonici_Or_63-item1" n="1">
+                            <locus>ff. 1r-33r</locus>                          
+                            <author ref="http://viaf.org/viaf/19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                            <title>Paraphrase of Aristotle's Physica auscultatio <foreign xml:lang="he">קצור ספר השמע הטבעי של אריסטו</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+  
+                        <msItem xml:id="MS_Canonici_Or_63-item2" n="2">
+                            <locus>ff. 33v-57r</locus>                        
+                            <author ref="http://viaf.org/viaf/19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                            <title>Paraphrase of Aristotle's De Coelo et Mundo <foreign xml:lang="he">כללי ספר השמים והעולם של אריסטו</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_Canonici_Or_63-item3" n="3">
+                            <locus>ff. 57v-65b</locus>                      
+                            <author ref="http://viaf.org/viaf/19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                            <title>Paraphrase of Aristotle's De Generatione et Corruptione <foreign xml:lang="he">כללי ספר ההויה וההפסד של אריסטו</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_Canonici_Or_63-item4" n="4">
+                            <locus>ff. 66r-92b</locus>                        
+                            <author ref="http://viaf.org/viaf/19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                            <title>Paraphrase of Aristotle's Meteorologica <foreign xml:lang="he">כללי ספר האותות העליונות של אריסטו</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_Canonici_Or_63-item5" n="5">
+                            <locus>ff. 93r-116r</locus>                        
+                            <author ref="http://viaf.org/viaf/19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                            <title>Paraphrase of Aristotle's De Anima <foreign xml:lang="he">כללי ספר הנפש של אריסטו</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_Canonici_Or_63-item6" n="6">
+                            <locus>ff. 116v-133v</locus>                       
+                            <author ref="http://viaf.org/viaf/19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                            <title>Paraphrase of Aristotle's De Sensu et Sensibili <foreign xml:lang="he">קצור ספר החוש והמוחש של אריסטו</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_Canonici_Or_63-item7" n="7">
+                            <locus>ff. 134r-151v</locus>                        
+                            <author ref="http://viaf.org/viaf/100219934">Themistiusתמיסטיוס</author>
+                            <title>Commentary on the book Δ of Aristotle's Metaphysics <foreign xml:lang="he">המאמר הנרשם באות למד מספר מה שאחר הטבע של אריסטו.</foreign>
+                     </title>
+                            <note>Translated by <persName>Moshe Finzi</persName> (Steinschneider, Cat. Lugd. Bat., p.79)</note>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        
+                        <msItem xml:id="MS_Canonici_Or_63-item8" n="8">
+                            <locus>ff. 152r-192v</locus>                          
+                            <author ref="http://viaf.org/viaf/19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                            <title>Averroës' epitomes of Books 1-4 of Aristotle's Metaphysics  <foreign xml:lang="he">קצור ספר מה שאחר הטבע של אריסטו (חלק א-ד)</foreign>
+                     </title>
+                            <note/>
+                            <colophon/>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        
+                    </msContents>
+                    <physDesc>
+                       <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>paper</support>
+                                <extent>ff. 192 <dimensions type="leaf" unit="mm">
+                                        <height quantity="0"/>
+                                        <width quantity="0"/>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals. </foliation>
+                                <collation> 
+                                </collation>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1">
+                                    </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary> Italian semi-cursive script.</summary>
+                            <handNote scope="sole" script="italian" rend="semi-cursive"> </handNote>
+
+
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote>
+                                
+                            </decoNote>
+                        </decoDesc>
+                        <additions/>
+
+
+                        <bindingDesc>
+                            
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+
+                        <origin>
+                            <origPlace>[Italy]</origPlace> 
+                     <origDate notBefore="1401" notAfter="1425">[early 15th century]</origDate>
+                        </origin>
+                        <provenance/>
+
+                        <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl>
+                           <ref facs="bej0282.jpg bej0283.jpg">No.
+                                        1377</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                        Bodleian Library; Supplement of Addenda and Corrigenda to
+                                        Vol. I, </bibl>
+                           <ref facs="beo0171.jpg beo0172.jpg">No. 1377</ref>, and
+                                    on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162779&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,
+                                    National Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 22401</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
+                                Bodleian Library (Oxford, 1886), no. 1377.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                                manuscripts in the Bodleian Library; Supplement of Addenda and
+                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                                Press, 1994), no. 1377.</bibl>
+                        </listBibl>
+                    </additional>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+               </desc>
+                </taxonomy>
+
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+               </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+                </taxonomy>
+
+
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Philosophy</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+                    <term>
+                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi,
+                            1727-1805</persName>
+               </term>
+
+                </keywords>
+                <keywords scheme="#IMHM">
+                    <term>
+                  <persName xml:lang="he"/>
+               </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+            <change when="2014-06-13">
+                <persName> Zsofia Buda</persName> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+
+    </facsimile>
+</TEI>

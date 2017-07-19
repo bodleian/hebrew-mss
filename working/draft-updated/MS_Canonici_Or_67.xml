@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_284">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Canonici Or. 67</title>
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>[Name of cataloguer]</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                    <addrLine>Department of Special Collections</addrLine>
+                    <addrLine>Bodleian Library</addrLine>
+                    <street>Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <addrLine>
+                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                    </addrLine>
+                    <addrLine>
+                        <email>oriental@bodleian.ox.ac.uk</email>
+                    </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>MS_Can_Or_67</idno>
+            <idno type="msID">MS_Canonici_Or_67</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="MS_Canonici_Or_67" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+
+                        <collection>
+                            <collection type="main">Oriental Manuscripts</collection>
+                            <collection type="sub">Canonici Oriental Collection</collection>
+                        </collection>
+
+                        <idno>MS. Canonici Or. 67</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">2391</idno>
+                        </altIdentifier>
+                        <altIdentifier type="other">
+                            <idno type="sum_cat_no"> 20421</idno>
+                        </altIdentifier>
+
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Sefer ha-Shorashim</summary>
+                        <msItem xml:id="MS_Canonici_Or_67-item1" n="1">
+                            <locus>ff. 1r-233r</locus>
+                            <author ref="http://viaf.org/viaf/100213323">Kimhi, David, approximately
+                                1160-approximately 1235   קמחי, דוד בן יוסף</author>
+                            <title>Sefer ha-Shorashim   <foreign xml:lang="he">ספר השורשים </foreign>
+                     </title>
+                            <note>On the margins at the beginning and on some leaves in the middle
+                                of the MS there are omissions and biblical referenes by an Italian
+                                hand. Glosses written in an Italian mid-late 15th-century
+                                hand.</note>
+                            <note>The document on fol. 234v dated 1417 (in Portuguese) might be by
+                                the scribe's grandson. </note>
+
+                            <colophon>Colophon on fol. 231r: <foreign xml:lang="he">יצחק בן יוסף
+                                    זרקו כתב בלישבואה שנת ל"ח</foreign>. The script seems to be of a
+                                later period. Perhaps the hundreds were omitted in the colophon and
+                                the date should be 5[1]38=<date calendar="Gregorian">1378</date>?</colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+
+
+                    </msContents>
+                    <physDesc>
+
+                        <objectDesc form="codex">
+
+                            <supportDesc material="perg">
+                                <support>parchment</support>
+                                <extent>ff. 234 <dimensions type="leaf" unit="mm">
+                                        <height quantity="279">279</height>
+                                        <width quantity="206">206</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals. </foliation>
+                                <collation> Quires of mostly 8 leaves <signatures>no
+                                        signatures,</signatures>
+                                    <catchwords>catchwords in the middle of the lower margin (at the
+                                        end of quires) </catchwords>
+                                </collation>
+                                <condition>Fol. 56 is torn; last quire (fols. 225-234) is very
+                                    loose.</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="2">Text in two columns. Hair and flesh side are
+                                    distinguishable. Pricking and ruling are often visible.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Sephardi semi-cursive script.</summary>
+                            <handNote scope="sole" script="sephardi" rend="semi-cursive"> </handNote>
+
+
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote type="initial"> Decorated initial words.</decoNote>
+                        </decoDesc>
+                        <additions/>
+
+
+                        <bindingDesc>
+                            <p>Parchment binding.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+
+                        <origin>
+                            <origPlace>Lisbon?</origPlace> 
+                     <origDate when="1378">1378?</origDate>
+                        </origin>
+                        <provenance>Ownership inscriptions: <foreign xml:lang="he">יונה
+                                יאיר</foreign> (fol.1r); <foreign xml:lang="he">יוסף בן יצחק זרקו
+                            </foreign> (fol. 234v) ; censors' signatures: <persName>"Camillo
+                                Jaghel</persName> 1613", "Ego Frater <persName>Renatus a
+                                Mutina</persName> ord[in]is Capp[ucino]ru[m] correxi anno 1626",
+                            "Revisto per mi fra <persName>Luigi da Bologna</persName> del ordine de
+                            sa' Domenico ... 1599" (fol. 233r), "fra Gir[olamo] da Duranallo 1640"
+                            (fol. 234v).</provenance>
+
+                        <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl>
+                           <ref facs="bej0456.jpg">No.
+                                        2391</ref>, <bibl>Catalogue of the Hebrew manuscripts in
+                                        the Bodleian Library; Supplement of Addenda and Corrigenda
+                                        to Vol. I, </bibl>
+                           <ref facs="beo0289.jpg">No. 2391</ref>,
+                                    and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162947&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional
+                                    enhancements by the cataloguer. </source>
+
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 21671</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
+                                Bodleian Library (Oxford, 1886), no. 2391.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                                manuscripts in the Bodleian Library; Supplement of Addenda and
+                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                                Press, 1994), no. 2391.</bibl>
+                            <bibl>
+                        <ref target="http://hebrewilluminationinportugal.weebly.com/manuscripts.html">http://hebrewilluminationinportugal.weebly.com/manuscripts.html</ref>
+                     </bibl>
+                        </listBibl>
+                    </additional>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+               </desc>
+                </taxonomy>
+
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+               </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+                </taxonomy>
+
+
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Additional MSS</term>
+                </keywords>
+
+                <keywords scheme="LCSH">
+                    <term>
+                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi,
+                            1727-1805</persName>
+               </term>
+
+
+                </keywords>
+                <keywords scheme="#IMHM">
+                    <term>
+                  <persName xml:lang="he"/>
+               </term>
+                    <term>
+                  <persName>Girolamo, da Durazzano (censor)</persName>
+               </term>
+                    <term>
+                  <persName>Luigi da Bologna (censor)</persName>
+               </term>
+                    <term>
+                  <persName>Renato da Modena (censor)</persName>
+               </term>
+                    <term>
+                  <persName>Camillo Jaghel</persName>
+               </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2017-07-19">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+            <change when="2014-07-16">
+                <persName> Zsofia Buda</persName> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+
+    </facsimile>
+</TEI>
