@@ -291,7 +291,7 @@ On fols. 93r, 137v, 150r the name Yehduah is marked, perhaps he was the scribe.
         </profileDesc>
         <revisionDesc>
          <change when="2017-07-19">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
             <change when="2015-09-25">
                 <persName> Zsofia Buda</persName> created this file</change>
