@@ -2,300 +2,212 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS. Kennicott 1</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Kennicott_1</idno>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Kennicott 1</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Kennicott_1</idno>
             <idno type="msID">MS_Kennicott_1</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Kennicott_1" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Kennicott Collection</collection>
-                        </collection>
-                        <idno>MS. Kennicott 1</idno>
-                        <msName>Kennicott Bible</msName>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">2322</idno>
-                        </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno>Kennicott 67</idno>
-                        </altIdentifier>
-                    </msIdentifier>
-
-
-                    <msContents>
-                        <summary>Bible with D. Kimhi's Sefer Mikhlol</summary>
-                        <msItem xml:id="MS_Kennicott_1-item1" n="1">
-                            <locus>ff. 10r-438v</locus>
-
-                            <title>Hebrew Bible <foreign xml:lang="he">תנ"ך</foreign>
+         <sourceDesc>
+            <msDesc xml:id="MS_Kennicott_1" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsKennicott Collection</collection>
+                  <idno>MS. Kennicott 1</idno>
+                  <msName>Kennicott Bible</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bible with D. Kimhi's Sefer Mikhlol</summary>
+                  <msItem xml:id="MS_Kennicott_1-item1" n="1">
+                     <locus>ff. 10r-438v</locus>
+                     <title>Hebrew Bible<foreign xml:lang="he">תנ"ך</foreign>
                      </title>
-
-                            <note>With both masorahs; Isaiah before Jeremiah; the Prophets are
-                                followed by Chronicles, next come the Psalms, Proverbs, Job, Ruth,
-                                Song of Song, Ecclesiastes, Lamentations, Esther, Daniel, Ezra and
-                                Nehemiah, the latter without division.</note>
-
-                            <note>The copist is probably indentical with <persName ref="http://viaf.org/viaf/96079760">Moses ibn Zabara
-                                    </persName>
-                        <persName xml:lang="he">(משה בר’ יעקב ן’
-                                    זברה)</persName>, the author of Malakhat ha-Sefer, who emigrated
-                                to Morocco where he was held in great esteem.</note>
-
-                            <colophon>Colophon of the scribe on fol. 438r: "אני משה בר’ יעקב ן’ זברה
-                                הסופר ... כתבתי ונקדתי ומסרתי והגהתי אלה ארבעה ועשרים ספרים בקובץ
-                                אחד וסימתי אותו ביום רביעי א"ב ימים לחדש אב שנת והביאותים א’ל’ ה’ר’
-                                קדשי לפרט האלף הששי [=רל"ו] בכאן במתא לה קרוניא והחזקתי אותו בל"ז
-                                קונדרסין ... לבחור הנחמד יצחק בן ... דון שלמה די בראגה נ"ע".
-                                Colophon of the illuminator on fol. 453v: "אני יוסף ן’ חיים זה הספר
-                                ציירתי והשלמתי". </colophon>
-
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-
-                        <msItem xml:id="MS_Kennicott_1-item2" n="2">
-                            <locus>ff.1-9 and ff. 438v-453</locus>
-                            <author>Kimhi, David,
-                                    approximately 1160-approximately 1235
-                            </author>
-                            <title>Sefer ha-Mikhlol <foreign xml:lang="he">ספר
-                                המכלול</foreign>
+                     <note>With both masorahs; Isaiah before Jeremiah; the Prophets are followed by Chronicles, next come the Psalms, Proverbs, Job, Ruth, Song of Song, Ecclesiastes, Lamentations, Esther, Daniel, Ezra and Nehemiah, the latter without division.</note>
+                     <note>The copist is probably indentical with<persName ref="http://viaf.org/viaf/96079760">Moses ibn Zabara</persName>
+                        <persName xml:lang="he">(משה בר’ יעקב ן’ זברה)</persName>, the author of Malakhat ha-Sefer, who emigrated to Morocco where he was held in great esteem.</note>
+                     <colophon>Colophon of the scribe on fol. 438r: "אני משה בר’ יעקב ן’ זברה הסופר ... כתבתי ונקדתי ומסרתי והגהתי אלה ארבעה ועשרים ספרים בקובץ אחד וסימתי אותו ביום רביעי א"ב ימים לחדש אב שנת והביאותים א’ל’ ה’ר’ קדשי לפרט האלף הששי [=רל"ו] בכאן במתא לה קרוניא והחזקתי אותו בל"ז קונדרסין ... לבחור הנחמד יצחק בן ... דון שלמה די בראגה נ"ע". Colophon of the illuminator on fol. 453v: "אני יוסף ן’ חיים זה הספר ציירתי והשלמתי".</colophon>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Kennicott_1-item2" n="2">
+                     <locus>ff.1-9 and ff. 438v-453</locus>
+                     <author>Kimhi, David, approximately 1160-approximately 1235</author>
+                     <title>Sefer ha-Mikhlol<foreign xml:lang="he">ספר המכלול</foreign>
                      </title>
-                        </msItem>
-                    </msContents>
-
-                    <physDesc>
-                        <objectDesc form="codex">
-                            <supportDesc material="unknown">
-                                <extent>ff. 453<dimensions type="other" unit="cm">
-                                        <height/>
-                                        <width/>
-                                    </dimensions>
-                                </extent>
-                                <condition>
-                                </condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc>  
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="unknown">
+                        <extent>ff. 453<dimensions type="other" unit="cm"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
                      <summary>Sephardi square script</summary>
-                            <handNote scope="major" script="sephardi" rend="square"> </handNote>
-                        </handDesc>
-                        <decoDesc>
-                            <decoNote>Illuminations in the margins and at the end of the
-                                books.</decoNote>
-                        </decoDesc>
-                        <additions>
-                            
-                        </additions>
-                        <bindingDesc>
-                            <p>Dark brown morocco goatskin box binding, blind-embossed on all six
-                                sides</p>
-                        </bindingDesc>
-                    </physDesc>
-
-                    <history>
-                        <origin>
-                            <origPlace>La Coruña</origPlace>
-                            <origDate when="1476">1476</origDate>
-                        </origin>
-                        <provenance>Acquired for the Radcliffe Library, Oxford, by <persName ref=" http://viaf.org/viaf/12343831">Benjamin Kennicott.</persName>
-                            <date calendar="Gregorian">(1718-1783)</date>.</provenance>
-                        <acquisition> Transferred to the Bodleian Library in <date calendar="Gregorian" when="1872">1872</date>. </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
-                                        Neubauer, Oxford 1886, </bibl>
-                           <ref facs="bej0440.jpg">No.
-                                        2322 </ref>,<bibl>Catalogue of the Hebrew manuscripts in the
-                                        Bodleian Library; Supplement of Addenda and Corrigenda to
-                                        Vol. I, </bibl>
-                           <ref facs="beo0282.jpg">No. 2322</ref>, and
-                                    on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113090&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
-                                    Library of Israel with additional enhancements by the
-                                    cataloguer. </source>
-                            </recordHist>
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-
-                        <surrogates>
-                            <bibl>
-                                <idno n="MSS R.R. Film No." type="microfilm">F 21014</idno>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
-                            <bibl>Kennicott, Benjamin, <hi rend="italic">Dissertatio generalis in
-                                    Vetus Testamentum Hebraicum: cum variis lectionibus, ex
-                                    codicibus manuscriptis et impressis. Recudi curavit et notas
-                                    adiecit Paulus Iacobus Bruns.</hi> Brunovici: Orphanotrophei,
-                                1783.</bibl>
-                            <bibl>Neubauer, Adolf. <hi rend="italic">Catalogue of the Hebrew
-                                    Manuscripts in the Bodleian Library</hi> (Oxford 1886),
-                                no.2322</bibl>
-                            <bibl>Norin, Stig, 'An Important Kennicott Reading in 2 Kings xviii 13',
-                                    <hi rend="italic">Vetus Testamentum </hi>(1982), 337-338.</bibl>
-                            <bibl>
-                        <hi rend="italic">Facsimile edition: The Kennicott Bible</hi>
-                                (London, 1985), introduction by B. Narkiss and A.
-                                Cohen-Muslin.</bibl>
-                            <bibl>Schubert, Ursula, 'Zwei Tierszenen am Ende der ersten
-                                Kennicott-Bibel (La Coruña, 1476) in Oxford', <hi rend="italic">Jewish Art</hi>, 12-13 (1987), 83-88.</bibl>
-                            <bibl>On binding, see L. Avrin in <hi rend="italic">Scripta Hierosolymitana</hi> 19 (1989):
-                                27-43.</bibl>
-                            <bibl>Avrin, Leila, 'Illuminated Hebrew manuscript facsimiles', <hi rend="italic">Ars Orientalis</hi>, 20 (1990), 189-195.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
-                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
-                                    Addenda and Corrigenda</hi> to Vol. I (A. Neubauer’s Catalogue).
-                                Oxford 1994. no. 2322.</bibl>
-                            <bibl>Vives, Veronica, 'La Biblia de Cervera : un modelo olvidado', <hi rend="italic">Actes del II Congrés per a l’Estudi dels Jueus en
-                                    Territoris de Llengua Catalana</hi>, Barcelona-Cervera, del 25
-                                al 27 d’octubre de 2004 (Barcelona: Institut Europeu de la
-                                Mediterrània, 2005), 201-211.</bibl>
-                            <bibl>Clarkson, Christopher, 'The Kennicott Bible. Its Illumination,
-                                Binding, Conservation Problems and Repair.' <hi rend="italic">Collection Management</hi>, 31 no.1-2 (2007), 31-56. </bibl>
-                            <bibl>
+                     <handNote scope="major" script="sephardi" rend="square"/>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>Illuminations in the margins and at the end of the books.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Dark brown morocco goatskin box binding, blind-embossed on all six sides</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>La Coruña</origPlace>
+                     <origDate when="1476">1476</origDate>
+                  </origin>
+                  <provenance>Acquired for the Radcliffe Library, Oxford, by<persName ref=" http://viaf.org/viaf/12343831">Benjamin Kennicott.</persName>
+                     <date calendar="Gregorian">(1718-1783)</date>.</provenance>
+                  <acquisition>Transferred to the Bodleian Library in<date calendar="Gregorian" when="1872">1872</date>.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0440.jpg">No. 2322</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0282.jpg">No. 2322</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113090&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 21014</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Kennicott, Benjamin,<hi rend="italic">Dissertatio generalis in Vetus Testamentum Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et impressis. Recudi curavit et notas adiecit Paulus Iacobus Bruns.</hi>Brunovici: Orphanotrophei, 1783.</bibl>
+                     <bibl>Neubauer, Adolf.<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford 1886), no.2322</bibl>
+                     <bibl>Norin, Stig, 'An Important Kennicott Reading in 2 Kings xviii 13',<hi rend="italic">Vetus Testamentum</hi>(1982), 337-338.</bibl>
+                     <bibl>
+                        <hi rend="italic">Facsimile edition: The Kennicott Bible</hi>(London, 1985), introduction by B. Narkiss and A. Cohen-Muslin.</bibl>
+                     <bibl>Schubert, Ursula, 'Zwei Tierszenen am Ende der ersten Kennicott-Bibel (La Coruña, 1476) in Oxford',<hi rend="italic">Jewish Art</hi>, 12-13 (1987), 83-88.</bibl>
+                     <bibl>On binding, see L. Avrin in<hi rend="italic">Scripta Hierosolymitana</hi>19 (1989): 27-43.</bibl>
+                     <bibl>Avrin, Leila, 'Illuminated Hebrew manuscript facsimiles',<hi rend="italic">Ars Orientalis</hi>, 20 (1990), 189-195.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda</hi>to Vol. I (A. Neubauer’s Catalogue). Oxford 1994. no. 2322.</bibl>
+                     <bibl>Vives, Veronica, 'La Biblia de Cervera : un modelo olvidado',<hi rend="italic">Actes del II Congrés per a l’Estudi dels Jueus en Territoris de Llengua Catalana</hi>, Barcelona-Cervera, del 25 al 27 d’octubre de 2004 (Barcelona: Institut Europeu de la Mediterrània, 2005), 201-211.</bibl>
+                     <bibl>Clarkson, Christopher, 'The Kennicott Bible. Its Illumination, Binding, Conservation Problems and Repair.'<hi rend="italic">Collection Management</hi>, 31 no.1-2 (2007), 31-56.</bibl>
+                     <bibl>
                         <ref target="http://bodleian.thejewishmuseum.org/?page_id=155">http://bodleian.thejewishmuseum.org/?page_id=155</ref>
-                     </bibl>                         
-                            <bibl>
+                     </bibl>
+                     <bibl>
                         <ref target="http://www.facsimile-editions.com/en/kb/">http://www.facsimile-editions.com/en/kb/</ref>
                      </bibl>
-                        </listBibl>
-                    </additional>
-
-
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="Neubauer">
-                    <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by
-                        Adolf Neubauer, Oxford 1886, </bibl>
-
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="Neubauer">
+               <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-            </classDecl>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <term>Miscellaneous</term>
-                    <term>Additional MSS</term>
-                </keywords>
-
-                <keywords scheme="#LCSH">
-                    <term>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Miscellaneous</term>
+               <term>Additional MSS</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term>
                   <ref target="http://lccn.loc.gov/n85045679"/>Kennicott Bible 1</term>
-                    <term>
-                  <ref target="http://lccn.loc.gov/n79054379">Bible. Old
-                        Testament.</ref>
+               <term>
+                  <ref target="http://lccn.loc.gov/n79054379">Bible. Old Testament.</ref>
                </term>
-                    <term>
-                  <persName ref="http://viaf.org/viaf/12343831">Kennicott, Benjamin,
-                            1718-1783</persName>
+               <term>
+                  <persName ref="http://viaf.org/viaf/12343831">Kennicott, Benjamin, 1718-1783</persName>
                </term>
-
-
-                    <term>Malakhat ha-Sefer</term>
-                    <term>
+               <term>Malakhat ha-Sefer</term>
+               <term>
                   <geogName>Morocco</geogName>
                </term>
-                    <term>
+               <term>
                   <geogName>Spain</geogName>
                </term>
-                    <term>
+               <term>
                   <geogName>La Coruña (Spain)</geogName>
                </term>
-
-
-                </keywords>
-                <keywords scheme="#LCSH">
-                    <term>
-                  <persName ref=" http://viaf.org/viaf/12343831">Kennicott, Benjamin,
-                            1718-1783</persName>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term>
+                  <persName ref=" http://viaf.org/viaf/12343831">Kennicott, Benjamin, 1718-1783</persName>
                </term>
-                </keywords>
-                <keywords scheme="IMHM">
-                    <term>
-                        <persName>זברה, משה בן יעקב אבן (מעתיק)</persName> ‬</term>
-                    <term>
-                  <persName>יוסף בן חיים (צייר) </persName>
+            </keywords>
+            <keywords scheme="IMHM">
+               <term>
+                  <persName>זברה, משה בן יעקב אבן (מעתיק)</persName>‬</term>
+               <term>
+                  <persName>יוסף בן חיים (צייר)</persName>
                </term>
-                    <term>
-                  <persName> ברגה, יצחק בן שלמה די (בעלים)</persName>
+               <term>
+                  <persName>ברגה, יצחק בן שלמה די (בעלים)</persName>
                </term>
-                    <term>
-                        <placeName>לה קרוניא</placeName>
+               <term>
+                  <placeName>לה קרוניא</placeName>
                </term>
-                </keywords>
-
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2013-06-28">
-                <persName>Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="MS_Kennicott_1_1a.tif"/>
-
-
-
-    </facsimile>
+         <change when="2013-06-28">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_Kennicott_1_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

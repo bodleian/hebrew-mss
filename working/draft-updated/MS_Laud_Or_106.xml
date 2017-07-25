@@ -2,283 +2,199 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_13">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS Laud Or. 106</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Laud_Or_106</idno>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS Laud Or. 106</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Laud_Or_106</idno>
             <idno type="msID">MS_Laud_Or_106</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Laud_Or_106" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Laud Oriental Collection</collection>
-                        </collection>
-
-
-
-                        <idno>MS. Laud Or. 106</idno>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">1176</idno>
-                        </altIdentifier>
-                        <altIdentifier type="other">
-                            <idno type="sum_cat_no"> 540</idno>
-                        </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno>Uri 330</idno>
-                        </altIdentifier>
-
-                    </msIdentifier>
-                    <msContents>
-                        <summary>Collection</summary>
-                        <msItem xml:id="MS_Laud_Or_106-item1" n="1">
-
-                            <locus>ff. 1r-93v</locus>
-                            <author ref="http://lccn.loc.gov/n80001062">Ibn Gabirol, active 11th century</author>
-                            <author>אבן גבירול, שלמה</author>
-                            <title>Azharot le-Shavuʿot  <foreign xml:lang="he">אזהרות לשבועות</foreign>
+         <sourceDesc>
+            <msDesc xml:id="MS_Laud_Or_106" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsLaud Oriental Collection</collection>
+                  <idno>MS. Laud Or. 106</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Collection</summary>
+                  <msItem xml:id="MS_Laud_Or_106-item1" n="1">
+                     <locus>ff. 1r-93v</locus>
+                     <author ref="http://lccn.loc.gov/n80001062">Ibn Gabirol, active 11th century</author>
+                     <author>אבן גבירול, שלמה</author>
+                     <title>Azharot le-Shavuʿot<foreign xml:lang="he">אזהרות לשבועות</foreign>
                      </title>
-                            <note/>
-
-                            <colophon>"<foreign xml:lang="he">ונשלם פי’ המצות ביום ששי כ’ יום לחדש סיון במתא מכנאסה שנת
-                                הרס"ט ליצירה</foreign>" (<locus>fol. 93v</locus>)</colophon>
-                            <textLang mainLang="he">Hebrew</textLang>
-                            
-                        </msItem>
-
-                        <msItem xml:id="MS_Laud_Or_106-item2" n="2">
-
-                            <locus>ff. 94r-142r</locus>
-                            <author ref="http://lccn.loc.gov/no97004332">Probably Asher ben Shelomyah</author>
-                            <author> אשר בן שלמיה,
-                                מלוניל</author>
-                            <title>The Abbreviated Duties of the Heart <foreign xml:lang="he"> קצור ספר חובות
-                                הלבבות</foreign>
+                     <colophon>"<foreign xml:lang="he">ונשלם פי’ המצות ביום ששי כ’ יום לחדש סיון במתא מכנאסה שנת הרס"ט ליצירה</foreign>" (<locus>fol. 93v</locus>)</colophon>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Laud_Or_106-item2" n="2">
+                     <locus>ff. 94r-142r</locus>
+                     <author ref="http://lccn.loc.gov/no97004332">ProbablyAsher ben Shelomyah</author>
+                     <author>אשר בן שלמיה, מלוניל</author>
+                     <title>The Abbreviated Duties of the Heart<foreign xml:lang="he">קצור ספר חובות הלבבות</foreign>
                      </title>
-                            <note/>
-
-                            <colophon> 
-                        <foreign xml:lang="he">"ונשלם זה הספר על ידי יוסף ביבי בן ... ר’ שמואל ביבי ...
-                                והיתה השלמתו ביום שלישי י"ד יום לחדש אב שנת הרס"ט לפרט היצירה במתא
-                                במנאסה"</foreign> (<locus>fol. 142r</locus>)</colophon>
-                            <textLang mainLang="he">Hebrew</textLang>
-                            <listBibl>
-                                <bibl xml:lang="he">ביום שלישי כ"א יום לחדש אב שנת הרס"ט לפרט היצירה</bibl>
-                                
-                            </listBibl>
-                        </msItem>
-
-                        <msItem xml:id="MS_Laud_Or_106-item3" n="3">
-
-                            <locus>ff. 143r-159r</locus>
-                            <author ref="http://lccn.loc.gov/n88622071">Jonah ben Abraham Gerondi, approximately 1200-1263 </author>
-                            <author>גירונדי, יונה בן אברהם</author>
-                            <title>Sefer ha-yirʼah <foreign xml:lang="he">ספר היראה</foreign>
+                     <colophon>
+                        <foreign xml:lang="he">"ונשלם זה הספר על ידי יוסף ביבי בן ... ר’ שמואל ביבי ... והיתה השלמתו ביום שלישי י"ד יום לחדש אב שנת הרס"ט לפרט היצירה במתא במנאסה"</foreign>(<locus>fol. 142r</locus>)</colophon>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <listBibl>
+                        <bibl xml:lang="he">ביום שלישי כ"א יום לחדש אב שנת הרס"ט לפרט היצירה</bibl>
+                     </listBibl>
+                  </msItem>
+                  <msItem xml:id="MS_Laud_Or_106-item3" n="3">
+                     <locus>ff. 143r-159r</locus>
+                     <author ref="http://lccn.loc.gov/n88622071">Jonah ben Abraham Gerondi, approximately 1200-1263</author>
+                     <author>גירונדי, יונה בן אברהם</author>
+                     <title>Sefer ha-yirʼah<foreign xml:lang="he">ספר היראה</foreign>
                      </title>
-                            <note/>
-
-                            <colophon>
-                        <foreign xml:lang="he"> "ונשלם במתא מכנאסה ביום שלישי כ"א יום לחדש אב שנת הרס"ט לפרט היצירה"</foreign>  (<locus>fol. 159r</locus>)</colophon>
-                            <textLang mainLang="he">Hebrew</textLang>
-                           
-                        </msItem>
-
-                        <msItem xml:id="MS_Laud_Or_106-item4" n="4">
-
-                            <locus>ff. 160-165v</locus>
-                            <author ref="http://viaf.org/viaf/7524651">Aristotle (attributed to)</author>
-                            <author>אריסטו</author>
-                            <title>Sefer ha-Patuaḥ <foreign xml:lang="he"> ספר התפוח</foreign>
+                     <colophon>
+                        <foreign xml:lang="he">"ונשלם במתא מכנאסה ביום שלישי כ"א יום לחדש אב שנת הרס"ט לפרט היצירה"</foreign>(<locus>fol. 159r</locus>)</colophon>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Laud_Or_106-item4" n="4">
+                     <locus>ff. 160-165v</locus>
+                     <author ref="http://viaf.org/viaf/7524651">Aristotle(attributed to)</author>
+                     <author>אריסטו</author>
+                     <title>Sefer ha-Patuaḥ<foreign xml:lang="he">ספר התפוח</foreign>
                      </title>
-                            <note/>
-
-                            <colophon>"<foreign xml:lang="he">ונשלם ביום רביעי טו ימים לחדש אב במתא בכנאסה שנת הרס"ט ליצירה</foreign>" (<locus>fol. 165v</locus>)</colophon>
-                            <textLang mainLang="he">Hebrew</textLang>
-                           
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-
-                        <objectDesc form="codex">
-
-                            <supportDesc material="chart">
-
-                                <support>Paper.<watermark/>
-                                </support>
-                                <extent>ff. 165<dimensions type="leaf" unit="mm">
-                                        <height quantity="200">200</height>
-                                        <width quantity="142">142</width>
-                                    </dimensions>
-                                </extent>
-                                <foliation>Foliated with arabic numerals.</foliation>
-                                <collation>
-                                    <signatures>No signatures.</signatures>
-                                    <catchwords>catchwords on verso side of almost every
-                                        leaves.</catchwords>
-                                </collation>
-                                <condition>Good condition.</condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout columns="1"> </layout>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <summary/>
-                            <handNote scope="sole" script="sephardi" rend="semi-cursive"> Sephardi
-                                semi-cursive script, black and red ink.</handNote>
-
-                        </handDesc>
-                        <decoDesc>
-                            <decoNote type="other"> Not decorated.</decoNote>
-                        </decoDesc>
-                        <additions/> 
-                        <bindingDesc>
-                            <p>Brown leather binding, blind-tooled; gold-tooled coat of
-                                arms of Archbishop Laud in the middle. Table of content by later hand on front pastedown; sephardi semi-cursive script on fol. [i]r .</p>
-                        </bindingDesc>
-                    </physDesc>
-                    <history>
-
-                        <origin>
-                            <origPlace>Meknès</origPlace>
-                            <origDate when="1509"> 1509 </origDate> (AM <origDate calendar="AM-abbreviated">269</origDate>) </origin>
-                        <provenance>Notes on fol. [ii]v: illegible Hebrew note; "Lib. mitsvoth R.
-                            Shelomo ben Ghabirol, ..."; "Liber Guilielmi Laud Archiepiscopi
-                            Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis]
-                            1633"</provenance>
-
-                        <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
-                                        Neubauer, Oxford 1886, </bibl>
-                           <ref facs="bej0225.jpg">No.
-                                        1176</ref>, <bibl>Catalogue of the Hebrew manuscripts in
-                                        the Bodleian Library; Supplement of Addenda and Corrigenda
-                                        to Vol. I, </bibl>
-                           <ref facs="beo0151.jpg">No. 1176</ref>, and on
-                                    the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000070834&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,
-                                    National Library of Israel with additional enhancements by the
-                                    cataloguer. </source>
-
-                            </recordHist>
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-
-                        <surrogates>
-                            <bibl>
-                                <idno n="MSS R.R. Film No." type="microfilm">F 16635</idno>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
-                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
-                                Bodleian Library (Oxford, 1886), no. 1176.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                                manuscripts in the Bodleian Library; Supplement of Addenda and
-                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
-                                Press, 1994), no. 1176.</bibl>
-                        </listBibl>
-                    </additional>
-
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="INDEX">
-                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
-                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
-                            1906</bibl>
+                     <colophon>"<foreign xml:lang="he">ונשלם ביום רביעי טו ימים לחדש אב במתא בכנאסה שנת הרס"ט ליצירה</foreign>" (<locus>fol. 165v</locus>)</colophon>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>Paper.</support>
+                        <extent>ff. 165<dimensions type="leaf" unit="mm">
+                              <height quantity="200">200</height>
+                              <width quantity="142">142</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliated with arabic numerals.</foliation>
+                        <collation>
+                           <signatures>No signatures.</signatures>
+                           <catchwords>catchwords on verso side of almost every leaves.</catchwords>
+                        </collation>
+                        <condition>Good condition.</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="sephardi" rend="semi-cursive">Sephardi semi-cursive script, black and red ink.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">Not decorated.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Brown leather binding, blind-tooled; gold-tooled coat of arms of Archbishop Laud in the middle. Table of content by later hand on front pastedown; sephardi semi-cursive script on fol. [i]r .</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>Meknès</origPlace>
+                     <origDate when="1509">1509</origDate>(AM<origDate calendar="AM-abbreviated">269</origDate>)</origin>
+                  <provenance>Notes on fol. [ii]v: illegible Hebrew note; "Lib. mitsvoth R. Shelomo ben Ghabirol, ..."; "Liber Guilielmi Laud Archiepiscopi Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1633"</provenance>
+                  <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0225.jpg">No. 1176</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0151.jpg">No. 1176</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000070834&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 16635</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 1176.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1176.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
-                </taxonomy>
-
-                <taxonomy xml:id="Neubauer">
-                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
-                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
-                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-
-
-            </classDecl>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <term>Liturgies</term>
-                </keywords>
-
-                <keywords scheme="LCSH">
-                    <term>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Liturgies</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
                   <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
                </term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2011-02-19">
-                <persName>Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="1a.tif"/>
-
-    </facsimile>
+         <change when="2011-02-19">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

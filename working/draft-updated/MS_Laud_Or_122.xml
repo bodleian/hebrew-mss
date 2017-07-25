@@ -2,389 +2,294 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_14">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS. Laud Or. 122</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Laud_Or_122</idno>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Laud Or. 122</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Laud_Or_122</idno>
             <idno type="msID">MS_Laud_Or_122</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Laud_Or_122" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Laud Oriental Collection</collection>
-                        </collection>
-
-
-
-                        <idno>MS. Laud Or. 122</idno>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">1646</idno>
-                        </altIdentifier>
-                        <altIdentifier type="other">
-                            <idno type="sum_cat_no"> </idno>
-                        </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno>Uri 331</idno>
-                        </altIdentifier>
-
-                    </msIdentifier>
-                    <msContents>
-                        <summary>Miscellany</summary>
-                    </msContents>
-                    <physDesc>
-                        <p>ff. 210</p>
-
-                        <bindingDesc>
-                            <p>Soft parchment binding.</p>
-                        </bindingDesc>
-                    </physDesc>
-                    <history>
-                        <provenance>Owner's inscription on fol. 1r: "Liber Giulielmi Laud
-                            Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis
-                            Oxon[iensis] 1635"</provenance>
-                        <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                    Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
-                                    Neubauer, Oxford 1886, </bibl>
-                           <ref facs="bej0323.jpg">No.
-                                        1646</ref>, <bibl>Catalogue of the Hebrew manuscripts in
-                                            the Bodleian Library; Supplement of Addenda and Corrigenda
-                                            to Vol. I, </bibl>
-                           <ref facs="beo0197.jpg">No. 1646</ref>, and on
-                                    the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000064481&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,
-                                    National Library of Israel with additional enhancements by the
-                                    cataloguer. </source>
-                            </recordHist>
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl>
-                                <idno n="MSS R.R. Film No." type="microfilm">F 17387</idno>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
-                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
-                                Bodleian Library (Oxford, 1886), no. 1646.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                                manuscripts in the Bodleian Library; Supplement of Addenda and
-                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford:
-                                Clarendon Press, 1994), no. 1646.</bibl>
-                        </listBibl>
-                    </additional>
-                    <msPart xml:id="MS_Laud_Or_122-part1" n="1">
-                        <msIdentifier>
+         <sourceDesc>
+            <msDesc xml:id="MS_Laud_Or_122" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsLaud Oriental Collection</collection>
+                  <idno>MS. Laud Or. 122</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Miscellany</summary>
+               </msContents>
+               <physDesc>
+                  <p>ff. 210</p>
+                  <bindingDesc>
+                     <p>Soft parchment binding.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>Owner's inscription on fol. 1r: "Liber Giulielmi Laud Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1635"</provenance>
+                  <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0323.jpg">No. 1646</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0197.jpg">No. 1646</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000064481&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 17387</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 1646.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1646.</bibl>
+                  </listBibl>
+               </additional>
+               <msPart xml:id="MS_Laud_Or_122-part1" n="1">
+                  <msIdentifier>
                      <altIdentifier type="partial">
-                            <idno>MS. Laud Or. 122/1</idno>
-                        </altIdentifier>
+                        <idno>MS. Laud Or. 122/1</idno>
+                     </altIdentifier>
                   </msIdentifier>
-                        <msContents>
-                            <msItem xml:id="MS_Laud_Or_122-part1-item1" n="1">
-                                <locus>ff. 1r-113v</locus>
-                                <author ref="http://viaf.org/viaf/97282190">Ibn Shem Tov, Shem Tov
-                                    ben Joseph ben Shem Tov, active 15th century   שם טוב בן שם טוב</author>
-                                <title>Sefer ha-Emunot  <foreign xml:lang="he">ספר האמונות </foreign>
+                  <msContents>
+                     <msItem xml:id="MS_Laud_Or_122-part1-item1" n="1">
+                        <locus>ff. 1r-113v</locus>
+                        <author ref="http://viaf.org/viaf/97282190">Ibn Shem Tov, Shem Tov ben Joseph ben Shem Tov, active 15th centuryשם טוב בן שם טוב</author>
+                        <title>Sefer ha-Emunot<foreign xml:lang="he">ספר האמונות</foreign>
                         </title>
-                                
-                                <note/>
-
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-                            <msItem xml:id="MS_Laud_Or_122-part1-item2" n="2">
-                                <locus>ff. 114r-114v</locus>
-                                <author ref="http://viaf.org/viaf/44187421">Gerondi, Jacob ben
-                                    Sheshet, active 13th century   יעקב בן ששת גירונדי</author>
-                                <title>Meshiv devarim nekhoḥim   <foreign xml:lang="he">משיב דברים נכוחים</foreign>
-                        </title>                            
-                                <note/>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-                            
-                            <msItem xml:id="MS_Laud_Or_122-part1-item3" n="3">
-                                <locus>ff. 114v-137r</locus>
-                                <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270  משה בן נחמן, 1194-1270</author>
-                                <title>Liḳuṭe ḳabalah   <foreign xml:lang="he">לקוטי קבלה</foreign>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                     <msItem xml:id="MS_Laud_Or_122-part1-item2" n="2">
+                        <locus>ff. 114r-114v</locus>
+                        <author ref="http://viaf.org/viaf/44187421">Gerondi, Jacob ben Sheshet, active 13th centuryיעקב בן ששת גירונדי</author>
+                        <title>Meshiv devarim nekhoḥim<foreign xml:lang="he">משיב דברים נכוחים</foreign>
                         </title>
-                                
-                                <note>Fols. 114v-115r: Exctract on his commentary on 1 Genesis; fols. 115r-116v: On Creationm the rainbowm abd phylacteries; fol. 116v: On prayer according to Jacob ha-Nazir and Abraham ben David</note>
-                                <note>Fols. 117v-124v are blank.</note>                             
-                                <textLang mainLang="he">Hebrew</textLang>
-                                <note/>                                                              
-                            </msItem>
-                            
-                            <msItem xml:id="MS_Laud_Or_122-part1-item4" n="4">
-                                <locus>ff. 138r-140v</locus>
-
-                                <title>Perushim le-agadot ha-Talmud   <foreign xml:lang="he">פרושים לאגדות התלמוד</foreign>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                     <msItem xml:id="MS_Laud_Or_122-part1-item3" n="3">
+                        <locus>ff. 114v-137r</locus>
+                        <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן, 1194-1270</author>
+                        <title>Liḳuṭe ḳabalah<foreign xml:lang="he">לקוטי קבלה</foreign>
                         </title>
-                                
-                                <note/>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-                        </msContents>
-                        <physDesc>
-                            <objectDesc form="codex">
-
-                                <supportDesc material="chart">
-
-                                    <support> paper <watermark>(watermarks are similar to Briquet
-                                            no. 3515, dated 1535-1541)</watermark>
-                                    </support>
-                                    <extent>ff. 1-143<dimensions type="leaf" unit="mm">
-                                            <height quantity="205">205</height>
-                                            <width quantity="150">150</width>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation>Foliation in Arabic numerals.</foliation>
-                                    <collation>
-                                        <signatures>No signatures</signatures>,
-                                            <catchwords>catchwords on every verso.</catchwords>
-                                    </collation>
-                                    <condition>Good condition.</condition>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <layout columns="1"> </layout>
-                                </layoutDesc>
-                            </objectDesc>
-                            <handDesc>
-                                <summary>Italian cursive scripts.</summary>
-                                <handNote scope="sole" script="italian" rend="cursive"> At least two
-                                    hands: hand 1: ff. 1-137r; hand 2: ff. 138r-140v middle of line
-                                    11 (rest of the page written by hand 1) </handNote>
-
-                            </handDesc>
-                            <decoDesc>
-                                <decoNote type="other"> Not decorated. </decoNote>
-                            </decoDesc>
-                            <additions>
-                                <p>Blank folios: ff. 117v-124v; 141r-143v</p>
-                            </additions>
-                        </physDesc>
-                        <history>
-                            <origin>
+                        <note>Fols. 114v-115r: Exctract on his commentary on 1 Genesis; fols. 115r-116v: On Creationm the rainbowm abd phylacteries; fol. 116v: On prayer according to Jacob ha-Nazir and Abraham ben David</note>
+                        <note>Fols. 117v-124v are blank.</note>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                     <msItem xml:id="MS_Laud_Or_122-part1-item4" n="4">
+                        <locus>ff. 138r-140v</locus>
+                        <title>Perushim le-agadot ha-Talmud<foreign xml:lang="he">פרושים לאגדות התלמוד</foreign>
+                        </title>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="chart">
+                           <support>paper<watermark>(watermarks are similar to Briquet no. 3515, dated 1535-1541)</watermark>
+                           </support>
+                           <extent>ff. 1-143<dimensions type="leaf" unit="mm">
+                                 <height quantity="205">205</height>
+                                 <width quantity="150">150</width>
+                              </dimensions>
+                           </extent>
+                           <foliation>Foliation in Arabic numerals.</foliation>
+                           <collation>
+                              <signatures>No signatures</signatures>,<catchwords>catchwords on every verso.</catchwords>
+                           </collation>
+                           <condition>Good condition.</condition>
+                        </supportDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <summary>Italian cursive scripts.</summary>
+                        <handNote scope="sole" script="italian" rend="cursive">At least two hands: hand 1: ff. 1-137r; hand 2: ff. 138r-140v middle of line 11 (rest of the page written by hand 1)</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote type="other">Not decorated.</decoNote>
+                     </decoDesc>
+                     <additions>
+                        <p>Blank folios: ff. 117v-124v; 141r-143v</p>
+                     </additions>
+                  </physDesc>
+                  <history>
+                     <origin>
                         <origPlace>[Italy]</origPlace>
                         <origDate notBefore="1525" notAfter="1575">[mid-16th century]</origDate>
                      </origin>
-                            <provenance>Censor's signature: "Visto per me Gio. Dominico Carretto
-                                1608" (fol. 113v). </provenance>
-                            <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
-                        </history>
-                    </msPart>
-
-                    <msPart xml:id="MS_Laud_Or_122-part2" n="2">
-                        <msIdentifier>
+                     <provenance>Censor's signature: "Visto per me Gio. Dominico Carretto 1608" (fol. 113v).</provenance>
+                     <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+                  </history>
+               </msPart>
+               <msPart xml:id="MS_Laud_Or_122-part2" n="2">
+                  <msIdentifier>
                      <altIdentifier type="partial">
-                            <idno>MS. Laud Or. 122/2</idno>
-                        </altIdentifier>
+                        <idno>MS. Laud Or. 122/2</idno>
+                     </altIdentifier>
                   </msIdentifier>
-                        <msContents>
-                            <msItem xml:id="MS_Laud_Or_122-part2-item1" n="1">
-                                <locus>ff. 144r-183r</locus>
-                                <author ref="http://viaf.org/viaf/89532689">Shats, Hirts    טריביש, נפתלי הירץ</author>
-                                <title>Naftule Elohim niftalti  <foreign xml:lang="he">נפתולי אלהים נפתלתי</foreign>
+                  <msContents>
+                     <msItem xml:id="MS_Laud_Or_122-part2-item1" n="1">
+                        <locus>ff. 144r-183r</locus>
+                        <author ref="http://viaf.org/viaf/89532689">Shats, Hirtsטריביש, נפתלי הירץ</author>
+                        <title>Naftule Elohim niftalti<foreign xml:lang="he">נפתולי אלהים נפתלתי</foreign>
                         </title>
-                                
-                                <note>Printed edition of 1556 Ferrara</note>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-                        </msContents>
-                        <physDesc>
-                            <p>Printed.</p>
-
-                        </physDesc>
-                        <history>
-                            <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
-                        </history>
-                    </msPart>
-
-                    <msPart xml:id="MS_Laud_Or_122-part3" n="3">
-                        <msIdentifier>
+                        <note>Printed edition of 1556 Ferrara</note>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <p>Printed.</p>
+                  </physDesc>
+                  <history>
+                     <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+                  </history>
+               </msPart>
+               <msPart xml:id="MS_Laud_Or_122-part3" n="3">
+                  <msIdentifier>
                      <altIdentifier type="partial">
-                            <idno>MS. Laud Or. 122/3</idno>
-                        </altIdentifier>
+                        <idno>MS. Laud Or. 122/3</idno>
+                     </altIdentifier>
                   </msIdentifier>
-                        <msContents>
-                            <msItem xml:id="MS_Laud_Or_122-part3-item1" n="1">
-                                <locus>ff. 184r-186r</locus>
-                                <author ref="http://viaf.org/viaf/88057479">Gikatilla, Joseph ben
-                                    Abraham, 1248-   ג’קטילה, יוסף בן אברהם</author>
-                                <title>Sod bat Shevaʿ  <foreign xml:lang="he">סוד בת שבע </foreign>
+                  <msContents>
+                     <msItem xml:id="MS_Laud_Or_122-part3-item1" n="1">
+                        <locus>ff. 184r-186r</locus>
+                        <author ref="http://viaf.org/viaf/88057479">Gikatilla, Joseph ben Abraham, 1248-ג’קטילה, יוסף בן אברהם</author>
+                        <title>Sod bat Shevaʿ<foreign xml:lang="he">סוד בת שבע</foreign>
                         </title>
-                                
-                                <note/>
-
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-                            <msItem xml:id="MS_Laud_Or_122-part3-item2" n="2">
-                                <locus>ff. 186r-198r</locus>
-                                <author ref="http://viaf.org/viaf/79260667">Moses ben Shem Tov, de
-                                    Leon, 1250-1305  ליאון, משה די</author>
-                                <title>Ḥibur ba-ḳabalah (extracts)  <foreign xml:lang="he"> חבור בקבלה (קטע)</foreign>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                     <msItem xml:id="MS_Laud_Or_122-part3-item2" n="2">
+                        <locus>ff. 186r-198r</locus>
+                        <author ref="http://viaf.org/viaf/79260667">Moses ben Shem Tov, de Leon, 1250-1305ליאון, משה די</author>
+                        <title>Ḥibur ba-ḳabalah (extracts)<foreign xml:lang="he">חבור בקבלה (קטע)</foreign>
                         </title>
-                                
-                                <note/>
-
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-                            <msItem xml:id="MS_Laud_Or_122-part3-item3" n="3">
-                                <locus>ff. 198v-206r</locus>
-                                <author ref="http://viaf.org/viaf/79054878">Abulafia, Abraham ben
-                                    Samuel, 1240-approximately 1292   אבולעפיה, אברהם בן שמואל</author>
-                                <title>Ḥaye ha-ʿolam ha-ba (extracts) <foreign xml:lang="he">חיי העולם הבא (קטע)</foreign>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                     <msItem xml:id="MS_Laud_Or_122-part3-item3" n="3">
+                        <locus>ff. 198v-206r</locus>
+                        <author ref="http://viaf.org/viaf/79054878">Abulafia, Abraham ben Samuel, 1240-approximately 1292אבולעפיה, אברהם בן שמואל</author>
+                        <title>Ḥaye ha-ʿolam ha-ba (extracts)<foreign xml:lang="he">חיי העולם הבא (קטע)</foreign>
                         </title>
-                                
-                                <note>Fols. 206v-210v are blank.</note>
-
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-                        </msContents>
-                        <physDesc>
-                            <objectDesc form="codex">
-
-                                <supportDesc material="chart">
-                                    <support> paper <watermark>(watermarks are similar to Briquet
-                                        no. 3515, dated 1535-1541)</watermark>
-                                    </support>
-                                    <extent> 27 leaves (ff. 184-210)<dimensions type="leaf" unit="mm">
-                                        <height quantity="205">205</height>
-                                        <width quantity="150">150</width>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation>Foliation in Arabic numerals.</foliation>
-                                    <collation>
-                                        <signatures>No signatures</signatures>,
-                                        <catchwords>catchwords on every verso.</catchwords>
-                                    </collation>
-                                    <condition>Good condition.</condition>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <layout columns="1">
-                                       </layout>
-                                </layoutDesc>
-                            </objectDesc>
-                            <handDesc>
-                                <summary>Italian cursive script</summary>
-                                <handNote scope="sole" script="italian" rend="cursive"> </handNote>
-                            </handDesc>
-                            <decoDesc>
-                                <decoNote type="other">Not decorated.</decoNote>
-                            </decoDesc>
-                            <additions/>
-                        </physDesc>
-                        <history>
-                            <origin>
+                        <note>Fols. 206v-210v are blank.</note>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="chart">
+                           <support>paper<watermark>(watermarks are similar to Briquet no. 3515, dated 1535-1541)</watermark>
+                           </support>
+                           <extent>27 leaves (ff. 184-210)<dimensions type="leaf" unit="mm">
+                                 <height quantity="205">205</height>
+                                 <width quantity="150">150</width>
+                              </dimensions>
+                           </extent>
+                           <foliation>Foliation in Arabic numerals.</foliation>
+                           <collation>
+                              <signatures>No signatures</signatures>,<catchwords>catchwords on every verso.</catchwords>
+                           </collation>
+                           <condition>Good condition.</condition>
+                        </supportDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <summary>Italian cursive script</summary>
+                        <handNote scope="sole" script="italian" rend="cursive"/>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote type="other">Not decorated.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
                         <origPlace>[Italy]</origPlace>
                         <origDate when="1550">[mid-16th century]</origDate>]</origin>
-                            <provenance>Censors' signatures: "visto per me Gio. Dominico Carretto
-                                1618" (fol. 183v); "Domenico Irosolomitano", Aless[and]ro Scipione
-                                1597" (fol. 205v); "visto per me Gio Dominico Carretto 1608" (fol.
-                                206v)</provenance>
-                            <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
-                        </history>
-                    </msPart>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="INDEX">
-                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
-                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
-                            1906</bibl>
+                     <provenance>Censors' signatures: "visto per me Gio. Dominico Carretto 1618" (fol. 183v); "Domenico Irosolomitano", Aless[and]ro Scipione 1597" (fol. 205v); "visto per me Gio Dominico Carretto 1608" (fol. 206v)</provenance>
+                     <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+                  </history>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
-                </taxonomy>
-
-                <taxonomy xml:id="Neubauer">
-                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
-                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
-                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-
-
-            </classDecl>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <term>Kabbalah</term>
-                </keywords>
-
-                <keywords scheme="LCSH">
-                    <term>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Kabbalah</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
                   <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
                </term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2014-01-03">
-                <persName>Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="MS_HEB_X_XX_1a.tif"/>
-
-    </facsimile>
+         <change when="2014-01-03">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

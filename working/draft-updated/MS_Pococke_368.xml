@@ -2,282 +2,180 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_433">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS. Pococke 368</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Poc_368</idno>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Pococke 368</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Poc_368</idno>
             <idno type="msID">MS_Pococke_368</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-
-
-            <sourceDesc>
-                <msDesc xml:id="MS_Pococke_368" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Pococke Collection</collection>
-                        </collection>
-
-                        <idno>MS. Pococke 368</idno>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">2044</idno>
-                                                   </altIdentifier>
-                        <altIdentifier type="other">
-                            <idno type="sum_cat_no">5381</idno>
-                        </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno>Uri 436</idno>
-                        </altIdentifier>
-
-                    </msIdentifier>
-
-                    <msContents>
-                        <summary>Collection of astronomical texts</summary>
-                        <msItem xml:id="MS_Pococke_368-item1" n="1">
-                            <locus>ff.1r-194r, 199r-199v, 203r-217v </locus>
-                          
-                            <author>Yitsḥaḳ ben Yosef, active 13th-14th century  ישראלי, יצחק בן יוסף</author>
-                            <title>Yesod Olam <foreign xml:lang="he">יסוד עולם</foreign>
+         <sourceDesc>
+            <msDesc xml:id="MS_Pococke_368" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsPococke Collection</collection>
+                  <idno>MS. Pococke 368</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Collection of astronomical texts</summary>
+                  <msItem xml:id="MS_Pococke_368-item1" n="1">
+                     <locus>ff.1r-194r, 199r-199v, 203r-217v</locus>
+                     <author>Yitsḥaḳ ben Yosef, active 13th-14th centuryישראלי, יצחק בן יוסף</author>
+                     <title>Yesod Olam<foreign xml:lang="he">יסוד עולם</foreign>
                      </title>
-                            <note>At the beginning and end of the tables are astronomical notes (by
-                                a later hand in Oriental cursive script) signed דעת ר´ יאודה, דעת
-                                ר´א´ם´ ן´ בסן (?) and R. Yitsḥaḳ אלחדב, there occurs the date of
-                                    <date calendar="AM">5265</date> (<date calendar="Gregorian">1505</date>). On fol. 56r the name of the first
-                                scribe, Abraham is marked. He copied fols. 1v-94r.</note>
-                            <colophon/>
-
-                        </msItem>
-
-                        <msItem xml:id="MS_Pococke_368-item2" n="2">
-                            <locus>ff. 194v-198v, 200r-202v, 234r-236v</locus>
-                            <title>Extracts on asntronomy and mathematics </title>
-                            <note>Contains among others extracts on humours and the climate
-                                    (fol. 194v), commentary on the astrolabe
-                                    (fol. 196v), the views of
-                                    <persName>רא"ם</persName> and <persName>Judah b. בסה</persName>
-                                on the date of the seasons in <date calendar="Gregorian">1334</date>
-                                (fol. 198v), commentary on the first part of <persName>ʻImanuʼel ben
-                                    Yaaḳov</persName>'s Six wings(שש כנפים) (fol. 199v), calendars
-                                על דעת אוליבג and for Constantinople (fol. 202r). The years <date calendar="AM">5258</date> [=<date calendar="Gregorian">1498</date>] and <date calendar="AM">5269</date> [=1508/9] are
-                                mentioned. The author of some of the extracts, possibly Isaac ben
-                                Elijah Kohen mentions his commentary on Euclid.</note>
-
-                        </msItem>
-                        <msItem xml:id="MS_Pococke_368-item3" n="3">
-                            <locus>ff. 218r-218v</locus>
-                            
-                            <author ref="http://viaf.org/viaf/61397975">Al-Aḥdab, Iṣḥak ben Shlomo, 1396-1429? יצחק בן שלמה בן צדיק אלחדב ספרדי</author>
-                            <title>Notes on the calendar <foreign xml:lang="he">מאמרים על הלוח</foreign>
+                     <note>At the beginning and end of the tables are astronomical notes (by a later hand in Oriental cursive script) signed דעת ר´ יאודה, דעת ר´א´ם´ ן´ בסן (?) and R. Yitsḥaḳ אלחדב, there occurs the date of<date calendar="AM">5265</date>(<date calendar="Gregorian">1505</date>). On fol. 56r the name of the first scribe, Abraham is marked. He copied fols. 1v-94r.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Pococke_368-item2" n="2">
+                     <locus>ff. 194v-198v, 200r-202v, 234r-236v</locus>
+                     <title>Extracts on asntronomy and mathematics</title>
+                     <note>Contains among others extracts on humours and the climate (fol. 194v), commentary on the astrolabe (fol. 196v), the views of<persName>רא"ם</persName>and<persName>Judah b. בסה</persName>on the date of the seasons in<date calendar="Gregorian">1334</date>(fol. 198v), commentary on the first part of<persName>ʻImanuʼel ben Yaaḳov</persName>'s Six wings(שש כנפים) (fol. 199v), calendars על דעת אוליבג and for Constantinople (fol. 202r). The years<date calendar="AM">5258</date>[=<date calendar="Gregorian">1498</date>] and<date calendar="AM">5269</date>[=1508/9] are mentioned. The author of some of the extracts, possibly Isaac ben Elijah Kohen mentions his commentary on Euclid.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Pococke_368-item3" n="3">
+                     <locus>ff. 218r-218v</locus>
+                     <author ref="http://viaf.org/viaf/61397975">Al-Aḥdab, Iṣḥak ben Shlomo, 1396-1429?יצחק בן שלמה בן צדיק אלחדב ספרדי</author>
+                     <title>Notes on the calendar<foreign xml:lang="he">מאמרים על הלוח</foreign>
                      </title>
-                            <incipit>
-                        <foreign xml:lang="he">"אמר יצחק ... אם יש אל שואל על מולד מן המולדות אם עבר מתי היה"</foreign> 
+                     <incipit>
+                        <foreign xml:lang="he">"אמר יצחק ... אם יש אל שואל על מולד מן המולדות אם עבר מתי היה"</foreign>
                      </incipit>
-                            <note>Second paragraph begins: "אמר יצחק ... ראיתי רבים ועצומי’ חקרו
-                                ודרשו לעשות דרך קצרה במולדות"</note>
-                        </msItem>
-                        <msItem xml:id="MS_Pococke_368-item4" n="4">
-                            <locus>ff. 219v-221v</locus>
-                            <author>Isaac ben Elijah ben Aaron ha-Kohen of Syracuseיצחק בן אליהו הכהן</author>
-                            <title>Treatise on the calendar<foreign xml:lang="he">חבור על הלוח</foreign>
+                     <note>Second paragraph begins: "אמר יצחק ... ראיתי רבים ועצומי’ חקרו ודרשו לעשות דרך קצרה במולדות"</note>
+                  </msItem>
+                  <msItem xml:id="MS_Pococke_368-item4" n="4">
+                     <locus>ff. 219v-221v</locus>
+                     <author>Isaac ben Elijah ben Aaron ha-Kohen of Syracuseיצחק בן אליהו הכהן</author>
+                     <title>Treatise on the calendar<foreign xml:lang="he">חבור על הלוח</foreign>
                      </title>
-                            <note>At the end a note by <persName>Shabtai ben Ovadyah</persName> (the scribe?) on the use of calendars. </note>
-                        </msItem>
-                        
-                        
-                        <msItem xml:id="MS_Pococke_368-item5" n="5">
-                            <locus>ff.222r-233v</locus>
-                            <title>Astronomical tables for <date calendar="Gregorian">1384</date>.</title>
-                            <note>Many of these tables are also found in Paris BnF MS. hèbr. 1085, ff. 85v-. Contains some calendrical tables
-                                which cannot be found in Paris BnF MS. hèbr. 1085 and one of them says that
-                                it was written for Lisbon (לישבונה) (fol. 232r) </note>
-
-                        </msItem>
-                    </msContents>
-
-
-
-                    <physDesc>
-                        <objectDesc form="codex">
-                        <supportDesc material="chart">
-                            <support>paper</support>
-                            <extent>ff. 239 (fols. 237-239 are blank)<dimensions type="other" unit="cm">
-                                <height/>
-                                <width/>
-                            </dimensions>
-                                <dimensions type="written" unit="cm">
-                                    <height/>
-                                    <width/>
-                                </dimensions>
-                            </extent>
-                            <condition>
-                            </condition>
-                        </supportDesc>
-                    </objectDesc>
-                        <handDesc>
-                            <summary>Byzantine semi-cursive scripts</summary>
-                            <handNote scope="sole" script="byzantine" rend="semi-cursive">
-                            </handNote>
-                      </handDesc>
-                        
-                        <additions>
-                            
-                        </additions>
-                        <bindingDesc>
-                            <p>Brown leather binding.</p>
-                        </bindingDesc>
-                        
-                    </physDesc>
-
-
-                    <history>
-                        <origin>
+                     <note>At the end a note by<persName>Shabtai ben Ovadyah</persName>(the scribe?) on the use of calendars.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Pococke_368-item5" n="5">
+                     <locus>ff.222r-233v</locus>
+                     <title>Astronomical tables for<date calendar="Gregorian">1384</date>.</title>
+                     <note>Many of these tables are also found in Paris BnF MS. hèbr. 1085, ff. 85v-. Contains some calendrical tables which cannot be found in Paris BnF MS. hèbr. 1085 and one of them says that it was written for Lisbon (לישבונה) (fol. 232r)</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 239 (fols. 237-239 are blank)<dimensions type="other" unit="cm"/>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Byzantine semi-cursive scripts</summary>
+                     <handNote scope="sole" script="byzantine" rend="semi-cursive"/>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Brown leather binding.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
                      <origPlace>[Byzantium]</origPlace>
                      <origDate notBefore="1476" notAfter="1500">[late 15th century]</origDate>
-                  </origin> 
-                        <provenance>Owners' inscription at the beginning of the MS (fol. 1r): <foreign xml:lang="he">"יוסף ן’ שאנג’י"; "שלמה בכ"ר משה קבולי", מנחם קבולי, יוסף בן יעקב [...].</foreign>, Edw: Pococke. </provenance>
-                        <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
-
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
-                                        Neubauer, Oxford 1886, </bibl>
-                           <ref facs="bej0386.jpg bej0387.jpg">No.
-                                            2044</ref>,<bibl>Catalogue of the Hebrew
-                                        manuscripts in the Bodleian Library; Supplement of Addenda
-                                        and Corrigenda to Vol. I <ref facs="beo0243.jpg beo0244.jpg">No. 2044.
-                                        </ref>
-                           </bibl> and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000094564&amp;local_base=NNLMSS">Institute of
-                                    Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with
-                                    additional enhancements by the cataloguer. </source>
-                            </recordHist>
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-                        <surrogates>
+                  </origin>
+                  <provenance>Owners' inscription at the beginning of the MS (fol. 1r):<foreign xml:lang="he">"יוסף ן’ שאנג’י"; "שלמה בכ"ר משה קבולי", מנחם קבולי, יוסף בן יעקב [...].</foreign>, Edw: Pococke.</provenance>
+                  <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0386.jpg bej0387.jpg">No. 2044</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I<ref facs="beo0243.jpg beo0244.jpg">No. 2044.</ref>
+                           </bibl>and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000094564&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
                      <bibl>
-                            <idno n="MSS R.R. Film No." type="microfilm">F 19329</idno>
-                        </bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 19329</idno>
+                     </bibl>
                   </surrogates>
-                        <listBibl> 
+                  <listBibl>
                      <listBibl>
-                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
-                                Bodleian Library (Oxford, 1886), no. 2044.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                                manuscripts in the Bodleian Library; Supplement of Addenda and
-                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford:
-                                Clarendon Press, 1994), no. 2044.</bibl>
-                        </listBibl>
+                        <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 2044.</bibl>
+                        <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2044.</bibl>
+                     </listBibl>
                   </listBibl>
-                    </additional>
-
-
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="Neubauer">
-                    <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by
-                        Adolf Neubauer, Oxford 1886, </bibl>
-
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="Neubauer">
+               <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-            </classDecl>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <list>
-                        <item>Mathematics</item>
-                        <item/>
-                    </list>
-                </keywords>
-
-                <keywords scheme="LCSH">
-                    <term target="#a2">
-                  <persName>Bonfils, Immanuel ben Jacob</persName>, active 14th
-                        century</term>
-                    <term target="http://lccn.loc.gov/sh85009022">Astronomy, Medieval</term>
-                    <term target="http://lccn.loc.gov/sh85018839">Jewish calendar</term>
-
-                </keywords>
-
-
-                <keywords scheme="IMHM">
-
-                    <list>
-                        <item>
-                     <persName/>
-                  </item>
-                        <item>
-                     <geogName/>
-                  </item>
-                    </list>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <list>
+                  <item>Mathematics</item>
+               </list>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term target="#a2">
+                  <persName>Bonfils, Immanuel ben Jacob</persName>, active 14th century</term>
+               <term target="http://lccn.loc.gov/sh85009022">Astronomy, Medieval</term>
+               <term target="http://lccn.loc.gov/sh85018839">Jewish calendar</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2013-07-05">
-                <persName>Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic/>
-
-
-
-    </facsimile>
+         <change when="2013-07-05">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

@@ -2,315 +2,236 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_354">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS. Laud Or. 233</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Laud_Or_233</idno>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Laud Or. 233</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Laud_Or_233</idno>
             <idno type="msID">MS_Laud_Or_233</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Laud_Or_233" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Laud Oriental Collection</collection>
-                        </collection>
-
-
-
-                        <idno>MS. Laud Or. 233</idno>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">709</idno>
-                        </altIdentifier>
-                        <altIdentifier type="other">
-                            <idno type="sum_cat_no">619</idno>
-                        </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno>Uri 253</idno>
-                        </altIdentifier>
-
-                    </msIdentifier>
-                    <msContents>
-                        <summary>Arbaʿah Ṭurim (Yoreh Deʿah)</summary>
-                        <msItem xml:id="MS_Laud_Or_233-item1" n="1">
-                            <locus>ff. 2r-175v</locus>
-                            <author ref="http://viaf.org/viaf/73882588">Jacob ben Asher,
-                                    approximately 1269-approximately 1340 יעקב בן אשר, ?1270-?1340</author>
-                            <title>Ṭur (Yoreh Deʿah) <foreign xml:lang="he">טור (יורה
-                                    דעה)</foreign>
+         <sourceDesc>
+            <msDesc xml:id="MS_Laud_Or_233" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsLaud Oriental Collection</collection>
+                  <idno>MS. Laud Or. 233</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Arbaʿah Ṭurim (Yoreh Deʿah)</summary>
+                  <msItem xml:id="MS_Laud_Or_233-item1" n="1">
+                     <locus>ff. 2r-175v</locus>
+                     <author ref="http://viaf.org/viaf/73882588">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
+                     <title>Ṭur (Yoreh Deʿah)<foreign xml:lang="he">טור (יורה דעה)</foreign>
                      </title>
-                            <note>Written by Yamin [=Benyamin] ben Mosheh, called Wolf Ḳarnakh on
-                                Friday, 5 Adar Sheni 223 [1463]. According to M. Beit-Arie, the
-                                scribe's name must have been Benyamin (Zeʾev). </note>
-                            <note>Numerous marginal notes.</note>
-                            <colophon>
-                        <foreign xml:lang="he">"ה’ ואדר יום ו’ רכ"ג לפרט לאלף הששי
-                                    ימין [=בנימין] בר’ משה המכונה וואלף קרנך"</foreign>(fol.
-                                175v).</colophon>
-                            <textLang mainLang="he">Hebrew</textLang>
-
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-
-                        <objectDesc form="codex">
-
-                            <supportDesc material="perg">
-
-                                <support> parchment<watermark/>
-                                </support>
-                                <extent>ff. 176<dimensions type="leaf" unit="mm">
-                                        <height quantity="298">298</height>
-                                        <width quantity="210">210</width>
-                                    </dimensions>
-                                </extent>
-                                <foliation>Foliation in Arabic numerals. </foliation>
-                                <collation> 18 quires: i<hi rend="sup">12</hi>, ii-xv<hi rend="sup">10</hi>, xvi<hi rend="sup">8</hi>, xvii<hi rend="sup">10</hi>, xviii<hi rend="sup">6</hi>
-                                    <signatures>no signatures</signatures>, <catchwords>catchword at
-                                        the end of every quire.</catchwords>
-                                </collation>
-                                <condition>In good condition.</condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout columns="2">Text in two columns.</layout>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <summary>Ashkenazi semi-cursive script</summary>
-                            <handNote scope="sole" script="ashkenazi" rend="semi-cursive"> </handNote>
-                        </handDesc>
-                        <decoDesc>
-                            <decoNote type="other"> Decorated and inhabited initial-word
-                                panels, numerous marginal drawings mostly of animals, but also some
-                                human figures. At the end of the MS on fols. 175r and 175r, text in
-                                decorated medallions. Figures in some of the initial-word panels are
-                                defaced (e.g., fol. 2r, 79v).</decoNote>
-                        </decoDesc>
-                        <additions/>
-
-
-                        <bindingDesc>
-                            <p>Brown leather binding, blind-tooled, with the gold-tooled coat of
-                                arms of Archbisop Laud in the middle; holes for straps.</p>
-                        </bindingDesc>
-                    </physDesc>
-                    <history>
-
-                        <origin>
-                            <origPlace>[Ashkenaz]</origPlace>
+                     <note>Written by Yamin [=Benyamin] ben Mosheh, called Wolf Ḳarnakh on Friday, 5 Adar Sheni 223 [1463]. According to M. Beit-Arie, the scribe's name must have been Benyamin (Zeʾev).</note>
+                     <note>Numerous marginal notes.</note>
+                     <colophon>
+                        <foreign xml:lang="he">"ה’ ואדר יום ו’ רכ"ג לפרט לאלף הששי ימין [=בנימין] בר’ משה המכונה וואלף קרנך"</foreign>(fol. 175v).</colophon>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>ff. 176<dimensions type="leaf" unit="mm">
+                              <height quantity="298">298</height>
+                              <width quantity="210">210</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                        <collation>18 quires: i<hi rend="sup">12</hi>, ii-xv<hi rend="sup">10</hi>, xvi<hi rend="sup">8</hi>, xvii<hi rend="sup">10</hi>, xviii<hi rend="sup">6</hi>
+                           <signatures>no signatures</signatures>,<catchwords>catchword at the end of every quire.</catchwords>
+                        </collation>
+                        <condition>In good condition.</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2">Text in two columns.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Ashkenazi semi-cursive script</summary>
+                     <handNote scope="sole" script="ashkenazi" rend="semi-cursive"/>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">Decorated and inhabited initial-word panels, numerous marginal drawings mostly of animals, but also some human figures. At the end of the MS on fols. 175r and 175r, text in decorated medallions. Figures in some of the initial-word panels are defaced (e.g., fol. 2r, 79v).</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Brown leather binding, blind-tooled, with the gold-tooled coat of arms of Archbisop Laud in the middle; holes for straps.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>[Ashkenaz]</origPlace>
                      <origDate when="1463">1463</origDate>
-                        </origin>
-                        <provenance>Owners' inscriptions:<foreign xml:lang="he">אברהם בן לאא מהרר
-                                יצחק במקצנאלבוגין שמעתי והאזנתי בקול מצותיו מן הגאון רמ</foreign>
-                            <foreign xml:lang="he"/> (fol. 1v); "Liber Guil[ielmi] Laude
-                            Archiepi[scopi] Cant[uariensis] et Cancellarii Universit[atis]
-                            Oxon[iensis] 1636" (fol. 1v); <foreign xml:lang="he">ברוך השם אשר לא
-                                נתנני טרף לשינהם. אני אברהם בר יצחק שוואב שליט המכונה אברהם גרונבך
-                            </foreign> (fol. 2r); <foreign xml:lang="he">אני ישעיʹ בר יוסף מנשה(?)
-                            </foreign>(fol. 2r); <foreign xml:lang="he">אני מאיר ברבי משה סגל מק"ק
-                                ליכטנשטאט</foreign> (fols. 80r, 133r, 175v); <foreign xml:lang="he">אני אברהם בר יצחק שוואב שליט מק"ק גרונבך </foreign> (fol. 80r);
-                                <foreign xml:lang="he">"אלחנן בן ישראל אוירנגר מפוירדא אצל נירנברג
-                                בשנת שס"ג"</foreign> (fol. 175v); <foreign xml:lang="he">"יודא בר
-                                שמעון שלי"ט אויערבך",</foreign> (fol. 175v); <foreign xml:lang="he">"יוסף בן אהרן שליט"א מק"ק פלון"</foreign> (fol. 175v); <foreign xml:lang="he">"שמעון בן הרר’ יהודה הנקרא וואלף בן ... ליבאיש פיקא
-                                מקק’ פראג"</foreign> (fol. 175v).</provenance>
-
-                        <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
-                                        Neubauer, Oxford 1886, </bibl>
-                           <ref facs="bej0107.jpg">No.
-                                        709</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
-                                        Bodleian Library; Supplement of Addenda and Corrigenda to
-                                        Vol. I, </bibl>
-                           <ref facs="beo0110.jpg">No. 709</ref>, and on
-                                    the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000090402&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,
-                                    National Library of Israel with additional enhancements by the
-                                    cataloguer. </source>
-
-                            </recordHist>
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-
-                        <surrogates>
-                            <bibl>
-                                <idno n="MSS R.R. Film No." type="microfilm">F 20935</idno>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
-                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
-                                Bodleian Library (Oxford, 1886), no. 709.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                                manuscripts in the Bodleian Library; Supplement of Addenda and
-                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
-                                Press, 1994), no. 709.</bibl>
-                        </listBibl>
-                    </additional>
-
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="INDEX">
-                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
-                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
-                            1906</bibl>
+                  </origin>
+                  <provenance>Owners' inscriptions:<foreign xml:lang="he">אברהם בן לאא מהרר יצחק במקצנאלבוגין שמעתי והאזנתי בקול מצותיו מן הגאון רמ</foreign>
+                     <foreign xml:lang="he"/>(fol. 1v); "Liber Guil[ielmi] Laude Archiepi[scopi] Cant[uariensis] et Cancellarii Universit[atis] Oxon[iensis] 1636" (fol. 1v);<foreign xml:lang="he">ברוך השם אשר לא נתנני טרף לשינהם. אני אברהם בר יצחק שוואב שליט המכונה אברהם גרונבך</foreign>(fol. 2r);<foreign xml:lang="he">אני ישעיʹ בר יוסף מנשה(?)</foreign>(fol. 2r);<foreign xml:lang="he">אני מאיר ברבי משה סגל מק"ק ליכטנשטאט</foreign>(fols. 80r, 133r, 175v);<foreign xml:lang="he">אני אברהם בר יצחק שוואב שליט מק"ק גרונבך</foreign>(fol. 80r);<foreign xml:lang="he">"אלחנן בן ישראל אוירנגר מפוירדא אצל נירנברג בשנת שס"ג"</foreign>(fol. 175v);<foreign xml:lang="he">"יודא בר שמעון שלי"ט אויערבך",</foreign>(fol. 175v);<foreign xml:lang="he">"יוסף בן אהרן שליט"א מק"ק פלון"</foreign>(fol. 175v);<foreign xml:lang="he">"שמעון בן הרר’ יהודה הנקרא וואלף בן ... ליבאיש פיקא מקק’ פראג"</foreign>(fol. 175v).</provenance>
+                  <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0107.jpg">No. 709</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0110.jpg">No. 709</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000090402&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 20935</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 709.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 709.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
-                </taxonomy>
-
-                <taxonomy xml:id="Neubauer">
-                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
-                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
-                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-
-
-            </classDecl>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <term>Thalmud, Halakhah</term>
-                </keywords>
-
-                <keywords scheme="LCSH">
-                    <term>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Thalmud, Halakhah</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
                   <placeName>Ichenhausen (Germany)</placeName>
                </term>
-                    <term>
+               <term>
                   <placeName>Fürth (Bavaria, Germany)</placeName>
                </term>
-                    <term>
-                  <placeName ref="http://viaf.org/viaf/153543031">Prague (Czech
-                            Republic)</placeName>
+               <term>
+                  <placeName ref="http://viaf.org/viaf/153543031">Prague (Czech Republic)</placeName>
                </term>
-                    <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William,
-                            1573-1645</persName>
+               <term>
+                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
                </term>
-                </keywords>
-
-                <keywords scheme="IMHM">
-                    <term>
+            </keywords>
+            <keywords scheme="IMHM">
+               <term>
                   <persName>Yamin ben Mosheh Ṿolf</persName>
                </term>
-                    <term>
+               <term>
                   <persName>Benyamin ben Mosheh Wolf</persName>
                </term>
-                    <term>
+               <term>
                   <persName xml:lang="he">קרנך, בנימין וולף בן משה</persName>
                </term>
-                    <term>
+               <term>
                   <persName xml:lang="he">בלומא, רפאל</persName>
                </term>
-                    <term>
+               <term>
                   <persName xml:lang="he">ישעיה בן יוסף מנשה</persName>
                </term>
-                    <term>
+               <term>
                   <persName xml:lang="he">גרונבך, אברהם בן יצחק</persName>
                </term>
-                    <term>
+               <term>
                   <persName xml:lang="he">קצנלנבוגן, אברהם בן יצחק</persName>
                </term>
-                    <term>
+               <term>
                   <persName xml:lang="he">סגל, מאיר בן משה</persName>
                </term>
-                    <term>
-                  <persName xml:lang="he">אוירנגר, אלחנן בן ישראל </persName>
+               <term>
+                  <persName xml:lang="he">אוירנגר, אלחנן בן ישראל</persName>
                </term>
-                    <term>
-                  <persName xml:lang="he"> יוסף בן אהרן מק"ק פלון</persName>
+               <term>
+                  <persName xml:lang="he">יוסף בן אהרן מק"ק פלון</persName>
                </term>
-                    <term>
-                  <persName xml:lang="he">פיקא, שמעון בן יהודה </persName>
+               <term>
+                  <persName xml:lang="he">פיקא, שמעון בן יהודה</persName>
                </term>
-                    <term>
-                  <persName xml:lang="he">אוירבך, יהודה בן שמעון </persName>
+               <term>
+                  <persName xml:lang="he">אוירבך, יהודה בן שמעון</persName>
                </term>
-                    <term>
-                  <placeName xml:lang="he">איכהוזן </placeName>
+               <term>
+                  <placeName xml:lang="he">איכהוזן</placeName>
                </term>
-                    <term>
-                  <placeName xml:lang="he">ליכטנשטאט </placeName>
+               <term>
+                  <placeName xml:lang="he">ליכטנשטאט</placeName>
                </term>
-                    <term>
-                  <placeName xml:lang="he">פיורדא </placeName>
+               <term>
+                  <placeName xml:lang="he">פיורדא</placeName>
                </term>
-                    <term>
-                  <placeName xml:lang="he">פלון </placeName>
+               <term>
+                  <placeName xml:lang="he">פלון</placeName>
                </term>
-                    <term>
-                  <placeName xml:lang="he">פראג </placeName>
+               <term>
+                  <placeName xml:lang="he">פראג</placeName>
                </term>
-
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2014-01-17">
-                <persName> Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="MS_HEB_X_XX_1a.tif"/>
-
-    </facsimile>
+         <change when="2014-01-17">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

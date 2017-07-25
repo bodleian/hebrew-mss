@@ -2,233 +2,164 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_355">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS. Laud Or. 234</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Laud_Or_234</idno>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Laud Or. 234</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Laud_Or_234</idno>
             <idno type="msID">MS_Laud_Or_234</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Laud_Or_234" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Laud Oriental Collection</collection>
-                        </collection>
-
-
-
-                        <idno>MS. Laud Or. 234</idno>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">1250</idno>
-                        </altIdentifier>
-                  <altIdentifier type="other">
-                     <idno type="sum_cat_no">620</idno>
-                  </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno>Uri 305</idno>
-                        </altIdentifier>
-
-                    </msIdentifier>
-                    <msContents>
-                        <summary>Moreh Nevukhim</summary>
-                        <msItem xml:id="MS_Laud_Or_234-item1" n="1">
-                            <locus>ff. 1r-216v</locus>
-                            <author ref="http://viaf.org/viaf/100185495">Maimonides, Moses,
-                                1135-1204   משה בן מימון </author>
-                            <title>Moreh Nevukhim   <foreign xml:lang="he">מורה נבוכים</foreign>
-                     </title>                            
-                            <note/>
-                            <colophon/>
-                            <textLang mainLang="he">Hebrew</textLang>
-
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-
-                        <objectDesc form="codex">
-
-                            <supportDesc material="perg">
-
-                                <support> parchment<watermark/>
-                                </support>
-                                <extent> ff. 216 <dimensions type="leaf" unit="mm">
-                                        <height quantity="290">290</height>
-                                        <width quantity="210">210</width>
-                                    </dimensions>
-                                </extent>
-                                <foliation/>
-                                <collation>
-                                </collation>
-                                <condition/>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout columns="1">   </layout>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <summary>Sephardi semi-cursive script.</summary>
-                            <handNote scope="sole" script="sephardi" rend="semi-cursive"> </handNote>
-                        </handDesc>
-                        <decoDesc>
-                            <decoNote type="initial"> Illuminated full page initial-word panels with
-                                full floral border at the beginning of the work and at the beginning
-                                of books 2 and 3 (fols. 7v, 141v, fol. 83v); and illuminated
-                                initial-word panels(fols. 82r, 142r).</decoNote>
-                        </decoDesc>
-                        <additions>
-                            <p>Fols. 2-6 are a later addition on paper containing: "Index sectionum
-                                quae in hoc libro citantur."</p>
-                        </additions>
-                        <bindingDesc>
-                            <p>Brown leather binding, blind-tooled, with the gold-tooled coat of
-                                arms of Archbisop Laud in the middle; holes for straps. Binding repaired in July 1963 by Maltby.</p>
-                        </bindingDesc>
-                    </physDesc>
-                    <history>
-
-                        <origin>
-                            <origPlace>[Spain]</origPlace>
-                     <origDate when="1300">[ca.
-                                1300]</origDate>
-                        </origin>
-                        <provenance>Ownership inscription: "Liber Guilielmi Laud Archiepi[scopi]
-                            Cant[uariensis] et Cancellar[ii] Universitatis Oxon[iensis] 1634" (fol.
-                            1r); erased Arabic (?) note on fol. 1r; erased Hebrew note on fol. 215v,
-                            undeciphered Hebrew inscription on fol. 216r </provenance>
-
-                        <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
-                                        Neubauer, Oxford 1886, </bibl>
-                           <ref facs="bej0256.jpg">No.
-                                        1250</ref>, <bibl>Catalogue of the Hebrew manuscripts in
-                                        the Bodleian Library; Supplement of Addenda and Corrigenda
-                                        to Vol. I, </bibl>
-                           <ref facs="beo0158.jpg">No. 1250</ref>,
-                                    and on the data of the Institute of Microfilmed Hebrew
-                                    Manuscripts, National Library of Israel with additional
-                                    enhancements by the cataloguer. </source>
-
-                            </recordHist>
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-
-                        <surrogates>
-                            <bibl>
-                                <idno n="MSS R.R. Film No." type="microfilm">F 22064</idno>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
-                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
-                                Bodleian Library (Oxford, 1886), no. 1250.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                                manuscripts in the Bodleian Library; Supplement of Addenda and
-                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
-                                Press, 1994), no. 1250.</bibl>
-                        </listBibl>
-                    </additional>
-
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="INDEX">
-                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
-                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
-                            1906</bibl>
+         <sourceDesc>
+            <msDesc xml:id="MS_Laud_Or_234" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsLaud Oriental Collection</collection>
+                  <idno>MS. Laud Or. 234</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Moreh Nevukhim</summary>
+                  <msItem xml:id="MS_Laud_Or_234-item1" n="1">
+                     <locus>ff. 1r-216v</locus>
+                     <author ref="http://viaf.org/viaf/100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <title>Moreh Nevukhim<foreign xml:lang="he">מורה נבוכים</foreign>
+                     </title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>ff. 216<dimensions type="leaf" unit="mm">
+                              <height quantity="290">290</height>
+                              <width quantity="210">210</width>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Sephardi semi-cursive script.</summary>
+                     <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="initial">Illuminated full page initial-word panels with full floral border at the beginning of the work and at the beginning of books 2 and 3 (fols. 7v, 141v, fol. 83v); and illuminated initial-word panels(fols. 82r, 142r).</decoNote>
+                  </decoDesc>
+                  <additions>
+                     <p>Fols. 2-6 are a later addition on paper containing: "Index sectionum quae in hoc libro citantur."</p>
+                  </additions>
+                  <bindingDesc>
+                     <p>Brown leather binding, blind-tooled, with the gold-tooled coat of arms of Archbisop Laud in the middle; holes for straps. Binding repaired in July 1963 by Maltby.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>[Spain]</origPlace>
+                     <origDate when="1300">[ca. 1300]</origDate>
+                  </origin>
+                  <provenance>Ownership inscription: "Liber Guilielmi Laud Archiepi[scopi] Cant[uariensis] et Cancellar[ii] Universitatis Oxon[iensis] 1634" (fol. 1r); erased Arabic (?) note on fol. 1r; erased Hebrew note on fol. 215v, undeciphered Hebrew inscription on fol. 216r</provenance>
+                  <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0256.jpg">No. 1250</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0158.jpg">No. 1250</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 22064</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 1250.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1250.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
-                </taxonomy>
-
-                <taxonomy xml:id="Neubauer">
-                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
-                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
-                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-
-
-            </classDecl>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <term>Theology</term>
-                </keywords>
-
-                <keywords scheme="LCSH">
-                    <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William,
-                            1573-1645</persName>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Theology</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
+                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
                </term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2014-01-03">
-                <persName> Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="MS_HEB_X_XX_1a.tif"/>
-
-    </facsimile>
+         <change when="2014-01-03">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

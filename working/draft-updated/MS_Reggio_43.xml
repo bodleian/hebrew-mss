@@ -2,559 +2,406 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_458">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS. Reggio 43</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Reggio_43</idno>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Reggio 43</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Reggio_43</idno>
             <idno type="msID">MS_Reggio_43</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Reggio_43" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Reggio Collection</collection>
-                        </collection>
-
-
-
-                        <idno>MS. Reggio 43</idno>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">2047</idno>
-                        </altIdentifier>
-                        <altIdentifier type="other">
-                            <idno type="sum_cat_no">S.C. 24373</idno>
-                        </altIdentifier>
-
-
-
-                    </msIdentifier>
-                    <physDesc>
-                        <p>ff. 103</p>
-                        <bindingDesc>
-                            <p>Half bound, blind-tooled, violet textile.</p>
-                        </bindingDesc>
-                    </physDesc>
-                    <history>
-                        <acquisition>It belonged to Rabbi Isaac Samuel Reggio's (1784-1855) library,
-                            which was purchased en bloc by the Bodleian Library in
-                            1853.</acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                        Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf
-                                        Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0387.jpg">No.
-                                        2047</ref>, <bibl>Catalogueof the Hebrew manuscripts in
-                                        the Bodleian Library; Supplement of Addenda and Corrigenda
-                                        to Vol. I</bibl>
-                           <ref facs="beo0244.jpg">No. 2047</ref>),
-                                    and on the data of the Institute of Microfilmed Hebrew
-                                    Manuscripts, National Library of Israel with additional
-                                    enhancements by the cataloguer. </source>
-                            </recordHist>
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl>
-                                <idno n="MSS R.R. Film No." type="microfilm">F 19332</idno>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
-                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the
-                                Bodleian Library (Oxford, 1886), no. 2047.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                                manuscripts in the Bodleian Library; Supplement of Addenda and
-                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
-                                Press, 1994), no. 2047.</bibl>
-                        </listBibl>
-                    </additional>
-                    <msPart xml:id="MS_Reggio_43-part1" n="1">
-                        <msIdentifier>
+         <sourceDesc>
+            <msDesc xml:id="MS_Reggio_43" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsReggio Collection</collection>
+                  <idno>MS. Reggio 43</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>ff. 103</p>
+                  <bindingDesc>
+                     <p>Half bound, blind-tooled, violet textile.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>It belonged to Rabbi Isaac Samuel Reggio's (1784-1855) library, which was purchased en bloc by the Bodleian Library in 1853.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0387.jpg">No. 2047</ref>,<bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0244.jpg">No. 2047</ref>), and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 19332</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 2047.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2047.</bibl>
+                  </listBibl>
+               </additional>
+               <msPart xml:id="MS_Reggio_43-part1" n="1">
+                  <msIdentifier>
                      <altIdentifier type="partial">
-                            <idno>MS. Reggio 43/1</idno>
-                        </altIdentifier>
+                        <idno>MS. Reggio 43/1</idno>
+                     </altIdentifier>
                   </msIdentifier>
-                        <msContents>
-                            <summary>Collection of astrological and astronomical texts</summary>
-                            <msItem xml:id="MS_Reggio_43-part1-item1" n="1">
-                                <locus>ff. 1r-41v</locus>
-                                <author ref="http://viaf.org/viaf/13522985">Duran,
-                                        Profiat, approximately 1350-approximately
-                                    1415דורן, שמעון בן צמח,
-                                        1361-1444</author>
-                                <title>Heshev ha-ʾefod</title>
-                                <title xml:lang="he"> חשב האפד</title>
-                                <note/>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-                        </msContents>
-
-                        <physDesc>
-                            <objectDesc form="codex">
-
-                                <supportDesc material="chart">
-
-                                    <support> Paper with outer and inner sheets of quires made of
-                                        parchment<watermark> (watermarks similar to Briquet no.
-                                            13932, dated 1393 and 1397 [also 1389-1420])</watermark>
-                                    </support>
-                                    <extent> ff. 41<dimensions type="leaf" unit="mm">
-                                            <height quantity="215"/>
-                                            <width quantity="135"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation>Foliation in Arabic numerals.</foliation>
-                                    <collation>
-                                        <signatures>no signatures</signatures>
-                                        <catchwords>catchwords on almost every verso </catchwords>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <layout columns="1">Text in one column.</layout>
-                                </layoutDesc>
-                            </objectDesc>
-                            <handDesc>
-                                <summary>Sephardi semi-cursive and cursive script.</summary>
-                                <handNote scope="sole" script="sephardi" rend="semi-cursive">Semi
-                                    cursive script fols. 1r-37v </handNote>
-                                <handNote scope="sole" script="sephardi" rend="cursive">cursive
-                                    script fols. 37v-41v</handNote>
-                                <handNote scope="sole" script="sephardi" rend="semi-cursive">Fol. 25
-                                    by another hand.</handNote>
-
-                            </handDesc>
-                            <decoDesc>
-                                <decoNote type="diagram"> Diagrams inserted into the body of the
-                                    text (fols. 8r, 10v) </decoNote>
-                            </decoDesc>
-                            <additions>
-                        <ref target="#MS_Reggio_43_2_a">End is completed by later
-                                    hand.</ref>
+                  <msContents>
+                     <summary>Collection of astrological and astronomical texts</summary>
+                     <msItem xml:id="MS_Reggio_43-part1-item1" n="1">
+                        <locus>ff. 1r-41v</locus>
+                        <author ref="http://viaf.org/viaf/13522985">Duran, Profiat, approximately 1350-approximately 1415דורן, שמעון בן צמח, 1361-1444</author>
+                        <title>Heshev ha-ʾefod</title>
+                        <title xml:lang="he">חשב האפד</title>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="chart">
+                           <support>Paper with outer and inner sheets of quires made of parchment<watermark>(watermarks similar to Briquet no. 13932, dated 1393 and 1397 [also 1389-1420])</watermark>
+                           </support>
+                           <extent>ff. 41<dimensions type="leaf" unit="mm">
+                                 <height quantity="215"/>
+                                 <width quantity="135"/>
+                              </dimensions>
+                           </extent>
+                           <foliation>Foliation in Arabic numerals.</foliation>
+                           <collation>
+                              <signatures>no signatures</signatures>
+                              <catchwords>catchwords on almost every verso</catchwords>
+                           </collation>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout columns="1">Text in one column.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <summary>Sephardi semi-cursive and cursive script.</summary>
+                        <handNote scope="sole" script="sephardi" rend="semi-cursive">Semi cursive script fols. 1r-37v</handNote>
+                        <handNote scope="sole" script="sephardi" rend="cursive">cursive script fols. 37v-41v</handNote>
+                        <handNote scope="sole" script="sephardi" rend="semi-cursive">Fol. 25 by another hand.</handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote type="diagram">Diagrams inserted into the body of the text (fols. 8r, 10v)</decoNote>
+                     </decoDesc>
+                     <additions>
+                        <ref target="#MS_Reggio_43_2_a">End is completed by later hand.</ref>
                      </additions>
-
-                        </physDesc>
-                        <history>
-                            <origin>
+                  </physDesc>
+                  <history>
+                     <origin>
                         <origPlace>[Provence?]</origPlace>
-                        <origDate when="1400">[ca.
-                                    1400]</origDate>
+                        <origDate when="1400">[ca. 1400]</origDate>
                      </origin>
-                        </history>
-                    </msPart>
-
-                    <msPart xml:id="MS_Reggio_43-part2" n="2">
-                        <msIdentifier>
+                  </history>
+               </msPart>
+               <msPart xml:id="MS_Reggio_43-part2" n="2">
+                  <msIdentifier>
                      <altIdentifier type="partial">
-                            <idno>MS. Reggio 43/2</idno>
-                        </altIdentifier>
+                        <idno>MS. Reggio 43/2</idno>
+                     </altIdentifier>
                   </msIdentifier>
-                        <msContents>
-
-                            <msItem xml:id="MS_Reggio_43-part2-item1" n="1">
-                                <locus>ff. 42r-48v</locus>
-                                <author ref="http://viaf.org/viaf/13522985">Duran,
-                                        Profiat, approximately 1350-approximately
-                                        1415דורן, יצחק בן משה</author>
-                                <title>Heshev ha-ʾefod</title>
-
-                                <note>Completition of previous by <persName ref="http://viaf.org/viaf/88978405">Baer
-                                    Goldberg</persName>. Note at the beginning: 'Suppl. ad Cod.
-                                    Reggio 43'</note>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-
-                        </msContents>
-                        <physDesc>
-
-                            <objectDesc form="codex">
-
-                                <supportDesc material="chart">
-
-                                    <support> paper <watermark/>
-                                    </support>
-                                    <extent> ff. 10 (fols. 42r-49(iii)v) <dimensions type="leaf" unit="mm">
-                                            <height quantity="200"/>
-                                            <width quantity="144"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation>Foliation in Arabic numerals, continuation of the
-                                        previous part, four leaves are numbered as fol. 49 (fol.
-                                        49(iv) belogns to <ref target="MS_Reggio_43_3">Part 3</ref>
-                                    </foliation>
-                                    <collation>
-                                        <signatures>no signatures</signatures>
-                                        <catchwords>no catchwords</catchwords>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <layout columns="1">Text in one column. </layout>
-                                </layoutDesc>
-                            </objectDesc>
-                            <handDesc>
-                                <summary>Rashi script.</summary>
-                                <handNote scope="sole" script="rashi"> </handNote>
-
-                            </handDesc>
-                            <decoDesc>
-                                <decoNote type="other"> Not decorated. </decoNote>
-                            </decoDesc>
-                            <additions/>
-                        </physDesc>
-                        <history>
-                            <origin>
+                  <msContents>
+                     <msItem xml:id="MS_Reggio_43-part2-item1" n="1">
+                        <locus>ff. 42r-48v</locus>
+                        <author ref="http://viaf.org/viaf/13522985">Duran, Profiat, approximately 1350-approximately 1415דורן, יצחק בן משה</author>
+                        <title>Heshev ha-ʾefod</title>
+                        <note>Completition of previous by<persName ref="http://viaf.org/viaf/88978405">Baer Goldberg</persName>. Note at the beginning: 'Suppl. ad Cod. Reggio 43'</note>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="chart">
+                           <support>paper</support>
+                           <extent>ff. 10 (fols. 42r-49(iii)v)<dimensions type="leaf" unit="mm">
+                                 <height quantity="200"/>
+                                 <width quantity="144"/>
+                              </dimensions>
+                           </extent>
+                           <foliation>Foliation in Arabic numerals, continuation of the previous part, four leaves are numbered as fol. 49 (fol. 49(iv) belogns to<ref target="MS_Reggio_43_3">Part 3</ref>
+                           </foliation>
+                           <collation>
+                              <signatures>no signatures</signatures>
+                              <catchwords>no catchwords</catchwords>
+                           </collation>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout columns="1">Text in one column.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <summary>Rashi script.</summary>
+                        <handNote scope="sole" script="rashi"/>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote type="other">Not decorated.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
                         <origDate when="1853">ca. 1853</origDate>
                      </origin>
-                        </history>
-                    </msPart>
-
-                    <msPart xml:id="MS_Reggio_43-part3" n="3">
-                        <msIdentifier>
+                  </history>
+               </msPart>
+               <msPart xml:id="MS_Reggio_43-part3" n="3">
+                  <msIdentifier>
                      <altIdentifier type="partial">
-                            <idno>MS. Reggio 43/3</idno>
-                        </altIdentifier>
+                        <idno>MS. Reggio 43/3</idno>
+                     </altIdentifier>
                   </msIdentifier>
-                        <msContents>
-
-                            <msItem xml:id="MS_Reggio_43-part3-item1" n="3">
-                                <locus>ff. 50v-64v</locus>
-                                <author ref="http://viaf.org/viaf/56636061">Abū al-Qāsim
-                                        Khalaf ibn ʻAbbās al-Zahrāwī, -1013?
-                                    זהראוי, כ’לף בן אלעבאס</author>
-                                <title>Sefer ha-ḥefets ha-shalem (Book 2)</title>
-                                <title xml:lang="he">החפץ השלם (ספר ב)</title>
-                                <note>Translated from the Arabic by <persName>Meshullam ben
-                                        Yonah</persName>
+                  <msContents>
+                     <msItem xml:id="MS_Reggio_43-part3-item1" n="3">
+                        <locus>ff. 50v-64v</locus>
+                        <author ref="http://viaf.org/viaf/56636061">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013?זהראוי, כ’לף בן אלעבאס</author>
+                        <title>Sefer ha-ḥefets ha-shalem (Book 2)</title>
+                        <title xml:lang="he">החפץ השלם (ספר ב)</title>
+                        <note>Translated from the Arabic by<persName>Meshullam ben Yonah</persName>
                         </note>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-                        </msContents>
-                        <physDesc>
-                            <p>[Physical description in printed catalogue]</p>
-                            <objectDesc form="codex">
-                                <supportDesc material="chart">
-
-                                    <support> paper, <watermark> watermarks: Briquet no. 8186, dated
-                                            1328</watermark>
-                                    </support>
-                                    <extent> ff. 15 (fols. 49(iv)-64)<dimensions type="leaf" unit="mm">
-                                            <height quantity="222"/>
-                                            <width quantity="147"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation>Foliation in Arabic numerals, continuous with
-                                        previous <ref target="#MS_Reggio_43_1_a">item</ref>; fol.
-                                        49(iv) later sheet to divide the different sections of the
-                                        volume, text starts on fol. 50r</foliation>
-                                    <collation> 1 quire of 12 leaves + 2 leaves <signatures>no
-                                            signature</signatures>
-                                        <catchwords>catchword at the end of quire</catchwords>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <layout columns="1">Main text in one column. Ruling in pencil is
-                                        visible.</layout>
-                                </layoutDesc>
-                            </objectDesc>
-                            <handDesc>
-                                <summary>Italian semi-cursive script.</summary>
-                                <handNote scope="sole" script="italian" rend="semi-cursive"> </handNote>
-                            </handDesc>
-                            <decoDesc>
-                                <decoNote type="other"> Not decorated. </decoNote>
-                            </decoDesc>
-                            <additions/>
-
-
-                        </physDesc>
-                        <history>
-                            <origin>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <p>[Physical description in printed catalogue]</p>
+                     <objectDesc form="codex">
+                        <supportDesc material="chart">
+                           <support>paper,<watermark>watermarks: Briquet no. 8186, dated 1328</watermark>
+                           </support>
+                           <extent>ff. 15 (fols. 49(iv)-64)<dimensions type="leaf" unit="mm">
+                                 <height quantity="222"/>
+                                 <width quantity="147"/>
+                              </dimensions>
+                           </extent>
+                           <foliation>Foliation in Arabic numerals, continuous with previous<ref target="#MS_Reggio_43_1_a">item</ref>; fol. 49(iv) later sheet to divide the different sections of the volume, text starts on fol. 50r</foliation>
+                           <collation>1 quire of 12 leaves + 2 leaves<signatures>no signature</signatures>
+                              <catchwords>catchword at the end of quire</catchwords>
+                           </collation>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout columns="1">Main text in one column. Ruling in pencil is visible.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <summary>Italian semi-cursive script.</summary>
+                        <handNote scope="sole" script="italian" rend="semi-cursive"/>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote type="other">Not decorated.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
                         <origPlace>[Italy]</origPlace>
                         <origDate notBefore="1301" notAfter="1325">[early 14th century]</origDate>
                      </origin>
-                        </history>
-                    </msPart>
-
-                    <msPart xml:id="MS_Reggio_43-part4" n="4">
-                        <msIdentifier>
+                  </history>
+               </msPart>
+               <msPart xml:id="MS_Reggio_43-part4" n="4">
+                  <msIdentifier>
                      <altIdentifier type="partial">
-                            <idno>MS. Reggio 43/4</idno>
-                        </altIdentifier>
+                        <idno>MS. Reggio 43/4</idno>
+                     </altIdentifier>
                   </msIdentifier>
-                        <msContents>
-
-                            <msItem xml:id="MS_Reggio_43-part4-item1" n="4">
-                                <locus>ff. 65r-68r</locus>
-                                <author ref="http://viaf.org/viaf/100185495">Maimonides,
-                                        Moses, 1135-1204משה בן מימון,
-                                    1138-1204</author>
-                                <title>Guide for the Perplexed (Moreh Nevukhim, 3:27-29)</title>
-                                <title xml:lang="he"> מורה נבוכים (חלק ג פרק כז-כט) ‬</title>
-                                <note>End is incomplete, scribal note in the lower margin of fol.
-                                    68r: <foreign xml:lang="he">אין יותר בהעתק</foreign>
+                  <msContents>
+                     <msItem xml:id="MS_Reggio_43-part4-item1" n="4">
+                        <locus>ff. 65r-68r</locus>
+                        <author ref="http://viaf.org/viaf/100185495">Maimonides, Moses, 1135-1204משה בן מימון, 1138-1204</author>
+                        <title>Guide for the Perplexed (Moreh Nevukhim, 3:27-29)</title>
+                        <title xml:lang="he">מורה נבוכים (חלק ג פרק כז-כט) ‬</title>
+                        <note>End is incomplete, scribal note in the lower margin of fol. 68r:<foreign xml:lang="he">אין יותר בהעתק</foreign>
                         </note>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-                            <msItem xml:id="MS_Reggio_43-part4-item2" n="5">
-                                <locus>ff. 68v-69r</locus>
-                                <author/>
-                                <title>Philosophico-mystical fragment</title>
-                                <title xml:lang="he">קטע בקבלה ‬</title>
-                                <note>Beginning with scribal note in upper margin: <foreign xml:lang="he">מצאתי בספר אחר</foreign>, text starts with
-                                        <foreign xml:lang="he"> אתה בן אדם דע והבן והשכל בסוד האמתי
-                                        המורה על סוד מציאות חלקי העולם</foreign>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                     <msItem xml:id="MS_Reggio_43-part4-item2" n="5">
+                        <locus>ff. 68v-69r</locus>
+                        <title>Philosophico-mystical fragment</title>
+                        <title xml:lang="he">קטע בקבלה ‬</title>
+                        <note>Beginning with scribal note in upper margin:<foreign xml:lang="he">מצאתי בספר אחר</foreign>, text starts with<foreign xml:lang="he">אתה בן אדם דע והבן והשכל בסוד האמתי המורה על סוד מציאות חלקי העולם</foreign>
                         </note>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-                            <msItem xml:id="MS_Reggio_43-part4-item3" n="5">
-                                <locus>ff. 69v-73v</locus>
-                                <author>Fārābīפראבי, מחמד בן מחמד אבו
-                                        נצר</author>
-                                <title>Treatise on the soul (Maʾamar be-mahut ha-nefesh)</title>
-                                <title xml:lang="he"> מאמר במהות הנפש</title>
-                                <note>Translated from the Arabic by <persName ref="http://viaf.org/viaf/298816042">Zerahiah ben Isaac ben
-                                        Shealtiel</persName>.</note>
-                                <note>In the lower margin of fol. 73r: <foreign xml:lang="he">רגלי
-                                        עמדה במישור</foreign>(Ps. 26:12)</note>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-
-
-                        </msContents>
-                        <physDesc>
-
-                            <objectDesc form="codex">
-                                <supportDesc material="chart">
-
-                                    <support> Very think paper <watermark>(fragments of watermarks
-                                            on upper margin of fol. 67 abd 71 [not conjugate leaves]
-                                            perhaps similar to Briquet no. 8322, dated
-                                            1319)</watermark>
-                                    </support>
-                                    <extent> ff. 9<dimensions type="leaf" unit="mm">
-                                            <height quantity="223"/>
-                                            <width quantity="145"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation>Foliation in Arabic numerals, continuous with
-                                        previous parts</foliation>
-                                    <collation> 1 quire of 10-1 leaves (or 8+1) <signatures>no
-                                            signature</signatures>
-                                        <catchwords>no catchwords </catchwords>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <layout columns="1">Text in one column. Pricking and ruling is
-                                        visible. </layout>
-                                </layoutDesc>
-                            </objectDesc>
-                            <handDesc>
-                                <summary>Italian cursive script.</summary>
-                                <handNote scope="sole" script="italian" rend="cursive"> </handNote>
-                            </handDesc>
-                            <decoDesc>
-                                <decoNote type="other"> Not decorated. </decoNote>
-                            </decoDesc>
-                            <additions/>
-
-
-                        </physDesc>
-                        <history>
-                            <origin>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                     <msItem xml:id="MS_Reggio_43-part4-item3" n="5">
+                        <locus>ff. 69v-73v</locus>
+                        <author>Fārābīפראבי, מחמד בן מחמד אבו נצר</author>
+                        <title>Treatise on the soul (Maʾamar be-mahut ha-nefesh)</title>
+                        <title xml:lang="he">מאמר במהות הנפש</title>
+                        <note>Translated from the Arabic by<persName ref="http://viaf.org/viaf/298816042">Zerahiah ben Isaac ben Shealtiel</persName>.</note>
+                        <note>In the lower margin of fol. 73r:<foreign xml:lang="he">רגלי עמדה במישור</foreign>(Ps. 26:12)</note>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="chart">
+                           <support>Very think paper<watermark>(fragments of watermarks on upper margin of fol. 67 abd 71 [not conjugate leaves] perhaps similar to Briquet no. 8322, dated 1319)</watermark>
+                           </support>
+                           <extent>ff. 9<dimensions type="leaf" unit="mm">
+                                 <height quantity="223"/>
+                                 <width quantity="145"/>
+                              </dimensions>
+                           </extent>
+                           <foliation>Foliation in Arabic numerals, continuous with previous parts</foliation>
+                           <collation>1 quire of 10-1 leaves (or 8+1)<signatures>no signature</signatures>
+                              <catchwords>no catchwords</catchwords>
+                           </collation>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout columns="1">Text in one column. Pricking and ruling is visible.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <summary>Italian cursive script.</summary>
+                        <handNote scope="sole" script="italian" rend="cursive"/>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote type="other">Not decorated.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
                         <origPlace>[Italy]</origPlace>
-                        <origDate when="1300">[ca.
-                                    1300]</origDate>
+                        <origDate when="1300">[ca. 1300]</origDate>
                      </origin>
-                        </history>
-                    </msPart>
-
-                    <msPart xml:id="MS_Reggio_43-part5" n="5">
-                        <msIdentifier>
+                  </history>
+               </msPart>
+               <msPart xml:id="MS_Reggio_43-part5" n="5">
+                  <msIdentifier>
                      <altIdentifier type="partial">
-                            <idno>MS. Reggio 43/5</idno>
-                        </altIdentifier>
+                        <idno>MS. Reggio 43/5</idno>
+                     </altIdentifier>
                   </msIdentifier>
-                        <msContents>
-
-                            <msItem xml:id="MS_Reggio_43-part5-item1" n="7">
-                                <locus>ff. 74v-103r</locus>
-                                <author>Judah ben Moses ben Ḥayim
-                                    ha-Sefaradiיהודה בן משה בן חיים הספרדי
-                                        ‬</author>
-                                <title>Treatise on the sciences</title>
-                                <title xml:lang="he">חבור על המדעים</title>
-                                <note/>
-                                <textLang mainLang="he">Hebrew</textLang>
-                            </msItem>
-
-                        </msContents>
-                        <physDesc>
-
-                            <objectDesc form="codex">
-                                <supportDesc material="chart">
-
-                                    <support> paper <watermark/>,the outer sheet of the first quire
-                                        made of parchment. </support>
-                                    <extent> ff. 30 (fols. 74-103)<dimensions type="leaf" unit="mm">
-                                            <height quantity="0"/>
-                                            <width quantity="0"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation>Foliation in Arabic numerals, continuation of
-                                        previous section of the MS.</foliation>
-                                    <collation> x quires + 2 leaves inner/outer leaf of quire
-                                            <signatures>no signature</signatures>
-                                        <catchwords>catchwords on fol. 87v </catchwords>
-                                    </collation>
-                                    <condition>Leaves are very loose, partially detached from
-                                        collation, fragile.</condition>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <layout columns="1">Text in one column. </layout>
-                                </layoutDesc>
-                            </objectDesc>
-                            <handDesc>
-                                <summary>Byzantine semi-cursive script.</summary>
-                                <handNote scope="sole" script="byzantine" rend="semi-cursive"> </handNote>
-
-                            </handDesc>
-                            <decoDesc>
-                                <decoNote type="other"> Not decorated. </decoNote>
-                            </decoDesc>
-                            <additions/>
-
-
-                        </physDesc>
-                        <history>
-                            <origin>
-                        <origPlace/>,<origDate/>
-                     </origin>
-                        </history>
-                    </msPart>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="INDEX">
-                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
-                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
-                            1906</bibl>
+                  <msContents>
+                     <msItem xml:id="MS_Reggio_43-part5-item1" n="7">
+                        <locus>ff. 74v-103r</locus>
+                        <author>Judah ben Moses ben Ḥayim ha-Sefaradiיהודה בן משה בן חיים הספרדי ‬</author>
+                        <title>Treatise on the sciences</title>
+                        <title xml:lang="he">חבור על המדעים</title>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="chart">
+                           <support>paper,the outer sheet of the first quire made of parchment.</support>
+                           <extent>ff. 30 (fols. 74-103)<dimensions type="leaf" unit="mm"/>
+                           </extent>
+                           <foliation>Foliation in Arabic numerals, continuation of previous section of the MS.</foliation>
+                           <collation>x quires + 2 leaves inner/outer leaf of quire<signatures>no signature</signatures>
+                              <catchwords>catchwords on fol. 87v</catchwords>
+                           </collation>
+                           <condition>Leaves are very loose, partially detached from collation, fragile.</condition>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout columns="1">Text in one column.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <summary>Byzantine semi-cursive script.</summary>
+                        <handNote scope="sole" script="byzantine" rend="semi-cursive"/>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote type="other">Not decorated.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
-                </taxonomy>
-
-                <taxonomy xml:id="Neubauer">
-                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
-                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
-                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-
-
-            </classDecl>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <term>Mathematics</term>
-                </keywords>
-
-                <keywords scheme="LCSH">
-                    <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus,
-                            1784-1855</persName>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Mathematics</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
+                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
                </term>
-                    <term>
-                  <persName ref="http://viaf.org/viaf/88978405">Goldberg, Baer ben
-                            Alexander, approximately 1800-1884</persName>
+               <term>
+                  <persName ref="http://viaf.org/viaf/88978405">Goldberg, Baer ben Alexander, approximately 1800-1884</persName>
                </term>
-                </keywords>
-
-                <keywords scheme="#IMHM">
-                    <term>
-                  <persName>Gracian, Zerahiah ben Isaac ben Shealtiel, 13th
-                        cent.</persName>
+            </keywords>
+            <keywords scheme="#IMHM">
+               <term>
+                  <persName>Gracian, Zerahiah ben Isaac ben Shealtiel, 13th cent.</persName>
                </term>
-                    <term>
+               <term>
                   <persName xml:lang="he">זרחיה בן יצחק בן שאלתיאל</persName>
                </term>
-                </keywords>
-
-
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2015-02-14">
-                <persName>Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="MS_HEB_X_XX_1a.tif"/>
-
-    </facsimile>
+         <change when="2015-02-14">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

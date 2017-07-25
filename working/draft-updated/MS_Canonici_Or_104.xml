@@ -2,365 +2,256 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_209">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS. Canonici Or. 104</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Can_Or_104</idno>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Canonici Or. 104</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Can_Or_104</idno>
             <idno type="msID">MS_Canonici_Or_104</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Canonici_Or_104" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Canonici Oriental Collection</collection>
-                        </collection>
-
-                        <idno>MS. Canonici Or. 104</idno>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">1403</idno>
-                        </altIdentifier>
-
-                        <altIdentifier type="other">
-                            <idno type="sum_cat_no"> 20458</idno>
-                        </altIdentifier>
-                    </msIdentifier>
-
-                    <msContents>
-                        <summary>Miscellany</summary>
-                        <msItem xml:id="MS_Canonici_Or_104-item1" n="1">
-                            <locus>ff. 1r-29r</locus>
-                            <author>Jedaiah ben
-                                    Abraham Bedersi, approximately 1270-approximately
-                                    1340<foreign xml:lang="he">פניני, ידעיה בן
-                                        אברהם הבדרשי</foreign>
+         <sourceDesc>
+            <msDesc xml:id="MS_Canonici_Or_104" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsCanonici Oriental Collection</collection>
+                  <idno>MS. Canonici Or. 104</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Miscellany</summary>
+                  <msItem xml:id="MS_Canonici_Or_104-item1" n="1">
+                     <locus>ff. 1r-29r</locus>
+                     <author>Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340<foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
-                            <title>Beḥinat ʿolam (The Examination of the World)</title>
-                            <title>
+                     <title>Beḥinat ʿolam (The Examination of the World)</title>
+                     <title>
                         <foreign xml:lang="he">בחינת עולם</foreign>
                      </title>
-                            <note/>
-                            <colophon/>
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-
-                        <msItem xml:id="MS_Canonici_Or_104-item2" n="2">
-                            <locus>ff. 29v-96v</locus>
-                            <author>Jedaiah ben
-                                    Abraham Bedersi, approximately 1270-approximately
-                                    1340<foreign xml:lang="he">פניני, ידעיה בן
-                                        אברהם הבדרשי</foreign>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Canonici_Or_104-item2" n="2">
+                     <locus>ff. 29v-96v</locus>
+                     <author>Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340<foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
-
-                            <title>Ketav hitnatslut (Letter of Apology)</title>
-                            <title>
+                     <title>Ketav hitnatslut (Letter of Apology)</title>
+                     <title>
                         <foreign xml:lang="he">כתב התנצלות</foreign>
                      </title>
-                            <note/>
-                            <colophon/>
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-
-                        <msItem xml:id="MS_Canonici_Or_104-item3" n="3">
-                            <locus>ff. 97r-102v</locus>
-                            <author>Jedaiah ben
-                                    Abraham Bedersi, approximately 1270-approximately
-                                    1340<foreign xml:lang="he">פניני, ידעיה בן
-                                        אברהם הבדרשי</foreign>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Canonici_Or_104-item3" n="3">
+                     <locus>ff. 97r-102v</locus>
+                     <author>Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340<foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
-
-                            <title>Baḳashat ha-memin</title>
-                            <title>
+                     <title>Baḳashat ha-memin</title>
+                     <title>
                         <foreign xml:lang="he">בקשת הממין</foreign>
                      </title>
-                            <note/>
-                            <colophon/>
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-
-                        <msItem xml:id="MS_Canonici_Or_104-item4" n="4">
-                            <locus>ff. 102v-103v</locus>
-                            <author>Jedaiah ben
-                                    Abraham Bedersi, approximately 1270-approximately
-                                    1340<foreign xml:lang="he">פניני, ידעיה בן
-                                        אברהם הבדרשי</foreign>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Canonici_Or_104-item4" n="4">
+                     <locus>ff. 102v-103v</locus>
+                     <author>Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340<foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
-                            <title>Elohim elay atah ashaḥarekhah (O God, You are my God, I seek You,
-                                Ps. 63:2)</title>
-                            <title>
+                     <title>Elohim elay atah ashaḥarekhah (O God, You are my God, I seek You, Ps. 63:2)</title>
+                     <title>
                         <foreign xml:lang="he">אלהים אלי אתה אשחרך</foreign>
                      </title>
-                            <note/>
-                            <colophon/>
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-
-                        <msItem xml:id="MS_Canonici_Or_104-item5" n="5">
-                            <locus>ff. 104r-107r</locus>
-                            <author>Bedersi, Abraham
-                                ben Isaac, active 13th century<foreign xml:lang="he">בדרשי, אברהם</foreign>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Canonici_Or_104-item5" n="5">
+                     <locus>ff. 104r-107r</locus>
+                     <author>Bedersi, Abraham ben Isaac, active 13th century<foreign xml:lang="he">בדרשי, אברהם</foreign>
                      </author>
-                            <title>Baḳashat ha-lamedin</title>
-                            <title>
+                     <title>Baḳashat ha-lamedin</title>
+                     <title>
                         <foreign xml:lang="he">בקשת הלמדין</foreign>
                      </title>
-                            <note/>
-                            <colophon/>
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-
-                        <msItem xml:id="MS_Canonici_Or_104-item6" n="6">
-                            <locus>ff. 107r-114r</locus>
-                            <author>Joseph ben
-                                Sheshet ibn Latimi<foreign xml:lang="he">לטימי, יוסף בן
-                                        ששת</foreign>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Canonici_Or_104-item6" n="6">
+                     <locus>ff. 107r-114r</locus>
+                     <author>Joseph ben Sheshet ibn Latimi<foreign xml:lang="he">לטימי, יוסף בן ששת</foreign>
                      </author>
-                            <title>Aamir et Adoni</title>
-                            <title>
+                     <title>Aamir et Adoni</title>
+                     <title>
                         <foreign xml:lang="he">אאמיר את אדוני</foreign>
                      </title>
-                            <note>Ḳinah by Joseph Sheshet.</note>
-                            <colophon/>
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-
-                        <msItem xml:id="MS_Canonici_Or_104-item7" n="7">
-                            <locus>ff. 114v-123r</locus>
-                            <author>Ezobi, Jehoseph
-                                    ben Hanan ben Nathan, active 13th
-                                        century<foreign xml:lang="he">אזובי,
-                                        יוסף בן חנן</foreign>
+                     <note>Ḳinah by Joseph Sheshet.</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Canonici_Or_104-item7" n="7">
+                     <locus>ff. 114v-123r</locus>
+                     <author>Ezobi, Jehoseph ben Hanan ben Nathan, active 13th century<foreign xml:lang="he">אזובי, יוסף בן חנן</foreign>
                      </author>
-                            <title>Keʿarat kesef</title>
-                            <title>
+                     <title>Keʿarat kesef</title>
+                     <title>
                         <foreign xml:lang="he">קערת כסף</foreign>
                      </title>
-                            <note/>
-                            <colophon/>
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-
-                        <msItem xml:id="MS_Canonici_Or_104-item8" n="8">
-                            <locus>ff. 124r-128r</locus>
-                            <author>Rieti, Moses ben
-                                Isaac da, 1388-1460?<foreign xml:lang="he">ריאיטי,
-                                        משה</foreign>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Canonici_Or_104-item8" n="8">
+                     <locus>ff. 124r-128r</locus>
+                     <author>Rieti, Moses ben Isaac da, 1388-1460?<foreign xml:lang="he">ריאיטי, משה</foreign>
                      </author>
-                            <title>Miḳdash meʿaṭ (Meʻon ha-shoʼalim)</title>
-                            <title>
-                        <foreign xml:lang="he"> מקדש מעט (מעון השואלים)</foreign>
+                     <title>Miḳdash meʿaṭ (Meʻon ha-shoʼalim)</title>
+                     <title>
+                        <foreign xml:lang="he">מקדש מעט (מעון השואלים)</foreign>
                      </title>
-                            <note/>
-                            <colophon/>
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-                    </msContents>
-
-                    <physDesc>
-                        <objectDesc form="codex">
-                            <supportDesc material="perg">
-                                <support>parchment </support>
-                                <extent>ff. 128<dimensions type="leaf" unit="mm">
-                                        <height quantity="000"/>
-                                        <width quantity="000"/>
-                                    </dimensions>
-                                </extent>
-                                <foliation>Foliation in Arabic numerals. </foliation>
-                                <collation>13 quires: i-xii<hi rend="sup">10</hi>, xiii<hi rend="sup">10-2</hi>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>ff. 128<dimensions type="leaf" unit="mm">
+                              <height quantity="000"/>
+                              <width quantity="000"/>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                        <collation>13 quires: i-xii<hi rend="sup">10</hi>, xiii<hi rend="sup">10-2</hi>
                            <signatures>no signatures</signatures>
                            <catchwords>catchwords at the end of quires</catchwords>
-                                </collation>
-                                <condition/>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout columns="2">Text written in one column.</layout>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <summary>Italian semi-cursive script.</summary>
-                            <handNote scope="sole" script="italian" rend="semi-cursive">Fol. 124r-128r by a later hand. </handNote>
-
-                        </handDesc>
-
-                        <decoDesc>
-                            <decoNote/>
-                        </decoDesc>
-
-                        <additions/>
-
-                        <bindingDesc>
-                            <p>Quarter bound, red paper, marble paper pastedown.</p>
-                        </bindingDesc>
-                    </physDesc>
-
-                    <history>
-                        <origin>
-                            <origPlace>[Northern Italy]</origPlace>
-                            <origDate when="1450">[mid-15th century]</origDate>
-                        </origin>
-                        <provenance>Censor's signature on fol. 127v: "visto p[er] mi fra Luigi 1601" notOwnership inscription on fol. 128v by David Azariel Finzi written by his brother
-                            Jehudah in [5]442 (1682): <foreign xml:lang="he">" אני דוד בכ"מ
-                                עזריאל פנצי יצ"ו היום יום פורים שושן ... לחדש ואדר קמ"ב לפק ואני
-                                יהודה אחיו כותב"</foreign>; ownership inscription on fol. 123r: <foreign xml:lang="he">ישראל פונטאנילה יצ"ו</foreign>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2">Text written in one column.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Italian semi-cursive script.</summary>
+                     <handNote scope="sole" script="italian" rend="semi-cursive">Fol. 124r-128r by a later hand.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Quarter bound, red paper, marble paper pastedown.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>[Northern Italy]</origPlace>
+                     <origDate when="1450">[mid-15th century]</origDate>
+                  </origin>
+                  <provenance>Censor's signature on fol. 127v: "visto p[er] mi fra Luigi 1601" notOwnership inscription on fol. 128v by David Azariel Finzi written by his brother Jehudah in [5]442 (1682):<foreign xml:lang="he">" אני דוד בכ"מ עזריאל פנצי יצ"ו היום יום פורים שושן ... לחדש ואדר קמ"ב לפק ואני יהודה אחיו כותב"</foreign>; ownership inscription on fol. 123r:<foreign xml:lang="he">ישראל פונטאנילה יצ"ו</foreign>
                   </provenance>
-                        <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his
-                            brother Giuseppe, and on his death in 1807 to Giovanni Perissinotti and
-                            Girolamo Cardina, who divided them. To the former fell the MSS., then
-                            about 3550 in number, and, after many attempts to sell them, the
-                            Bodleian became the purchaser of the greater part in 1817, for £5444 5s.
-                            1d., or including incidental expenses about £6030, the largest single
-                            purchase ever made by the Library. The formal list of volumes handed
-                            over was signed on May 18, 1817, and the books probably arrived later
-                            that year.</acquisition>
-                    </history>
-
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
-                                        Neubauer, Oxford 1886, </bibl>
-                           <ref facs="bej0287.jpg">No.
-                                        1403</ref>, <bibl>Catalogue of the Hebrew manuscripts in
-                                        the Bodleian Library; Supplement of Addenda and Corrigenda
-                                        to Vol. I, </bibl>
-                           <ref facs="beo0173.jpg">No.
-                                    1403</ref>, and on the data of the Institute of Microfilmed
-                                    Hebrew Manuscripts, National Library of Israel with additional
-                                    enhancements by the cataloguer. </source>
-                            </recordHist>
-
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-
-                        <surrogates>
-                            <bibl>
-                                <idno n="MSS R.R. Film No." type="microfilm">F 22427</idno>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
-                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
-                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
-                                1403.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
-                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
-                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
-                                (Oxford: Clarendon Press, 1994), no. 1403.</bibl>
-                        </listBibl>
-                    </additional>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="INDEX">
-                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
-                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
-                            1906</bibl>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to Giovanni Perissinotti and Girolamo Cardina, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0287.jpg">No. 1403</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0173.jpg">No. 1403</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 22427</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 1403.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1403.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="Neubauer">
-                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
-                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
-                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-            </classDecl>
-        </encodingDesc>
-
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <term>Ethics</term>
-                </keywords>
-
-                <keywords scheme="LCSH">
-                    <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi,
-                            1727-1805</persName>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Ethics</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
+                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
-                    <term> </term>
-                </keywords>
-
-                <keywords scheme="#IMHM">
-                    <term>
+            </keywords>
+            <keywords scheme="#IMHM">
+               <term>
                   <persName>
-                     <foreign xml:lang="he"> פונטנילה, ישראל
-                        </foreign>
+                     <foreign xml:lang="he">פונטנילה, ישראל</foreign>
                   </persName>
                </term>
-                    <term>
+               <term>
                   <persName>
-                     <foreign xml:lang="he">פינצי, דוד בן
-                            עזריאל</foreign>
+                     <foreign xml:lang="he">פינצי, דוד בן עזריאל</foreign>
                   </persName>
                </term>
-                    <term>
+               <term>
                   <persName>Luigi da Bologna (censor)</persName>
                </term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2015-07-03">
-                <persName> Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="MS_HEB_X_XX_1a.tif"/>
-    </facsimile>
+         <change when="2015-07-03">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

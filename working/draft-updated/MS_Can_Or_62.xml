@@ -2,279 +2,191 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS. Can. Or. 62.</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Can_Or_62</idno>
-
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Can. Or. 62.</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Can_Or_62</idno>
             <idno type="msID">MS_Can_Or_62</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Can_Or_62" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Canonici Oriental Collection</collection>
-                        </collection>
-
-                        <idno>MS. Can. Or. 62</idno>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">26</idno>
-                        </altIdentifier>
-                        <altIdentifier type="other">
-                            <idno type="sum_cat_no"> 20416</idno>
-                        </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno>Kennicott 567</idno>
-                        </altIdentifier>
-                    </msIdentifier>
-
-                    <msContents>
-                        <summary>Pentateuch with Targum Onḳelos, Five Scrolls, Hafṭarot and commentaries</summary>
-                        <msItem xml:id="MS_Can_Or_62-item1" n="1">
-                            <locus>ff. 1r-274v</locus>
-                            <title>Hebrew Bible</title>
-                            <note>Commentaries: Rashi's commentary on the Pentateuch, Ibn Ezra's
-                                commentary on Esther, Song of Songs with the commentary of <persName>Abraham ben Isaac ha-Levi Tamakh</persName>,(-1393),
-                                Ruth with the commentary of Rashi and Ibn Ezra, Lamentations with
-                                the commentary of Ibn Ezra, Ecclesiastes with the commentary of Ibn
-                                Ezra (only at the beginning)</note>
-
-                            <note>The Pentateuch was finished on Sunday the <date calendar="AM">22nd
-                                    of Tammuz 5232</date>=<date calendar="Gregorian">1472</date> by
-                                    <persName>Brakhiel ben Hizkiyah Raphael Tarbut</persName>
-                                <persName xml:lang="he">ברכיאל בר’ חזקיה רפאל
-                                    טרבוט</persName> for <name type="unknown">Abraham Rava</name>
+         <sourceDesc>
+            <msDesc xml:id="MS_Can_Or_62" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsCanonici Oriental Collection</collection>
+                  <idno>MS. Can. Or. 62</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch with Targum Onḳelos, Five Scrolls, Hafṭarot and commentaries</summary>
+                  <msItem xml:id="MS_Can_Or_62-item1" n="1">
+                     <locus>ff. 1r-274v</locus>
+                     <title>Hebrew Bible</title>
+                     <note>Commentaries: Rashi's commentary on the Pentateuch, Ibn Ezra's commentary on Esther, Song of Songs with the commentary of<persName>Abraham ben Isaac ha-Levi Tamakh</persName>,(-1393), Ruth with the commentary of Rashi and Ibn Ezra, Lamentations with the commentary of Ibn Ezra, Ecclesiastes with the commentary of Ibn Ezra (only at the beginning)</note>
+                     <note>The Pentateuch was finished on Sunday the<date calendar="AM">22nd of Tammuz 5232</date>=<date calendar="Gregorian">1472</date>by<persName>Brakhiel ben Hizkiyah Raphael Tarbut</persName>
+                        <persName xml:lang="he">ברכיאל בר’ חזקיה רפאל טרבוט</persName>for<name type="unknown">Abraham Rava</name>
                         <persName xml:lang="he">אברהם רבא</persName>
                      </note>
-                            <note>Latin note on fol. 190r, Latin notes on front flyleaf verso about content.</note>
-                            <colophon> "אני הסופר ברכיאל בר’ חזקיה רפאל טרבוט סיימתי זה החמש לאברהם
-                                רבא היום יום א’ כב תמוז רל"ב" (f.190r)</colophon>
-                           
-
-                            <textLang mainLang="he">Hebrew and Aramaic.</textLang>
-                        </msItem>
-                    </msContents>
-
-                    <physDesc>
-                        <objectDesc form="codex">
-                            <supportDesc material="perg">
-                                <support>parchment</support>
-                                <extent>ff. 275<dimensions type="other" unit="mm">
-                                        <height quantity="303">303</height>
-                                        <width quantity="219">219</width>
-                                    </dimensions>
-                                    <dimensions type="written" unit="cm">
-                                        <height/>
-                                        <width/>
-                                    </dimensions>
-                                </extent>
-                                <foliation>Foliation in Arabic numerals. </foliation>
-                                <collation> Quires of mostly 10 leaves.
-                                        <signatures>signatures have been probably trimmed off, only one is visible (fol. 80v)</signatures>,
-                                    <catchwords>catchwords in the middle of the lower margin at the end of the quires, but often erased.</catchwords>
-                                </collation>
-                                <condition>
-                                </condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout columns="1">Main text surrounded by marginal texts. </layout>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <summary>Ashkenazi square and semi-cursive scripts.</summary>
-                            <handNote scope="major" script="ashkenazi" rend="square">
-                                <desc>Italo-Ashkenazi square script (biblical text), semi-square
-                                    (Onḳelos), and Sephardi semi-cursive script (Rashi on
-                                    Pentateuch), Ashkenazi semi-cursive script (commentaries on the
-                                    Five Scrolls, ff. 190v-210r) and frequently
-                                    pointed out elsewhere; with punctuation.</desc>
-                                <persName/>
-                            </handNote>
-                        </handDesc>
-                        <decoDesc>
-                            <decoNote type="initial"> Illustrated and decorated initial-word panels (fols. 1r, 5v)</decoNote>
-                            <decoNote type="other">Marginal text often as carmina figurata.</decoNote>
-                        </decoDesc>
-                        <additions>
-                            
-                        </additions>
-                        <bindingDesc>
-                            <p>White leather binding, blind-tooled.</p>
-                        </bindingDesc>
-                    </physDesc>
-
-                    <history>
-                        <origin>
-                     <geogName>[Northern Italy]</geogName>, <origDate when="1472">1472</origDate>
-                        </origin>
-                        <provenance>Censor's note<persName>Camillo Jaghel</persName>1619(?) (fol. 274v)
-                            <date calendar="Gregorian"> 1619</date>.</provenance>
-
-
-                    </history>
-
-
-                    <additional>
-
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
-                                        Neubauer, Oxford 1886, </bibl>
-                           <ref facs="bej0039.jpg">No.
-                                        26</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
-                                        Bodleian Library; Supplement of Addenda and Corrigenda to
-                                        Vol. I, </bibl>
-                           <ref facs="beo0058.jpg">No. 26</ref>, and
-                                    on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000070826&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,
-                                    National Library of Israel with additional enhancements by the
-                                    cataloguer. </source>
-                            </recordHist>
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl>
-                                <idno n="MSS R.R. Film No." type="microfilm">F 33039</idno>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
-                            <bibl>Kennicott, Benjamin, Dissertatio generalis in Vetus Testamentum
-                                Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et
-                                impressis. Recudi curavit et notas adiecit Paulus Iacobus Bruns.
-                                Brunovici: Orphanotrophei, 1783.</bibl>
-                            <bibl>Neubauer, Adolf. Catalogue of the Hebrew Manuscripts in the
-                                Bodleian Library (Oxford 1886), no.26.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                                manuscripts in the Bodleian Library; Supplement of Addenda and
-                                Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon
-                                Press, 1994), no. 26.</bibl>
-                            <bibl>Van Boxel, Piet, "The Virgin and the Unicorn", in Crossing
-                                Borders: Hebrew Manuscripts as a Meeting-place of Cultures, ed. idem
-                                and Sabine Arndt (Oxford: Bodleian Library, 2009), 57-68.)</bibl>
-                            <bibl>Eveline van Staalduine-Sulman, "A Variety of Targum Texts," in A
-                                Jewish Targum in a Christian World, ed. Alberdina Houtman et al.
-                                (Leiden: Brill, 2014), 12-13.</bibl>
-                            <bibl>
+                     <note>Latin note on fol. 190r, Latin notes on front flyleaf verso about content.</note>
+                     <colophon>"אני הסופר ברכיאל בר’ חזקיה רפאל טרבוט סיימתי זה החמש לאברהם רבא היום יום א’ כב תמוז רל"ב" (f.190r)</colophon>
+                     <textLang mainLang="he">Hebrew and Aramaic.</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>ff. 275<dimensions type="other" unit="mm">
+                              <height quantity="303">303</height>
+                              <width quantity="219">219</width>
+                           </dimensions>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                        <collation>Quires of mostly 10 leaves.<signatures>signatures have been probably trimmed off, only one is visible (fol. 80v)</signatures>,<catchwords>catchwords in the middle of the lower margin at the end of the quires, but often erased.</catchwords>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">Main text surrounded by marginal texts.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Ashkenazi square and semi-cursive scripts.</summary>
+                     <handNote scope="major" script="ashkenazi" rend="square">
+                        <desc>Italo-Ashkenazi square script (biblical text), semi-square (Onḳelos), and Sephardi semi-cursive script (Rashi on Pentateuch), Ashkenazi semi-cursive script (commentaries on the Five Scrolls, ff. 190v-210r) and frequently pointed out elsewhere; with punctuation.</desc>
+                     </handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="initial">Illustrated and decorated initial-word panels (fols. 1r, 5v)</decoNote>
+                     <decoNote type="other">Marginal text often as carmina figurata.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>White leather binding, blind-tooled.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <geogName>[Northern Italy]</geogName>,<origDate when="1472">1472</origDate>
+                  </origin>
+                  <provenance>Censor's note<persName>Camillo Jaghel</persName>1619(?) (fol. 274v)<date calendar="Gregorian">1619</date>.</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0039.jpg">No. 26</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0058.jpg">No. 26</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000070826&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 33039</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Kennicott, Benjamin, Dissertatio generalis in Vetus Testamentum Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et impressis. Recudi curavit et notas adiecit Paulus Iacobus Bruns. Brunovici: Orphanotrophei, 1783.</bibl>
+                     <bibl>Neubauer, Adolf. Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford 1886), no.26.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 26.</bibl>
+                     <bibl>Van Boxel, Piet, "The Virgin and the Unicorn", in Crossing Borders: Hebrew Manuscripts as a Meeting-place of Cultures, ed. idem and Sabine Arndt (Oxford: Bodleian Library, 2009), 57-68.)</bibl>
+                     <bibl>Eveline van Staalduine-Sulman, "A Variety of Targum Texts," in A Jewish Targum in a Christian World, ed. Alberdina Houtman et al. (Leiden: Brill, 2014), 12-13.</bibl>
+                     <bibl>
                         <ref target="http://bodleian.thejewishmuseum.org/?page_id=153"/>
                      </bibl>
-                        </listBibl>
-                    </additional>
-
-
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="INDEX">
-                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
-                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
-                            1906</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="Neubauer">
-                    <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by
-                        Adolf Neubauer, Oxford 1886, </bibl>
-
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-            </classDecl>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <term>Biblical MSS.</term>
-                    <term>Pentateuch</term>
-                    <term>Five Scrolls</term>
-                    <term>
-                  <persName type="scribe">Brakhiel ben Hizkiyah Raphael
-                        טרבוט</persName>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Biblical MSS.</term>
+               <term>Pentateuch</term>
+               <term>Five Scrolls</term>
+               <term>
+                  <persName type="scribe">Brakhiel ben Hizkiyah Raphael טרבוט</persName>
                </term>
-                    <term>
+               <term>
                   <persName type="patron">Abraham רבא</persName>
                </term>
-                </keywords>
-
-                <keywords scheme="LCSH">
-                    <term>Bible. Five Scrolls</term>
-                    <term>Hafṭarot </term>
-                    <term>Targum Onḳelos</term>
-                    <term>Ibn Ezra, Abraham ben Meïr, 1092-1167</term>
-                </keywords>
-
-                <keywords scheme="IMHM">
-                    <term>‫ טרבוט, ברכיאל בן חזקיה (מעתיק) </term>
-                    <term> ‫ רבא, אברהם (בעלים) </term>
-                    <term>Camillo Jagel (censor)</term>
-                    <term>‫ אבן עזרא, אברהם בן מאיר, 1089-1164</term>
-                </keywords>
-
-
-
-
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>Bible. Five Scrolls</term>
+               <term>Hafṭarot</term>
+               <term>Targum Onḳelos</term>
+               <term>Ibn Ezra, Abraham ben Meïr, 1092-1167</term>
+            </keywords>
+            <keywords scheme="IMHM">
+               <term>‫ טרבוט, ברכיאל בן חזקיה (מעתיק)</term>
+               <term>‫ רבא, אברהם (בעלים)</term>
+               <term>Camillo Jagel (censor)</term>
+               <term>‫ אבן עזרא, אברהם בן מאיר, 1089-1164</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2013-11-08">
-                <persName>Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic/>
-
-
-
-    </facsimile>
+         <change when="2013-11-08">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

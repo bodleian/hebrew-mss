@@ -2,278 +2,205 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_375">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Digital description of MS. Michael 384</title>
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>[Name of cataloguer]</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
-                    <address>
-                    <addrLine>Department of Special Collections</addrLine>
-                    <addrLine>Bodleian Library</addrLine>
-                    <street>Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <addrLine>
-                        <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
-                    </addrLine>
-                    <addrLine>
-                        <email>oriental@bodleian.ox.ac.uk</email>
-                    </addrLine>
-                    </address>
-                </pubPlace>
-                <idno>MS_Mich_384</idno>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Michael 384</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Mich_384</idno>
             <idno type="msID">MS_Michael_384</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Michael_384" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Michael Collection</collection>
-                        </collection>
-
-                        <idno>MS. Michael 384</idno>
-                        <altIdentifier type="other">
-                            <idno type="cat_no">187</idno>
-                        </altIdentifier>
-                        <altIdentifier type="other">
-                            <idno type="sum_cat_no"> 23878</idno>
-                        </altIdentifier>
-                    </msIdentifier>
-
-                    <msContents>
-                        <summary>Rashi's Torah commentary</summary>
-                        <msItem xml:id="MS_Michael_384-item1" n="1">
-                            <locus>ff. 1r-141v</locus>
-                            <author ref="http://viaf.org/viaf/19684048">Rashi, 1040-1105</author>
-                            <author> שלמה בן יצחק (רש"י),
-                                    1040-1105</author>
-                            <title>Perush ha-Torah le-Rashi (Torah commentary)</title>
-                            <title>
-                                <foreign xml:lang="he">פרוש התורה לרש"י </foreign>
+         <sourceDesc>
+            <msDesc xml:id="MS_Michael_384" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oriental ManuscriptsMichael Collection</collection>
+                  <idno>MS. Michael 384</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Rashi's Torah commentary</summary>
+                  <msItem xml:id="MS_Michael_384-item1" n="1">
+                     <locus>ff. 1r-141v</locus>
+                     <author ref="http://viaf.org/viaf/19684048">Rashi, 1040-1105</author>
+                     <author>שלמה בן יצחק (רש"י), 1040-1105</author>
+                     <title>Perush ha-Torah le-Rashi (Torah commentary)</title>
+                     <title>
+                        <foreign xml:lang="he">פרוש התורה לרש"י</foreign>
                      </title>
-                            <note/>
-                            <colophon>Colophon on fol. 141v:<foreign xml:lang="he">"אני מאיר בר’
-                                    משה ז"ל כתבתי פירוש התורה זה מרבי שלמה ז"ל לנכבד מורי ר’ בנימין
-                                    בכ"ר יצחק והעתקתיו בביתו ובהיותי סומך על שלחנו ומשכורתי היה
-                                    ארבעה פרחי’ לבד ההוצאה וקהלתיה מידו לידי וסיימתיו בירח שבט שנת
-                                    חמשת אלפים ומאה וחמשים ותשע לבריאת עולם ... נכתב פה קמרינו בזמן
-                                    הנז’ לעיל"</foreign>
+                     <colophon>Colophon on fol. 141v:<foreign xml:lang="he">"אני מאיר בר’ משה ז"ל כתבתי פירוש התורה זה מרבי שלמה ז"ל לנכבד מורי ר’ בנימין בכ"ר יצחק והעתקתיו בביתו ובהיותי סומך על שלחנו ומשכורתי היה ארבעה פרחי’ לבד ההוצאה וקהלתיה מידו לידי וסיימתיו בירח שבט שנת חמשת אלפים ומאה וחמשים ותשע לבריאת עולם ... נכתב פה קמרינו בזמן הנז’ לעיל"</foreign>
                      </colophon>
-                            <textLang mainLang="he">Hebrew</textLang>
-                        </msItem>
-                    </msContents>
-
-                    <physDesc>
-                        <objectDesc form="codex">
-                            <supportDesc material="perg">
-                                <support>parchment</support>
-                                <extent>ff. 142 <dimensions type="leaf" unit="mm">
-                                        <height quantity="0"/>
-                                        <width quantity="0"/>
-                                    </dimensions>
-                                </extent>
-                                <foliation>Foliation in Arabic numerals. Fol. 11 should follow fol.
-                                    19.</foliation>
-                                <collation>Quires of mostly 10 leaves <signatures>no
-                                        signatures,</signatures>
-                                    <catchwords>catchwords at the end of quires</catchwords>
-                                </collation>
-                                <condition/>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout columns="2">Text in two columns.</layout>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <summary>Sephardi semi-cursive script.</summary>
-                            <handNote scope="sole" script="sephardi" rend="semi-cursive"> </handNote>
-                        </handDesc>
-
-                        <decoDesc>
-                            <decoNote type="illustration">Full-page image of menorah and Temple
-                                implements (fol. 73v); full-page picture of the Tabernacle (fol.
-                                142v). </decoNote>
-                            <decoNote type="other">Decorated catchwords.</decoNote>
-                        </decoDesc>
-
-                        <additions/>
-
-                        <bindingDesc>
-                            <p>Light brown leather binding.</p>
-                        </bindingDesc>
-                    </physDesc>
-
-                    <history>
-                        <origin>
-                            <origPlace>Camerino</origPlace> 
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>ff. 142<dimensions type="leaf" unit="mm"/>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals. Fol. 11 should follow fol. 19.</foliation>
+                        <collation>Quires of mostly 10 leaves<signatures>no signatures,</signatures>
+                           <catchwords>catchwords at the end of quires</catchwords>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2">Text in two columns.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Sephardi semi-cursive script.</summary>
+                     <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="illustration">Full-page image of menorah and Temple implements (fol. 73v); full-page picture of the Tabernacle (fol. 142v).</decoNote>
+                     <decoNote type="other">Decorated catchwords.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Light brown leather binding.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>Camerino</origPlace>
                      <origDate notBefore="1399">1399</origDate>
-                        </origin>
-                        <provenance>Owners' inscriptions: Neḥamah, daughter of R. Shlomoh
-                            ha-menagen, widow of R. Shmuel ben Mosheh of Candia sold this commentary
-                            to Zilah, daughter of Yeḳutiel, widow of Menaḥem for 3 dukats on 8 Av
-                            5224 (13 July 1464) at Fano (<foreign xml:lang="he">"נחמה בת ר’ שלמה
-                                המנגן ישר"ו אלמנת כמ"ר שמואל בר משה מקנדיאה" מכרה ל"מרת צילה בת כמ"ר
-                                יקותיאל ז"ל אלמנת כמ"ר מנחם ז"ל" בשנת רכ"ד</foreign>) (fol. 141v);
-                            Yeḥiel ben Mordekhai ha-Kohen sold it to Moshe ben Nataniel of Norzi on
-                            13 Kislev 273 (25 November 1513) (<foreign xml:lang="he">"יחיאל בן
-                                מרדכי כהן" מכר את כה"י ל"משה יזיי"א בכמ"ר נתנאל
-                            מנורצי"</foreign>(fol. 141v). Censors' signatures: "visto per me Gio
-                            do[mi]nico Carretto 1617" (fol. 141r); "Dominico Irosolomi[ta]no 1597"
-                            (fol. 141v)</provenance>
-                        <acquisition>It belonged to the library of <persName>Heimann Joseph
-                                Michael</persName> (1792-1846), which was purchased en bloc (altogether 862
-                            volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030. </acquisition>
-                    </history>
-
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source> Manuscript description based on <bibl>Catalogue of the
-                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
-                                        Neubauer, Oxford 1886, </bibl> (<ref facs="bej0069.jpg bej0070.jpg">No. 187</ref>,
-                                        <bibl>Catalogue of the Hebrew manuscripts in the Bodleian
-                                        Library; Supplement of Addenda and Corrigenda to Vol. I
-                                   </bibl>
-                           <ref facs="beo0052.jpg">No. 187</ref>, and on the data
-                                    of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088074&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
-                                    Library of Israel with additional enhancements by the
-                                    cataloguer. </source>
-                            </recordHist>
-
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
-                            </availability>
-                        </adminInfo>
-
-                        <surrogates>
-                            <bibl>
-                                <idno n="MSS R.R. Film No." type="microfilm">F 16251</idno>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
-                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
-                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
-                                187.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
-                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
-                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
-                                (Oxford: Clarendon Press, 1994), no. 187.</bibl>
-                        </listBibl>
-                    </additional>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="INDEX">
-                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
-                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
-                            1906</bibl>
+                  </origin>
+                  <provenance>Owners' inscriptions: Neḥamah, daughter of R. Shlomoh ha-menagen, widow of R. Shmuel ben Mosheh of Candia sold this commentary to Zilah, daughter of Yeḳutiel, widow of Menaḥem for 3 dukats on 8 Av 5224 (13 July 1464) at Fano (<foreign xml:lang="he">"נחמה בת ר’ שלמה המנגן ישר"ו אלמנת כמ"ר שמואל בר משה מקנדיאה" מכרה ל"מרת צילה בת כמ"ר יקותיאל ז"ל אלמנת כמ"ר מנחם ז"ל" בשנת רכ"ד</foreign>) (fol. 141v); Yeḥiel ben Mordekhai ha-Kohen sold it to Moshe ben Nataniel of Norzi on 13 Kislev 273 (25 November 1513) (<foreign xml:lang="he">"יחיאל בן מרדכי כהן" מכר את כה"י ל"משה יזיי"א בכמ"ר נתנאל מנורצי"</foreign>(fol. 141v). Censors' signatures: "visto per me Gio do[mi]nico Carretto 1617" (fol. 141r); "Dominico Irosolomi[ta]no 1597" (fol. 141v)</provenance>
+                  <acquisition>It belonged to the library of<persName>Heimann Joseph Michael</persName>(1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>(<ref facs="bej0069.jpg bej0070.jpg">No. 187</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0052.jpg">No. 187</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088074&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 16251</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 187.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 187.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="Neubauer">
-                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
-                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
-                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
-                </taxonomy>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
                </bibl>
-                </taxonomy>
-                <taxonomy xml:id="IMHM">
-                    <desc>Catalogue of the <bibl>
-                     <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
-                </taxonomy>
-            </classDecl>
-        </encodingDesc>
-
-        <profileDesc>
-            <textClass>
-                <keywords scheme="Neubauer">
-                    <term>Commentaries and supracommentaries</term>
-                </keywords>
-
-                <keywords scheme="LCSH">
-                    <term>
-                  <persName ref="http://viaf.org/viaf/17140230">Michael, Heimann Joseph,
-                            1792-1846</persName>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Commentaries and supracommentaries</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
+                  <persName ref="http://viaf.org/viaf/17140230">Michael, Heimann Joseph, 1792-1846</persName>
                </term>
-                </keywords>
-
-                <keywords scheme="#IMHM">
-                    <term>
+            </keywords>
+            <keywords scheme="#IMHM">
+               <term>
                   <persName>Dominico Irosolomitano (censor)</persName>
                </term>
-                    <term>
+               <term>
                   <persName>Giovanni Domenico Carretto (censor)</persName>
                </term>
-                    <term> 
+               <term>
                   <persName xml:lang="he">מאיר בן משה (מעתיק)</persName>
                </term>
-                    <term> 
+               <term>
                   <persName xml:lang="he">ענו, בנימין בן אברהם, 1210-1285?</persName>
                </term>
-                    <term> 
-                  <persName xml:lang="he">עזריאל בן שלמה, מגרונה (ממנו) </persName>
+               <term>
+                  <persName xml:lang="he">עזריאל בן שלמה, מגרונה (ממנו)</persName>
                </term>
-                    <term> 
-                  <persName xml:lang="he">בנימין בן יצחק (בעלים) ‬ </persName>
+               <term>
+                  <persName xml:lang="he">בנימין בן יצחק (בעלים) ‬</persName>
                </term>
-                    <term> 
-                  <persName xml:lang="he"> כהן, יחיאל בן מרדכי (בעלים)</persName>
+               <term>
+                  <persName xml:lang="he">כהן, יחיאל בן מרדכי (בעלים)</persName>
                </term>
-                    <term> 
-                  <persName xml:lang="he">נורצי, משה בן נתנאל (בעלים) </persName>
+               <term>
+                  <persName xml:lang="he">נורצי, משה בן נתנאל (בעלים)</persName>
                </term>
-                    <term> 
-                  <persName xml:lang="he">נחמה בת שלמה המנגן (בעלים) </persName>
+               <term>
+                  <persName xml:lang="he">נחמה בת שלמה המנגן (בעלים)</persName>
                </term>
-                    <term> 
-                  <persName xml:lang="he">צילה בת יקותיאל (בעלים) ‬ </persName>
+               <term>
+                  <persName xml:lang="he">צילה בת יקותיאל (בעלים) ‬</persName>
                </term>
-                    <term> 
-                  <persName xml:lang="he"> נורצי, משה בן אברהם (בעלים)</persName>
+               <term>
+                  <persName xml:lang="he">נורצי, משה בן אברהם (בעלים)</persName>
                </term>
-                    
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-19">
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
-            <change when="2014-10-16">
-                <persName> Zsofia Buda</persName> created this file</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="MS_HEB_X_XX_1a.tif"/>
-    </facsimile>
+         <change when="2014-10-16">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>
