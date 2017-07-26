@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Kennicott 2</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Kennicott_2</idno>
+            <idno type="msID">MS_Kennicott_2</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Kennicott_2" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection> Oriental Manuscripts Kennicott Collection</collection>
+                  <idno>MS. Kennicott 2</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Hebrew Bible</summary>
+                  <msItem xml:id="MS_Kennicott_2-item1" n="1">
+                     <locus>ff.1r-427v</locus>
+                     <title>Hebrew Bible<foreign xml:lang="he">תנ"ך</foreign>
+                     </title>
+                     <note>Order of books: Isaiah before Jeremiah; Minor Prophets are followed by Ruth, Psalms, Job, Proverbs, Ecclesiastes, Canticles, Lamentations, Daniel, Esther, Ezra, Nehemiah without division, Chronicles</note>
+                     <note>with both masorahs</note>
+                     <colophon>זה ציירתי אני הקטן והצעיר יהושע בן אברהם אבן גאון משוריה כאשר למדתי מהחכם ר’ יצחק בר גרשום ריתב"ע ליקר הנכבד ... ר’ משה ן’ חביב נר"ו ... ומרוב אהבתי אצלו ... ציירתי לו ולבניו ... (fol.1v)</colophon>
+                     <colophon>Colophon on fol. 2v: "ונגמר בחדש אדר שנת תתרס"ו ליצירה בשוריא"</colophon>
+                     <note>Last folio (fol.428) is uncomplete.</note>
+                     <decoNote>Illuminated. Full borders and carpet pages, masorah in micrographic design, decorated parashah signs. On fols.1v-2r a depiction of the Tabernacle and its implements.</decoNote>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <extent>ff. 428<dimensions type="other" unit="cm"/>
+                           <dimensions type="written" unit="cm"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" script="sephardi" medium="blackink">
+                        <desc>Sephardi square script, with punctuation, in two columns.</desc>
+                     </handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Light brown leather binding, gold tooled, with red floral decoration.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>Soria (Spain)</origPlace>
+                     <origDate when="1306">1306</origDate>
+                  </origin>
+                  <provenance>Ownership note at the end of the MS. (f.427v): בפנינו עדים חתומי’ מטה הודה החכם ... כה"ר שמואל פארינט שקבל מן ... הר’ נסים בכ"ר אהרן הכהן נ"ע שני אלפים וחמש מאות כספים ממטבע דמשק ומכר לו ... זה הארבעה ועשים מכירה גמורה ... ‬ פה ביום שני שמונה ימים לחדש מרחשון שנת חמשת אלפים מאתים ושמונים לבריאת עולם ... פה<geogName>דמשק</geogName>... יוסף פלכון הסופר" וחתימה נוספת</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0440.jpg bej0441.jpg">No. 2323.</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I<ref facs="beo0282.jpg">No. 2323.</ref>
+                           </bibl>and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113101&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 21015</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Kennicott, Benjamin, Dissertatio generalis in Vetus Testamentum Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et impressis. Recudi curavit et notas adiecit Paulus Iacobus Bruns. Brunovici: Orphanotrophei, 1783.</bibl>
+                     <bibl>A. Neubauer, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford 1886), no.2323</bibl>
+                     <bibl>Narkiss B., Hebrew Illuminated Manuscripts in the British Isles I (Jerusalem and London 1982), vol. I, no. 3</bibl>
+                     <bibl>Narkiss and Cohen-Mushlin, An Introduction: The Kennicott Bible, London 1985 pl. no. 9-27</bibl>
+                     <bibl>Metzger, Thérèse, Josue ben Abraham Ibn Gaon et la Masora du Ms Illuminado, Codices Manuscripti 15/5, 1990 pp. 1-27</bibl>
+                     <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue). Oxford 1994. no. 2323</bibl>
+                     <bibl>קטרין קוג'מן-אפל, אמנות יהודית בין איסלם לנצרות, תשס"א, עמ' 92- 117.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="Neubauer">
+               <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Miscellaneous</term>
+               <term>Additional MSS.</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
+                  <ref target="http://lccn.loc.gov/n79054379">Bible. Old Testament.</ref>
+               </term>
+               <term>
+                  <ref target="http://lccn.loc.gov/n81026486">Hafṭarot</ref>
+               </term>
+               <term>
+                  <ref target="http://id.loc.gov/authorities/names/n79140933">Bible. Five Scrolls.</ref>
+               </term>
+               <term>
+                  <persName ref="http://viaf.org/viaf/12343831">Kennicott, Benjamin, 1718-1783</persName>
+               </term>
+            </keywords>
+            <keywords scheme="IMHM">
+               <term>
+                  <persName>אבן גאון, יהושע בן אברהם (מעתיק)</persName>
+               </term>
+               <term>
+                  <persName>חביב, משה אבן, מאה יג-י"ד (בעלים)</persName>
+               </term>
+               <term>
+                  <persName>נסים בן אהרן הכהן (בעלים) ‬</persName>
+               </term>
+               <term>
+                  <persName>פארינט, שמואל (בעלים) ‬</persName>
+               </term>
+               <term>
+                  <persName>יצחק בן גרשם (מוזכר) ‬</persName>
+               </term>
+               <term>
+                  <persName>פלכון, יוסף (חותם) ‬</persName>
+               </term>
+               <term>
+                  <geogName>שוריא</geogName>
+               </term>
+               <term>
+                  <geogName>סורייא</geogName>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
+         </change>
+         <change when="2013-11-08">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

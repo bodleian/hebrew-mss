@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_340">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Laud Or. 114</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Laud_Or_114</idno>
+            <idno type="msID">MS_Laud_Or_114</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Laud_Or_114" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection> Oriental Manuscripts Laud Oriental Collection</collection>
+                  <idno>MS. Laud Or. 114</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Sermons</summary>
+                  <msItem xml:id="MS_Laud_Or_114-item1" n="1">
+                     <locus>ff. 1r-275v</locus>
+                     <title>Sermons (Derashot)<foreign xml:lang="he">דרשות</foreign>‬</title>
+                     <note>Homilies on different subjects (<foreign xml:lang="he">דרוש תשובה, מעלת התורה, על עון ומעשה, על הנבואה, על בפלאים, על מעלת ישראל</foreign>). Title(of the first half of the work?) at the beginning of the MS:<foreign xml:lang="he">יסורי הצדיקים והחסידים והתמימים והישרים</foreign>. The author quotes the commentary of<foreign xml:lang="he">אלשך</foreign>. Frequent marginal notes, where הרב לוניאדו and הרב אוזיאדה are quoted. The homilies are followed by blank leaves and different notes on biblical passages and midrashim, where רשʹ לונייאדו and כלי חמדה the book are quoted. At the end an index for the biblical passages explained in the homilies.</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper<watermark>(watermarks to be identified)</watermark>
+                        </support>
+                        <extent>ff. 275<dimensions type="leaf" unit="mm">
+                              <height quantity="210">210</height>
+                              <width quantity="142">142</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Continuous foliation with Arabic numerals; each homily is foliated separately with Hebrew characters. Older foliation with Hebrew characters from left to right starting with 82 (end 386).</foliation>
+                        <collation>
+                           <signatures>No signatures,</signatures>
+                           <catchwords>catchwords usually in the lower margin of every verso.</catchwords>
+                        </collation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Ashkenazi cursive script</summary>
+                     <handNote scope="sole" script="ashkenazi" rend="cursive"/>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>Not decorated.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Light brown leather binding, blind tooled.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>[Ashkenaz]</origPlace>
+                     <origDate when="1600">[ca. 1600]</origDate>
+                  </origin>
+                  <provenance>Hebrew and latin inscriptions older flyleaf (fol. (i)r-v). Ownership note on fol. 1r: "Liber Guilielmi Laud Archiepi[scopi] Cantaur[iensis] et Cancellarii Universitatis Oxon[iensis] 1635." Latin title on fol. 1r: "Fundamenta Iustorum". Hebrew ownership notes on fol. 275v.</provenance>
+                  <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0144.jpg">No. 1011</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0135.jpg">No. 1011</ref>, and on the data of the<ref target="http://aleph.nli.org.il/F/SSRAMYJRSGE7VU718G9L5H31IDH4VQ9K15E8L3XUMS3I2XPIUU-12728?func=find-b-0">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 22497</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 1011.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1011.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Homilies</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
+                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
+         </change>
+         <change when="2011-02-19">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

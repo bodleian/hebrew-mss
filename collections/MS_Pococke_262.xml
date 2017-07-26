@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_428">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Pococke 262</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Poc_262</idno>
+            <idno type="msID">MS_Pococke_262</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Pococke_262" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection> Oriental Manuscripts Pococke Collection</collection>
+                  <idno>MS. Pococke 262</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Sidur of R. Shlomoh Sig'ilmasah</summary>
+                  <msItem xml:id="MS_Pococke_262-item1" n="1">
+                     <locus>ff. 1r-270r</locus>
+                     <author>Shelomoh ben Natan, av bet din min ha-ʻir Sig'ilmasah, active 12th centuryשלמה בן נתן‏</author>
+                     <title>Sidur of R. Shlomoh Sig'ilmasah<foreign xml:lang="he">סדור ר’ שלמה סג’למסה</foreign>
+                     </title>
+                     <note>Minhagim in Arabic, containing 30 chapters.</note>
+                     <colophon>Colophon on fol. XXX 223v?? by Saadiah bar Yehudah bar Evyatar at Kaleah Barka for his son, Amraan; dated 1514 SE (1203 CE)</colophon>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 270</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Oriental semi-cursive script.</summary>
+                     <handNote scope="sole" script="oriental" rend="semi-cursive"/>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>Barca (Lybia)</origPlace>
+                     <origDate when="1202">1202</origDate>
+                  </origin>
+                  <provenance>Ownership inscritpions on fol. XXX:<foreign>XXX</foreign>
+                  </provenance>
+                  <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0131.jpg bej0132.jpg">No. 896</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0127.jpg">No. 896</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162540&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 21855</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 1239.</bibl>
+                     <bibl>
+                        <foreign xml:lang="he">ש’ צוקר וא’ ווסט, מוצאו המזרחי של סידור ר’ שלמה בר’ נתן וייחוסו המוטעה לצפון אפריקה, קרית ספר סד, ב (תשנ"ב-תשנ"ג), עמ’ 737-746</foreign>
+                     </bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1239.</bibl>
+                     <bibl>
+                        <foreign xml:lang="he">חגית שמואל (עורך), סידור רבינו שלמה ברבי נתן (ירושלים : ש’ חגי, תשנ"ה)</foreign>
+                     </bibl>
+                     <bibl>B. M. Outhwaite and S. Bhayro (eds),<hi rend="italic">‘From a sacred source’: Genizah studies in honour of Professor Stefan C. Reif</hi>(Cambridge Genizah Studies 1; Brill, Leiden 2010),</bibl>
+                     <bibl>Langer, Ruth,<hi rend="italic">Cursing the Christians?: A History of the Birkat HaMinim</hi>(Oxford:Oxford University Press, 2012), p. 343, n21.</bibl>
+                     <bibl>
+                        <ref target="http://maagarim.hebrew-academy.org.il/Pages/PMain.aspx?misyzira=621000">For transcription of Derekh Eretz Zuta text click here</ref>
+                     </bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Thalmud, Halakhah</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
+         </change>
+         <change when="2015-10-08">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

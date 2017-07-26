@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_376">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Michael 619</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Mich_619</idno>
+            <idno type="msID">MS_Michael_619</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Michael_619" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection> Oriental Manuscripts Michael Collection</collection>
+                  <idno>MS. Michael 619</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Tripartite Mahzor, volume 3</summary>
+                  <msItem xml:id="MS_Michael_619-item1" n="1">
+                     <locus>ff. 1v-293r</locus>
+                     <title>Mahzor according to the Western Ashkenazi rite for the High Holidays (Rosh ha-Shanah and Yom Kipur)</title>
+                     <title>
+                        <foreign xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים</foreign>
+                     </title>
+                     <note>The codex is the third volume of a three-volume prayer book; the first volume is kept in Budapest (<ref target="http://kaufmann.mtak.hu/en/ms384/ms384-coll1.htm">Library of the Hungarian Academy of Sciences, Kaufmann Collection MS A384</ref>, and the second volume is in kept in London (<ref target="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=19240">British Library MS Add. 22413</ref>). Originally the prayer book constituted a two-volume codex.</note>
+                     <note>False colophon on fol. 293r:<foreign xml:lang="he">אני מרדכי גימפיל מקראקא כתבתי המחזור הזה שנת מʹחʹזʹוʹר לפʺק</foreign>(I<persName>Mordekhai Gimpil of Cracow</persName>wrote this mahzor [in the] year 5261) (=1501)</note>
+                     <note>Deletions by censor? (e.g. fols. 37r, 85r)</note>
+                     <note>Piyyutim accompanied by piyyut commentaries in the margins.</note>
+                     <colophon>None.</colophon>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 293<dimensions type="leaf" unit="mm">
+                              <height quantity="345">345</height>
+                              <width quantity="247">247</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                        <collation>37 quires: i<hi rend="sup">1+8</hi>, ii-xv<hi rend="sup">8</hi>, xvi<hi rend="sup">6</hi>, xvii-xxi<hi rend="sup">8</hi>, xxii<hi rend="sup">6</hi>, xxiii-xxx<hi rend="sup">8</hi>, xxxi<hi rend="sup">6-1</hi>, xxxii-xxxv<hi rend="sup">8</hi>, xxxvi<hi rend="sup">8+1</hi>, xxxvii<hi rend="sup">8+2</hi>. The last quire is a contemporary addition, fol. 1 is a later addition.<signatures>no signatures</signatures>,<catchwords>catchwords partially cut off by a later binder (visible e.g. on fol. 9v, 17v, 25v).</catchwords>
+                        </collation>
+                        <condition>Good condition.</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Ashkenazi square script in light and dark brown ink</summary>
+                     <handNote scope="sole" script="ashkenazi" rend="square"/>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="initial">Nine initial word panels.<p>The illustrations are related stylistically to the Duke of Sussex Pentateuch (<ref target="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=19219">London, British Library, MS Add 15282</ref>) and the Gradual of Saint Katharinental (Zürich, Schweizerisches Landesmuseum, Frauenfeld, LM 26117).</p>
+                     </decoNote>
+                     <decoNote type="other">Carmina figurata (e.g. fols. 31v, 113v, 154r)</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Light brown eightteenth-century morocco binding of the Michael Collection, blind-tooled.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>[Ashkenaz]</origPlace>
+                     <origDate when="1322">ca. 1322</origDate>
+                  </origin>
+                  <provenance>False colophon on fol. 293r:<foreign xml:lang="he">אני מרדכי גימפיל מקראקא כתבתי המחזור הזה שנת מʹחʹזʹוʹר לפʺק</foreign>("I<persName>Mordekhai Gimpil of Cracow</persName>wrote this mahzor [in the] year 5261" [=1501]). Ownership inscription on fols. 1r and 293v:<foreign xml:lang="he">אני קלמן בר יוסף גרשון</foreign>("I Kalman ban Yosef Gershon").</provenance>
+                  <acquisition>It belonged to the library of<persName>Heimann Joseph Michael</persName>(1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0451.jpg">No. 2374</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0287.jpg beo0288.jpg">No. 2374</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000055486&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 21437</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 2374.</bibl>
+                     <bibl>Narkiss, Bezalel, ‘A Tripartite Illuminated Mahzor from a South German School of Hebrew Illuminated Manuscripts around 1300’, in<hi rend="italic">Fourth World Congress of Jewish Studies Papers</hi>, [2 volumes] (Jerusalem: World Union of Jewish Studies, 1968), II, pp. 129-33.</bibl>
+                     <bibl>Narkiss, Bezalel,<hi rend="italic">Hebrew Illuminated Manuscripts</hi>(New York: Macmillan, 1969), p. 108.</bibl>
+                     <bibl>Gutmann, Joseph,<hi rend="italic">Hebrew Manuscript Painting</hi>(New York: Braziller, 1978), pp. 92-95.</bibl>
+                     <bibl>Metzger, Thérèse and Mendel Metzger,<hi rend="italic">Jewish Life in the Middle Ages: Illuminated Hebrew Manuscripts of the Thirteenth to the Sixteenth Centuries</hi>(New York: Alpine Fine Arts Collection, 1982), p. 304.</bibl>
+                     <bibl>Narkiss, Bezalel, ‘On the Zoocephalic Phenomenon in Medieval Ashkenazi Manuscripts’, in<hi rend="italic">Norms and Variations in Art. Essays in Honour of Moshe Barasch</hi>(Jerusalem: Magnes Press, 1983), pp. 49-62.</bibl>
+                     <bibl>Narkiss, Bezalel, 'Pharaoh is Dead and living at the Gates of Hell',<hi rend="italic">Journal of Jewish Art</hi>10 (1984), 6-13 (p. 10).</bibl>
+                     <bibl>Sed-Rajna, Gabrielle,<hi rend="italic">La Bible hébraïque</hi>(Fribourg: Office du Livre, 1987), pp. 147 and 150.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2374.</bibl>
+                     <bibl>Ruth Mellinkoff,<hi rend="italic">Antisemitic Hate Signs in Hebrew Illuminated Manuscripts from Medieval Germany</hi>(Jerusalem: Center of Jewish Art–The Hebrew University of Jerusalem, 1999).</bibl>
+                     <bibl>Sarit Shalev-Eyni, ‘Ha-Mahzor ha-Meshullash’, unpublished doctoral thesis, (Jerusalem: Hebrew University, 2001).</bibl>
+                     <bibl>Sarit Shalev-Eyni, 'In the Days of the Barley Harvest: The Iconography of Ruth',<hi rend="italic">Artibus et Historiae</hi>, 26 (2005), 37-57.</bibl>
+                     <bibl>Zsofia Buda, ‘Animals and the Gaze at Women. Zoocephalic Figures in the Tripartite Mahzor’, in<hi rend="italic">Animal Diversities</hi>, ed. by Gerhard Jaritz and Alice Choyke (Krems: Medium Aevum Quotidianum, 2005), pp. 136-66.</bibl>
+                     <bibl>Buda, Zsofia ‘Zoocephalic Figures in the Tripartite Mahzor’, unpublished M.A. Thesis (Budapest: Central European University, 2005). Summary published in<hi rend="italic">Annual of Medieval Studies at CEU</hi>, 12 (2006), 33-47.</bibl>
+                     <bibl>Shalev-Eyni, Sarit.<hi rend="italic">Jews Among Christians: Hebrew Book Illumination from Lake Constance</hi>(London: Harvey Miller Publishers, 2010), espec. pp. 191-196.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Additional MSS</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
+                  <persName ref="http://viaf.org/viaf/17140230">Michael, Heimann Joseph, 1792-1846</persName>
+               </term>
+               <term>
+                  <placeName>Krakow</placeName>
+               </term>
+            </keywords>
+            <keywords scheme="#IMHM">
+               <term>
+                  <persName xml:lang="he">מרדכי גימפל, מקראקא</persName>
+               </term>
+               <term>
+                  <persName xml:lang="he">גרשון, קלמן בן יוסף</persName>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
+         </change>
+         <change when="2014-09-26">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

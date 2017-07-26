@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_333">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Huntington 98</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Hunt_98</idno>
+            <idno type="msID">MS_Huntington_98</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Huntington_98" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection> Oriental Manuscripts Huntington Collection</collection>
+                  <idno>MS. Huntington 98</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bet Elohim by Moses Almosnino</summary>
+                  <msItem xml:id="MS_Huntington_98-item1" n="1">
+                     <locus>ff. 2r-95v</locus>
+                     <author ref="http://viaf.org/viaf/100909415">Almosnino, Moses ben Baruch, approximately 1515-approximately 1580אלמושנינו, משה בן ברוך, 1518-1579</author>
+                     <title>Bet Elohim (The House of God)</title>
+                     <title>
+                        <foreign xml:lang="he">בית אלהים</foreign>
+                     </title>
+                     <note>Commentary on the Sefer Kadur ha-ʿOlam (=Maʾareh ha-ʾOfanim), the Hebrew translation of Johannes Sacro Bosco's<hi rend="caps">Sphaera Mundi</hi>
+                     </note>
+                     <note>According to colophon it was written by the scribe for himself and finished on Rosh Hodesh Shvat 5324 (1574 CE). The name of the scribe is hardly legible, according to JNUL, it is<foreign xml:lang="he">חיים עמרם</foreign>
+                     </note>
+                     <colophon>Colophon on fol. 95v:<foreign xml:lang="he">זה הספר כתבתי לעצמי ... נאום הצעיר שבצעירים ...נשלם זה הספר ראש חדש שבט שנת והשיג לכם דיש את בציר</foreign>
+                     </colophon>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 100<dimensions type="leaf" unit="mm">
+                              <height quantity="000"/>
+                              <width quantity="000"/>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">Text in one column.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Sephardi semi-cursive script.</summary>
+                     <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="illustration">Fol. 44v: coloured illustration of an astrolabe</decoNote>
+                     <decoNote type="diagram">Fols. 97r-100v: diagrams</decoNote>
+                  </decoDesc>
+                  <additions>Fol. 96: additions in Sephardi cursive script by a different hand.</additions>
+                  <bindingDesc>
+                     <p>Half bound, marble paper.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>[North Africa]</origPlace>
+                     <origDate when="1574">1574</origDate>
+                  </origin>
+                  <provenance>Ownership inscription:<foreign xml:lang="he">"מכסף מקנתי ... יצחק ב"ר שלמה קארא"</foreign>(fol. 2r). Fol. 1r: list of money taken by the owner to Jerusalem.</provenance>
+                  <acquisition>It belonged to the oriental collection of<persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>(1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0386.jpg">No. 2038</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0243.jpg">No. 2038</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000094557&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 19323</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 2038.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2038.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Mathematics</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
+                  <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>
+               </term>
+               <term>
+                  <persName ref="http://viaf.org/viaf/84975906">Sacro Bosco, Joannes de, active 1230</persName>
+               </term>
+            </keywords>
+            <keywords scheme="#IMHM">
+               <term>
+                  <persName xml:lang="he">עמרם, חיים (מעתיק)</persName>
+               </term>
+               <term>
+                  <persName xml:lang="he">קרא, יצחק בן שלמה (בעלים)</persName>
+               </term>
+               <term>
+                  <persName xml:lang="he">עפיא, אהרן (מוזכר)</persName>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
+         </change>
+         <change when="2015-08-14">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

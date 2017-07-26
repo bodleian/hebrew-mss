@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_460">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital description of MS. Reggio 48</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>MS_Reggio_48</idno>
+            <idno type="msID">MS_Reggio_48</idno>
+            <idno type="catalogue">Hebrew</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Reggio_48" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection> Oriental Manuscripts Reggio Collection</collection>
+                  <idno>MS. Reggio 48</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Alessandro Piccolomini's philosophical works</summary>
+                  <msItem xml:id="MS_Reggio_48-item1" n="1">
+                     <locus>ff. 2r-52v</locus>
+                     <author ref="http://viaf.org/viaf/68983534">Piccolomini, Alessandro, 1508-1578</author>
+                     <author>פיקולומיני, אליסנדרו</author>
+                     <title>ha-Hegiyon (L'instrumento de la filosofia)</title>
+                     <title>
+                        <foreign xml:lang="he">ההגיון</foreign>
+                     </title>
+                     <note>Anonym Hebrew translation that must have been written after<date calendar="#AM-abbreviated">349</date>(<date calendar="#Gregorian">1589</date>)since it cites<persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Reggio_48-item2" n="2">
+                     <locus>ff. 54r-171r</locus>
+                     <author ref="http://viaf.org/viaf/68983534">Piccolomini, Alessandro, 1508-1578</author>
+                     <author>פיקולומיני, אליסנדרו</author>
+                     <title>ha-Filosofiyah ṭiviʿit(La filosofia naturale)</title>
+                     <title>
+                        <foreign xml:lang="he">פילוסופיה טבעית</foreign>
+                     </title>
+                     <note>Anonym Hebrew translation that must have been written after<date calendar="#AM-abbreviated">349</date>(<date calendar="#Gregorian">1589</date>)since it cites<persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
+                     <note>Fols. 107v-109v are blank.</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper,<watermark>watermark to identify (see e.g. ff. 52-53)</watermark>
+                        </support>
+                        <extent>ff. 171<dimensions type="leaf" unit="mm">
+                              <height quantity="207"/>
+                              <width quantity="150"/>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                        <collation>
+                           <signatures>no signatures</signatures>,<catchwords>catchwords on every page</catchwords>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">Text in one column.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Italian cursive script</summary>
+                     <handNote scope="sole" script="italian" rend="cursive"/>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="diagram">Diagram on fol. 7v</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Half bound, marble paper.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>[Italy]</origPlace>
+                     <origDate notBefore="1601" notAfter="1800">[17th-18th century]</origDate>
+                  </origin>
+                  <acquisition>It belonged to Rabbi Isaac Samuel Reggio's (1784-1855) library, which was purchased en bloc by the Bodleian Library in 1853.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0286.jpg">No. 1393</ref>,<bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0173.jpg">No. 1393</ref>), and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 22417</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 1393.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1393.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="INDEX">
+               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="Neubauer">
+               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               </desc>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="IMHM">
+               <desc>Catalogue of the<bibl>
+                     <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
+                  </bibl>
+               </desc>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="Neubauer">
+               <term>Philosophy</term>
+            </keywords>
+            <keywords scheme="LCSH">
+               <term>
+                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+               </term>
+               <term>
+                  <persName ref="http://viaf.org/viaf/28713524">Moscato, Judah ben Joseph, approximately 1530-approximately 1593</persName>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
+         </change>
+         <change when="2014-09-19">
+            <persName>Zsofia Buda</persName>created this file</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="MS_HEB_X_XX_1a.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
