@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_403">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_402">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Digital description of MS. Oppenheim Add. 4° 124c</title>
+            <title>Digital description of MS. Oppenheim Add. 4° 124b</title>
             <respStmt>
                <resp>Cataloguer</resp>
                <persName>[Name of cataloguer]</persName>
@@ -29,12 +29,12 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <idno>MS_Opp_Add_Qu_124c</idno>
-            <idno type="msID">MS_Oppenheim_Add_4°_124c</idno>
+            <idno>MS_Opp_Add_Qu_124b</idno>
+            <idno type="msID">MS_Oppenheim_Add_4_124b</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Oppenheim_Add_4°_124c" xml:lang="en">
+            <msDesc xml:id="MS_Oppenheim_Add_4_124b" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -42,30 +42,21 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection>Oriental ManuscriptsOppenheim Collection</collection>
-                  <idno>MS. Oppenheim Add. 4° 124c</idno>
+                  <idno>MS. Oppenheim Add. 4° 124b</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Midrash ha-Gadol (Leviticus)</summary>
-                  <msItem xml:id="MS_Oppenheim_Add_4°_124c-item1" n="1">
-                     <locus>ff. 1r-284r</locus>
+                  <summary>Midrash ha-Gadol (Exodus)</summary>
+                  <msItem xml:id="MS_Oppenheim_Add_4_124b-item1" n="1">
+                     <locus>ff. 1r-215r</locus>
                      <author ref="http://viaf.org/viaf/19572491">Adani, David ben Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
-                     <title>Midrash ha-Gadol (Leviticus)</title>
+                     <title>Midrash ha-Gadol (Exodus)</title>
                      <title>
-                        <foreign xml:lang="he">מדרש הגדול (ויקרא)</foreign>
+                        <foreign xml:lang="he">מדרש הגדול (שמות)</foreign>
                      </title>
-                     <note>Part of a group of four MSS containing Midrash ha-Gadol; see also<ref target="#MS_Opp_Add_Qu_124a">MS. Opp. Add. 4° 124a</ref>,<ref target="#MS_Opp_Add_Qu_124b">MS. Opp. Add. 4° 124b</ref>,<ref target="#MS_Opp_Add_Qu_124d">MS. Opp. Add. 4°124d</ref>
+                     <note>Part of a group of four MSS containing Midrash ha-Gadol; see also<ref target="#MS_Opp_Add_Qu_124a">MS. Opp. Add. 4° 124a</ref>,<ref target="#MS_Opp_Add_Qu_124c">MS. Opp. Add. 4° 124c</ref>,<ref target="#MS_Opp_Add_Qu_124d">MS. Opp. Add. 4° 124d</ref>
                      </note>
-                     <textLang mainLang="he">Hebrew</textLang>
-                  </msItem>
-                  <msItem xml:id="MS_Oppenheim_Add_4°_124c-item2" n="2">
-                     <locus>ff. 1r-284r</locus>
-                     <author ref="http://viaf.org/viaf/83474670">Alts'ahri, Yiḥya ben Seʻadyah, approximately 1505-approximately 1583אלצ’אהרי, זכריה</author>
-                     <title>Sefer Tsedah la-derekh</title>
-                     <title>
-                        <foreign xml:lang="he">ספר צדה לדרך</foreign>
-                     </title>
-                     <note>Runs in the margins.</note>
-                     <note>Philosophico-kabbalistic commentary on the first two books of the Pentateuch.</note>
+                     <note>Place name in colophon is perhaps Al Jawf.</note>
+                     <colophon>Colophon of the scribe Yesha ben Aba Mari Shalom ben Saadiah, dated 19 Tevet 1907 SA (1595 CE):<foreign xml:lang="he">"נשלם בחמשא בשבא דהוא תשעת עשר יומין בירח טבת שנת אתתק"ז שנין לשטרי במאתא אלג’יל ... הכותב ישע בירב אבא מרי שלום בן סעדיה ... "</foreign>(fol. 215v)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -73,27 +64,27 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent>ff. 284<dimensions type="leaf" unit="mm"/>
+                        <extent>ff. 215<dimensions type="leaf" unit="mm"/>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Yemenite semi-square script.</summary>
-                     <handNote scope="minor" script="yemenite" rend="semi-square">Fols. 1-10, 12, 273r-283r are a much later completion of the missing parts.</handNote>
+                     <handNote scope="minor" script="yemenite" rend="semi-square"/>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace xml:lang="he">[Yemen]</origPlace>
-                     <origDate notBefore="1401" notAfter="1500">[15th century]</origDate>
+                     <origDate when="1597">1595</origDate>
                   </origin>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>(<ref facs="bej0443.jpg bej0444.jpg">No. 2338</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0284.jpg">No. 2338</ref>, and on the data of the<ref target="http%3A%2F%2Faleph.nli.org.il%2FF%2FT5XYJXXTA3FSXQMCHBL44S13D91SSQJ65PETYTPG3THMBGMH3Y-24803%3Ffunc%3Dfull-set-set%26set_number%3D002250%26set_entry%3D000004%26format%3D999">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                           <ref facs="beo0284.jpg">No. 2338</ref>, and on the data of the<ref target="http%3A%2F%2Faleph.nli.org.il%2FF%2FT5XYJXXTA3FSXQMCHBL44S13D91SSQJ65PETYTPG3THMBGMH3Y-25163%3Ffunc%3Dfull-set-set%26set_number%3D002250%26set_entry%3D000003%26format%3D999">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
@@ -139,6 +130,11 @@
          <textClass>
             <keywords scheme="Neubauer">
                <term>Additional MSS</term>
+            </keywords>
+            <keywords scheme="#IMHM">
+               <term>
+                  <persName xml:lang="he">ישע בן שלום בן סעדיה (מעתיק)</persName>
+               </term>
             </keywords>
          </textClass>
       </profileDesc>

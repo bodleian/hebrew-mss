@@ -48,7 +48,7 @@
                   <summary>Maḥzor accoring to the Western Ashkenazi rite</summary>
                   <msItem xml:id="MS_Laud_Or_321-item1" n="1">
                      <locus>ff. 1r-362v</locus>
-                     <title type="desc">Maḥzor<foreign type="desc" xml:lang="he">מחזור</foreign>
+                     <title type="desc">Maḥzor<foreign xml:lang="he">מחזור</foreign>
                      </title>
                      <note>Western Ashkenazi rite, but includes some liturgies from the Eastern Ashkenazi rite.</note>
                      <note>Beginning with Parashiyot for various Sabbaths and feasts.</note>

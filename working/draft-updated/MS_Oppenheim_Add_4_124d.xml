@@ -30,11 +30,11 @@
                </address>
             </pubPlace>
             <idno>MS_Opp_Add_Qu_124d</idno>
-            <idno type="msID">MS_Oppenheim_Add_4°_124d</idno>
+            <idno type="msID">MS_Oppenheim_Add_4_124d</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Oppenheim_Add_4°_124d" xml:lang="en">
+            <msDesc xml:id="MS_Oppenheim_Add_4_124d" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -70,14 +70,14 @@
                      <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2338.</bibl>
                   </listBibl>
                </additional>
-               <msPart xml:id="MS_Oppenheim_Add_4°_124d-part1" n="1">
+               <msPart xml:id="MS_Oppenheim_Add_4_124d-part1" n="1">
                   <msIdentifier>
                      <altIdentifier type="partial">
                         <idno>MS. Oppenheim Add. 4° 124d/1</idno>
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Oppenheim_Add_4°_124d-part1-item1" n="1">
+                     <msItem xml:id="MS_Oppenheim_Add_4_124d-part1-item1" n="1">
                         <locus>ff. 11r-119v</locus>
                         <author ref="http://viaf.org/viaf/19572491">Adani, David ben Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
                         <title>Midrash ha-Gadol (Numbers-Deuteronomy)</title>
@@ -110,14 +110,14 @@
                      </origin>
                   </history>
                </msPart>
-               <msPart xml:id="MS_Oppenheim_Add_4°_124d-part2" n="2">
+               <msPart xml:id="MS_Oppenheim_Add_4_124d-part2" n="2">
                   <msIdentifier>
                      <altIdentifier type="partial">
                         <idno>MS. Oppenheim Add. 4° 124d/2</idno>
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Oppenheim_Add_4°_124d-part2-item1" n="1">
+                     <msItem xml:id="MS_Oppenheim_Add_4_124d-part2-item1" n="1">
                         <locus>ff. 124r-346v</locus>
                         <author ref="http://viaf.org/viaf/19572491">Adani, David ben Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
                         <title>Midrash ha-Gadol (Numbers-Deuteronomy)</title>

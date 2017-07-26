@@ -30,11 +30,11 @@
                </address>
             </pubPlace>
             <idno>MS_Opp_Add_Qu_26</idno>
-            <idno type="msID">MS_Opp_Add_4°_26</idno>
+            <idno type="msID">MS_Opp_Add_4_26</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Opp_Add_4°_26" xml:lang="en">
+            <msDesc xml:id="MS_Opp_Add_4_26" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -46,7 +46,7 @@
                </msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Pentateuch, Hafṭarot , Five Scrolls and Megilat Antiochus</summary>
-                  <msItem xml:id="MS_Opp_Add_4°_26-item1" n="1">
+                  <msItem xml:id="MS_Opp_Add_4_26-item1" n="1">
                      <locus>ff. 3v-239v</locus>
                      <title>Hebrew Bible: Pentateuch, Hafṭarot , Five Scrolls and Megilat Antiochus ('Abravanel Pentateuch')</title>
                      <title>

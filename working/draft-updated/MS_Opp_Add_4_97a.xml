@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_391">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_389">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Digital description of MS. Opp. Add. 8° 14</title>
+            <title>Digital description of MS. Opp. Add. 4° 97a</title>
             <respStmt>
                <resp>Cataloguer</resp>
                <persName>[Name of cataloguer]</persName>
@@ -29,12 +29,12 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <idno>MS_Opp_Add_Oct_14</idno>
-            <idno type="msID">MS_Opp_Add_8°_14</idno>
+            <idno>MS_Opp_Add_Qu_97a</idno>
+            <idno type="msID">MS_Opp_Add_4_97a</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Opp_Add_8°_14" xml:lang="en">
+            <msDesc xml:id="MS_Opp_Add_4_97a" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -42,45 +42,58 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection>Oriental ManuscriptsOppenheim Collection</collection>
-                  <idno>MS. Opp. Add. 8° 14</idno>
+                  <idno>MS. Opp. Add. 4° 97a</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Sidur for the entire year, minhag Carpentras</summary>
-                  <msItem xml:id="MS_Opp_Add_8°_14-item1" n="1">
-                     <locus>ff. 1r-376v</locus>
-                     <title>Sidur for the entire year according to minhag Carpentras</title>
+                  <summary>Hebrew Bible: Pentateuch preceded by anonymous grammatical work</summary>
+                  <msItem xml:id="MS_Opp_Add_4_97a-item1" n="1">
+                     <locus>ff. 1r-32r</locus>
+                     <title>Anonymous grammatical work</title>
                      <title>
-                        <foreign xml:lang="he">סדור מנהג קרפנטרס לכל השנה</foreign>
+                        <foreign xml:lang="he">מחברת התיג’אן</foreign>
                      </title>
+                     <note>Published from this MS by Derenbourg (1870).</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Opp_Add_4_97a-item2" n="2">
+                     <locus>ff. 32v-316r</locus>
+                     <title>Hebrew Bible: Pentateuch</title>
+                     <title>
+                        <foreign xml:lang="he">תורה</foreign>
+                     </title>
+                     <note>Written for Saʿadiah ben Yeshuʿah ben Daṿid. Date given in colophon is Marḥeshṿan 1790 AS (anno Seleuci, Seleucid era) (=1478 CE).</note>
+                     <colophon>Colophon by the scribe Yosef ben Baniyah on fol. 315v:<foreign xml:lang="he">"נכתבה ... על שם אלופי ומיודעי סעדיה שץ בירב ישועה זצ"ל בירב דוד רי"ת ... נשלמה חדש מרחשון שנת א’תש"צ ... והכותב הקל והנקל יוסף בן בניה שץ בן סעדיה רי"ת"</foreign>
+                     </colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc material="perg">
-                        <support>parchment</support>
-                        <extent>ff. 376<dimensions type="leaf" unit="mm"/>
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 316<dimensions type="leaf" unit="mm"/>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Sephardi semi-cursive script.</summary>
-                     <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
+                     <summary>Yemenite semi-cursive and square script.</summary>
+                     <handNote scope="minor" script="yemenite" rend="semi-cursive">Fols. 1v-31v: Yemenite semi-cursive script.</handNote>
+                     <handNote scope="major" script="yemenite" rend="square">Fols. 32r-316v: Yemenite square script.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>[Provence?]</origPlace>
-                     <origDate when="1400">[ca. 1400]</origDate>
+                     <origPlace>[Yemen]</origPlace>
+                     <origDate when="1478">1478</origDate>
                   </origin>
-                  <provenance>Purchase note by<persName>Ṿidal Mosheh Rafael ben Yosef</persName>, dated 3 Teveṭ 5301 (that is 1540):<foreign xml:lang="he">"יום ג לחדש טבת שנת ה אלפים וש"א...אני וידאל משה רפאל בן פורת בכמ"ר הרופא מאשט[רו] יוסף נ"ע קניתי זה הסידור מחתני יצ"ו ר’ שלמה בכ"ר יעקב [...] ברצלוני דר היום בויסיגיאה"</foreign>(fol. 376v). Ṿidal bought the sidur from his father-in-law Shlomoh ben Yaʿaḳov. Censor's signature: Antonio Franceso Enquires 1687 (fol. 376v)</provenance>
+                  <provenance>Purchase note dated 1882 AS (=1571 CE):<foreign xml:lang="he">"קנינו אנו העדים החותמין למטה מן גיאת בן דאוד בן סעיד בן גי’את אלגמל ... אתתפ"ב שנין לשטרי במדינה צנעא ... יוסף בן אברהם יסל", מוזכר בו גם הבעלים: "יחיא בן דאוד אלחמאמי".</foreign>(fol. 32v). List of births at the beginning and at the end dated 1823-1920 AS (=1512-1609 CE)</provenance>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>(<ref facs="bej0202.jpg bej0203.jpg">No. 1142</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0147.jpg">No. 1142</ref>, and on the data of the<ref target="http%3A%2F%2Faleph.nli.org.il%2FF%2F61LN56HMNS2KCF11Y3TDDLM7NBBAQSP193DIEJMTX2GF256P6A-06821%3Ffunc%3Dshort-0%26set_number%3D007579">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>(<ref facs="bej0301.jpg bej0302.jpg">No. 1505</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0182.jpg">No. 1505</ref>, and on the data of the<ref target="http%3A%2F%2Faleph.nli.org.il%2FF%2F61LN56HMNS2KCF11Y3TDDLM7NBBAQSP193DIEJMTX2GF256P6A-07092%3Ffunc%3Dshort-0%26set_number%3D042065">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
@@ -88,12 +101,13 @@
                   </adminInfo>
                   <surrogates>
                      <bibl>
-                        <idno n="MSS R.R. Film No." type="microfilm">F 16603</idno>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 16424</idno>
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 1142.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1142.</bibl>
+                     <bibl>Derenbourg, J., "Manuel du lecteur d'un auteur inconnu,"<hi rend="italic">Journal Asiatique</hi>ser. 6, 16 (1870): 309-550.</bibl>
+                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 1505.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1505.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -125,25 +139,28 @@
       <profileDesc>
          <textClass>
             <keywords scheme="Neubauer">
-               <term>Liturgies</term>
+               <term>Grammar and Lexicography</term>
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <placeName>Carpentras (France)</placeName>
+                  <placeName>Ṣanʻāʼ (Yemen)</placeName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>Antonio Francesco Enriques (censor)</persName>
+                  <persName xml:lang="he">יוסף בן בניה בן סעדיה בן זכריה (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">וידל, משה רפאל בן יוסף (בעלים)</persName>
+                  <persName xml:lang="he">סעדיה בן ישועה (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">שלמה בן יעקב (בעלים)</persName>
+                  <persName xml:lang="he">אלגמל, גיאת בן דוד (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">קשלרי, ישראל בן יוסף (ממנו)</persName>
+                  <persName xml:lang="he">יוסף בן אברהם (בעלים)</persName>
+               </term>
+               <term>
+                  <persName xml:lang="he">אלחממי, יחיא בן דוד (בעלים)</persName>
                </term>
             </keywords>
          </textClass>

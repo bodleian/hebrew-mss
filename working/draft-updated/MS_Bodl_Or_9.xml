@@ -11,7 +11,7 @@
                <persName>[Name of cataloguer]</persName>
             </respStmt>
          </titleStmt>
-         <publicationStmt>
+         <publicationStmt><!--First publisher-->
             <publisher>Bodleian Library</publisher>
             <date calendar="Gregorian">[Date when first made available]</date>
             <pubPlace>
@@ -41,7 +41,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection>Oriental ManuscriptsBodley Oriental</collection>
+                  <collection>Oriental Manuscripts</collection>
                   <idno>MS. Bodl. Or. 9</idno>
                </msIdentifier>
                <msContents>

@@ -30,11 +30,11 @@
                </address>
             </pubPlace>
             <idno>MS_Opp_Add_Qu_97a</idno>
-            <idno type="msID">MS_Oppenheim_Add_4°_97a</idno>
+            <idno type="msID">MS_Oppenheim_Add_4_97a</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Oppenheim_Add_4°_97a" xml:lang="en">
+            <msDesc xml:id="MS_Oppenheim_Add_4_97a" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -46,7 +46,7 @@
                </msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Pentateuch preceded by anonymous grammatical work</summary>
-                  <msItem xml:id="MS_Oppenheim_Add_4°_97a-item1" n="1">
+                  <msItem xml:id="MS_Oppenheim_Add_4_97a-item1" n="1">
                      <locus>ff. 1r-32r</locus>
                      <title>Anonymous grammatical work</title>
                      <title>
@@ -55,7 +55,7 @@
                      <note>Published from this MS by Derenbourg (1870).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Oppenheim_Add_4°_97a-item2" n="2">
+                  <msItem xml:id="MS_Oppenheim_Add_4_97a-item2" n="2">
                      <locus>ff. 32v-316r</locus>
                      <title>Hebrew Bible: Pentateuch</title>
                      <title>

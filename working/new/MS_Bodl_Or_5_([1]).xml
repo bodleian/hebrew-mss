@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?oxygen RNGSchema="enrich-wamcp-hebrew.rnc" type="compact"?>
-<?xml-stylesheet type="text/css" href="http://tei.oucs.ox.ac.uk/ENRICH/enrich.css" title="ENRICH CSS" ?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Digital description of MS. Bodl. Or. 9</title>
@@ -14,8 +11,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
                 <publisher>Bodleian Library</publisher>
+                <date calendar="Gregorian">[Date when first made available]</date>
                 <pubPlace>
                     <address>
                     <addrLine>Department of Special Collections</addrLine>
@@ -34,7 +31,7 @@
                 <idno>MS_Bodl_Or_9</idno>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Bodl_Or_9" xml:lang="en">
+                <msDesc xml:id="MS_Bodl_Or_9" xml:lang="en">
                     <msIdentifier>
                         <country>United Kingdom</country>
                         <region type="county">Oxfordshire</region>
@@ -42,10 +39,7 @@
                         <institution>Oxford University</institution>
                         <repository>Bodleian Library</repository>
 
-                        <collection>
-                            <collection type="main">Oriental Manuscripts</collection>
-                            <collection type="sub">Bodley Oriental </collection>
-                        </collection>
+                        <collection>Oriental Manuscripts</collection>
 
                         <idno>MS. Bodl. Or. 9</idno>
                         <altIdentifier type="other">
