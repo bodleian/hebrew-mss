@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -51,7 +51,7 @@
                      <author ref="http://lccn.loc.gov/no91021466">Kimḥi, Joseph, approximately 1105-approximately 1170יוסף קמחי</author>
                      <title>Commentary on the Proverbs</title>
                      <title xml:lang="he">פרוש כתובים ליוסף קמחי (משלי)</title>
-                     <note>Bound together with<persName>Levi ben Gershom</persName>'s commentary on the Five Scrolls, ed. Riva di Trento,<date calendar="AM">5320</date>(<date calendar="Gregorian">1559 or 1560</date>): "פירוש חמש מגלות" מאת "לוי בן גרשון", דפוס "ריווא דטרינטו, שנת ש"ך לפ"ק". ‬</note>
+                     <note>Bound together with<persName>Levi ben Gershom</persName>'s commentary on the Five Scrolls, ed. Riva di Trento,<date calendar="#AM">5320</date>(<date calendar="#Gregorian">1559 or 1560</date>): "פירוש חמש מגלות" מאת "לוי בן גרשון", דפוס "ריווא דטרינטו, שנת ש"ך לפ"ק". ‬</note>
                   </msItem>
                </msContents>
                <physDesc>

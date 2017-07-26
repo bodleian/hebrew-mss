@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -51,7 +51,7 @@
                      <author ref="http://viaf.org/viaf/100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
                      <title>Commentary on Isaiah<foreign xml:lang="he">פרוש נביאים לרד"ק (ישעיה)</foreign>
                      </title>
-                     <note>Written by<persName>Yiśraʾel Ashkenazi ben ʿAzaryah ben Mosheh</persName>, finished on Tuesday 22 Heshṿan<date calendar="AM">5211</date>(<date calendar="Gregorian">1450</date>). Yiśraʾel sold it to<persName>Shlomoh ben Yitsḥaḳ Naḥum</persName>in<date calendar="AM">5237</date>(<date calendar="Gregorian">1477</date>). Later it belonged to<persName>Eliahu Naḥum</persName>, the son of the latter.</note>
+                     <note>Written by<persName>Yiśraʾel Ashkenazi ben ʿAzaryah ben Mosheh</persName>, finished on Tuesday 22 Heshṿan<date calendar="#AM">5211</date>(<date calendar="#Gregorian">1450</date>). Yiśraʾel sold it to<persName>Shlomoh ben Yitsḥaḳ Naḥum</persName>in<date calendar="#AM">5237</date>(<date calendar="#Gregorian">1477</date>). Later it belonged to<persName>Eliahu Naḥum</persName>, the son of the latter.</note>
                      <note>Purchase note is localised in<placeName>Chios</placeName>(<foreign xml:lang="he">כיאו</foreign>).</note>
                      <colophon>Colophon on fol. 121r:<foreign xml:lang="he">"נשלם פי’ ישעיה הנביא לרבי’ דוד קמחי ז"ל עם הגירסא על ידי ... ישראל אשכנזי בכה"ר עזריא אשכנזי יצ"ו בכה"ר משה אשכנזי תʹנʹצʹבʹהʹ יום גʹ כ"ב לירח חשון שנת ה’רי"א"</foreign>.</colophon>
                      <textLang mainLang="he">Hebrew</textLang>

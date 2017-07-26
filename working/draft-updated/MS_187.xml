@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Christ Church Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Christ Church (Oxford)</addrLine>
@@ -64,7 +64,7 @@
                      <note>The text on f. 1v is continued on f. 3r.</note>
                      <note>F. 2 is a later addition, which contains part of a medical treatise.</note>
                      <note>On ff. 36v-37v there are indices of the questions on 'de generatione et corruptione' and 'de anima'; these are repeated (in a different hand) on<locus from="38a" to="38b">ff. 38r-38v</locus>, followed by the questions on 'de sensu', 'de memoria', 'de somno', and on Thomas Aquinas's'de ente et essentia'.</note>
-                     <colophon>Translator's colophon on f. 36r:<foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז''ל ה''ה ביום חמישי בשנים עשר יום לחדש כסליו שנת ר'ל'ד' לפרט היצירה בכאן במונתשון [...]</foreign>[i.e.<date calendar="Gregorian">1473</date>]</colophon>
+                     <colophon>Translator's colophon on f. 36r:<foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז''ל ה''ה ביום חמישי בשנים עשר יום לחדש כסליו שנת ר'ל'ד' לפרט היצירה בכאן במונתשון [...]</foreign>[i.e.<date calendar="#Gregorian">1473</date>]</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -87,7 +87,7 @@
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
                         <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De generatione et corruptione'</title>
-                     <colophon>Translator's colophon on f. 68r:<foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו זלה''ה בכ''א יום לחדש טבת שנת ר'ל'ג' לפרט במונתשון [...]</foreign>[i.e.<date calendar="Gregorian">1472</date>]</colophon>
+                     <colophon>Translator's colophon on f. 68r:<foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו זלה''ה בכ''א יום לחדש טבת שנת ר'ל'ג' לפרט במונתשון [...]</foreign>[i.e.<date calendar="#Gregorian">1472</date>]</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -110,7 +110,7 @@
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
                         <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De anima'</title>
-                     <colophon>Translator's colophon of f. 119r:<foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז'ל ה'ה' ביום ששי בשלשה ועשרים יום לחדש טבת שנת רלג לפרט בכאן במונטאשון [...]</foreign>[i.e.<date calendar="Julian">1472</date>]</colophon>
+                     <colophon>Translator's colophon of f. 119r:<foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז'ל ה'ה' ביום ששי בשלשה ועשרים יום לחדש טבת שנת רלג לפרט בכאן במונטאשון [...]</foreign>[i.e.<date calendar="#Julian">1472</date>]</colophon>
                      <textLang mainLang="he"/>
                      <listBibl>
                         <bibl>
@@ -199,7 +199,7 @@
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
                         <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De longitudine et brevitate vitae'</title>
-                     <colophon>Translator's colophon on f. 138r:<foreign xml:lang="he">נשלמה העתקת המאמרים הטבעיים הקטנים הנק' בלעז פארווש נאטוראליש על ידי עלי בר' יוסף חביליו זלה''ה אור ליום ראשון בששה עשר יום לחדש אדר ראשון שנת ר'לג לפרט היצירה במונתשון [...]</foreign>[i.e.<date calendar="Gregorian">1473</date>]</colophon>
+                     <colophon>Translator's colophon on f. 138r:<foreign xml:lang="he">נשלמה העתקת המאמרים הטבעיים הקטנים הנק' בלעז פארווש נאטוראליש על ידי עלי בר' יוסף חביליו זלה''ה אור ליום ראשון בששה עשר יום לחדש אדר ראשון שנת ר'לג לפרט היצירה במונתשון [...]</foreign>[i.e.<date calendar="#Gregorian">1473</date>]</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -300,7 +300,7 @@
                      <origPlace>[Provence]</origPlace>
                      <origDate notBefore="1490" notAfter="1510">[c. 1500]</origDate>
                   </origin>
-                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in<date calendar="Gregorian" when="1683">1683</date>by<persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
+                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in<date calendar="#Gregorian" when="1683">1683</date>by<persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
                </history>
                <additional>
                   <adminInfo>

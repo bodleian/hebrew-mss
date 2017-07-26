@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -54,7 +54,7 @@
                      <title>
                         <foreign xml:lang="he">ההגיון</foreign>
                      </title>
-                     <note>Anonym Hebrew translation that must have been written after<date calendar="AM-abbreviated">349</date>(<date calendar="Gregorian">1589</date>)since it cites<persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
+                     <note>Anonym Hebrew translation that must have been written after<date calendar="#AM-abbreviated">349</date>(<date calendar="#Gregorian">1589</date>)since it cites<persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_48-item2" n="2">
@@ -65,7 +65,7 @@
                      <title>
                         <foreign xml:lang="he">פילוסופיה טבעית</foreign>
                      </title>
-                     <note>Anonym Hebrew translation that must have been written after<date calendar="AM-abbreviated">349</date>(<date calendar="Gregorian">1589</date>)since it cites<persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
+                     <note>Anonym Hebrew translation that must have been written after<date calendar="#AM-abbreviated">349</date>(<date calendar="#Gregorian">1589</date>)since it cites<persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
                      <note>Fols. 107v-109v are blank.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

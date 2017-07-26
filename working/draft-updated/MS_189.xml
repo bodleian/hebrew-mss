@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Christ Church Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Christ Church (Oxford)</addrLine>
@@ -111,7 +111,7 @@
                      <origPlace>[Provence]</origPlace>
                      <origDate when="1476">1476</origDate>
                   </origin>
-                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in<date calendar="Gregorian" when="1683">1683</date>by<persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
+                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in<date calendar="#Gregorian" when="1683">1683</date>by<persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
                </history>
                <additional>
                   <adminInfo>

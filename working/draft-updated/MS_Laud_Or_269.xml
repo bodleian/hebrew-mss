@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -91,7 +91,7 @@
                      <origPlace>[Ashkenaz]</origPlace>
                      <origDate notBefore="1350" notAfter="1400">[mid-late 14th century]</origDate>
                   </origin>
-                  <provenance>Owners inscription: "Liber Guilielmi Laud Archiepi[scopi] Cantuari[i] et Cancellarii Universitatis Oxon[iensis] 1633" (fol.2v). At the end of the MS births and deaths; the earliest is of<date calendar="AM">5207</date>(<date calendar="Gregorian">1407</date>), the death of R. Shimon ben Yitsḥaḳ.</provenance>
+                  <provenance>Owners inscription: "Liber Guilielmi Laud Archiepi[scopi] Cantuari[i] et Cancellarii Universitatis Oxon[iensis] 1633" (fol.2v). At the end of the MS births and deaths; the earliest is of<date calendar="#AM">5207</date>(<date calendar="#Gregorian">1407</date>), the death of R. Shimon ben Yitsḥaḳ.</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
                <additional>

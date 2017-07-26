@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -56,7 +56,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support>paper<watermark>(watermarks similar to Briquet no. 7415, dated<date calendar="Gregorian">1316-48</date>and to Briquet no. 3188, dated<date calendar="Gregorian">1334</date>)</watermark>
+                        <support>paper<watermark>(watermarks similar to Briquet no. 7415, dated<date calendar="#Gregorian">1316-48</date>and to Briquet no. 3188, dated<date calendar="#Gregorian">1334</date>)</watermark>
                         </support>
                         <extent>ff. 166<dimensions type="other" unit="cm"/>
                            <dimensions type="written" unit="cm"/>
@@ -68,7 +68,7 @@
                      <handNote scope="major" script="sephardi" rend="semi-cursive"/>
                   </handDesc>
                   <additions>
-                     <p>Very likely written by<persName>Judah b. Abba Mari ha-Kokhabi</persName>, who copied MS. Paris BnF hébr. 315 in<date calendar="Gregorian">1333</date>.</p>
+                     <p>Very likely written by<persName>Judah b. Abba Mari ha-Kokhabi</persName>, who copied MS. Paris BnF hébr. 315 in<date calendar="#Gregorian">1333</date>.</p>
                   </additions>
                </physDesc>
                <history>

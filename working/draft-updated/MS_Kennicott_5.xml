@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -119,14 +119,14 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName>Rashi</persName>,<date calendar="Gregorian">1040-1105</date>
+                  <persName>Rashi</persName>,<date calendar="#Gregorian">1040-1105</date>
                </term>
                <term>
                   <persName>Levi ben Gershom,</persName>
-                  <date calendar="Gregorian">1288-1344</date>
+                  <date calendar="#Gregorian">1288-1344</date>
                </term>
                <term>
-                  <persName>Kimhi, David</persName>,<date calendar="Gregorian">approximately 1160-approximately 1235</date>
+                  <persName>Kimhi, David</persName>,<date calendar="#Gregorian">approximately 1160-approximately 1235</date>
                </term>
                <term>
                   <geogName>Segovia (Spain)</geogName>

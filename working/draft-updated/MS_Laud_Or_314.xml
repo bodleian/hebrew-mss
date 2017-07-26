@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -52,7 +52,7 @@
                      </title>
                      <note>Rite of Aleppo. At the beginning (fols. 2-4) a lengthy description in Latin of an otherwise unknown edition of the Passover Haggadah printed by<persName>Daniel Bomberg</persName>in<placeName>Venice</placeName>[n.d.] and the beginning of a description of a Haggadah printed by<persName>Christofolo Zanetti</persName>(Rome, 1564)</note>
                      <note>Latin description of the Haggadah on fols. 2-4, Haggadah itself begins on fol. 8r.</note>
-                     <note>The date specified in the colophon<foreign xml:lang="he">גשמ"י ברכ"ה לפ"ק</foreign>(<date calendar="AM">5580</date>=<date calendar="Gregorian">1820</date>) is refuted by two ownership inscriptions of 1618 and 1633. The year should be read גשמ"י (5353=1593) which was in fact a leap year, and so 18 Adar II did fall on a Monday.</note>
+                     <note>The date specified in the colophon<foreign xml:lang="he">גשמ"י ברכ"ה לפ"ק</foreign>(<date calendar="#AM">5580</date>=<date calendar="#Gregorian">1820</date>) is refuted by two ownership inscriptions of 1618 and 1633. The year should be read גשמ"י (5353=1593) which was in fact a leap year, and so 18 Adar II did fall on a Monday.</note>
                      <colophon>
                         <foreign xml:lang="he">"נשלמה ההגדה יום ב יום יח לחדש אדר שני שנת ג’ש’מ’י’ ברכה ‬</foreign>(fol. 23r)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>

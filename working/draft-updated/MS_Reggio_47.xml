@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -87,14 +87,14 @@
                         <author ref="http://viaf.org/viaf/54152998">Ptolemy, active 2nd century</author>
                         <title>Maʿaśeh keli ha-habaṭah (Treatise on the astrolabe)</title>
                         <title xml:lang="he">מעשה כלי ההבטה</title>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="AM-abbreviated">259</date>(<date calendar="Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item2" n="2">
                         <locus>fols. 3r-3v</locus>
                         <title>Luḥot</title>
                         <title xml:lang="he">לוחות</title>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="AM-abbreviated">259</date>(<date calendar="Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item3" n="3">
@@ -102,7 +102,7 @@
                         <title xml:lang="he">תכונת הכדור</title>
                         <colophon>Colophon on fol. 13v:<foreign xml:lang="he">"ברוך הנותן ליעף כח והתעצמות פה מנטובא מאייו רנ"ט אני<persName>יהודה פריצול</persName>יבמ"י"</foreign>
                         </colophon>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="AM-abbreviated">259</date>(<date calendar="Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item4" n="4">
@@ -111,7 +111,7 @@
                         <author xml:lang="he">טיטצ’ק, יוסף</author>
                         <title>La-ʿaśot ha-atsṭrolabe</title>
                         <title xml:lang="he">לעשות האצטרולב</title>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="AM-abbreviated">259</date>(<date calendar="Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item5" n="5">
@@ -120,7 +120,7 @@
                         <author xml:lang="he">יעקב בן מכיר</author>
                         <title>Rovaʿ Yiśraʾel ("Israel's Quadrant", chapter 16)</title>
                         <title xml:lang="he">רובע ישראל (שער טז)</title>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="AM-abbreviated">259</date>(<date calendar="Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>

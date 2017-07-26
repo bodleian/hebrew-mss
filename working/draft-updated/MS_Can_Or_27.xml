@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -52,7 +52,7 @@
                      </title>
                      <note>End is incomplete, some pages have been completed with different hand.</note>
                      <note>Notes of different nature by various hands on fol. 3r-6v</note>
-                     <note>Written and vocalized by Yeshʿayah ben Yaʿaḳov me-Masran ben Yeshʿayah me-Yarona for Shlomoh Yedidyah ben Yiśraʾel me-i[r] Sobreno, finished Thursday 19 Shvat<date calendar="AM">5241</date>(=<date calendar="Gregorian">1481</date>) at Mantova.</note>
+                     <note>Written and vocalized by Yeshʿayah ben Yaʿaḳov me-Masran ben Yeshʿayah me-Yarona for Shlomoh Yedidyah ben Yiśraʾel me-i[r] Sobreno, finished Thursday 19 Shvat<date calendar="#AM">5241</date>(=<date calendar="#Gregorian">1481</date>) at Mantova.</note>
                      <colophon>Colophon (fol. 170v):<foreign xml:lang="he">"אני ישיעה בר’ יעקב יצ"ו ממסראן במהר"ר ישעיה מוורונה ז"ל כתבתי ונקדתי זה הסדור שלם אל ... כמר’ שלמה ידידיה יצ"ו בכמ"ר ישראל זלה"ה מע’ סוברינו ... ‬והיתה השלמתו בליל ו בי"ט לחדש שבת שנת חמשת אלפים מאתיים [בין השיטין] וארבעים ואחר לבריאת עולם ... כאן מנטובה"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

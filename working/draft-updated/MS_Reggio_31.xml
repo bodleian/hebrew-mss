@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -63,7 +63,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_31-item3" n="3">
                      <locus>ff. 123r-124r</locus>
-                     <title>On the prayers of Minhah, composed in<date calendar="AM">5543</date>(=<date calendar="Gregorian">1783</date>}</title>
+                     <title>On the prayers of Minhah, composed in<date calendar="#AM">5543</date>(=<date calendar="#Gregorian">1783</date>}</title>
                      <note>On the passage<foreign xml:lang="he">רʹ יהודה היה נותן בהם סימנים</foreign>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -71,7 +71,7 @@
                   <msItem xml:id="MS_Reggio_31-item4" n="4">
                      <locus>f. 125r</locus>
                      <title>Le-lele shabatot</title>
-                     <note>Finished in 5495<date calendar="AM"/>(=<date calendar="Gregorian">1734</date>)</note>
+                     <note>Finished in 5495<date calendar="#AM">AM</date>(=<date calendar="#Gregorian">1734</date>)</note>
                      <colophon>
                         <foreign xml:lang="he">"כ"ג לחדש חשון ה’תצ"ה"</foreign>
                      </colophon>

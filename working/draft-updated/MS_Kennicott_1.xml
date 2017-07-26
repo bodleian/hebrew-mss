@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -88,8 +88,8 @@
                      <origDate when="1476">1476</origDate>
                   </origin>
                   <provenance>Acquired for the Radcliffe Library, Oxford, by<persName ref=" http://viaf.org/viaf/12343831">Benjamin Kennicott.</persName>
-                     <date calendar="Gregorian">(1718-1783)</date>.</provenance>
-                  <acquisition>Transferred to the Bodleian Library in<date calendar="Gregorian" when="1872">1872</date>.</acquisition>
+                     <date calendar="#Gregorian">(1718-1783)</date>.</provenance>
+                  <acquisition>Transferred to the Bodleian Library in<date calendar="#Gregorian" when="1872">1872</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>

@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -118,7 +118,7 @@
                <history>
                   <origin>
                      <origPlace>Meknès</origPlace>
-                     <origDate when="1509">1509</origDate>(AM<origDate calendar="AM-abbreviated">269</origDate>)</origin>
+                     <origDate when="1509">1509</origDate>(AM<origDate calendar="#AM-abbreviated">269</origDate>)</origin>
                   <provenance>Notes on fol. [ii]v: illegible Hebrew note; "Lib. mitsvoth R. Shelomo ben Ghabirol, ..."; "Liber Guilielmi Laud Archiepiscopi Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1633"</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>

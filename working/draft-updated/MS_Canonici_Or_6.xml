@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -52,7 +52,7 @@
                      <title>Orlando furioso<foreign xml:lang="he">אורלאנדו פורייוזו</foreign>
                      </title>
                      <textLang mainLang="it">Italian written in Hebrew characters.</textLang>
-                     <note>At end some poetical pieces in Spanish, and a Hebrew epitaph of the year<date calendar="AM">5360</date>=<date calendar="Gregorian">1600</date>
+                     <note>At end some poetical pieces in Spanish, and a Hebrew epitaph of the year<date calendar="#AM">5360</date>=<date calendar="#Gregorian">1600</date>
                      </note>
                   </msItem>
                </msContents>

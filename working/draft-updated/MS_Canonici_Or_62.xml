@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -50,7 +50,7 @@
                      <locus>ff. 1r-274v</locus>
                      <title>Hebrew Bible</title>
                      <note>Commentaries: Rashi's commentary on the Pentateuch, Ibn Ezra's commentary on Esther, Song of Songs with the commentary of<persName>Abraham ben Isaac ha-Levi Tamakh</persName>,(-1393), Ruth with the commentary of Rashi and Ibn Ezra, Lamentations with the commentary of Ibn Ezra, Ecclesiastes with the commentary of Ibn Ezra (only at the beginning)</note>
-                     <note>The Pentateuch was finished on Sunday the<date calendar="AM">22nd of Tammuz 5232</date>=<date calendar="Gregorian">1472</date>by<persName>Brakhiel ben Hizkiyah Raphael Tarbut</persName>
+                     <note>The Pentateuch was finished on Sunday the<date calendar="#AM">22nd of Tammuz 5232</date>=<date calendar="#Gregorian">1472</date>by<persName>Brakhiel ben Hizkiyah Raphael Tarbut</persName>
                         <persName xml:lang="he">ברכיאל בר’ חזקיה רפאל טרבוט</persName>for<name type="unknown">Abraham Rava</name>
                         <persName xml:lang="he">אברהם רבא</persName>
                      </note>
@@ -95,7 +95,7 @@
                   <origin>
                      <geogName>[Northern Italy]</geogName>,<origDate when="1472">1472</origDate>
                   </origin>
-                  <provenance>Censor's note<persName>Camillo Jaghel</persName>1619(?) (fol. 274v)<date calendar="Gregorian">1619</date>.</provenance>
+                  <provenance>Censor's note<persName>Camillo Jaghel</persName>1619(?) (fol. 274v)<date calendar="#Gregorian">1619</date>.</provenance>
                </history>
                <additional>
                   <adminInfo>

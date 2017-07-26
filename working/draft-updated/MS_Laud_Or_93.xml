@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -88,7 +88,7 @@
                         <title xml:lang="he">ספר ארשמידאה בכדור ובאצונא</title>
                         <note>Translated into Hebrew from<persName>Qosta ben Luqa</persName>'s Arabic by Qalonymos ben Kalonymos (the revised translation).</note>
                         <note>Written by<persName>Yitsḥaḳ ben R. Yehudah<foreign xml:lang="he">שויכאת</foreign>
-                           </persName>at<placeName>Saragossa</placeName>in the house of R.<persName>Yitsḥaḳ Kohen</persName>, finished on Tuesday the 11 of the first Adar<date calendar="AM">5212</date>(<date calendar="Gregorian">1452</date>)</note>
+                           </persName>at<placeName>Saragossa</placeName>in the house of R.<persName>Yitsḥaḳ Kohen</persName>, finished on Tuesday the 11 of the first Adar<date calendar="#AM">5212</date>(<date calendar="#Gregorian">1452</date>)</note>
                         <incipit>
                            <foreign xml:lang="he">מארמישדאה אל אוסנאוס שלום. כבר פניתי אליך והראיתי וכתבתי במופת</foreign>
                         </incipit>

@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -80,7 +80,7 @@
                      <origPlace>[Byzantium]</origPlace>
                      <origDate notBefore="1401" notAfter="1425">[early 15th century]</origDate>
                   </origin>
-                  <provenance>Ownership inscriptions by Efraim ha-Rofeh and Saadiah ben Efraim ha-Rofeh, dated<date calendar="Hebrew-Seleucid">1903</date>SE (=<date calendar="Gregorian">1592</date>CE):<foreign xml:lang="he">"אפרים הרופה יצ"ו", "סעדיה בן אפרים הרפה"</foreign>(fol. 2r).</provenance>
+                  <provenance>Ownership inscriptions by Efraim ha-Rofeh and Saadiah ben Efraim ha-Rofeh, dated<date calendar="#Hebrew-Seleucid">1903</date>SE (=<date calendar="#Gregorian">1592</date>CE):<foreign xml:lang="he">"אפרים הרופה יצ"ו", "סעדיה בן אפרים הרפה"</foreign>(fol. 2r).</provenance>
                   <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
                </history>
                <additional>

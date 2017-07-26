@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -97,7 +97,7 @@
                   <physDesc>
                      <objectDesc form="codex">
                         <supportDesc material="chart">
-                           <support>paper<watermark>(watermark is similar to Briquet no. 11137, dated<date calendar="Gregorian">1498</date>)</watermark>
+                           <support>paper<watermark>(watermark is similar to Briquet no. 11137, dated<date calendar="#Gregorian">1498</date>)</watermark>
                            </support>
                            <extent>ff. 63<dimensions type="leaf" unit="mm">
                                  <height quantity="219"/>

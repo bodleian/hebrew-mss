@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -54,7 +54,7 @@
                      <author>לוי בן גרשם, 1288-1344</author>
                      <title>Perush ketuvim le-Ralbag (Iob)</title>
                      <title xml:lang="he">פרוש כתובים לרלב"ג (איוב)</title>
-                     <note>The first and the last three leaves contain a list of different objects sold to various persons. On fol. 129v, begins commentary on Yotser de-Shabat Bereshit. On fol. 130v payments received by a teacher in Elul<date calendar="AM">5205</date>(<date calendar="Gregorian">1445</date>). Levi ben Gershom's commentary starts on fol. 7r.</note>
+                     <note>The first and the last three leaves contain a list of different objects sold to various persons. On fol. 129v, begins commentary on Yotser de-Shabat Bereshit. On fol. 130v payments received by a teacher in Elul<date calendar="#AM">5205</date>(<date calendar="#Gregorian">1445</date>). Levi ben Gershom's commentary starts on fol. 7r.</note>
                      <colophon>"<foreign xml:lang="he">"ותשלם כל המלאכה ... שנת קע"א ... נכתב על יד יוסף סי’ כהן ח"י בכ"ר משה הכהן"</foreign>"</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

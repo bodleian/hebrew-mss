@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -120,7 +120,7 @@
                      <origPlace>Thebes (Greece)</origPlace>
                      <origDate when="1490">1490</origDate>
                   </origin>
-                  <provenance>Ownership note on fol. 91r:<foreign xml:lang="he">"אליהו[?] בכ"ר שבתי" חנין[?]</foreign>; notes on births on fol. 98v dated from<date calendar="AM">5246</date>(=<date calendar="Gregorian">1486</date>) till<date calendar="AM">5261</date>(<date calendar="Gregorian">1501</date>)</provenance>
+                  <provenance>Ownership note on fol. 91r:<foreign xml:lang="he">"אליהו[?] בכ"ר שבתי" חנין[?]</foreign>; notes on births on fol. 98v dated from<date calendar="#AM">5246</date>(=<date calendar="#Gregorian">1486</date>) till<date calendar="#AM">5261</date>(<date calendar="#Gregorian">1501</date>)</provenance>
                   <acquisition>It belonged to Rabbi Isaac Samuel Reggio's (1784-1855) library, which was purchased en bloc by the Bodleian Library in 1853.</acquisition>
                </history>
                <additional>

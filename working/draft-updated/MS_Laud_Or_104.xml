@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -52,7 +52,7 @@
                      <author xml:lang="he">פריצול, אברהם בן מרדכי</author>
                      <title>Letter on the Manners of the World (Igeret orḥot olam)</title>
                      <title xml:lang="he">אגרת ארחות עולם ‬</title>
-                     <note>The colophon of the author at the end of the MS dated<date calendar="AM-abbreviated">1 Kislev 285</date>(<date calendar="Gregorian">1524</date>CE), in<geogName>Ferrara</geogName>.(<locus>fol. 33v</locus>)</note>
+                     <note>The colophon of the author at the end of the MS dated<date calendar="#AM-abbreviated">1 Kislev 285</date>(<date calendar="#Gregorian">1524</date>CE), in<geogName>Ferrara</geogName>.(<locus>fol. 33v</locus>)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

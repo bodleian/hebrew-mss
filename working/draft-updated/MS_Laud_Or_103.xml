@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian"/>
+            <date calendar="#Gregorian">Gregorian</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>

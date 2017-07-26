@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -53,7 +53,7 @@
                      <title>
                         <foreign xml:lang="he">בית יער הלבנון (ד)</foreign>
                      </title>
-                     <note>Table of content on fol.iv recto. Colophon of the author on fol. 260r dated<date calendar="AM-abbreviated">377</date>(<date calendar="Gregorian">1617</date>)</note>
+                     <note>Table of content on fol.iv recto. Colophon of the author on fol. 260r dated<date calendar="#AM-abbreviated">377</date>(<date calendar="#Gregorian">1617</date>)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

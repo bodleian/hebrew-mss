@@ -13,7 +13,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -49,7 +49,7 @@
                   <msItem xml:id="MS_Kennicott_4-item1" n="1">
                      <locus>ff. 1r-365v</locus>
                      <title>Hebrew Bible: Pentateuch with masorah magna and parva, Hafṭarot and Five Megilot</title>
-                     <note>The colophon is written in a small, different script, which again is not similar to the script of the masorah. It is dated<date calendar="AM">5078</date>. The MS. might have been written earlier.</note>
+                     <note>The colophon is written in a small, different script, which again is not similar to the script of the masorah. It is dated<date calendar="#AM">5078</date>. The MS. might have been written earlier.</note>
                      <colophon>נשלם זה הספר שליש ראשון לח’ סיון שנת ג’א’ל’ י’ג’א’ל’ לאלף הששי (<locus>fol.269r</locus>, end of Pentateuch)</colophon>
                      <decoNote>Masorah in micrographic design (e.g., fol. 90r, 143r, 22v-223r).</decoNote>
                   </msItem>
@@ -79,7 +79,7 @@
                      <origPlace>[Spain]</origPlace>
                      <origDate when="1318">1318?</origDate>
                   </origin>
-                  <provenance>Ownership notes: on<date calendar="Gregorian">fol.5r</date>: "מקנת כספי יצחק" ; on<date calendar="Gregorian">fol.121r</date>: "אישטי לי יצחק קאלדילון"</provenance>
+                  <provenance>Ownership notes: on<date calendar="#Gregorian">fol.5r</date>: "מקנת כספי יצחק" ; on<date calendar="#Gregorian">fol.121r</date>: "אישטי לי יצחק קאלדילון"</provenance>
                </history>
                <additional>
                   <adminInfo>
