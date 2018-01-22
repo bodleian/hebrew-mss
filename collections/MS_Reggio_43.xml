@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_457">
    <teiHeader>
       <fileDesc>
@@ -56,12 +56,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0387.jpg">No. 2047</ref>,<bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0387.jpg">No. 2047</ref>, <bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
                            <ref facs="beo0244.jpg">No. 2047</ref>), and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -93,9 +93,9 @@
                   <physDesc>
                      <objectDesc form="codex">
                         <supportDesc material="chart">
-                           <support>Paper with outer and inner sheets of quires made of parchment<watermark>(watermarks similar to Briquet no. 13932, dated 1393 and 1397 [also 1389-1420])</watermark>
+                           <support>Paper with outer and inner sheets of quires made of parchment <watermark>(watermarks similar to Briquet no. 13932, dated 1393 and 1397 [also 1389-1420])</watermark>
                            </support>
-                           <extent>ff. 41<dimensions type="leaf" unit="mm">
+                           <extent>ff. 41 <dimensions type="leaf" unit="mm">
                                  <height quantity="215"/>
                                  <width quantity="135"/>
                               </dimensions>
@@ -141,7 +141,7 @@
                         <locus>ff. 42r-48v</locus>
                         <author ref="http://viaf.org/viaf/13522985">Duran, Profiat, approximately 1350-approximately 1415דורן, יצחק בן משה</author>
                         <title>Heshev ha-ʾefod</title>
-                        <note>Completition of previous by<persName ref="http://viaf.org/viaf/88978405">Baer Goldberg</persName>. Note at the beginning: 'Suppl. ad Cod. Reggio 43'</note>
+                        <note>Completition of previous by <persName ref="http://viaf.org/viaf/88978405">Baer Goldberg</persName>. Note at the beginning: 'Suppl. ad Cod. Reggio 43'</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
@@ -149,12 +149,12 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 10 (fols. 42r-49(iii)v)<dimensions type="leaf" unit="mm">
+                           <extent>ff. 10 (fols. 42r-49(iii)v) <dimensions type="leaf" unit="mm">
                                  <height quantity="200"/>
                                  <width quantity="144"/>
                               </dimensions>
                            </extent>
-                           <foliation>Foliation in Arabic numerals, continuation of the previous part, four leaves are numbered as fol. 49 (fol. 49(iv) belogns to<ref target="MS_Reggio_43_3">Part 3</ref>
+                           <foliation>Foliation in Arabic numerals, continuation of the previous part, four leaves are numbered as fol. 49 (fol. 49(iv) belogns to <ref target="MS_Reggio_43_3">Part 3</ref>
                            </foliation>
                            <collation>
                               <signatures>no signatures</signatures>
@@ -191,7 +191,7 @@
                         <author ref="http://viaf.org/viaf/56636061">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013?זהראוי, כ’לף בן אלעבאס</author>
                         <title>Sefer ha-ḥefets ha-shalem (Book 2)</title>
                         <title xml:lang="he">החפץ השלם (ספר ב)</title>
-                        <note>Translated from the Arabic by<persName>Meshullam ben Yonah</persName>
+                        <note>Translated from the Arabic by <persName>Meshullam ben Yonah</persName>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -200,15 +200,15 @@
                      <p>[Physical description in printed catalogue]</p>
                      <objectDesc form="codex">
                         <supportDesc material="chart">
-                           <support>paper,<watermark>watermarks: Briquet no. 8186, dated 1328</watermark>
+                           <support>paper, <watermark>watermarks: Briquet no. 8186, dated 1328</watermark>
                            </support>
-                           <extent>ff. 15 (fols. 49(iv)-64)<dimensions type="leaf" unit="mm">
+                           <extent>ff. 15 (fols. 49(iv)-64) <dimensions type="leaf" unit="mm">
                                  <height quantity="222"/>
                                  <width quantity="147"/>
                               </dimensions>
                            </extent>
-                           <foliation>Foliation in Arabic numerals, continuous with previous<ref target="#MS_Reggio_43_1_a">item</ref>; fol. 49(iv) later sheet to divide the different sections of the volume, text starts on fol. 50r</foliation>
-                           <collation>1 quire of 12 leaves + 2 leaves<signatures>no signature</signatures>
+                           <foliation>Foliation in Arabic numerals, continuous with previous <ref target="#MS_Reggio_43_1_a">item</ref>; fol. 49(iv) later sheet to divide the different sections of the volume, text starts on fol. 50r</foliation>
+                           <collation>1 quire of 12 leaves + 2 leaves <signatures>no signature</signatures>
                               <catchwords>catchword at the end of quire</catchwords>
                            </collation>
                         </supportDesc>
@@ -243,7 +243,7 @@
                         <author ref="http://viaf.org/viaf/100185495">Maimonides, Moses, 1135-1204משה בן מימון, 1138-1204</author>
                         <title>Guide for the Perplexed (Moreh Nevukhim, 3:27-29)</title>
                         <title xml:lang="he">מורה נבוכים (חלק ג פרק כז-כט) ‬</title>
-                        <note>End is incomplete, scribal note in the lower margin of fol. 68r:<foreign xml:lang="he">אין יותר בהעתק</foreign>
+                        <note>End is incomplete, scribal note in the lower margin of fol. 68r: <foreign xml:lang="he">אין יותר בהעתק</foreign>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -251,7 +251,7 @@
                         <locus>ff. 68v-69r</locus>
                         <title>Philosophico-mystical fragment</title>
                         <title xml:lang="he">קטע בקבלה ‬</title>
-                        <note>Beginning with scribal note in upper margin:<foreign xml:lang="he">מצאתי בספר אחר</foreign>, text starts with<foreign xml:lang="he">אתה בן אדם דע והבן והשכל בסוד האמתי המורה על סוד מציאות חלקי העולם</foreign>
+                        <note>Beginning with scribal note in upper margin: <foreign xml:lang="he">מצאתי בספר אחר</foreign>, text starts with <foreign xml:lang="he">אתה בן אדם דע והבן והשכל בסוד האמתי המורה על סוד מציאות חלקי העולם</foreign>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -260,23 +260,23 @@
                         <author>Fārābīפראבי, מחמד בן מחמד אבו נצר</author>
                         <title>Treatise on the soul (Maʾamar be-mahut ha-nefesh)</title>
                         <title xml:lang="he">מאמר במהות הנפש</title>
-                        <note>Translated from the Arabic by<persName ref="http://viaf.org/viaf/298816042">Zerahiah ben Isaac ben Shealtiel</persName>.</note>
-                        <note>In the lower margin of fol. 73r:<foreign xml:lang="he">רגלי עמדה במישור</foreign>(Ps. 26:12)</note>
+                        <note>Translated from the Arabic by <persName ref="http://viaf.org/viaf/298816042">Zerahiah ben Isaac ben Shealtiel</persName>.</note>
+                        <note>In the lower margin of fol. 73r: <foreign xml:lang="he">רגלי עמדה במישור</foreign> (Ps. 26:12)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
                   <physDesc>
                      <objectDesc form="codex">
                         <supportDesc material="chart">
-                           <support>Very think paper<watermark>(fragments of watermarks on upper margin of fol. 67 abd 71 [not conjugate leaves] perhaps similar to Briquet no. 8322, dated 1319)</watermark>
+                           <support>Very think paper <watermark>(fragments of watermarks on upper margin of fol. 67 abd 71 [not conjugate leaves] perhaps similar to Briquet no. 8322, dated 1319)</watermark>
                            </support>
-                           <extent>ff. 9<dimensions type="leaf" unit="mm">
+                           <extent>ff. 9 <dimensions type="leaf" unit="mm">
                                  <height quantity="223"/>
                                  <width quantity="145"/>
                               </dimensions>
                            </extent>
                            <foliation>Foliation in Arabic numerals, continuous with previous parts</foliation>
-                           <collation>1 quire of 10-1 leaves (or 8+1)<signatures>no signature</signatures>
+                           <collation>1 quire of 10-1 leaves (or 8+1) <signatures>no signature</signatures>
                               <catchwords>no catchwords</catchwords>
                            </collation>
                         </supportDesc>
@@ -318,10 +318,10 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper,the outer sheet of the first quire made of parchment.</support>
-                           <extent>ff. 30 (fols. 74-103)<dimensions type="leaf" unit="mm"/>
+                           <extent>ff. 30 (fols. 74-103) <dimensions type="leaf" unit="mm"/>
                            </extent>
                            <foliation>Foliation in Arabic numerals, continuation of previous section of the MS.</foliation>
-                           <collation>x quires + 2 leaves inner/outer leaf of quire<signatures>no signature</signatures>
+                           <collation>x quires + 2 leaves inner/outer leaf of quire <signatures>no signature</signatures>
                               <catchwords>catchwords on fol. 87v</catchwords>
                            </collation>
                            <condition>Leaves are very loose, partially detached from collation, fragile.</condition>
@@ -345,11 +345,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -358,7 +358,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -393,7 +393,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2015-02-14">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

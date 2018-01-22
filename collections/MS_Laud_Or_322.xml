@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_364">
    <teiHeader>
       <fileDesc>
@@ -51,7 +51,7 @@
                   <msItem xml:id="MS_Laud_Or_322-item1" n="1">
                      <locus>ff. 1r-343v</locus>
                      <author ref="http://viaf.org/viaf/293743688">Isaiah ben Elijah, di Trani, -approximately 1280טרני, ישעיה בן אליהו די</author>
-                     <title>Pisḳe Riaz<foreign xml:lang="he">פסקי ריא"ז</foreign>
+                     <title>Pisḳe Riaz <foreign xml:lang="he">פסקי ריא"ז</foreign>
                      </title>
                      <note>Undoubtedly copied by Benjamin who frequently pointed out the acrostics of this name (e.g., fols. 92v, 166v, 305v).</note>
                      <note>Marginal notes containing omission and by a later Italian hand containing remarks.</note>
@@ -62,13 +62,13 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 343<dimensions type="leaf" unit="mm">
+                        <extent>ff. 343 <dimensions type="leaf" unit="mm">
                               <height quantity="410">410</height>
                               <width quantity="285">285</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals</foliation>
-                        <collation>34 quires: i-ix<hi rend="sup">10</hi>, x<hi rend="sup">8</hi>, xi-xiii<hi rend="sup">10, xiv<hi rend="sup"/>10-2</hi>, xv-xx<hi rend="sup">10</hi>, xxi<hi rend="sup">14</hi>, xxii-xxxii<hi rend="sup">10</hi>, xxxiii<hi rend="sup">8</hi>, xxxiv<hi rend="sup">8-1</hi>; fol. 175 is double<catchwords>catchwords at the end of quires. Hebrew characters to number the quires: quires i-iv (<foreign xml:lang="he">א-ד</foreign>), quires xv-xxi (<foreign xml:lang="he">א-ח</foreign>), quires xxii-</catchwords>
+                        <collation>34 quires: i-ix <hi rend="sup">10</hi>, x <hi rend="sup">8</hi>, xi-xiii <hi rend="sup">10, xiv <hi rend="sup"/> 10-2</hi>, xv-xx <hi rend="sup">10</hi>, xxi <hi rend="sup">14</hi>, xxii-xxxii <hi rend="sup">10</hi>, xxxiii <hi rend="sup">8</hi>, xxxiv <hi rend="sup">8-1</hi>; fol. 175 is double <catchwords>catchwords at the end of quires. Hebrew characters to number the quires: quires i-iv (<foreign xml:lang="he">א-ד</foreign>), quires xv-xxi (<foreign xml:lang="he">א-ח</foreign>), quires xxii-</catchwords>
                         </collation>
                         <condition>Good condition.</condition>
                      </supportDesc>
@@ -91,17 +91,17 @@
                      <origPlace>[Italy]</origPlace>
                      <origDate notBefore="1375" notAfter="1400">[late 14th century]</origDate>
                   </origin>
-                  <provenance>Censor's signature: Dominico Irosolomi[ta]no 1597 (fol. 342v); purchase note<quote xml:lang="he">זה הרבינו ישעיה האחרון הוא של האחים במר" שלמה וכמר" אברהם הזרחי מקולונייא יורשי המנוח כמר" מרדכי מקולונייא</quote>(fol. 135v); several purchase notes at the end of the MS (fol. 343r); ownership inscription: "Liber Guil[iel]mi Laude Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1635" (fol. 1r); undeciphered Hebrew note (written twice) on fol. 1r</provenance>
+                  <provenance>Censor's signature: Dominico Irosolomi[ta]no 1597 (fol. 342v); purchase note <quote xml:lang="he">זה הרבינו ישעיה האחרון הוא של האחים במר" שלמה וכמר" אברהם הזרחי מקולונייא יורשי המנוח כמר" מרדכי מקולונייא</quote> (fol. 135v); several purchase notes at the end of the MS (fol. 343r); ownership inscription: "Liber Guil[iel]mi Laude Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1635" (fol. 1r); undeciphered Hebrew note (written twice) on fol. 1r</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>(<ref facs="bej0099.jpg bej0100.jpg">No. 643</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0099.jpg bej0100.jpg">No. 643</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
                            <ref facs="beo0105.jpg">No. 643</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -120,11 +120,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -133,7 +133,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -157,7 +157,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-01-03">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

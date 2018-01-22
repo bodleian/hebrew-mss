@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_15">
    <teiHeader>
       <fileDesc>
@@ -52,13 +52,13 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>Paper</support>
-                        <extent>ff.328<dimensions type="leaf" unit="mm">
+                        <extent>ff.328 <dimensions type="leaf" unit="mm">
                               <height quantity="198">198</height>
                               <width quantity="150">150</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals, fol. 210 is double, fols. 307-308 are bound in wrong order.</foliation>
-                        <collation>x quires + 2 leaves inner/outer leaf of quire<signatures>Hebrew/Arabic characters</signatures>
+                        <collation>x quires + 2 leaves inner/outer leaf of quire <signatures>Hebrew/Arabic characters</signatures>
                            <catchwords>catchwords, repeated words, marked central opening</catchwords>
                         </collation>
                      </supportDesc>
@@ -82,17 +82,17 @@
                      <origPlace>[Turkey?]</origPlace>
                      <origDate notBefore="1575" notAfter="1600">[late 16th century]</origDate>
                   </origin>
-                  <provenance>Owner's inscription on fol. 327v: "Liber Guilielmi Laud Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1635". Note on modern flyleaf (fol. 326r): "<quote xml:lang="he">ליכרון שמו של אהובי הדר אצל קהל דבוגון שמו רʹ יעקב כהן פענייאז חכם רʹ אברהם אשכנזי אצל קהל סיראטיקה</quote>"</provenance>
+                  <provenance>Owner's inscription on fol. 327v: "Liber Guilielmi Laud Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1635". Note on modern flyleaf (fol. 326r): " <quote xml:lang="he">ליכרון שמו של אהובי הדר אצל קהל דבוגון שמו רʹ יעקב כהן פענייאז חכם רʹ אברהם אשכנזי אצל קהל סיראטיקה</quote> "</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp. 13-14).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>(<ref facs="bej0430.jpg bej0431.jpg">No. 2270</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0273.jpg">No. 2270</ref>, and on the data of the<ref target="http://aleph.nli.org.il/F/TK7U7XRTUSQL8M39183H8SQQYGGDFGVQRBJF2P6EV6AD7HBVE6-27064?func=find-b-0">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0430.jpg bej0431.jpg">No. 2270</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0273.jpg">No. 2270</ref>, and on the data of the <ref target="http://aleph.nli.org.il/F/TK7U7XRTUSQL8M39183H8SQQYGGDFGVQRBJF2P6EV6AD7HBVE6-27064?func=find-b-0">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -114,7 +114,7 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part1-item1" n="1">
                         <locus>ff. 1r-26r</locus>
-                        <title>Maʾamarim u-feshuṭim shel pesuḳim ṿe-derushim<foreign xml:lang="he">מאמרים ופשטים של פסוקים ודרושים</foreign>
+                        <title>Maʾamarim u-feshuṭim shel pesuḳim ṿe-derushim <foreign xml:lang="he">מאמרים ופשטים של פסוקים ודרושים</foreign>
                         </title>
                         <note>Expositions of passages and legends in the Talmud, mostly by means of question and answer. Includes some novellae and homilies by Eleazar Kohen (fols. 36v, 40v). Includes some homilies by the Mahariḳ (=Israel Koriel).</note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -130,7 +130,7 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part2-item1" n="2">
                         <locus>ff. 28r-40v</locus>
-                        <title>Beʾur sugyiot ba-Talmud ṿe-agadot Ḥazal<foreign xml:lang="he">באור סוגיות בתלמוד ואגדות חז"ל</foreign>
+                        <title>Beʾur sugyiot ba-Talmud ṿe-agadot Ḥazal <foreign xml:lang="he">באור סוגיות בתלמוד ואגדות חז"ל</foreign>
                         </title>
                         <note>Various homilies and expositions in different hands</note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -205,7 +205,7 @@
                      <msItem xml:id="MS_Laud_Or_220-part7-item1" n="7">
                         <locus>ff. 273r-278r</locus>
                         <author>Yeshayah ben Yosef ha-Yaṿaniישעיה בן יוסף היוני</author>
-                        <title>Ets Ḥayim<foreign xml:lang="he">עץ חיים</foreign>
+                        <title>Ets Ḥayim <foreign xml:lang="he">עץ חיים</foreign>
                         </title>
                         <note>Philosophico-cabbalistical treatise on the ten Sefirot, on the planets, and on the Ten Commandments. Was written for R. Eliyah ha-Leṿi ben R. Ḥananel ha-Dayan.</note>
                         <note>
@@ -216,7 +216,7 @@
                      <msItem xml:id="MS_Laud_Or_220-part7-item2" n="8">
                         <locus>ff. 278r-285v</locus>
                         <author>Naḥmanides, approximately 1195-approximately 1270משה בן נחמן</author>
-                        <title>Shaʿare ha-Tsedeḳ = Igeret ha-ḳodesh<foreign xml:lang="he">שערי הצדק = אגדת הקודש</foreign>
+                        <title>Shaʿare ha-Tsedeḳ = Igeret ha-ḳodesh <foreign xml:lang="he">שערי הצדק = אגדת הקודש</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -232,7 +232,7 @@
                      <msItem xml:id="MS_Laud_Or_220-part8-item1" n="8">
                         <locus>ff. 288r-298r</locus>
                         <author>Yosef ben Shlomoh Ṭiṭtsiḳ (Riṭ)יוסף בן שלמה טיטצק</author>
-                        <title>Perush Tehilim<foreign xml:lang="he">פירוש תהילים להרי"ט</foreign>
+                        <title>Perush Tehilim <foreign xml:lang="he">פירוש תהילים להרי"ט</foreign>
                         </title>
                         <note>Commentary on Psalms 1-20.</note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -248,7 +248,7 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part9-item1" n="9">
                         <locus>ff. 303r-313v</locus>
-                        <title type="supplied">Commentary on Lamentations<foreign xml:lang="he">פרוש כתובים (איכה)</foreign>
+                        <title type="supplied">Commentary on Lamentations <foreign xml:lang="he">פרוש כתובים (איכה)</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -289,11 +289,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. II, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. II, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. I-II, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. I-II, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -302,7 +302,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -332,7 +332,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-01-24">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

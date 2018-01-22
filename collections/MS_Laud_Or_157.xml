@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_347">
    <teiHeader>
       <fileDesc>
@@ -50,8 +50,8 @@
                      <author ref="http://viaf.org/viaf/100178533">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013?</author>
                      <title>Sefer ha-ḥefets ha-shalem (Liber theoricae necnon practicae)</title>
                      <title xml:lang="he">ספר החפץ בשלם</title>
-                     <note>Translated from Arabic by<persName>Meshullam ben Yonah</persName>at the request of his friend Shalem.</note>
-                     <note>Note in Latin about the content (fol. [ii]r); numerous medical notes in Latin and a Hebrew note ("<foreign xml:lang="he">הספר הזה חברו החכם בגדול המכונה עלזהראוי</foreign>") on fol. [iii]r, numerous Hebrew notes on fol. [iii]v.</note>
+                     <note>Translated from Arabic by <persName>Meshullam ben Yonah</persName> at the request of his friend Shalem.</note>
+                     <note>Note in Latin about the content (fol. [ii]r); numerous medical notes in Latin and a Hebrew note (" <foreign xml:lang="he">הספר הזה חברו החכם בגדול המכונה עלזהראוי</foreign> ") on fol. [iii]r, numerous Hebrew notes on fol. [iii]v.</note>
                      <note>Numerous marginal and interlinear glosses, notes in Hebrew, some in Latin, chapter numbers in the margin.</note>
                      <note>Fols. 213-214 are blank.</note>
                      <note>Glosses, notes at the beginning (flyleaf) and indexes added at the end (fols. 212r, 215r-217r) in Italian hands.</note>
@@ -62,14 +62,14 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>Early Spanish paper with chain-lines spaced 50-55mm apart and zizag signs along the folding line of sheets; outer sheets of quires made of parchment.</support>
-                        <extent>ff. 217<dimensions type="leaf" unit="mm">
+                        <extent>ff. 217 <dimensions type="leaf" unit="mm">
                               <height quantity="365">365</height>
                               <width quantity="180">180</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in both Hebrew (earlier) and Arabic (more recent) numerals.</foliation>
-                        <collation>14 quires: i<hi rend="sup">18</hi>, ii<hi rend="sup">14</hi>, iii-xi<hi rend="sup">16</hi>, xii<hi rend="sup">18</hi>, xiii<hi rend="sup">20</hi>, xiv<hi rend="sup">4</hi>
-                           <signatures>Signatures in Hebrew characters, not always visible</signatures>,<catchwords>no catchwords.</catchwords>
+                        <collation>14 quires: i <hi rend="sup">18</hi>, ii <hi rend="sup">14</hi>, iii-xi <hi rend="sup">16</hi>, xii <hi rend="sup">18</hi>, xiii <hi rend="sup">20</hi>, xiv <hi rend="sup">4</hi>
+                           <signatures>Signatures in Hebrew characters, not always visible</signatures>, <catchwords>no catchwords.</catchwords>
                         </collation>
                         <condition>Script faded away on several folios.</condition>
                      </supportDesc>
@@ -96,12 +96,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0399.jpg">No. 2120</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0399.jpg">No. 2120</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
                            <ref facs="beo0253.jpg">No. 2120</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -120,11 +120,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -133,7 +133,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -165,7 +165,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-01-03">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

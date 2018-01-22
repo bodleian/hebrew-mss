@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_5">
    <teiHeader>
       <fileDesc>
@@ -50,8 +50,8 @@
                      <title>Hebrew Bible: Pentateuch with Hafṭarot and Five Scrolls with masorah magna and parva</title>
                      <note>Hafṭarot with Targum for Pesah and Shavuot. Masorahs are missing from Haftarah Pesah to end.</note>
                      <note>The Masorah is written by the same hand throughout the whole MS.</note>
-                     <note>The colophon on<locus>fol. 239v</locus>(end of Five Scrolls) is not by the scribe, but by the vocalizer-Masorete.</note>
-                     <colophon>On<locus>fol.239v:</locus>"ביום החמישי באחד לחדש אדר שנת חמשים ותשעה חמשת אלפים וחמשים ותשעה נשלמה מלאכת הנקוד והמסורה מן חמש זה ... כתוב יהודית ומתורגם ארמית ... ר’ שמואל ב"ר משה הלוי ... ‬אני יוסף ב"ר יצחק נקדתי ומסרתי זה החומש לר’ שמואל ... הלוי ... בעיר קרצייא". In the margin there is added in small script: "לבד מנקדת ספר הראשון"</colophon>
+                     <note>The colophon on <locus>fol. 239v</locus> (end of Five Scrolls) is not by the scribe, but by the vocalizer-Masorete.</note>
+                     <colophon>On <locus>fol.239v:</locus> "ביום החמישי באחד לחדש אדר שנת חמשים ותשעה חמשת אלפים וחמשים ותשעה נשלמה מלאכת הנקוד והמסורה מן חמש זה ... כתוב יהודית ומתורגם ארמית ... ר’ שמואל ב"ר משה הלוי ... ‬אני יוסף ב"ר יצחק נקדתי ומסרתי זה החומש לר’ שמואל ... הלוי ... בעיר קרצייא". In the margin there is added in small script: "לבד מנקדת ספר הראשון"</colophon>
                      <note>Fols. 296-297 were added later.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                      <decoNote>Illuminted initial-word panels, floral borders, masorah in micrographic design (e.g., fols. 41v, 241r</decoNote>
@@ -60,7 +60,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <extent>f.297, small folio<dimensions type="other" unit="cm"/>
+                        <extent>f.297, small folio <dimensions type="other" unit="cm"/>
                            <dimensions type="written" unit="cm"/>
                         </extent>
                      </supportDesc>
@@ -85,12 +85,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0441.jpg">No. 2325.</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I<ref facs="beo0282.jpg">No. 2325.</ref>
-                           </bibl>and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113089&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0441.jpg">No. 2325.</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0282.jpg">No. 2325.</ref>
+                           </bibl> and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113089&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <listBibl>
@@ -113,7 +113,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -185,7 +185,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-11-08">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <text>

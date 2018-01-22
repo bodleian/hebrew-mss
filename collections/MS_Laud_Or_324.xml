@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_365">
    <teiHeader>
       <fileDesc>
@@ -48,9 +48,9 @@
                   <summary>Torah with Targum Onḳelos</summary>
                   <msItem xml:id="MS_Laud_Or_324-item1" n="1">
                      <locus>ff. 1v-</locus>
-                     <title>Pentateuch<foreign xml:lang="he">תורה</foreign>
+                     <title>Pentateuch <foreign xml:lang="he">תורה</foreign>
                      </title>
-                     <note>With Targum Onḳelos after each verse. On the margins the small masorah with some additions, such as Num. 4.<foreign xml:lang="he">מפי החזן מטרוייש</foreign>. The larger masorah ceases on Gen. 16; it is to be found again on Ex. 14:15 and a few lines at the end of Numbers and the beginning of Deut.</note>
+                     <note>With Targum Onḳelos after each verse. On the margins the small masorah with some additions, such as Num. 4. <foreign xml:lang="he">מפי החזן מטרוייש</foreign>. The larger masorah ceases on Gen. 16; it is to be found again on Ex. 14:15 and a few lines at the end of Numbers and the beginning of Deut.</note>
                      <note>On fol. 60 an extract from Targum Yerushalmi, different from the edn., ed. from this MS by A. Epstein in REJ 30 (1895): 46-47.</note>
                      <note>Copied by Simḥah b. Judah of Nuremberg, who copied the Worms Mahzor in 1272 (MS Jerusalem JNUL 4° 781/1). The vocalizer-Masorete's name was probably Baruch (pointed out in the masorah on fol. 16v).</note>
                      <colophon>
@@ -63,7 +63,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 264<dimensions type="leaf" unit="mm">
+                        <extent>ff. 264 <dimensions type="leaf" unit="mm">
                               <height quantity="528">528</height>
                               <width quantity="377">377</width>
                            </dimensions>
@@ -96,12 +96,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0039.jpg">No. 25</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0039.jpg">No. 25</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
                            <ref facs="beo0058.jpg">No. 25</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -121,11 +121,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -134,7 +134,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -159,7 +159,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-02-20">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

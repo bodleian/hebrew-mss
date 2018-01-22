@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_274">
    <teiHeader>
       <fileDesc>
@@ -49,7 +49,7 @@
                   <msItem xml:id="MS_Canonici_Or_58-item1" n="1">
                      <locus>ff. 1r-174v</locus>
                      <author ref="http://viaf.org/viaf/100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
-                     <title>Commentary on the Prophets (Ezekiel and the Twelve Minor Prophets)<foreign xml:lang="he">פרוש נביאים לרד"ק (יחזקאל ותרי-עשר)</foreign>
+                     <title>Commentary on the Prophets (Ezekiel and the Twelve Minor Prophets) <foreign xml:lang="he">פרוש נביאים לרד"ק (יחזקאל ותרי-עשר)</foreign>
                      </title>
                      <note>Contains from the Book of Ezekiel (from 8:4) until Zechariah (Zech. 11:13-13:6 missing).</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -58,14 +58,14 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support>paper<watermark>(watermarks to be indentified)</watermark>, outer sheets of quires made of parchment, but not all of them are preserved</support>
-                        <extent>ff. 174<dimensions type="leaf" unit="mm">
+                        <support>paper <watermark>(watermarks to be indentified)</watermark>, outer sheets of quires made of parchment, but not all of them are preserved</support>
+                        <extent>ff. 174 <dimensions type="leaf" unit="mm">
                               <height quantity="275">275</height>
                               <width quantity="220">220</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>Collation is sometimes to tight to distinguish between the quires, but the structure is most likely the following: 19 quires: i<hi rend="sup">8</hi>, ii<hi rend="sup">4</hi>, iii<hi rend="sup">10-1</hi>, iv<hi rend="sup">10</hi>, v<hi rend="sup">10-1</hi>, vi<hi rend="sup">10</hi>, vii<hi rend="sup">10-1</hi>, viii<hi rend="sup">10</hi>, ix<hi rend="sup">8-1</hi>, i[x]-viii[xvii]<hi rend="sup">10</hi>, ix[xviii]<hi rend="sup">8</hi>, x[xix]<hi rend="sup">10-1</hi>
+                        <collation>Collation is sometimes to tight to distinguish between the quires, but the structure is most likely the following: 19 quires: i <hi rend="sup">8</hi>, ii <hi rend="sup">4</hi>, iii <hi rend="sup">10-1</hi>, iv <hi rend="sup">10</hi>, v <hi rend="sup">10-1</hi>, vi <hi rend="sup">10</hi>, vii <hi rend="sup">10-1</hi>, viii <hi rend="sup">10</hi>, ix <hi rend="sup">8-1</hi>, i[x]-viii[xvii] <hi rend="sup">10</hi>, ix[xviii] <hi rend="sup">8</hi>, x[xix] <hi rend="sup">10-1</hi>
                            <signatures>signatures in Hebrew characters in two sequences: i-ix, then starting again i-x (in the collation I numbered them as i[x]-x[xix].</signatures>
                            <catchwords>catchwords at the end of the quires.</catchwords>
                         </collation>
@@ -91,17 +91,17 @@
                      <origPlace>[Italy]</origPlace>
                      <origDate when="1350">[mid-14th century]</origDate>
                   </origin>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to<persName>Giovanni Perissinotti</persName>and<persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0068.jpg">No. 315</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0080.jpg">No. 315</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088350&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0068.jpg">No. 315</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0080.jpg">No. 315</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088350&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -124,11 +124,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -137,7 +137,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -161,7 +161,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-06-06">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

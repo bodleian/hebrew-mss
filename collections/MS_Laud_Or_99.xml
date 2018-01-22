@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_369">
    <teiHeader>
       <fileDesc>
@@ -59,7 +59,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <extent>ff.<dimensions type="other" unit="cm"/>
+                        <extent>ff. <dimensions type="other" unit="cm"/>
                            <dimensions type="written" unit="cm"/>
                         </extent>
                      </supportDesc>
@@ -74,19 +74,19 @@
                <history>
                   <origin>
                      <origPlace>[Northern Italy]</origPlace>
-                     <origDate when="1463">1463</origDate>. Written by<persName>Perets ben Mordekhai Tsarfati</persName>for<persName>R. Daniel מבוטרי</persName>. Finished on 17 Adar II<origDate calendar="#AM">5223</origDate>(<origDate calendar="#Gregorian">1463</origDate>).</origin>
-                  <provenance>Censors:<persName>Fra Luigi</persName>del<date calendar="#Gregorian">1600</date>,<persName>Dominico Irosolomi[ta]no</persName>,<persName>Gio[vanni] Domi[ni[co] Carretto</persName>
-                     <date calendar="#Gregorian">1618</date>(fol.83v).</provenance>
+                     <origDate when="1463">1463</origDate>. Written by <persName>Perets ben Mordekhai Tsarfati</persName> for <persName>R. Daniel מבוטרי</persName>. Finished on 17 Adar II <origDate calendar="#AM">5223</origDate> (<origDate calendar="#Gregorian">1463</origDate>).</origin>
+                  <provenance>Censors: <persName>Fra Luigi</persName> del <date calendar="#Gregorian">1600</date>, <persName>Dominico Irosolomi[ta]no</persName>, <persName>Gio[vanni] Domi[ni[co] Carretto</persName>
+                     <date calendar="#Gregorian">1618</date> (fol.83v).</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>(<ref facs="bej0101.jpg">No. 663</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I<ref facs="beo0106.jpg">No. 663.</ref>
-                           </bibl>and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0101.jpg">No. 663</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0106.jpg">No. 663.</ref>
+                           </bibl> and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -113,7 +113,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -136,11 +136,11 @@
                   <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
                </term>
                <term>
-                  <persName>Luigi da Bologna</persName>(censor)</term>
+                  <persName>Luigi da Bologna</persName> (censor)</term>
                <term>
-                  <persName>Dominico Irosolimitano</persName>(censor)</term>
+                  <persName>Dominico Irosolimitano</persName> (censor)</term>
                <term>
-                  <persName>Giovanni Domenico Carretto</persName>(censor)</term>
+                  <persName>Giovanni Domenico Carretto</persName> (censor)</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -149,7 +149,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-11-15">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <text>

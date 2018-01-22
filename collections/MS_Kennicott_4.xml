@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_6">
    <teiHeader>
       <fileDesc>
@@ -49,7 +49,7 @@
                   <msItem xml:id="MS_Kennicott_4-item1" n="1">
                      <locus>ff. 1r-365v</locus>
                      <title>Hebrew Bible: Pentateuch with masorah magna and parva, Hafṭarot and Five Megilot</title>
-                     <note>The colophon is written in a small, different script, which again is not similar to the script of the masorah. It is dated<date calendar="#AM">5078</date>. The MS. might have been written earlier.</note>
+                     <note>The colophon is written in a small, different script, which again is not similar to the script of the masorah. It is dated <date calendar="#AM">5078</date>. The MS. might have been written earlier.</note>
                      <colophon>נשלם זה הספר שליש ראשון לח’ סיון שנת ג’א’ל’ י’ג’א’ל’ לאלף הששי (<locus>fol.269r</locus>, end of Pentateuch)</colophon>
                      <decoNote>Masorah in micrographic design (e.g., fol. 90r, 143r, 22v-223r).</decoNote>
                   </msItem>
@@ -57,7 +57,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <extent>ff.365<dimensions type="other" unit="cm"/>
+                        <extent>ff.365 <dimensions type="other" unit="cm"/>
                            <dimensions type="written" unit="cm"/>
                         </extent>
                      </supportDesc>
@@ -79,17 +79,17 @@
                      <origPlace>[Spain]</origPlace>
                      <origDate when="1318">1318?</origDate>
                   </origin>
-                  <provenance>Ownership notes: on<date calendar="#Gregorian">fol.5r</date>: "מקנת כספי יצחק" ; on<date calendar="#Gregorian">fol.121r</date>: "אישטי לי יצחק קאלדילון"</provenance>
+                  <provenance>Ownership notes: on <date calendar="#Gregorian">fol.5r</date>: "מקנת כספי יצחק" ; on <date calendar="#Gregorian">fol.121r</date>: "אישטי לי יצחק קאלדילון"</provenance>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0441.jpg">No. 2326.</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I<ref facs="beo0282.jpg">No. 2326.</ref>
-                           </bibl>and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113097&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0441.jpg">No. 2326.</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0282.jpg">No. 2326.</ref>
+                           </bibl> and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113097&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <listBibl>
@@ -112,7 +112,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -145,7 +145,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-11-08">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <text>

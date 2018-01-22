@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_335">
    <teiHeader>
       <fileDesc>
@@ -54,18 +54,18 @@
                   </bindingDesc>
                </physDesc>
                <history>
-                  <provenance>Owner's inscriptions on fol. 1r: "<foreign xml:lang="he">לזכר טוב יהיה אמן לספר שמי ...</foreign>"; "Liber Guilielmi Laud Archiepi[scopi] Cantuar[iensis] et Cancellarii Uniuersitatis Oxon[iensis] 1635"</provenance>
+                  <provenance>Owner's inscriptions on fol. 1r: " <foreign xml:lang="he">לזכר טוב יהיה אמן לספר שמי ...</foreign> "; "Liber Guilielmi Laud Archiepi[scopi] Cantuar[iensis] et Cancellarii Uniuersitatis Oxon[iensis] 1635"</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0059.jpg">No. 240</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0074.jpg">No. 240</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088224&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0059.jpg">No. 240</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0074.jpg">No. 240</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088224&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -74,8 +74,8 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 240</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 240</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 240</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 240</bibl>
                      <bibl>
                         <foreign xml:lang="he">שיר, רוני, מאגיה ומיסטיקה ביהדות: קבלה, כישוף, יכולות על-טבעיות (ירושלים, 1997), 91.</foreign>
                      </bibl>
@@ -94,7 +94,7 @@
                      <msItem xml:id="MS_Laud_Or_101-part1-item1" n="1">
                         <locus>ff. 2r-8v</locus>
                         <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן (רמב"ן)</author>
-                        <title>Commentary on the Pentateuch<foreign xml:lang="he">חידושים בפי' התורה</foreign>
+                        <title>Commentary on the Pentateuch <foreign xml:lang="he">חידושים בפי' התורה</foreign>
                         </title>
                         <note>Ends Gen. 2:12. Not the short commentary. The copyist deleted some passages.</note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -107,7 +107,7 @@
                      <msItem xml:id="MS_Laud_Or_101-part1-item3" n="3">
                         <locus>ff. 19r-98v</locus>
                         <author ref="http://viaf.org/viaf/100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף, (רד"ק)</author>
-                        <title>Commentary on Psalms<foreign xml:lang="he">פרוש כתובים לרד"ק (תהלים) ‬</foreign>
+                        <title>Commentary on Psalms <foreign xml:lang="he">פרוש כתובים לרד"ק (תהלים) ‬</foreign>
                         </title>
                         <note>No poem at the beginning; ends Ps.71:21</note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -117,7 +117,7 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>Paper</support>
-                           <extent>ff. 98 (numerous unfoliated leaves in between the works)<dimensions type="leaf" unit="mm">
+                           <extent>ff. 98 (numerous unfoliated leaves in between the works) <dimensions type="leaf" unit="mm">
                                  <height quantity="216">216</height>
                                  <width quantity="143">143</width>
                               </dimensions>
@@ -158,37 +158,37 @@
                      <msItem xml:id="MS_Laud_Or_101-part2-item1" n="4">
                         <locus>ff. 100r-164v</locus>
                         <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן (רמב"ן)</author>
-                        <title>Short commentary on the Pentateuch<foreign xml:lang="he">פרוש התורה לרמב"ן (הקצר)</foreign>‬</title>
+                        <title>Short commentary on the Pentateuch <foreign xml:lang="he">פרוש התורה לרמב"ן (הקצר)</foreign> ‬</title>
                         <colophon>Colophon on fol. 164v: "סליקו ... ע"י אליעזר משה יהע"ל בכ"ר יואב ז"ל דלבריאה היום יום א’ כ’ באלול שנת א’ב’ר’ך’ לפרט קטן וכתבתיו לר’ רפאל יזיי"א בכ"ר יוסף יצחק ישר"ו"</colophon>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_101-part2-item2" n="5">
                         <locus>ff. 165r-166v</locus>
                         <author ref="http://lccn.loc.gov/nr93011812">Recanati, Menahem ben Benjamin, active 13th century-14th centuryריקאנטי, מנחם בן בנימין</author>
-                        <title>Sefer Reʾayat ha-Yadayim me-eḥad me-ḥakhmei Hodu<foreign xml:lang="he">ספר ראיית הידים מאחד מחכמי הודו</foreign>
+                        <title>Sefer Reʾayat ha-Yadayim me-eḥad me-ḥakhmei Hodu <foreign xml:lang="he">ספר ראיית הידים מאחד מחכמי הודו</foreign>
                         </title>
-                        <note>At the beginning: "<foreign xml:lang="he">ליקוטים מצאתי כתובי’ בקונטרס אחד מכמ"ר מנחם דריקנטי ז"ל</foreign>".</note>
-                        <note>Edited from this MS. by Gershom Scholem in<foreign xml:lang="he">ספר אסף</foreign>(Jerusalem, 1943), 488-92.</note>
+                        <note>At the beginning: " <foreign xml:lang="he">ליקוטים מצאתי כתובי’ בקונטרס אחד מכמ"ר מנחם דריקנטי ז"ל</foreign> ".</note>
+                        <note>Edited from this MS. by Gershom Scholem in <foreign xml:lang="he">ספר אסף</foreign> (Jerusalem, 1943), 488-92.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_101-part2-item3" n="6">
                         <locus>ff. 167r-167v</locus>
-                        <title>Fragment beginning with<foreign xml:lang="he">תחילת המשפט הגורלות</foreign>
+                        <title>Fragment beginning with <foreign xml:lang="he">תחילת המשפט הגורלות</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_101-part2-item4" n="7">
                         <locus>ff. 170v-235v</locus>
                         <author ref="http://lccn.loc.gov/n81078650">Levi ben Gershom, 1288-1344לוי בן גרשום</author>
-                        <title>Commentary on Job<foreign xml:lang="he">פרוש כתובים לרלב"ג (איוב)</foreign>
+                        <title>Commentary on Job <foreign xml:lang="he">פרוש כתובים לרלב"ג (איוב)</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_101-part2-item5" n="8">
                         <locus>ff. 236r-302(i)r</locus>
                         <author ref="http://lccn.loc.gov/nr91008016">Ṭoviyahu ben Eliʻezer, active 11th centuryטוביה בן אליעזר</author>
-                        <title>Midrash leḳaḥ ṭov (le-ḥamesh megilot)<foreign xml:lang="he">מדרש לקח טוב (לחמש מגלות)</foreign>‬</title>
-                        <colophon>On fol.236r: "ותכל מלאכת עבודת הקדש על ידי<foreign xml:lang="he">הצעיר אליעזר משה יהע"ל בכמ"ר יואב זצ"ל מלבריאה ... למר’ רפאל יזיי"א בכ"ר יוסף יצחק ישרו’ והשלמתיו היום יום ה’ יום אחרון של חנוכה שנת רכ"ג לפרט קטן</foreign>"</colophon>
+                        <title>Midrash leḳaḥ ṭov (le-ḥamesh megilot) <foreign xml:lang="he">מדרש לקח טוב (לחמש מגלות)</foreign> ‬</title>
+                        <colophon>On fol.236r: "ותכל מלאכת עבודת הקדש על ידי <foreign xml:lang="he">הצעיר אליעזר משה יהע"ל בכמ"ר יואב זצ"ל מלבריאה ... למר’ רפאל יזיי"א בכ"ר יוסף יצחק ישרו’ והשלמתיו היום יום ה’ יום אחרון של חנוכה שנת רכ"ג לפרט קטן</foreign> "</colophon>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
@@ -196,13 +196,13 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>Paper.</support>
-                           <extent>ff. 203 (100-302[i])<dimensions type="leaf" unit="mm">
+                           <extent>ff. 203 (100-302[i]) <dimensions type="leaf" unit="mm">
                                  <height quantity="217">217</height>
                                  <width quantity="145">145</width>
                               </dimensions>
                            </extent>
                            <foliation>Continuous, fol. 302 is double.</foliation>
-                           <collation>Quires of 8 leaves,<signatures>no signatures,</signatures>
+                           <collation>Quires of 8 leaves, <signatures>no signatures,</signatures>
                               <catchwords>catchwords on the verso side of the last leaf of the quires.</catchwords>
                            </collation>
                         </supportDesc>
@@ -237,7 +237,7 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_101-part3-item2" n="10">
                         <locus>ff. 307r-314v</locus>
-                        <title>Sefer Goralot<foreign xml:lang="he">ספר גורלות</foreign>
+                        <title>Sefer Goralot <foreign xml:lang="he">ספר גורלות</foreign>
                         </title>
                         <note>Incomplete at the end.</note>
                         <note>
@@ -251,13 +251,13 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>Paper.</support>
-                           <extent>ff. 305-314<dimensions type="leaf" unit="mm">
+                           <extent>ff. 305-314 <dimensions type="leaf" unit="mm">
                                  <height quantity="218">218</height>
                                  <width quantity="137">137</width>
                               </dimensions>
                            </extent>
                            <foliation>Continuous.</foliation>
-                           <collation>1 quire of 10 leaves,<signatures>no signatures,</signatures>
+                           <collation>1 quire of 10 leaves, <signatures>no signatures,</signatures>
                               <catchwords>no catchwords.</catchwords>
                            </collation>
                         </supportDesc>
@@ -295,7 +295,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -319,7 +319,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-07-05">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <text>

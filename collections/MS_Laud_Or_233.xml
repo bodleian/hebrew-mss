@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_354">
    <teiHeader>
       <fileDesc>
@@ -49,12 +49,12 @@
                   <msItem xml:id="MS_Laud_Or_233-item1" n="1">
                      <locus>ff. 2r-175v</locus>
                      <author ref="http://viaf.org/viaf/73882588">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
-                     <title>Ṭur (Yoreh Deʿah)<foreign xml:lang="he">טור (יורה דעה)</foreign>
+                     <title>Ṭur (Yoreh Deʿah) <foreign xml:lang="he">טור (יורה דעה)</foreign>
                      </title>
                      <note>Written by Yamin [=Benyamin] ben Mosheh, called Wolf Ḳarnakh on Friday, 5 Adar Sheni 223 [1463]. According to M. Beit-Arie, the scribe's name must have been Benyamin (Zeʾev).</note>
                      <note>Numerous marginal notes.</note>
                      <colophon>
-                        <foreign xml:lang="he">"ה’ ואדר יום ו’ רכ"ג לפרט לאלף הששי ימין [=בנימין] בר’ משה המכונה וואלף קרנך"</foreign>(fol. 175v).</colophon>
+                        <foreign xml:lang="he">"ה’ ואדר יום ו’ רכ"ג לפרט לאלף הששי ימין [=בנימין] בר’ משה המכונה וואלף קרנך"</foreign> (fol. 175v).</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -62,14 +62,14 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 176<dimensions type="leaf" unit="mm">
+                        <extent>ff. 176 <dimensions type="leaf" unit="mm">
                               <height quantity="298">298</height>
                               <width quantity="210">210</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>18 quires: i<hi rend="sup">12</hi>, ii-xv<hi rend="sup">10</hi>, xvi<hi rend="sup">8</hi>, xvii<hi rend="sup">10</hi>, xviii<hi rend="sup">6</hi>
-                           <signatures>no signatures</signatures>,<catchwords>catchword at the end of every quire.</catchwords>
+                        <collation>18 quires: i <hi rend="sup">12</hi>, ii-xv <hi rend="sup">10</hi>, xvi <hi rend="sup">8</hi>, xvii <hi rend="sup">10</hi>, xviii <hi rend="sup">6</hi>
+                           <signatures>no signatures</signatures>, <catchwords>catchword at the end of every quire.</catchwords>
                         </collation>
                         <condition>In good condition.</condition>
                      </supportDesc>
@@ -93,19 +93,19 @@
                      <origPlace>[Ashkenaz]</origPlace>
                      <origDate when="1463">1463</origDate>
                   </origin>
-                  <provenance>Owners' inscriptions:<foreign xml:lang="he">אברהם בן לאא מהרר יצחק במקצנאלבוגין שמעתי והאזנתי בקול מצותיו מן הגאון רמ</foreign>
-                     <foreign xml:lang="he"/>(fol. 1v); "Liber Guil[ielmi] Laude Archiepi[scopi] Cant[uariensis] et Cancellarii Universit[atis] Oxon[iensis] 1636" (fol. 1v);<foreign xml:lang="he">ברוך השם אשר לא נתנני טרף לשינהם. אני אברהם בר יצחק שוואב שליט המכונה אברהם גרונבך</foreign>(fol. 2r);<foreign xml:lang="he">אני ישעיʹ בר יוסף מנשה(?)</foreign>(fol. 2r);<foreign xml:lang="he">אני מאיר ברבי משה סגל מק"ק ליכטנשטאט</foreign>(fols. 80r, 133r, 175v);<foreign xml:lang="he">אני אברהם בר יצחק שוואב שליט מק"ק גרונבך</foreign>(fol. 80r);<foreign xml:lang="he">"אלחנן בן ישראל אוירנגר מפוירדא אצל נירנברג בשנת שס"ג"</foreign>(fol. 175v);<foreign xml:lang="he">"יודא בר שמעון שלי"ט אויערבך",</foreign>(fol. 175v);<foreign xml:lang="he">"יוסף בן אהרן שליט"א מק"ק פלון"</foreign>(fol. 175v);<foreign xml:lang="he">"שמעון בן הרר’ יהודה הנקרא וואלף בן ... ליבאיש פיקא מקק’ פראג"</foreign>(fol. 175v).</provenance>
+                  <provenance>Owners' inscriptions: <foreign xml:lang="he">אברהם בן לאא מהרר יצחק במקצנאלבוגין שמעתי והאזנתי בקול מצותיו מן הגאון רמ</foreign>
+                     <foreign xml:lang="he"/> (fol. 1v); "Liber Guil[ielmi] Laude Archiepi[scopi] Cant[uariensis] et Cancellarii Universit[atis] Oxon[iensis] 1636" (fol. 1v); <foreign xml:lang="he">ברוך השם אשר לא נתנני טרף לשינהם. אני אברהם בר יצחק שוואב שליט המכונה אברהם גרונבך</foreign> (fol. 2r); <foreign xml:lang="he">אני ישעיʹ בר יוסף מנשה(?)</foreign> (fol. 2r); <foreign xml:lang="he">אני מאיר ברבי משה סגל מק"ק ליכטנשטאט</foreign> (fols. 80r, 133r, 175v); <foreign xml:lang="he">אני אברהם בר יצחק שוואב שליט מק"ק גרונבך</foreign> (fol. 80r); <foreign xml:lang="he">"אלחנן בן ישראל אוירנגר מפוירדא אצל נירנברג בשנת שס"ג"</foreign> (fol. 175v); <foreign xml:lang="he">"יודא בר שמעון שלי"ט אויערבך",</foreign> (fol. 175v); <foreign xml:lang="he">"יוסף בן אהרן שליט"א מק"ק פלון"</foreign> (fol. 175v); <foreign xml:lang="he">"שמעון בן הרר’ יהודה הנקרא וואלף בן ... ליבאיש פיקא מקק’ פראג"</foreign> (fol. 175v).</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0107.jpg">No. 709</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0110.jpg">No. 709</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000090402&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0107.jpg">No. 709</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0110.jpg">No. 709</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000090402&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -124,11 +124,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -137,7 +137,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -223,7 +223,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-01-17">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

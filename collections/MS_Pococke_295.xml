@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_430">
    <teiHeader>
       <fileDesc>
@@ -49,7 +49,7 @@
                   <msItem xml:id="MS_Pococke_295-item1" n="1">
                      <locus>ff. 1r-300v</locus>
                      <author ref="http://viaf.org/viaf/100185495/">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title type="desc">Commentary on Mishnah (Neziḳin and Ḳodashim)<foreign xml:lang="he">פרוש המשנה לרמב"ם בערבית (סדר נזיקין, קדשים)</foreign>
+                     <title type="desc">Commentary on Mishnah (Neziḳin and Ḳodashim) <foreign xml:lang="he">פרוש המשנה לרמב"ם בערבית (סדר נזיקין, קדשים)</foreign>
                      </title>
                      <note>Beginning with Bama Kama chapter 8. Marginal notes containing corrections and two notes (on Hulin chapter 3) of Shmuel ben Mosheh Magrabi. The first chapter of Hulin is interrupted bya leaf containing the last two verses of Exodus with Onkelos and Saadiah's Arabic translation.</note>
                      <note>On flyleaf: אשר הקדישה האשה לשם בר' אברהם כהן דקניט(?) ז"ל ולשם בנו יצחק ז"ל</note>
@@ -60,7 +60,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent>ff. 301<dimensions type="other" unit="cm"/>
+                        <extent>ff. 301 <dimensions type="other" unit="cm"/>
                            <dimensions type="written" unit="cm"/>
                         </extent>
                         <condition>
@@ -85,12 +85,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0080.jpg">No. 404</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I<ref facs="beo0087.jpg">No. 404.</ref>
-                           </bibl>and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162519&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0080.jpg">No. 404</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0087.jpg">No. 404.</ref>
+                           </bibl> and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162519&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -122,7 +122,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -149,7 +149,7 @@
                <term>Mishnah. Nezikin</term>
                <term>Mishnah. Kodashim</term>
                <term>
-                  <persName type="aut">Maimonides, Moses,</persName>.<date calendar="#Gregorian">1135-1204</date>Autograph.</term>
+                  <persName type="aut">Maimonides, Moses,</persName>. <date calendar="#Gregorian">1135-1204</date> Autograph.</term>
             </keywords>
             <keywords scheme="IMHM">
                <list>
@@ -163,7 +163,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-06-28">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

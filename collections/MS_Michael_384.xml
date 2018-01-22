@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_375">
    <teiHeader>
       <fileDesc>
@@ -54,7 +54,7 @@
                      <title>
                         <foreign xml:lang="he">פרוש התורה לרש"י</foreign>
                      </title>
-                     <colophon>Colophon on fol. 141v:<foreign xml:lang="he">"אני מאיר בר’ משה ז"ל כתבתי פירוש התורה זה מרבי שלמה ז"ל לנכבד מורי ר’ בנימין בכ"ר יצחק והעתקתיו בביתו ובהיותי סומך על שלחנו ומשכורתי היה ארבעה פרחי’ לבד ההוצאה וקהלתיה מידו לידי וסיימתיו בירח שבט שנת חמשת אלפים ומאה וחמשים ותשע לבריאת עולם ... נכתב פה קמרינו בזמן הנז’ לעיל"</foreign>
+                     <colophon>Colophon on fol. 141v: <foreign xml:lang="he">"אני מאיר בר’ משה ז"ל כתבתי פירוש התורה זה מרבי שלמה ז"ל לנכבד מורי ר’ בנימין בכ"ר יצחק והעתקתיו בביתו ובהיותי סומך על שלחנו ומשכורתי היה ארבעה פרחי’ לבד ההוצאה וקהלתיה מידו לידי וסיימתיו בירח שבט שנת חמשת אלפים ומאה וחמשים ותשע לבריאת עולם ... נכתב פה קמרינו בזמן הנז’ לעיל"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -63,10 +63,10 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 142<dimensions type="leaf" unit="mm"/>
+                        <extent>ff. 142 <dimensions type="leaf" unit="mm"/>
                         </extent>
                         <foliation>Foliation in Arabic numerals. Fol. 11 should follow fol. 19.</foliation>
-                        <collation>Quires of mostly 10 leaves<signatures>no signatures,</signatures>
+                        <collation>Quires of mostly 10 leaves <signatures>no signatures,</signatures>
                            <catchwords>catchwords at the end of quires</catchwords>
                         </collation>
                      </supportDesc>
@@ -91,17 +91,17 @@
                      <origPlace>Camerino</origPlace>
                      <origDate notBefore="1399">1399</origDate>
                   </origin>
-                  <provenance>Owners' inscriptions: Neḥamah, daughter of R. Shlomoh ha-menagen, widow of R. Shmuel ben Mosheh of Candia sold this commentary to Zilah, daughter of Yeḳutiel, widow of Menaḥem for 3 dukats on 8 Av 5224 (13 July 1464) at Fano (<foreign xml:lang="he">"נחמה בת ר’ שלמה המנגן ישר"ו אלמנת כמ"ר שמואל בר משה מקנדיאה" מכרה ל"מרת צילה בת כמ"ר יקותיאל ז"ל אלמנת כמ"ר מנחם ז"ל" בשנת רכ"ד</foreign>) (fol. 141v); Yeḥiel ben Mordekhai ha-Kohen sold it to Moshe ben Nataniel of Norzi on 13 Kislev 273 (25 November 1513) (<foreign xml:lang="he">"יחיאל בן מרדכי כהן" מכר את כה"י ל"משה יזיי"א בכמ"ר נתנאל מנורצי"</foreign>(fol. 141v). Censors' signatures: "visto per me Gio do[mi]nico Carretto 1617" (fol. 141r); "Dominico Irosolomi[ta]no 1597" (fol. 141v)</provenance>
-                  <acquisition>It belonged to the library of<persName>Heimann Joseph Michael</persName>(1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+                  <provenance>Owners' inscriptions: Neḥamah, daughter of R. Shlomoh ha-menagen, widow of R. Shmuel ben Mosheh of Candia sold this commentary to Zilah, daughter of Yeḳutiel, widow of Menaḥem for 3 dukats on 8 Av 5224 (13 July 1464) at Fano (<foreign xml:lang="he">"נחמה בת ר’ שלמה המנגן ישר"ו אלמנת כמ"ר שמואל בר משה מקנדיאה" מכרה ל"מרת צילה בת כמ"ר יקותיאל ז"ל אלמנת כמ"ר מנחם ז"ל" בשנת רכ"ד</foreign>) (fol. 141v); Yeḥiel ben Mordekhai ha-Kohen sold it to Moshe ben Nataniel of Norzi on 13 Kislev 273 (25 November 1513) (<foreign xml:lang="he">"יחיאל בן מרדכי כהן" מכר את כה"י ל"משה יזיי"א בכמ"ר נתנאל מנורצי"</foreign> (fol. 141v). Censors' signatures: "visto per me Gio do[mi]nico Carretto 1617" (fol. 141r); "Dominico Irosolomi[ta]no 1597" (fol. 141v)</provenance>
+                  <acquisition>It belonged to the library of <persName>Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>(<ref facs="bej0069.jpg bej0070.jpg">No. 187</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0052.jpg">No. 187</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088074&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0069.jpg bej0070.jpg">No. 187</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0052.jpg">No. 187</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088074&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -110,8 +110,8 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 187.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 187.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 187.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 187.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -120,11 +120,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -133,7 +133,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -192,7 +192,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-10-16">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

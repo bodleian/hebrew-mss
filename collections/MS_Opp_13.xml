@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_377">
    <teiHeader>
       <fileDesc>
@@ -52,10 +52,10 @@
                      <title>
                         <foreign xml:lang="he">תורה, הפטרות ומגלות</foreign>
                      </title>
-                     <note>Scribal formula on fol. 466v:<foreign xml:lang="he"/>
+                     <note>Scribal formula on fol. 466v: <foreign xml:lang="he"/>
                         <foreign xml:lang="he">חזק ונתחזק הסופר לא יזק לא היום ולא לעולם עד שיעלה חמור הסולם</foreign>
                      </note>
-                     <colophon>Colophon on fol. 467r:<foreign xml:lang="he">אני יצחק בר אברהם כתבתי וסיימתי חומש תרגום בשנת חמשת אלפים וששים ושתים לבריאת עולם שנים עשר לחודש אב ביום גʹ ישלח במחרה בימינו משיח צדקינו אמן</foreign>
+                     <colophon>Colophon on fol. 467r: <foreign xml:lang="he">אני יצחק בר אברהם כתבתי וסיימתי חומש תרגום בשנת חמשת אלפים וששים ושתים לבריאת עולם שנים עשר לחודש אב ביום גʹ ישלח במחרה בימינו משיח צדקינו אמן</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew and Aramaic</textLang>
                   </msItem>
@@ -64,14 +64,14 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent>ff. 467 (fol. 467 is the back pastedown)<dimensions type="leaf" unit="mm">
+                        <extent>ff. 467 (fol. 467 is the back pastedown) <dimensions type="leaf" unit="mm">
                               <height quantity="264"/>
                               <width quantity="205"/>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
                         <collation>
-                           <signatures>no signatures</signatures>,<catchwords>no catchwords</catchwords>
+                           <signatures>no signatures</signatures>, <catchwords>no catchwords</catchwords>
                         </collation>
                      </supportDesc>
                   </objectDesc>
@@ -92,18 +92,18 @@
                      <origPlace>[Ashkenaz]</origPlace>
                      <origDate notBefore="1302">1302</origDate>
                   </origin>
-                  <provenance>Ownership inscription (probably by the patron):<foreign xml:lang="he">לעולם יתחום אדם על ספרו שלא יבא שום אדם ויערער עליו ויאמר שלי הוא משולם בʺר ברוך זʺל חתימתי לעד</foreign>(fol. 2r); later owner's inscription, erased or faded:<foreign xml:lang="he">שלי זה נאום ... בר נפתלי זל</foreign>(fol. 2r)</provenance>
+                  <provenance>Ownership inscription (probably by the patron): <foreign xml:lang="he">לעולם יתחום אדם על ספרו שלא יבא שום אדם ויערער עליו ויאמר שלי הוא משולם בʺר ברוך זʺל חתימתי לעד</foreign> (fol. 2r); later owner's inscription, erased or faded: <foreign xml:lang="he">שלי זה נאום ... בר נפתלי זל</foreign> (fol. 2r)</provenance>
                   <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0039.jpg">No. 23</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0039.jpg">No. 23</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
                            <ref facs="beo0058.jpg">No. 23</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -122,11 +122,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -135,7 +135,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -159,7 +159,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-11-08">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_358">
    <teiHeader>
       <fileDesc>
@@ -49,27 +49,27 @@
                   <msItem xml:id="MS_Laud_Or_273-item1" n="1">
                      <locus>ff.1-186</locus>
                      <author ref="http://viaf.org/viaf/100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף, 1160-1235</author>
-                     <title>Perush Neviʾim le-Radaḳ (Yeshayah ṿe-Yeremiyah)<foreign xml:lang="he">פרוש נביאים לרד"ק (ישעיה וירמיה)</foreign>
+                     <title>Perush Neviʾim le-Radaḳ (Yeshayah ṿe-Yeremiyah) <foreign xml:lang="he">פרוש נביאים לרד"ק (ישעיה וירמיה)</foreign>
                      </title>
                      <note>The scribe, Daṿid ben Yaʿaḳov b. Polia (?) copied the MS for himself.</note>
                      <colophon>
-                        <foreign xml:lang="he">אני דוד בר’ יעקב ן’ פוליא ס"ט כתבתי זה הספר לעצמי וסיימתיו בכאן בביליא דיאגו ביום שלישי שמונה ימים לחדש ניסן שנת חמשת אלפים ומאה וארבעים ואחת ליצירה ...</foreign>(fol. XXX)</colophon>
+                        <foreign xml:lang="he">אני דוד בר’ יעקב ן’ פוליא ס"ט כתבתי זה הספר לעצמי וסיימתיו בכאן בביליא דיאגו ביום שלישי שמונה ימים לחדש ניסן שנת חמשת אלפים ומאה וארבעים ואחת ליצירה ...</foreign> (fol. XXX)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support>paper<watermark>(unidentified watermark on the last flyleaf)</watermark>
+                        <support>paper <watermark>(unidentified watermark on the last flyleaf)</watermark>
                         </support>
-                        <extent>ff. 186<dimensions type="leaf" unit="mm">
+                        <extent>ff. 186 <dimensions type="leaf" unit="mm">
                               <height quantity="319">319</height>
                               <width quantity="228">228</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
                         <collation>
-                           <signatures>No signatures</signatures>,<catchwords>catchwords on every verso.</catchwords>
+                           <signatures>No signatures</signatures>, <catchwords>catchwords on every verso.</catchwords>
                         </collation>
                         <condition>Stained and injured, paper fragile.</condition>
                      </supportDesc>
@@ -96,12 +96,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0067.jpg">No. 310</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0067.jpg">No. 310</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
                            <ref facs="beo0079.jpg">No. 310</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -120,11 +120,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -133,7 +133,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -164,7 +164,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-01-31">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

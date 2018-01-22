@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_18">
    <teiHeader>
       <fileDesc>
@@ -51,14 +51,14 @@
                      <author xml:lang="he-Latn-x-lc" ref="http://viaf.org/viaf/37714446">Duran, Simeon ben Ẓemaḥ, 1361-1444דורן, שמעון בן צמח</author>
                      <title>Ohev mishpaṭ: Perush Iob.</title>
                      <title xml:lang="he">אוהב משפט: פירוש איוב</title>
-                     <colophon>On<locus>fol.</locus>: "<foreign xml:lang="he">נשלם על ידי ... לאשר נתן כתר תורה על ראשו ... ר’ יצחק בן ... רבי אברהם הכהן נטרוהי רחמנא, והיתה השלמתו עשרה ימים לירח סיון שנת ובני ישראל יוצאים ביד ר’מ’ה’ מוסף על חמשת אלפים ... נאים הכתב יוסף בר עלי ס"ט בן ישראל</foreign>".</colophon>
+                     <colophon>On <locus>fol.</locus>: " <foreign xml:lang="he">נשלם על ידי ... לאשר נתן כתר תורה על ראשו ... ר’ יצחק בן ... רבי אברהם הכהן נטרוהי רחמנא, והיתה השלמתו עשרה ימים לירח סיון שנת ובני ישראל יוצאים ביד ר’מ’ה’ מוסף על חמשת אלפים ... נאים הכתב יוסף בר עלי ס"ט בן ישראל</foreign> ".</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <extent>ff. 228<dimensions type="other" unit="cm"/>
+                        <extent>ff. 228 <dimensions type="other" unit="cm"/>
                            <dimensions type="written" unit="cm"/>
                         </extent>
                      </supportDesc>
@@ -77,18 +77,18 @@
                      <origPlace>[Sepharad]</origPlace>
                      <origDate when="1485">1485</origDate>
                   </origin>
-                  <provenance>Purchase note on f. :<foreign xml:lang="he">"מקנת כספי אני שלמה ברכה ר’ אברהם זלה"ה בן הרב ר’ שמואל זצ"ל אבן בבי ס"ט", "שלמה בר’ חליפא(?) נ"ע", "ברוך צופאן"</foreign>, some other names illegible</provenance>
+                  <provenance>Purchase note on f. : <foreign xml:lang="he">"מקנת כספי אני שלמה ברכה ר’ אברהם זלה"ה בן הרב ר’ שמואל זצ"ל אבן בבי ס"ט", "שלמה בר’ חליפא(?) נ"ע", "ברוך צופאן"</foreign>, some other names illegible</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0072.jpg">No. 347.</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I<ref facs="beo0083.jpg">No. 347.</ref>
-                           </bibl>and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0072.jpg">No. 347.</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0083.jpg">No. 347.</ref>
+                           </bibl> and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -115,7 +115,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -159,7 +159,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-07-05">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <text>

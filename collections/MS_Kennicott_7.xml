@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_9">
    <teiHeader>
       <fileDesc>
@@ -57,7 +57,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="mixed">
-                        <extent>ff. 248<dimensions type="other" unit="cm"/>
+                        <extent>ff. 248 <dimensions type="other" unit="cm"/>
                            <dimensions type="written" unit="cm"/>
                         </extent>
                         <condition>Parchment, fols. 1-29 and 143-[178]: paper leaves added later.</condition>
@@ -80,17 +80,17 @@
                      <origPlace>Toledo (Spain)</origPlace>
                      <origDate when="1222">1222 (Elul 4982)</origDate>
                   </origin>
-                  <provenance>Ownership notes on fol. 247v: there is an entry at end (obliterated) in which the year<date calendar="#AM">5136</date>(<date calendar="#Gregorian">1376</date>) and the name of a witness<persName>Mosheh ha-Kohen ben Yeshua</persName>are legible; Yitshak חדידה. At the beginning of the MS note (by Kennicott?): "This manuscript was presented to me by the Rev. Mr. Isaac Netto, on the 20th of August, 1770. Mr. Netto bought it, when at Tetuan in Barbary, of a boy carrying it to a box in the synagogue, called נניזה, where all fragments of holy writings are preserved, lest they should chance to be put to improper uses. A short time after I employed Mr. Isaac Luria carefully to compare the said MS. with the best printed edition of the Hebrew Bible, which is supposed to be that printed at Amsterdam in the year 1667. The following are the variations he found; and the observations thereon have been approved by the Rev. Mr. Netto."</provenance>
+                  <provenance>Ownership notes on fol. 247v: there is an entry at end (obliterated) in which the year <date calendar="#AM">5136</date> (<date calendar="#Gregorian">1376</date>) and the name of a witness <persName>Mosheh ha-Kohen ben Yeshua</persName> are legible; Yitshak חדידה. At the beginning of the MS note (by Kennicott?): "This manuscript was presented to me by the Rev. Mr. Isaac Netto, on the 20th of August, 1770. Mr. Netto bought it, when at Tetuan in Barbary, of a boy carrying it to a box in the synagogue, called נניזה, where all fragments of holy writings are preserved, lest they should chance to be put to improper uses. A short time after I employed Mr. Isaac Luria carefully to compare the said MS. with the best printed edition of the Hebrew Bible, which is supposed to be that printed at Amsterdam in the year 1667. The following are the variations he found; and the observations thereon have been approved by the Rev. Mr. Netto."</provenance>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0442.jpg">No. 2331.</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I<ref facs="beo0283.jpg">No. 2331.</ref>
-                           </bibl>and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000109209&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0442.jpg">No. 2331.</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0283.jpg">No. 2331.</ref>
+                           </bibl> and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000109209&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <listBibl>
@@ -113,7 +113,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -158,7 +158,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-11-08">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <text>

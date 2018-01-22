@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
    <teiHeader>
       <fileDesc>
@@ -49,9 +49,9 @@
                   <msItem xml:id="MS_Can_Or_62-item1" n="1">
                      <locus>ff. 1r-274v</locus>
                      <title>Hebrew Bible</title>
-                     <note>Commentaries: Rashi's commentary on the Pentateuch, Ibn Ezra's commentary on Esther, Song of Songs with the commentary of<persName>Abraham ben Isaac ha-Levi Tamakh</persName>,(-1393), Ruth with the commentary of Rashi and Ibn Ezra, Lamentations with the commentary of Ibn Ezra, Ecclesiastes with the commentary of Ibn Ezra (only at the beginning)</note>
-                     <note>The Pentateuch was finished on Sunday the<date calendar="#AM">22nd of Tammuz 5232</date>=<date calendar="#Gregorian">1472</date>by<persName>Brakhiel ben Hizkiyah Raphael Tarbut</persName>
-                        <persName xml:lang="he">ברכיאל בר’ חזקיה רפאל טרבוט</persName>for<name type="unknown">Abraham Rava</name>
+                     <note>Commentaries: Rashi's commentary on the Pentateuch, Ibn Ezra's commentary on Esther, Song of Songs with the commentary of <persName>Abraham ben Isaac ha-Levi Tamakh</persName>,(-1393), Ruth with the commentary of Rashi and Ibn Ezra, Lamentations with the commentary of Ibn Ezra, Ecclesiastes with the commentary of Ibn Ezra (only at the beginning)</note>
+                     <note>The Pentateuch was finished on Sunday the <date calendar="#AM">22nd of Tammuz 5232</date> = <date calendar="#Gregorian">1472</date> by <persName>Brakhiel ben Hizkiyah Raphael Tarbut</persName>
+                        <persName xml:lang="he">ברכיאל בר’ חזקיה רפאל טרבוט</persName> for <name type="unknown">Abraham Rava</name>
                         <persName xml:lang="he">אברהם רבא</persName>
                      </note>
                      <note>Latin note on fol. 190r, Latin notes on front flyleaf verso about content.</note>
@@ -63,14 +63,14 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 275<dimensions type="other" unit="mm">
+                        <extent>ff. 275 <dimensions type="other" unit="mm">
                               <height quantity="303">303</height>
                               <width quantity="219">219</width>
                            </dimensions>
                            <dimensions type="written" unit="cm"/>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>Quires of mostly 10 leaves.<signatures>signatures have been probably trimmed off, only one is visible (fol. 80v)</signatures>,<catchwords>catchwords in the middle of the lower margin at the end of the quires, but often erased.</catchwords>
+                        <collation>Quires of mostly 10 leaves. <signatures>signatures have been probably trimmed off, only one is visible (fol. 80v)</signatures>, <catchwords>catchwords in the middle of the lower margin at the end of the quires, but often erased.</catchwords>
                         </collation>
                      </supportDesc>
                      <layoutDesc>
@@ -93,19 +93,19 @@
                </physDesc>
                <history>
                   <origin>
-                     <geogName>[Northern Italy]</geogName>,<origDate when="1472">1472</origDate>
+                     <geogName>[Northern Italy]</geogName>, <origDate when="1472">1472</origDate>
                   </origin>
-                  <provenance>Censor's note<persName>Camillo Jaghel</persName>1619(?) (fol. 274v)<date calendar="#Gregorian">1619</date>.</provenance>
+                  <provenance>Censor's note <persName>Camillo Jaghel</persName> 1619(?) (fol. 274v) <date calendar="#Gregorian">1619</date>.</provenance>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0039.jpg">No. 26</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0058.jpg">No. 26</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000070826&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0039.jpg">No. 26</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0058.jpg">No. 26</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000070826&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -130,7 +130,7 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
@@ -142,7 +142,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -181,7 +181,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-11-08">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <text>

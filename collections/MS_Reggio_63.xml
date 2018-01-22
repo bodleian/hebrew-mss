@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_473">
    <teiHeader>
       <fileDesc>
@@ -48,29 +48,29 @@
                   <summary>Maḥzor according to the Sephardi rite with additional texts in the margins</summary>
                   <msItem xml:id="MS_Reggio_63-item1" n="1">
                      <locus>ff. 1r-430v</locus>
-                     <title>Maḥzor according to the Sephardi rite (Aragon)<foreign xml:lang="he">מחזור מנהג ספרד (אראגון) לכל השנה</foreign>
+                     <title>Maḥzor according to the Sephardi rite (Aragon) <foreign xml:lang="he">מחזור מנהג ספרד (אראגון) לכל השנה</foreign>
                      </title>
-                     <note>A. Neubauer incorrectly categorized the mahzor as according to the Greek (Corfu) and Calabrian rite. D. Goldschmidt (<hi rend="italic">Sefunot</hi>, 1964, p. 200) corrected Neubauer's mistake but referred to the MS with the wrong catalogue number (1080 instead of 1081). N. Vider (in<hi rend="italic">Sinai</hi>76 [1975], p. 9) returned to Neubauer's mistake. ‫</note>
+                     <note>A. Neubauer incorrectly categorized the mahzor as according to the Greek (Corfu) and Calabrian rite. D. Goldschmidt (<hi rend="italic">Sefunot</hi>, 1964, p. 200) corrected Neubauer's mistake but referred to the MS with the wrong catalogue number (1080 instead of 1081). N. Vider (in <hi rend="italic">Sinai</hi> 76 [1975], p. 9) returned to Neubauer's mistake. ‫</note>
                      <note>The beginning of the codex is incomplete, later completion on paper (fols. III-VII).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_63-item2" n="2">
                      <locus>ff. 1r-338r</locus>
                      <author>ha-Yiśraʾeli, Yiśraʾel ben Yosefהישראלי, ישראל בן יוסף, מטולידו</author>
-                     <title>Mitsṿot Zemanit<foreign xml:lang="he">מצוות זמניות ‬</foreign>
+                     <title>Mitsṿot Zemanit <foreign xml:lang="he">מצוות זמניות ‬</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_63-item3" n="3">
                      <locus>ff. 341r-373r</locus>
-                     <title>Perush Seder Avodah<foreign xml:lang="he">פרוש סדר עבודה</foreign>
+                     <title>Perush Seder Avodah <foreign xml:lang="he">פרוש סדר עבודה</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_63-item4" n="4">
                      <locus>ff. 374v-430v</locus>
                      <author ref="http://viaf.org/viaf/73882588">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
-                     <title>Ṭur (Oraḥ Ḥayim, Hilkhot Taʿanit tsibur)<foreign xml:lang="he">טור (ארח חיים, הלכות תענית צבור) ‬</foreign>
+                     <title>Ṭur (Oraḥ Ḥayim, Hilkhot Taʿanit tsibur) <foreign xml:lang="he">טור (ארח חיים, הלכות תענית צבור) ‬</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -79,13 +79,13 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment and paper</support>
-                        <extent>ff. 430<dimensions type="leaf" unit="mm">
+                        <extent>ff. 430 <dimensions type="leaf" unit="mm">
                               <height quantity="130">130</height>
                               <width quantity="90">90</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>Quires of mostly 8 leaves<signatures>no signatures,</signatures>
+                        <collation>Quires of mostly 8 leaves <signatures>no signatures,</signatures>
                            <catchwords>no catchwords</catchwords>
                         </collation>
                         <condition>Binding is damaged at the spine, fragile.</condition>
@@ -115,11 +115,11 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>(<ref facs="bej0171.jpg bej0172.jpg bej0173.jpg bej0174.jpg">No. 1081</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0141.jpg">No. 1081</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000062836&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0171.jpg bej0172.jpg bej0173.jpg bej0174.jpg">No. 1081</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0141.jpg">No. 1081</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000062836&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -128,11 +128,11 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 1081.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1081.</bibl>
                      <bibl>Wieder, Naftali, "Becityah shel Gematria Ami-Nozerit ve-Anti-Islamit," Sinai 76 (1975):5-10.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1081.</bibl>
-                     <bibl>Por Nahem, Ilan, "He who has this book will need no other book". A study of "Mitzvot Zemaniyot" by rabbi Israel Israeli of Toledo"<hi rend="caps">Asociacion Española de Orientalistas</hi>38 (2002): 77-96</bibl>
-                     <bibl>Colafemmina, Cesare,<hi rend="italic">The Jews in Calabria</hi>(Leiden: Brill, 2012), 63, n.249.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1081.</bibl>
+                     <bibl>Por Nahem, Ilan, "He who has this book will need no other book". A study of "Mitzvot Zemaniyot" by rabbi Israel Israeli of Toledo" <hi rend="caps">Asociacion Española de Orientalistas</hi> 38 (2002): 77-96</bibl>
+                     <bibl>Colafemmina, Cesare, <hi rend="italic">The Jews in Calabria</hi> (Leiden: Brill, 2012), 63, n.249.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -141,11 +141,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -154,7 +154,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -186,7 +186,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2015-01-25">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

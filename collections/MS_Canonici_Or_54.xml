@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_270">
    <teiHeader>
       <fileDesc>
@@ -49,10 +49,10 @@
                   <msItem xml:id="MS_Canonici_Or_54-item1" n="1">
                      <locus>ff. 2r-181v</locus>
                      <author ref="http://viaf.org/viaf/47564933">Gracian, Zerahiah ben Isaac ben Shealtiel, active 13th centuryזרחיה בן יצחק בן שאלתיאל</author>
-                     <title>Commentary on the Writings (Job)<foreign xml:lang="he">‫ פרוש כתובים לזרחיה בן יצחק בן שאלתיאל (איוב)</foreign>
+                     <title>Commentary on the Writings (Job) <foreign xml:lang="he">‫ פרוש כתובים לזרחיה בן יצחק בן שאלתיאל (איוב)</foreign>
                      </title>
-                     <note>Yehudah ben Daniʾel of Lotsira sold the MS to Nataniʾel ben Shabbatai of Norbits; witnesses: Mosheh ben Shabbatai<foreign xml:lang="he"/>and Shmuʾel ben Shmuʾel of Modena (see ownership inscriptions at the beginning and at the end).</note>
-                     <colophon>The author's colophon is on fol. 181v, underneath another colophon probably by the scribe (or the scribe of the MS this copy was based on) is erased but still legible:<foreign xml:lang="he">נשלם פירוש ספר איוב לזחריה בן יצחק בן שאלתיאל ... ממדינת ברצלונה אשר בספרד</foreign>
+                     <note>Yehudah ben Daniʾel of Lotsira sold the MS to Nataniʾel ben Shabbatai of Norbits; witnesses: Mosheh ben Shabbatai <foreign xml:lang="he"/> and Shmuʾel ben Shmuʾel of Modena (see ownership inscriptions at the beginning and at the end).</note>
+                     <colophon>The author's colophon is on fol. 181v, underneath another colophon probably by the scribe (or the scribe of the MS this copy was based on) is erased but still legible: <foreign xml:lang="he">נשלם פירוש ספר איוב לזחריה בן יצחק בן שאלתיאל ... ממדינת ברצלונה אשר בספרד</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -61,13 +61,13 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 184<dimensions type="leaf" unit="mm">
+                        <extent>ff. 184 <dimensions type="leaf" unit="mm">
                               <height quantity="282">282</height>
                               <width quantity="215">215</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>Quires of mostly 8 leaves<signatures>no signatures</signatures>
+                        <collation>Quires of mostly 8 leaves <signatures>no signatures</signatures>
                            <catchwords>no catchwords (fragments suggest that catchwords might have been trimmed off by binder).</catchwords>
                         </collation>
                      </supportDesc>
@@ -88,18 +88,18 @@
                      <origPlace>[Spain]</origPlace>
                      <origDate notBefore="1301" notAfter="1400">[14th century]</origDate>
                   </origin>
-                  <provenance>The same ownership note is written a few times by various hands:<foreign xml:lang="he">יהודה וצבי (?) בכמ"ר עמנואל זורף(?)</foreign>(fol. 1r); various other notes on fol. 1r including a partially illegibly Latin (or Italian?) note; ownership note by<persName>Shimshon Kohen Modon</persName>:<foreign xml:lang="he">קנין הצעיר שמשון כהן מודון</foreign>(fol.1v). Purchase note in Italian semi-cursive on fol. 181v:<persName>Yehudah ben Shmuel</persName>(?) sold it to<persName>Nataniel ben Shabati</persName>(?) in [5]259(?) (=1499); illegible note on the bottom of fol. 181v.</provenance>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to<persName>Giovanni Perissinotti</persName>and<persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <provenance>The same ownership note is written a few times by various hands: <foreign xml:lang="he">יהודה וצבי (?) בכמ"ר עמנואל זורף(?)</foreign> (fol. 1r); various other notes on fol. 1r including a partially illegibly Latin (or Italian?) note; ownership note by <persName>Shimshon Kohen Modon</persName>: <foreign xml:lang="he">קנין הצעיר שמשון כהן מודון</foreign> (fol.1v). Purchase note in Italian semi-cursive on fol. 181v: <persName>Yehudah ben Shmuel</persName> (?) sold it to <persName>Nataniel ben Shabati</persName> (?) in [5]259(?) (=1499); illegible note on the bottom of fol. 181v.</provenance>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0046.jpg">No. 126</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0064.jpg">No. 126</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000087977&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0046.jpg">No. 126</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0064.jpg">No. 126</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000087977&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -118,11 +118,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -131,7 +131,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -172,7 +172,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-06-06">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_23">
    <teiHeader>
       <fileDesc>
@@ -45,7 +45,7 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>and<persName key="n 78095790" ref="http://viaf.org/viaf/264344179">Thomas Aquinas</persName>, translated by<persName>Eli Ḥabillo</persName>
+                     <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName> and <persName key="n 78095790" ref="http://viaf.org/viaf/264344179">Thomas Aquinas</persName>, translated by <persName>Eli Ḥabillo</persName>
                   </summary>
                   <msItem xml:id="MS_187-item1" n="1">
                      <locus from="1a" to="39b">ff. 1r-39v</locus>
@@ -60,11 +60,11 @@
                      <title xml:lang="he-Latn-x-lc" type="alt"/>
                      <title xml:lang="he">ספר השמים והעולם לחכם וירשוריו מפאריש הולך על דרך השאלות</title>
                      <title xml:lang="he" type="alt"/>
-                     <title xml:lang="en" type="desc">Johannes Versor's quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s De caelo et mundo</title>
+                     <title xml:lang="en" type="desc">Johannes Versor's quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s De caelo et mundo</title>
                      <note>The text on f. 1v is continued on f. 3r.</note>
                      <note>F. 2 is a later addition, which contains part of a medical treatise.</note>
-                     <note>On ff. 36v-37v there are indices of the questions on 'de generatione et corruptione' and 'de anima'; these are repeated (in a different hand) on<locus from="38a" to="38b">ff. 38r-38v</locus>, followed by the questions on 'de sensu', 'de memoria', 'de somno', and on Thomas Aquinas's'de ente et essentia'.</note>
-                     <colophon>Translator's colophon on f. 36r:<foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז''ל ה''ה ביום חמישי בשנים עשר יום לחדש כסליו שנת ר'ל'ד' לפרט היצירה בכאן במונתשון [...]</foreign>[i.e.<date calendar="#Gregorian">1473</date>]</colophon>
+                     <note>On ff. 36v-37v there are indices of the questions on 'de generatione et corruptione' and 'de anima'; these are repeated (in a different hand) on <locus from="38a" to="38b">ff. 38r-38v</locus>, followed by the questions on 'de sensu', 'de memoria', 'de somno', and on Thomas Aquinas's'de ente et essentia'.</note>
+                     <colophon>Translator's colophon on f. 36r: <foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז''ל ה''ה ביום חמישי בשנים עשר יום לחדש כסליו שנת ר'ל'ד' לפרט היצירה בכאן במונתשון [...]</foreign> [i.e. <date calendar="#Gregorian">1473</date> ]</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -86,8 +86,8 @@
                      <title xml:lang="he">ספר הויה והפסד לחכם וירשוריו הולך על דרך שאלות</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De generatione et corruptione'</title>
-                     <colophon>Translator's colophon on f. 68r:<foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו זלה''ה בכ''א יום לחדש טבת שנת ר'ל'ג' לפרט במונתשון [...]</foreign>[i.e.<date calendar="#Gregorian">1472</date>]</colophon>
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De generatione et corruptione'</title>
+                     <colophon>Translator's colophon on f. 68r: <foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו זלה''ה בכ''א יום לחדש טבת שנת ר'ל'ג' לפרט במונתשון [...]</foreign> [i.e. <date calendar="#Gregorian">1472</date> ]</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -109,8 +109,8 @@
                      <title xml:lang="he">ספר הנפש לחכם וירשור מפריש הולך על דרך השאלות</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De anima'</title>
-                     <colophon>Translator's colophon of f. 119r:<foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז'ל ה'ה' ביום ששי בשלשה ועשרים יום לחדש טבת שנת רלג לפרט בכאן במונטאשון [...]</foreign>[i.e.<date calendar="#Julian">1472</date>]</colophon>
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De anima'</title>
+                     <colophon>Translator's colophon of f. 119r: <foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז'ל ה'ה' ביום ששי בשלשה ועשרים יום לחדש טבת שנת רלג לפרט בכאן במונטאשון [...]</foreign> [i.e. <date calendar="#Julian">1472</date> ]</colophon>
                      <textLang mainLang="he"/>
                      <listBibl>
                         <bibl>
@@ -132,7 +132,7 @@
                      <title xml:lang="he">ספר חוש ומוחש לחכם וירשוריו</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De sensu et sensibilibus'</title>
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De sensu et sensibilibus'</title>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -154,7 +154,7 @@
                      <title xml:lang="he">ספר זכירה והזדכרות לחכם וירשוריו ומספר שאלותיו חמשה</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De memoria et reminiscentia'</title>
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De memoria et reminiscentia'</title>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -176,7 +176,7 @@
                      <title xml:lang="he">ספר שינה ויקיצה לחכם וירשוריו ומספר מאמריו ג'</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De somno et vigilia'</title>
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De somno et vigilia'</title>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -198,8 +198,8 @@
                      <title xml:lang="he">ספר אורך החיים וקצורם לחכם וירשוריו</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De longitudine et brevitate vitae'</title>
-                     <colophon>Translator's colophon on f. 138r:<foreign xml:lang="he">נשלמה העתקת המאמרים הטבעיים הקטנים הנק' בלעז פארווש נאטוראליש על ידי עלי בר' יוסף חביליו זלה''ה אור ליום ראשון בששה עשר יום לחדש אדר ראשון שנת ר'לג לפרט היצירה במונתשון [...]</foreign>[i.e.<date calendar="#Gregorian">1473</date>]</colophon>
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'De longitudine et brevitate vitae'</title>
+                     <colophon>Translator's colophon on f. 138r: <foreign xml:lang="he">נשלמה העתקת המאמרים הטבעיים הקטנים הנק' בלעז פארווש נאטוראליש על ידי עלי בר' יוסף חביליו זלה''ה אור ליום ראשון בששה עשר יום לחדש אדר ראשון שנת ר'לג לפרט היצירה במונתשון [...]</foreign> [i.e. <date calendar="#Gregorian">1473</date> ]</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -221,7 +221,7 @@
                      <title xml:lang="he">שאלות מאמר בנמצא והמהות אשר חברו החכם טומאש די אקינו מהחכם וירשוריו</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 78095790" ref="http://viaf.org/viaf/264344179">Thomas Aquinas</persName>'s 'De ente et essentia'</title>
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 78095790" ref="http://viaf.org/viaf/264344179">Thomas Aquinas</persName>'s 'De ente et essentia'</title>
                      <note>Incomplete; ends within question 13 (of 14).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
@@ -244,10 +244,10 @@
                      <title xml:lang="he">[ספר השמע הטבעי לחכם וירשוריו]</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName>Johannes Versor</persName>'s quaestiones on<persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'Physica'</title>
+                        <persName>Johannes Versor</persName>'s quaestiones on <persName key="n 79004182" ref="http://viaf.org/viaf/7524651">Aristotle</persName>'s 'Physica'</title>
                      <note>Beginning missing</note>
                      <note>At the end (f. 270v) a poem, beginning התוכל לבבי, with the translator's acrostic.</note>
-                     <colophon>Translator's colophon on f. 270r:<foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר יוסף חביליו ז''ל ה''ה ביום חמשי בשבעה ועשרים יום לחדש שבט שנת חמשת אלפים ומאתים ושלשים ושנים למניננו במונתשון [...]</foreign>[i.e. 1472]</colophon>
+                     <colophon>Translator's colophon on f. 270r: <foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר יוסף חביליו ז''ל ה''ה ביום חמשי בשבעה ועשרים יום לחדש שבט שנת חמשת אלפים ומאתים ושלשים ושנים למניננו במונתשון [...]</foreign> [i.e. 1472]</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -260,22 +260,22 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>
-                           <material>paper</material>,<watermark>watermarks similar to Briquet no. 11136, dated 1497</watermark>
+                           <material>paper</material>, <watermark>watermarks similar to Briquet no. 11136, dated 1497</watermark>
                         </support>
-                        <extent>ff. 269 [foliated as 270]<dimensions type="leaf" unit="mm">
+                        <extent>ff. 269 [foliated as 270] <dimensions type="leaf" unit="mm">
                               <height min="000" max="000" n="defective"/>
                               <width quantity="000"/>
                            </dimensions>
                         </extent>
                         <foliation>Modern pencil foliation. Fol. [176] misnumbered as 177, fol. [235] misnumbered as 236, foliation missing on the leaf after fol. 247.</foliation>
-                        <collation>Mostly quires of 6 bifolia.<formula>1(13), 2-10(12), 11(14), 12(15), 13(11), 14-22(12)</formula>
+                        <collation>Mostly quires of 6 bifolia. <formula>1(13), 2-10(12), 11(14), 12(15), 13(11), 14-22(12)</formula>
                            <catchwords>On ff. 1-37, ff. 151-270 repeated words. On f. 2 and ff. 39-150 catchwords in the left lower margin of the versos.</catchwords>
                         </collation>
                         <condition>Binding partly detached.</condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout columns="1" ruledLines="31 38" writtenLines="31 38">
-                           <locus>ff. 1, 3-37, 151-270</locus>: 36 ruled lines.<locus>f. 2</locus>: 31 ruled lines.<locus>ff. 38-121</locus>: 38 ruled lines.<locus>ff. 122-150</locus>: 33 ruled lines.</layout>
+                           <locus>ff. 1, 3-37, 151-270</locus>: 36 ruled lines. <locus>f. 2</locus>: 31 ruled lines. <locus>ff. 38-121</locus>: 38 ruled lines. <locus>ff. 122-150</locus>: 33 ruled lines.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -300,15 +300,15 @@
                      <origPlace>[Provence]</origPlace>
                      <origDate notBefore="1490" notAfter="1510">[c. 1500]</origDate>
                   </origin>
-                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in<date calendar="#Gregorian" when="1683">1683</date>by<persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
+                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in <date calendar="#Gregorian" when="1683">1683</date> by <persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886</bibl>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel, with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886</bibl>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel, with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Access to the Hebrew manuscripts at Christ Church is strictly by appointment only: please email<email>library@chch.ox.ac.uk</email>or<email>cristina.neagu@chch.ox.ac.uk</email>.</p>
+                        <p>Access to the Hebrew manuscripts at Christ Church is strictly by appointment only: please email <email>library@chch.ox.ac.uk</email> or <email>cristina.neagu@chch.ox.ac.uk</email>.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -317,14 +317,14 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Kitchin, George William,<hi rend="italic">Catalogus codicum mss. qui in bibliotheca Ædis Christi apud Oxonienses adservantur</hi>(Oxford, 1867), no. 187.</bibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 2453.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2453.</bibl>
+                     <bibl>Kitchin, George William, <hi rend="italic">Catalogus codicum mss. qui in bibliotheca Ædis Christi apud Oxonienses adservantur</hi> (Oxford, 1867), no. 187.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 2453.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2453.</bibl>
                      <bibl>
                         <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162983&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
                      </bibl>
-                     <bibl>Steinschneider, Moritz,<hi rend="italic">Die hebraeischen Übersetzungen des Mittelalters und die Juden als Dolmetscher</hi>(Berlin, 1893), 483-8.</bibl>
-                     <bibl>Zonta, Mauro,<hi rend="italic">Hebrew Scholasticism in the Fifteenth Century</hi>(Dordrecht, 2006), 165-208.</bibl>
+                     <bibl>Steinschneider, Moritz, <hi rend="italic">Die hebraeischen Übersetzungen des Mittelalters und die Juden als Dolmetscher</hi> (Berlin, 1893), 483-8.</bibl>
+                     <bibl>Zonta, Mauro, <hi rend="italic">Hebrew Scholasticism in the Fifteenth Century</hi> (Dordrecht, 2006), 165-208.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -333,7 +333,7 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
          </classDecl>
@@ -358,7 +358,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2015-04-30">
-            <persName>Sabine Arndt</persName>created this file</change>
+            <persName>Sabine Arndt</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

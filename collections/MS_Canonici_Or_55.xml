@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_271">
    <teiHeader>
       <fileDesc>
@@ -48,7 +48,7 @@
                   <summary>Lamentations for the Ninth of Av</summary>
                   <msItem xml:id="MS_Canonici_Or_55-item1" n="1">
                      <locus>ff. 1r-118v</locus>
-                     <title>Ḳinot (lamentations) for the Ninth of Av according to the Western Ashkenazi rite<foreign xml:lang="he">קינות לתשעה באב מנהג אשכנז המערבי</foreign>
+                     <title>Ḳinot (lamentations) for the Ninth of Av according to the Western Ashkenazi rite <foreign xml:lang="he">קינות לתשעה באב מנהג אשכנז המערבי</foreign>
                      </title>
                      <note>Before the ḳinot the Book of Lamentations; after the ḳinot the Book of Job and the Book of Jeremiah (until 32:22).</note>
                      <note>Used by D. Goldschmidt in his edition (Jerusalem, 1968).</note>
@@ -60,10 +60,10 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 118<dimensions type="leaf" unit="mm"/>
+                        <extent>ff. 118 <dimensions type="leaf" unit="mm"/>
                         </extent>
                         <foliation>Foliation in Arabic numerals as well as Hebrew characters.</foliation>
-                        <collation>xv quires: i-xiv<hi rend="sup">8</hi>, xv<hi rend="sup">6</hi>
+                        <collation>xv quires: i-xiv <hi rend="sup">8</hi>, xv <hi rend="sup">6</hi>
                            <signatures>no signatures</signatures>
                            <catchwords>catchwords at the end of the quires.</catchwords>
                         </collation>
@@ -90,18 +90,18 @@
                      <origPlace>[Germany]</origPlace>
                      <origDate when="1300">[ca.1300]</origDate>
                   </origin>
-                  <provenance>Ownership notes:<foreign xml:lang="he">לעולם יחתום אדם שמו על סיפרו שלו יהא אדם מן השוק ויערער עליו אמר שלי הוא לכן חתמתי שמי...</foreign>[name is not legible any more, it has been erased](fol.1r)<foreign xml:lang="he">משה אהרן בר יוסף רבא...</foreign>(fols. 4r, 6r, 118v); description of content in Italian on fol. (i)r.</provenance>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to<persName>Giovanni Perissinotti</persName>and<persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <provenance>Ownership notes: <foreign xml:lang="he">לעולם יחתום אדם שמו על סיפרו שלו יהא אדם מן השוק ויערער עליו אמר שלי הוא לכן חתמתי שמי...</foreign> [name is not legible any more, it has been erased](fol.1r) <foreign xml:lang="he">משה אהרן בר יוסף רבא...</foreign> (fols. 4r, 6r, 118v); description of content in Italian on fol. (i)r.</provenance>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0223.jpg">No. 1169</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0150.jpg">No. 1169</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000063067&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0223.jpg">No. 1169</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0150.jpg">No. 1169</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000063067&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -120,11 +120,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -133,7 +133,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -168,7 +168,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-06-06">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

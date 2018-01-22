@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_442">
    <teiHeader>
       <fileDesc>
@@ -53,7 +53,7 @@
                      <title>
                         <foreign xml:lang="he">אלה תולדות יצחק</foreign>
                      </title>
-                     <note>Title page on fol. 1r:<foreign xml:lang="he">אלה תולדות יצחק והוא ספר נחמד שירי החכם הרופא כמ"ר יצלק לוזאטו איש כפר סאנדניאל נעתק מכתב יד של המחבר עצמו בשנת התקפ"ג, מספרי יצחק ריגיו</foreign>
+                     <note>Title page on fol. 1r: <foreign xml:lang="he">אלה תולדות יצחק והוא ספר נחמד שירי החכם הרופא כמ"ר יצלק לוזאטו איש כפר סאנדניאל נעתק מכתב יד של המחבר עצמו בשנת התקפ"ג, מספרי יצחק ריגיו</foreign>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -62,13 +62,13 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent>ff. 57<dimensions type="leaf" unit="mm">
+                        <extent>ff. 57 <dimensions type="leaf" unit="mm">
                               <height quantity="200"/>
                               <width quantity="144"/>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>3 unfoliated leaves at the end of the collation + 2 flyleaves at the beginning and 2 flyleaves at the end.<catchwords>catchwords on every recto and verso.</catchwords>
+                        <collation>3 unfoliated leaves at the end of the collation + 2 flyleaves at the beginning and 2 flyleaves at the end. <catchwords>catchwords on every recto and verso.</catchwords>
                         </collation>
                      </supportDesc>
                   </objectDesc>
@@ -79,7 +79,7 @@
                   <decoDesc>
                      <decoNote>Not decorated.</decoNote>
                   </decoDesc>
-                  <additions>Paper slip glued on fol. 57v, on it poem addressed:<foreign xml:lang="he">על מצבת קבורתי</foreign>("To my tombstone")</additions>
+                  <additions>Paper slip glued on fol. 57v, on it poem addressed: <foreign xml:lang="he">על מצבת קבורתי</foreign> ("To my tombstone")</additions>
                   <bindingDesc>
                      <p>Leather binding.</p>
                   </bindingDesc>
@@ -89,19 +89,19 @@
                      <origPlace>[Italy]</origPlace>
                      <origDate notBefore="1803">AM 5563(=1802/1803CE)</origDate>
                   </origin>
-                  <provenance>Ownership inscription on fol. 1r:<foreign xml:lang="he">מספרי יצחק ריגיו</foreign>
+                  <provenance>Ownership inscription on fol. 1r: <foreign xml:lang="he">מספרי יצחק ריגיו</foreign>
                   </provenance>
                   <acquisition>It belonged to Rabbi Isaac Samuel Reggio's (1784-1855) library, which was purchased en bloc by the Bodleian Library in 1853.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0378.jpg">No. 1994</ref>,<bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0378.jpg">No. 1994</ref>, <bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
                            <ref facs="beo0238.jpg">No. 1994</ref>), and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -120,11 +120,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -133,7 +133,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -157,7 +157,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-08-22">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

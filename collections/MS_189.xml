@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_24">
    <teiHeader>
       <fileDesc>
@@ -49,9 +49,7 @@
                      <locus>Ff. 1r-34r</locus>
                      <author>al-Ḥaṣṣar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbasal-Ḥatsar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbasאבו בכר מחמד בן עבד אללה בן עבאס בן אלחצאר</author>
                      <editor role="translator">
-                        <persName type="standard"
-                                  key="n 92022426"
-                                  ref="http://viaf.org/viaf/64172358">Ibn Tibon, Mosheh, active 13th century</persName>
+                        <persName type="standard" key="n 92022426" ref="http://viaf.org/viaf/64172358">Ibn Tibon, Mosheh, active 13th century</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt"/>
                         <persName xml:lang="he">משה אבן תבון</persName>
                         <persName xml:lang="he" type="alt"/>
@@ -64,9 +62,9 @@
                      <incipit>
                         <foreign xml:lang="he">אמר המלמד אבו בכר מחמד בן עבד אללה בן עבאס בן חצאר</foreign>
                      </incipit>
-                     <colophon>Translator's colophon on fol. 31v:<foreign xml:lang="he">נשלמו המעשים והוא ספר בחשבון לאבו בכר מחמד בן עבד אללה בן עבאס אלחצאר. והעתיקו ר' משה בר' שמואל בר' יהודה בר' שאול ז''ל אשר מרמון ספרד ושלמה העתקתו ביח' יום לחדש אייר שנת אחת ושלשים בעיר מונטפשלייר</foreign>
+                     <colophon>Translator's colophon on fol. 31v: <foreign xml:lang="he">נשלמו המעשים והוא ספר בחשבון לאבו בכר מחמד בן עבד אללה בן עבאס אלחצאר. והעתיקו ר' משה בר' שמואל בר' יהודה בר' שאול ז''ל אשר מרמון ספרד ושלמה העתקתו ביח' יום לחדש אייר שנת אחת ושלשים בעיר מונטפשלייר</foreign>
                      </colophon>
-                     <colophon>Copyist's colophon on fol. 31v:<foreign xml:lang="he">והנה נשלמה העתקתו יום שנים עשר מאדר שני שנת רלו' מהאלף הששי שהוא אלף וארבע מאות ושמנה שנים מחרבן הבית שתבנה במהרה אמן סלה</foreign>
+                     <colophon>Copyist's colophon on fol. 31v: <foreign xml:lang="he">והנה נשלמה העתקתו יום שנים עשר מאדר שני שנת רלו' מהאלף הששי שהוא אלף וארבע מאות ושמנה שנים מחרבן הבית שתבנה במהרה אמן סלה</foreign>
                      </colophon>
                      <note>
                         <p>The treatise is divided into two parts:</p>
@@ -82,9 +80,9 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>
-                           <material>paper</material>, watermark:<watermark>capital letter R</watermark>
+                           <material>paper</material>, watermark: <watermark>capital letter R</watermark>
                         </support>
-                        <extent>[vii], 34, [xl] ff.<dimensions type="leaf" unit="mm">
+                        <extent>[vii], 34, [xl] ff. <dimensions type="leaf" unit="mm">
                               <height min="000" max="000" n="defective"/>
                               <width quantity="000"/>
                            </dimensions>
@@ -111,15 +109,15 @@
                      <origPlace>[Provence]</origPlace>
                      <origDate when="1476">1476</origDate>
                   </origin>
-                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in<date calendar="#Gregorian" when="1683">1683</date>by<persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
+                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in <date calendar="#Gregorian" when="1683">1683</date> by <persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886</bibl>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel, with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886</bibl>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel, with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Access to the Hebrew manuscripts at Christ Church is strictly by appointment only: please email<email>library@chch.ox.ac.uk</email>or<email>cristina.neagu@chch.ox.ac.uk</email>.</p>
+                        <p>Access to the Hebrew manuscripts at Christ Church is strictly by appointment only: please email <email>library@chch.ox.ac.uk</email> or <email>cristina.neagu@chch.ox.ac.uk</email>.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -128,13 +126,13 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Kitchin, George William,<hi rend="italic">Catalogus codicum mss. qui in bibliotheca Ædis Christi apud Oxonienses adservantur</hi>(Oxford, 1867), no. 189.</bibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 2457.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue)</hi>(Oxford: Clarendon Press, 1994), no. 2457.</bibl>
+                     <bibl>Kitchin, George William, <hi rend="italic">Catalogus codicum mss. qui in bibliotheca Ædis Christi apud Oxonienses adservantur</hi> (Oxford, 1867), no. 189.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 2457.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue)</hi> (Oxford: Clarendon Press, 1994), no. 2457.</bibl>
                      <bibl>
                         <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000063077&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
                      </bibl>
-                     <bibl>Steinschneider, Moritz,<hi rend="italic">Die hebraeischen Übersetzungen des Mittelalters und die Juden als Dolmetscher</hi>(Berlin, 1893), 557-8.</bibl>
+                     <bibl>Steinschneider, Moritz, <hi rend="italic">Die hebraeischen Übersetzungen des Mittelalters und die Juden als Dolmetscher</hi> (Berlin, 1893), 557-8.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -143,7 +141,7 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
          </classDecl>
@@ -160,7 +158,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2015-04-30">
-            <persName>Sabine Arndt</persName>created this file</change>
+            <persName>Sabine Arndt</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

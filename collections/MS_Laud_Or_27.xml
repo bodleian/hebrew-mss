@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_16">
    <teiHeader>
       <fileDesc>
@@ -49,20 +49,20 @@
                   <msItem xml:id="MS_Laud_Or_27-item1" n="1">
                      <locus>ff. 4r-186r</locus>
                      <title>Siddur, Sephardi rite</title>
-                     <note>Contents: fols. 4r-95r:<foreign xml:lang="he">תפילות ימות החול</foreign>fols. 95r-122v: "<foreign xml:lang="he">תפלת שבת</foreign>" fols. 123r-131r: "<foreign xml:lang="he">תקון ראש חדש</foreign>" fols. 131r-132v: "<foreign xml:lang="he">תיקון חנוכה</foreign>" fols. 133r-135v: "<foreign xml:lang="he">תיקון פורים</foreign>" fols. 136r-167r: "<foreign xml:lang="he">תיקון פסח</foreign>" fols. 167v-180r: "<foreign xml:lang="he">תיקון תעניות</foreign>" ‬</note>
+                     <note>Contents: fols. 4r-95r: <foreign xml:lang="he">תפילות ימות החול</foreign> fols. 95r-122v: " <foreign xml:lang="he">תפלת שבת</foreign> " fols. 123r-131r: " <foreign xml:lang="he">תקון ראש חדש</foreign> " fols. 131r-132v: " <foreign xml:lang="he">תיקון חנוכה</foreign> " fols. 133r-135v: " <foreign xml:lang="he">תיקון פורים</foreign> " fols. 136r-167r: " <foreign xml:lang="he">תיקון פסח</foreign> " fols. 167v-180r: " <foreign xml:lang="he">תיקון תעניות</foreign> " ‬</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <extent>ff. 188<dimensions type="leaf" unit="mm">
+                        <extent>ff. 188 <dimensions type="leaf" unit="mm">
                               <height quantity="115">115</height>
                               <width quantity="63">63</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>Quires of mostly 8 leaves, one leaf is missing between fol. 107 and fol. 108,<catchwords>sometimes catchword at the end of the quire.</catchwords>
+                        <collation>Quires of mostly 8 leaves, one leaf is missing between fol. 107 and fol. 108, <catchwords>sometimes catchword at the end of the quire.</catchwords>
                         </collation>
                         <condition>Good condition.</condition>
                      </supportDesc>
@@ -92,12 +92,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0201.jpg">No. 1134.</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I<ref facs="beo0147.jpg">No. 1134.</ref>
-                           </bibl>and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0201.jpg">No. 1134.</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0147.jpg">No. 1134.</ref>
+                           </bibl> and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -125,7 +125,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -149,7 +149,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-07-05">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <text>

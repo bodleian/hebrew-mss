@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_345">
    <teiHeader>
       <fileDesc>
@@ -57,16 +57,16 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support>Paper, outer and inner sheets of quires made of parchment<watermark>(watermark on flyleaf to be identified)</watermark>
+                        <support>Paper, outer and inner sheets of quires made of parchment <watermark>(watermark on flyleaf to be identified)</watermark>
                         </support>
-                        <extent>ff. 63<dimensions type="leaf" unit="mm">
+                        <extent>ff. 63 <dimensions type="leaf" unit="mm">
                               <height quantity="213">213</height>
                               <width quantity="154">154</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals from right to left.</foliation>
-                        <collation>4 quires: i-iii<hi rend="sup">16</hi>, iv<hi rend="sup">16-1</hi>
-                           <signatures>Latin characters from left to right</signatures>,<catchwords>catchwords at the end of each verso.</catchwords>
+                        <collation>4 quires: i-iii <hi rend="sup">16</hi>, iv <hi rend="sup">16-1</hi>
+                           <signatures>Latin characters from left to right</signatures>, <catchwords>catchwords at the end of each verso.</catchwords>
                         </collation>
                      </supportDesc>
                   </objectDesc>
@@ -86,18 +86,18 @@
                      <origPlace>[Italy]</origPlace>
                      <origDate notBefore="1401" notAfter="1425">[early 15th century]</origDate>
                   </origin>
-                  <provenance>Owners: "<foreign xml:lang="he">... שלי רפאל גלקו</foreign>"; "<foreign xml:lang="he">אברהם גליקו</foreign>"; "<foreign xml:lang="he">יהודה בכ"ר יצחק דאטו</foreign>" (fol. 1r). Censors' signatures: "visto per me Gio[vanni] Domi[ni]co Carretto 1618" (fol. 63r); "vista per mi F. Luigi [da Bologna] del 1600", "Clemente Renatto" (fol. 63v). Owner's inscription: "Liber Guilielmi Laud Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1635" (fol. 1v)</provenance>
+                  <provenance>Owners: " <foreign xml:lang="he">... שלי רפאל גלקו</foreign> "; " <foreign xml:lang="he">אברהם גליקו</foreign> "; " <foreign xml:lang="he">יהודה בכ"ר יצחק דאטו</foreign> " (fol. 1r). Censors' signatures: "visto per me Gio[vanni] Domi[ni]co Carretto 1618" (fol. 63r); "vista per mi F. Luigi [da Bologna] del 1600", "Clemente Renatto" (fol. 63v). Owner's inscription: "Liber Guilielmi Laud Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1635" (fol. 1v)</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0066.jpg">No. 299</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0066.jpg">No. 299</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
                            <ref facs="beo0079.jpg">No. 299</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -116,11 +116,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -129,7 +129,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -153,7 +153,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-01-03">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_460">
    <teiHeader>
       <fileDesc>
@@ -54,7 +54,7 @@
                      <title>
                         <foreign xml:lang="he">ההגיון</foreign>
                      </title>
-                     <note>Anonym Hebrew translation that must have been written after<date calendar="#AM-abbreviated">349</date>(<date calendar="#Gregorian">1589</date>)since it cites<persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
+                     <note>Anonym Hebrew translation that must have been written after <date calendar="#AM-abbreviated">349</date> (<date calendar="#Gregorian">1589</date>)since it cites <persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_48-item2" n="2">
@@ -65,7 +65,7 @@
                      <title>
                         <foreign xml:lang="he">פילוסופיה טבעית</foreign>
                      </title>
-                     <note>Anonym Hebrew translation that must have been written after<date calendar="#AM-abbreviated">349</date>(<date calendar="#Gregorian">1589</date>)since it cites<persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
+                     <note>Anonym Hebrew translation that must have been written after <date calendar="#AM-abbreviated">349</date> (<date calendar="#Gregorian">1589</date>)since it cites <persName ref="http://viaf.org/viaf/28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
                      <note>Fols. 107v-109v are blank.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -73,16 +73,16 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support>paper,<watermark>watermark to identify (see e.g. ff. 52-53)</watermark>
+                        <support>paper, <watermark>watermark to identify (see e.g. ff. 52-53)</watermark>
                         </support>
-                        <extent>ff. 171<dimensions type="leaf" unit="mm">
+                        <extent>ff. 171 <dimensions type="leaf" unit="mm">
                               <height quantity="207"/>
                               <width quantity="150"/>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
                         <collation>
-                           <signatures>no signatures</signatures>,<catchwords>catchwords on every page</catchwords>
+                           <signatures>no signatures</signatures>, <catchwords>catchwords on every page</catchwords>
                         </collation>
                      </supportDesc>
                      <layoutDesc>
@@ -110,12 +110,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0286.jpg">No. 1393</ref>,<bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0286.jpg">No. 1393</ref>, <bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
                            <ref facs="beo0173.jpg">No. 1393</ref>), and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -134,11 +134,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -147,7 +147,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -174,7 +174,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-09-19">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

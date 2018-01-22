@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_81">
    <teiHeader>
       <fileDesc>
@@ -48,7 +48,7 @@
                   <summary>Hebrew-Arabic dictionary to the Bible and the Mishnah</summary>
                   <msItem xml:id="MS_Bodley_Or_79-item1" n="1">
                      <locus>ff. 1r-54v</locus>
-                     <title>Hebrew-Arabic dictionary to the Bible and the Mishnah<foreign xml:lang="he">מלון עברי-ערבי למקרא ולמשנה</foreign>
+                     <title>Hebrew-Arabic dictionary to the Bible and the Mishnah <foreign xml:lang="he">מלון עברי-ערבי למקרא ולמשנה</foreign>
                      </title>
                      <note>Incomplete.</note>
                      <textLang mainLang="he">Hebrew and Arabic</textLang>
@@ -58,7 +58,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent>ff. 54<dimensions type="leaf" unit="mm">
+                        <extent>ff. 54 <dimensions type="leaf" unit="mm">
                               <height quantity="000"/>
                               <width quantity="000"/>
                            </dimensions>
@@ -86,17 +86,17 @@
                      <origDate notBefore="1201" notAfter="1300">[(early?) 13th century]</origDate>
                   </origin>
                   <provenance>Belonged to the collection of Dr. Edward Bernard, who left all his printed books and MSS to his wife, but expressed a hope that the Bodleian Library would buy them.</provenance>
-                  <acquisition>Bought from Dr. Edward Bernard's widow as part of Bernard's collection in 1698 (see<hi rend="italic">Summary Catalogue</hi>).</acquisition>
+                  <acquisition>Bought from Dr. Edward Bernard's widow as part of Bernard's collection in 1698 (see <hi rend="italic">Summary Catalogue</hi>).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0301.jpg">No. 1504</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0182.jpg">No. 1504</ref>, and on the data of the<ref target="http://aleph.nli.org.il/F/47KMDBHQP5LKIENHSLS4UYC9HQADSM9A8CDQ3RFJSL4VBAPN63-15915?func=short-0&amp;set_number=044708">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0301.jpg">No. 1504</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0182.jpg">No. 1504</ref>, and on the data of the <ref target="http://aleph.nli.org.il/F/47KMDBHQP5LKIENHSLS4UYC9HQADSM9A8CDQ3RFJSL4VBAPN63-15915?func=short-0&amp;set_number=044708">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -105,9 +105,9 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 1504.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1504.</bibl>
-                     <bibl>Judith Olszowy-Schlanger, "The Science of Language among Medieval Jews", in<hi rend="italic">Science in Medieval Jewish Cultures</hi>, ed. Gad Freudenthal (Cambridge: Cambridge University Press, 2011), 384 n. 132.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1504.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1504.</bibl>
+                     <bibl>Judith Olszowy-Schlanger, "The Science of Language among Medieval Jews", in <hi rend="italic">Science in Medieval Jewish Cultures</hi>, ed. Gad Freudenthal (Cambridge: Cambridge University Press, 2011), 384 n. 132.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -116,11 +116,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -129,7 +129,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -153,7 +153,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2015-09-04">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

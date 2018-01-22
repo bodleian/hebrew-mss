@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_57">
    <teiHeader>
       <fileDesc>
@@ -51,17 +51,17 @@
                   <p>ff. 86</p>
                </physDesc>
                <history>
-                  <acquisition>Apparently acquired about 1680(see<hi rend="italic">Summary Catalogue</hi>).</acquisition>
+                  <acquisition>Apparently acquired about 1680(see <hi rend="italic">Summary Catalogue</hi>).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0421.jpg">No. 2233</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0265.jpg beo0266.jpg">No. 2233</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000095980&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0421.jpg">No. 2233</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0265.jpg beo0266.jpg">No. 2233</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000095980&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -84,21 +84,21 @@
                      <msItem xml:id="MS_Bodley_Or_108-part1-item1" n="1">
                         <locus>fols. 1r-4r</locus>
                         <author>Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
-                        <title>Tsurat ha-otiyot<foreign xml:lang="he">צורת האותיות</foreign>
+                        <title>Tsurat ha-otiyot <foreign xml:lang="he">צורת האותיות</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item2" n="2">
                         <locus>fols. 4v-7v</locus>
                         <author>Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
-                        <title>Commentary on Jesaiah 52-53<foreign xml:lang="he">פרוש הנה ישכיל עבדי</foreign>
+                        <title>Commentary on Jesaiah 52-53 <foreign xml:lang="he">פרוש הנה ישכיל עבדי</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item3" n="3">
                         <locus>fols. 7v-9r</locus>
                         <author>Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
-                        <title>Maʾamar al ha-Nevuʾah ṿe-al ha-dorot ha-rishonot sheba-Miḳra<foreign xml:lang="he">מאמר על הנבואה ועל הדורות הראשונים שבמקרא</foreign>
+                        <title>Maʾamar al ha-Nevuʾah ṿe-al ha-dorot ha-rishonot sheba-Miḳra <foreign xml:lang="he">מאמר על הנבואה ועל הדורות הראשונים שבמקרא</foreign>
                         </title>
                         <note>Treatise on prophecy and the first generations of the Bible.</note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -106,7 +106,7 @@
                      <msItem xml:id="MS_Bodley_Or_108-part1-item4" n="4">
                         <locus>fol. 9r</locus>
                         <author>Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
-                        <title>Commentary on the Talmud (Ḳidushin 28)<foreign xml:lang="he">פרוש התלמוד לדנן (קדושין כח)</foreign>
+                        <title>Commentary on the Talmud (Ḳidushin 28) <foreign xml:lang="he">פרוש התלמוד לדנן (קדושין כח)</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -119,21 +119,21 @@
                      <msItem xml:id="MS_Bodley_Or_108-part1-item6" n="6">
                         <locus>fols. 10r-12v</locus>
                         <author>Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
-                        <title>Commentary on the Mishnah (Kelim 3:1)<foreign xml:lang="he">פרוש המשנה לדנן (כלאים ג:א)</foreign>
+                        <title>Commentary on the Mishnah (Kelim 3:1) <foreign xml:lang="he">פרוש המשנה לדנן (כלאים ג:א)</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item7" n="7">
                         <locus>fols. 12v-14r</locus>
                         <author>Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
-                        <title>Ḥibur ʿal ha-lulav<foreign xml:lang="he">חבור על הלולב</foreign>
+                        <title>Ḥibur ʿal ha-lulav <foreign xml:lang="he">חבור על הלולב</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item8" n="8">
                         <locus>fols. 14r-18v</locus>
                         <author>Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
-                        <title>Seder ha-dorot<foreign xml:lang="he">סדר הדורות</foreign>
+                        <title>Seder ha-dorot <foreign xml:lang="he">סדר הדורות</foreign>
                         </title>
                         <note>Chronological work.</note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -141,7 +141,7 @@
                      <msItem xml:id="MS_Bodley_Or_108-part1-item9" n="9">
                         <locus>fols. 19r-21v</locus>
                         <author>Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
-                        <title>Tshuvah al ha-anusim<foreign xml:lang="he">תשובה על האנוסים</foreign>
+                        <title>Tshuvah al ha-anusim <foreign xml:lang="he">תשובה על האנוסים</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -150,7 +150,7 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 22<dimensions type="leaf" unit="mm">
+                           <extent>ff. 22 <dimensions type="leaf" unit="mm">
                                  <height quantity="000"/>
                                  <width quantity="000"/>
                               </dimensions>
@@ -183,25 +183,25 @@
                      <msItem xml:id="MS_Bodley_Or_108-part2-item1" n="10">
                         <locus>fols. 22r-23v</locus>
                         <author>Hai, ben Sherira, 939-1038 (attributed to him)האי בן שרירא גאון (מיוחס לו)</author>
-                        <title>Musar ha-Śekhel<foreign xml:lang="he">מוסר השכל</foreign>
+                        <title>Musar ha-Śekhel <foreign xml:lang="he">מוסר השכל</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part2-item2" n="11">
                         <locus>fols. 23v-24r</locus>
-                        <title>Chronological list from the first man until the birth of Jeshu<foreign xml:lang="he">רשימה כרונולוגית מאדם הראשון על לידת ישו</foreign>
+                        <title>Chronological list from the first man until the birth of Jeshu <foreign xml:lang="he">רשימה כרונולוגית מאדם הראשון על לידת ישו</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part2-item3" n="12">
                         <locus>fols. 24r-24v</locus>
-                        <title>Birkat ḥatanim<foreign xml:lang="he">ברכת חתנים</foreign>
+                        <title>Birkat ḥatanim <foreign xml:lang="he">ברכת חתנים</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part2-item4" n="13">
                         <locus>fol. 24v</locus>
-                        <title>Ṭofse igerot<foreign xml:lang="he">טופסי אגרות</foreign>
+                        <title>Ṭofse igerot <foreign xml:lang="he">טופסי אגרות</foreign>
                         </title>
                         <note>Formulas of letter for ransoming prisoners and begging for charity.</note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -211,7 +211,7 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 3 (fols. 23-25)<dimensions type="leaf" unit="mm">
+                           <extent>ff. 3 (fols. 23-25) <dimensions type="leaf" unit="mm">
                                  <height quantity="000"/>
                                  <width quantity="000"/>
                               </dimensions>
@@ -243,14 +243,14 @@
                   <msContents>
                      <msItem xml:id="MS_Bodley_Or_108-part3-item1" n="14">
                         <locus>fols. 26r-67r</locus>
-                        <title>Index to Sefer Eyin Yaʿaḳov<foreign xml:lang="he">מפתחות לספר עין יעקב</foreign>
+                        <title>Index to Sefer Eyin Yaʿaḳov <foreign xml:lang="he">מפתחות לספר עין יעקב</foreign>
                         </title>
                         <note>Contains only the letter aleph.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part3-item2" n="15">
                         <locus>fols. 68r-74v</locus>
-                        <title>Perush ha-milot ha-zarot me-Bereshit Rabah<foreign xml:lang="he">פרוש המלות הזרות מבראשית רבה</foreign>
+                        <title>Perush ha-milot ha-zarot me-Bereshit Rabah <foreign xml:lang="he">פרוש המלות הזרות מבראשית רבה</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -259,7 +259,7 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 49 (fols. 26-74)<dimensions type="leaf" unit="mm">
+                           <extent>ff. 49 (fols. 26-74) <dimensions type="leaf" unit="mm">
                                  <height quantity="000"/>
                                  <width quantity="000"/>
                               </dimensions>
@@ -292,16 +292,16 @@
                      <msItem xml:id="MS_Bodley_Or_108-part4-item1" n="16">
                         <locus>fols. 75r-84v</locus>
                         <author>Joseph of Castileקשטיל, יוסף</author>
-                        <title>Teshuvot le-sheʾelot ʿal derekh ha-Kabalah<foreign xml:lang="he">תשובות לשאלות על דרך הקבלה</foreign>
+                        <title>Teshuvot le-sheʾelot ʿal derekh ha-Kabalah <foreign xml:lang="he">תשובות לשאלות על דרך הקבלה</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part4-item2" n="17">
                         <locus>fols. 84v-86r</locus>
                         <author>Hai, ben Sherira, 939-1038 (attributed to him)האי בן שרירא גאון (מיוחס לו)</author>
-                        <title>Responsa on the Kabbalah<foreign xml:lang="he">שאלות ותשובות בקבלה</foreign>
+                        <title>Responsa on the Kabbalah <foreign xml:lang="he">שאלות ותשובות בקבלה</foreign>
                         </title>
-                        <colophon>Colophon of Shmuel ben Meir Saragosai (the scribe who copied fols. 84v-86r) on fol. 86r:<foreign xml:lang="he">"... אני הכותב לי לעצמי לגופי ולנשמתי שמואל בן ... מאיר סארגוסי יצ"ו"</foreign>
+                        <colophon>Colophon of Shmuel ben Meir Saragosai (the scribe who copied fols. 84v-86r) on fol. 86r: <foreign xml:lang="he">"... אני הכותב לי לעצמי לגופי ולנשמתי שמואל בן ... מאיר סארגוסי יצ"ו"</foreign>
                         </colophon>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -310,7 +310,7 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 12 (fols. 75-86)<dimensions type="leaf" unit="mm">
+                           <extent>ff. 12 (fols. 75-86) <dimensions type="leaf" unit="mm">
                                  <height quantity="000"/>
                                  <width quantity="000"/>
                               </dimensions>
@@ -339,11 +339,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -352,7 +352,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -376,7 +376,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2015-09-05">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_27">
    <teiHeader>
       <fileDesc>
@@ -49,13 +49,13 @@
                   <msItem xml:id="MS_Bodl_Or_135-item1" n="1">
                      <locus>ff. 1r-6r</locus>
                      <author>Avraham ha-Bavliאברהם הבבלי</author>
-                     <title>Sefer ha-Shorashim<foreign xml:lang="he">ספר השרשים</foreign>
+                     <title>Sefer ha-Shorashim <foreign xml:lang="he">ספר השרשים</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item2" n="2">
                      <locus>ff. 6r-10v</locus>
-                     <title>List of homonyms found in the Moses ibn Ezra's Sefer ha-ʿAnaḳ<foreign xml:lang="he">רשימות המלים בעלות יותר ממשמעות אחת שבסופי השורות בס’ הענק למשה אבן עזרא</foreign>
+                     <title>List of homonyms found in the Moses ibn Ezra's Sefer ha-ʿAnaḳ <foreign xml:lang="he">רשימות המלים בעלות יותר ממשמעות אחת שבסופי השורות בס’ הענק למשה אבן עזרא</foreign>
                      </title>
                      <note>Incomplete.</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -63,83 +63,83 @@
                   <msItem xml:id="MS_Bodl_Or_135-item3" n="3">
                      <locus>ff. 11r-230(ii)v</locus>
                      <author ref="http://viaf.org/viaf/90489505">Parḥon, Salomon ben Abraham ibn, active 12th centuryפרחון, שלמה בן אברהם</author>
-                     <title>Maḥberet ha-ʿArukh<foreign xml:lang="he">מחברת הערוך</foreign>
+                     <title>Maḥberet ha-ʿArukh <foreign xml:lang="he">מחברת הערוך</foreign>
                      </title>
                      <note>The name Samuel is pointed out on fols. 33r, 62v, and 99v.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item4" n="4">
                      <locus>ff. 232r-237v</locus>
-                     <title>List of homonyms found in Moses ibn Ezra's Sefer ha-Tarshish<foreign xml:lang="he">רשימת המלים בעלי יותר ממשמעות אחת שבס’ התרשיש למשה אבן עזרא</foreign>
+                     <title>List of homonyms found in Moses ibn Ezra's Sefer ha-Tarshish <foreign xml:lang="he">רשימת המלים בעלי יותר ממשמעות אחת שבס’ התרשיש למשה אבן עזרא</foreign>
                      </title>
                      <note>Sefer ha-Tarshish also known as Sefer ha-ʿAnaḳ.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item5" n="5">
                      <locus>ff. 237v-255r</locus>
-                     <title>Alphabet of Ben Sira<foreign xml:lang="he">אלפא ביתא דבן סירא</foreign>
+                     <title>Alphabet of Ben Sira <foreign xml:lang="he">אלפא ביתא דבן סירא</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew and Aramaic</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item6" n="6">
                      <locus>ff. 256r-290r</locus>
                      <author>Berechiah ben Natronai, ha-Nakdan, active 12th century-13th centuryברכיה בן נטרונאי הנקדן</author>
-                     <title>Mishle shuʻalim<foreign xml:lang="he">משלי שועלים</foreign>
+                     <title>Mishle shuʻalim <foreign xml:lang="he">משלי שועלים</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item7" n="7">
                      <locus>ff. 290v-291v</locus>
-                     <title>Aggadic legends<foreign xml:lang="he">מעשיות</foreign>
+                     <title>Aggadic legends <foreign xml:lang="he">מעשיות</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item8" n="8">
                      <locus>ff. 291v-300r</locus>
-                     <title>Mishle Sendebar<foreign xml:lang="he">משלי סנדבר</foreign>
+                     <title>Mishle Sendebar <foreign xml:lang="he">משלי סנדבר</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item9" n="9">
                      <locus>ff. 300r-339v</locus>
-                     <title>Aggadic legends<foreign xml:lang="he">מעשיות</foreign>
+                     <title>Aggadic legends <foreign xml:lang="he">מעשיות</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item10" n="10">
                      <locus>ff. 340r-346v</locus>
-                     <title>Divre ha-yamim le-Mosheh Rabenu<foreign xml:lang="he">דברי הימים למשה רבינו</foreign>
+                     <title>Divre ha-yamim le-Mosheh Rabenu <foreign xml:lang="he">דברי הימים למשה רבינו</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item11" n="11">
                      <locus>ff. 346v-352r</locus>
-                     <title>Midrash Aśeret ha-Dibrot (Midrash on the Ten Commandments)<foreign xml:lang="he">מדרש עשרת הדברות</foreign>
+                     <title>Midrash Aśeret ha-Dibrot (Midrash on the Ten Commandments) <foreign xml:lang="he">מדרש עשרת הדברות</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item12" n="12">
                      <locus>ff. 352r-356r</locus>
-                     <title>Midrash ṿa-Yoshaʿ<foreign xml:lang="he">מדרש ויושע</foreign>
+                     <title>Midrash ṿa-Yoshaʿ <foreign xml:lang="he">מדרש ויושע</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item13" n="13">
                      <locus>ff. 356r-358v</locus>
-                     <title>Igerot shel Dibrot<foreign xml:lang="he">אגרות של דברות</foreign>
+                     <title>Igerot shel Dibrot <foreign xml:lang="he">אגרות של דברות</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item14" n="14">
                      <locus>ff. 358v-361r</locus>
-                     <title>Otot aśar milḥamot melekh ha-Mesiaḥ<foreign xml:lang="he">אותות עשר מלחמות מלך המשיח</foreign>
+                     <title>Otot aśar milḥamot melekh ha-Mesiaḥ <foreign xml:lang="he">אותות עשר מלחמות מלך המשיח</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodl_Or_135-item15" n="15">
                      <locus>ff. 361r-363v</locus>
                      <author>Menaḥem ben Perets ha-Ḥebroniמנחם בן פרץ החברוני</author>
-                     <title>Masaʿ be-erets Yiśaʾel<foreign xml:lang="he">מסע בארץ ישראל</foreign>
+                     <title>Masaʿ be-erets Yiśaʾel <foreign xml:lang="he">מסע בארץ ישראל</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -148,7 +148,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 363<dimensions type="leaf" unit="mm">
+                        <extent>ff. 363 <dimensions type="leaf" unit="mm">
                               <height quantity="000"/>
                               <width quantity="000"/>
                            </dimensions>
@@ -179,12 +179,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0296.jpg bej0297.jpg">No. 1466</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0178.jpg beo0179.jpg">No. 1466</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000093775&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0296.jpg bej0297.jpg">No. 1466</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0178.jpg beo0179.jpg">No. 1466</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000093775&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -193,8 +193,8 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 1466.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1466.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1466.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1466.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -203,11 +203,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -216,7 +216,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -244,7 +244,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2015-08-02">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

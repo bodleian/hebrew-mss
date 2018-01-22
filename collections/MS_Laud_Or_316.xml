@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_363">
    <teiHeader>
       <fileDesc>
@@ -49,7 +49,7 @@
                   <msItem xml:id="MS_Laud_Or_316-item1" n="1">
                      <locus>ff. 1v-11v</locus>
                      <author ref="http://viaf.org/viaf/9742647">Dueren, Isaac ben Meir, active 13th centuryיצחק בן מאיר מדורא</author>
-                     <title>Hilkhot nidah<foreign xml:lang="he">הלכות נדה</foreign>
+                     <title>Hilkhot nidah <foreign xml:lang="he">הלכות נדה</foreign>
                      </title>
                      <note>Name of the author mentioned on fol. 11v</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -57,10 +57,10 @@
                   <msItem xml:id="MS_Laud_Or_316-item2" n="2">
                      <locus>ff. 12r-65v</locus>
                      <author ref="http://viaf.org/viaf/59118174">Levi ben Gershom, 1288-1344לוי בן גרשם, 1288-1344</author>
-                     <title>Shaʿare Dura<foreign xml:lang="he">שערי דורא</foreign>
+                     <title>Shaʿare Dura <foreign xml:lang="he">שערי דורא</foreign>
                      </title>
                      <note>Numerous scribbles on fol. 1r.</note>
-                     <colophon>At the end of the tractate on Niddah: "<foreign xml:lang="he">נשלם זה י"א בסיון קעח"ל</foreign>" (fol. 11v); "<foreign xml:lang="he">אני אנשל בן הנ"ר זוסלין מווירדא כתבתי ... ל... זוסמן ב"ר נחם הלוי וגמרתי אותו בע"ה קעח"ל</foreign>" (fol. 25v)</colophon>
+                     <colophon>At the end of the tractate on Niddah: " <foreign xml:lang="he">נשלם זה י"א בסיון קעח"ל</foreign> " (fol. 11v); " <foreign xml:lang="he">אני אנשל בן הנ"ר זוסלין מווירדא כתבתי ... ל... זוסמן ב"ר נחם הלוי וגמרתי אותו בע"ה קעח"ל</foreign> " (fol. 25v)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -68,13 +68,13 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment, not qood quality, many holes.</support>
-                        <extent>ff. 65<dimensions type="leaf" unit="mm">
+                        <extent>ff. 65 <dimensions type="leaf" unit="mm">
                               <height quantity="275">275</height>
                               <width quantity="195">195</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>8 quires of 8 leaves + a leaf (fol.65); + one unfoliated paper flyleaf at the beginning and the end (with watermark).<signatures>Hebrew/Arabic characters</signatures>
+                        <collation>8 quires of 8 leaves + a leaf (fol.65); + one unfoliated paper flyleaf at the beginning and the end (with watermark). <signatures>Hebrew/Arabic characters</signatures>
                            <catchwords>catchwords, repeated words, marked central opening</catchwords>
                         </collation>
                      </supportDesc>
@@ -104,12 +104,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0104.jpg">No. 689</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0104.jpg">No. 689</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
                            <ref facs="beo0108.jpg">No. 689</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -128,11 +128,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -141,7 +141,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -171,7 +171,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-01-03">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

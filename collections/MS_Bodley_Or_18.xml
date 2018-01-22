@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_61">
    <teiHeader>
       <fileDesc>
@@ -48,7 +48,7 @@
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Bodley_Or_18-item1" n="1">
                      <locus>ff. 1r-130v</locus>
-                     <title>Book of Psalms<foreign xml:lang="he">תהלים</foreign>
+                     <title>Book of Psalms <foreign xml:lang="he">תהלים</foreign>
                      </title>
                      <note>Divided into 169 sections. Lated hand added latin incipits and chapter numbers.</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -56,7 +56,7 @@
                   <msItem xml:id="MS_Bodley_Or_18-item2" n="2">
                      <locus>ff. 131r-162r</locus>
                      <author ref="http://viaf.org/viaf/100224138"/>
-                     <title>Shir ha-Yiḥud and Shir ha-kavod<foreign xml:lang="he">שיר היחוד ושיר הכבוד</foreign>
+                     <title>Shir ha-Yiḥud and Shir ha-kavod <foreign xml:lang="he">שיר היחוד ושיר הכבוד</foreign>
                      </title>
                      <note>Attirbuted in the MS to Rabbi Yehudah he-Ḥasid (fol. 162v)</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -66,13 +66,13 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 162<dimensions type="leaf" unit="mm">
+                        <extent>ff. 162 <dimensions type="leaf" unit="mm">
                               <height quantity="000"/>
                               <width quantity="000"/>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>21 quires: i<hi rend="sup">6</hi>, ii-viii<hi rend="sup">8</hi>, ix<hi rend="sup">4</hi>, x-xx<hi rend="sup">8</hi>, xxi<hi rend="sup">10</hi>
+                        <collation>21 quires: i <hi rend="sup">6</hi>, ii-viii <hi rend="sup">8</hi>, ix <hi rend="sup">4</hi>, x-xx <hi rend="sup">8</hi>, xxi <hi rend="sup">10</hi>
                            <signatures>no signatures</signatures>
                            <catchwords>illustrated catchwords at the end of quires</catchwords>
                         </collation>
@@ -100,17 +100,17 @@
                      <origDate notBefore="1301" notAfter="1400">[14th century]</origDate>
                   </origin>
                   <provenance>Belonged to the manuscript collection of Dr Edward Bernard (1638-1696/7, the Savilian Professor of Astronomy in St John's College, Oxford.</provenance>
-                  <acquisition>Bought from Dr Edward Bernard's widow in 1698 (see,<hi rend="italic">Summary Catalogue</hi>, vol. III, p. 1)</acquisition>
+                  <acquisition>Bought from Dr Edward Bernard's widow in 1698 (see, <hi rend="italic">Summary Catalogue</hi>, vol. III, p. 1)</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0045.jpg">No. 107</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0063.jpg">No. 107</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000077615&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0045.jpg">No. 107</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0063.jpg">No. 107</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000077615&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -119,8 +119,8 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 107.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 107.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 107.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 107.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -129,11 +129,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -142,7 +142,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -166,7 +166,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2015-06-05">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

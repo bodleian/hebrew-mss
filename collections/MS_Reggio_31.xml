@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_449">
    <teiHeader>
       <fileDesc>
@@ -57,21 +57,21 @@
                   <msItem xml:id="MS_Reggio_31-item2" n="2">
                      <locus>ff. 121r-121v</locus>
                      <title>A cabbalistic commentary</title>
-                     <note>On the passage<foreign xml:lang="he">רʹ יהודה היה נותן בהם סימנים</foreign>
+                     <note>On the passage <foreign xml:lang="he">רʹ יהודה היה נותן בהם סימנים</foreign>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_31-item3" n="3">
                      <locus>ff. 123r-124r</locus>
-                     <title>On the prayers of Minhah, composed in<date calendar="#AM">5543</date>(=<date calendar="#Gregorian">1783</date>}</title>
-                     <note>On the passage<foreign xml:lang="he">רʹ יהודה היה נותן בהם סימנים</foreign>
+                     <title>On the prayers of Minhah, composed in <date calendar="#AM">5543</date> (= <date calendar="#Gregorian">1783</date> }</title>
+                     <note>On the passage <foreign xml:lang="he">רʹ יהודה היה נותן בהם סימנים</foreign>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_31-item4" n="4">
                      <locus>f. 125r</locus>
                      <title>Le-lele shabatot</title>
-                     <note>Finished in 5495<date calendar="#AM">AM</date>(=<date calendar="#Gregorian">1734</date>)</note>
+                     <note>Finished in 5495 <date calendar="#AM">AM</date> (= <date calendar="#Gregorian">1734</date>)</note>
                      <colophon>
                         <foreign xml:lang="he">"כ"ג לחדש חשון ה’תצ"ה"</foreign>
                      </colophon>
@@ -81,9 +81,9 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support>paper,<watermark>watermark to be identified</watermark>
+                        <support>paper, <watermark>watermark to be identified</watermark>
                         </support>
-                        <extent>ff. 125<dimensions type="leaf" unit="mm">
+                        <extent>ff. 125 <dimensions type="leaf" unit="mm">
                               <height quantity="240"/>
                               <width quantity="172"/>
                            </dimensions>
@@ -100,7 +100,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Italian semi-cursive script (fols. 2r-120(ii)r. Fols. 121 and 123r-124r in a more cursive script in<persName>Jacob Shalom</persName>'s handwriting and fol. 123 in Luzzatto's own hand in cursive script, 1734.</summary>
+                     <summary>Italian semi-cursive script (fols. 2r-120(ii)r. Fols. 121 and 123r-124r in a more cursive script in <persName>Jacob Shalom</persName>'s handwriting and fol. 123 in Luzzatto's own hand in cursive script, 1734.</summary>
                      <handNote scope="sole" script="italian" rend="semi-cursive"/>
                   </handDesc>
                   <decoDesc>
@@ -121,12 +121,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0347.jpg">No. 1901</ref>,<bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0347.jpg">No. 1901</ref>, <bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
                            <ref facs="beo0225.jpg">No. 1901</ref>), and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -145,11 +145,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -158,7 +158,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -182,7 +182,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-09-05">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

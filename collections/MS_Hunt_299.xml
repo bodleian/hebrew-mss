@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_319">
    <teiHeader>
       <fileDesc>
@@ -52,8 +52,8 @@
                      <title>
                         <foreign xml:lang="he">ספר יסוד עולם</foreign>
                      </title>
-                     <note>The scribe<persName>Shalom ben Solomon Yerushalmi</persName>copied the MS in Syracuse together with at least one more MS of astronomical content (<ref target="http://digi.vatlib.it/view/MSS_Vat.ebr.379">Vatican,BAV, cod. ebr. 379</ref>, copied in 1482). He also ordered the copy of another MS in 1489 (<ref target="http://digi.vatlib.it/view/MSS_Vat.ebr.91">Vatican, BAV, cod. ebr. 91</ref>). He is the author of Shabat shalom (<ref target="MS_Poc_183">Oxford, Bodleian Library, MS Poc. 183</ref>)</note>
-                     <colophon>Colophon on fol. 222v:<foreign xml:lang="he">נשלם זה הספר שהוא יסוד עולם בשנת חמשת אלפים ומאתים וארבעים וארבע לבריאת עולם במתא סרקוסה דבאי סקאלייא דעל ספר ימא מותבה והיתה השלמתי בחדש אייר בי"ח בו וכתבתי אותו אני שמואל בכ"ר ראובן המכונה מרצאוי וכתבתי אותו ל ... שלום בכ"ר שלמה המכונה ירושלמי</foreign>
+                     <note>The scribe <persName>Shalom ben Solomon Yerushalmi</persName> copied the MS in Syracuse together with at least one more MS of astronomical content (<ref target="http://digi.vatlib.it/view/MSS_Vat.ebr.379">Vatican,BAV, cod. ebr. 379</ref>, copied in 1482). He also ordered the copy of another MS in 1489 (<ref target="http://digi.vatlib.it/view/MSS_Vat.ebr.91">Vatican, BAV, cod. ebr. 91</ref>). He is the author of Shabat shalom (<ref target="MS_Poc_183">Oxford, Bodleian Library, MS Poc. 183</ref>)</note>
+                     <colophon>Colophon on fol. 222v: <foreign xml:lang="he">נשלם זה הספר שהוא יסוד עולם בשנת חמשת אלפים ומאתים וארבעים וארבע לבריאת עולם במתא סרקוסה דבאי סקאלייא דעל ספר ימא מותבה והיתה השלמתי בחדש אייר בי"ח בו וכתבתי אותו אני שמואל בכ"ר ראובן המכונה מרצאוי וכתבתי אותו ל ... שלום בכ"ר שלמה המכונה ירושלמי</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -62,13 +62,13 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent>ff. 243<dimensions type="leaf" unit="mm">
+                        <extent>ff. 243 <dimensions type="leaf" unit="mm">
                               <height quantity="274">274</height>
                               <width quantity="222">222</width>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>x quires + 2 leaves inner/outer leaf of quire<signatures>no signature</signatures>,<catchwords>no catchwords</catchwords>
+                        <collation>x quires + 2 leaves inner/outer leaf of quire <signatures>no signature</signatures>, <catchwords>no catchwords</catchwords>
                         </collation>
                      </supportDesc>
                      <layoutDesc>
@@ -93,17 +93,17 @@
                      <origDate notBefore="1484">1484</origDate>
                   </origin>
                   <provenance>Onwer's inscription on fol. 1r: Roberti Huntington</provenance>
-                  <acquisition>It belonged to the oriental collection of<persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>(1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
+                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0386.jpg">No. 2043</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0243.jpg">No. 2043</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000094563&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0386.jpg">No. 2043</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0243.jpg">No. 2043</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000094563&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -112,8 +112,8 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 2043.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2043.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 2043.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2043.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -122,11 +122,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -135,7 +135,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -176,7 +176,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-10-03">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_32">
    <teiHeader>
       <fileDesc>
@@ -48,7 +48,7 @@
                   <summary>Hebrew Bible: Book of Psalms</summary>
                   <msItem xml:id="MS_Bodl_Or_3-item1" n="1">
                      <locus>ff. 1r-75v</locus>
-                     <title>Hebrew Bible: Book of Psalms<foreign xml:lang="he">כתובים (תהלים)</foreign>
+                     <title>Hebrew Bible: Book of Psalms <foreign xml:lang="he">כתובים (תהלים)</foreign>
                      </title>
                      <note>Erased Latin charm on fol. 72r, English gloss on fol. 73.</note>
                      <note>It contains several abecedaria (alphabets): Arabic and Cyrillic alphabets with the names of the letters spelled out above in vocalised Hebrew script on fols. 72v-73v. Greek and Hebrew alphabets with Latin notes on fols. 74v-75r.</note>
@@ -60,7 +60,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 75<dimensions type="leaf" unit="mm">
+                        <extent>ff. 75 <dimensions type="leaf" unit="mm">
                               <height quantity="000"/>
                               <width quantity="000"/>
                            </dimensions>
@@ -92,12 +92,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0045.jpg">No. 114</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0063.jpg">No. 114</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000077653&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0045.jpg">No. 114</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0063.jpg">No. 114</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000077653&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -106,12 +106,12 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Kennicott, Benjamin,<hi rend="italic">Dissertatio generalis in Vetus Testamentum Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et impressis.</hi>Recudi curavit et notas adiecit Paulus Iacobus Bruns. Brunovici: Orphanotrophei, 1783.</bibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 114.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 114.</bibl>
-                     <bibl>Kupfer, Marcia, "". . . lectres . . . plus vrayes": Hebrew Script and Jewish Witness in the Mandeville Manuscript of Charles V",<hi rend="italic">Speculum</hi>83 (2008): 58-111, esp. 81.</bibl>
-                     <bibl>Kulik, Alexander, "Jews from Rus’ in Medieval England",<hi rend="italic">JQR</hi>102, no. 3 (2012): 371-403.</bibl>
-                     <bibl>Kulik, Alexander, "Jews and the Language of Eastern Slavs",<hi rend="italic">JQR</hi>104, no. 1 (2014): 105–143, esp. 141-142.</bibl>
+                     <bibl>Kennicott, Benjamin, <hi rend="italic">Dissertatio generalis in Vetus Testamentum Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et impressis.</hi> Recudi curavit et notas adiecit Paulus Iacobus Bruns. Brunovici: Orphanotrophei, 1783.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 114.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 114.</bibl>
+                     <bibl>Kupfer, Marcia, "". . . lectres . . . plus vrayes": Hebrew Script and Jewish Witness in the Mandeville Manuscript of Charles V", <hi rend="italic">Speculum</hi> 83 (2008): 58-111, esp. 81.</bibl>
+                     <bibl>Kulik, Alexander, "Jews from Rus’ in Medieval England", <hi rend="italic">JQR</hi> 102, no. 3 (2012): 371-403.</bibl>
+                     <bibl>Kulik, Alexander, "Jews and the Language of Eastern Slavs", <hi rend="italic">JQR</hi> 104, no. 1 (2014): 105–143, esp. 141-142.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -120,11 +120,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -133,7 +133,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -165,7 +165,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2015-09-04">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

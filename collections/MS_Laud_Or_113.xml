@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_339">
    <teiHeader>
       <fileDesc>
@@ -59,12 +59,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0406.jpg bej0407.jpg">No. 2142</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0406.jpg bej0407.jpg">No. 2142</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
                            <ref facs="beo0255.jpg beo0256.jpg">No. 2142</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -124,7 +124,7 @@
                         <author>סעדיה בן יוסף, אלפיומי (מיוחס לו) ‬</author>
                         <title>Sefer Goralot</title>
                         <title xml:lang="he">ספר גורלות</title>
-                        <note>On fol. :<quote xml:lang="he">"גורלות מר’ סעדיה נסו אותם אנשי בבל ואשכנז’ וספרד’"</quote>
+                        <note>On fol. : <quote xml:lang="he">"גורלות מר’ סעדיה נסו אותם אנשי בבל ואשכנז’ וספרד’"</quote>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -202,8 +202,8 @@
                         <title>Liḳuṭim ba-refuʾah</title>
                         <title xml:lang="he">לקוטים ברפואה</title>
                         <note>Among others contains extracts on ear diseases, poisons, bites, wounds and pains.</note>
-                        <note>Extracts from<persName>Galen</persName>,<persName>Bernard de Gordon</persName>, etc.</note>
-                        <note>At the end:<foreign xml:lang="he">"נבחר ונלקט מספר הבחירה אשר יסדה השר ברפואת אנשי זמננו"</foreign>
+                        <note>Extracts from <persName>Galen</persName>, <persName>Bernard de Gordon</persName>, etc.</note>
+                        <note>At the end: <foreign xml:lang="he">"נבחר ונלקט מספר הבחירה אשר יסדה השר ברפואת אנשי זמננו"</foreign>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -214,7 +214,7 @@
                         <title>Anṭidoṭarium (extracts)</title>
                         <title xml:lang="he">אנטידוטריום (לקוטים)</title>
                         <note>Anonym translator.</note>
-                        <note>At the beginning:<foreign xml:lang="he">"קצת ענינים נלקטים מאינטיטוארי בן מאסויא"</foreign>; at the end:<foreign xml:lang="he">"ע"כ מרקוח בן מאסוייא"</foreign>
+                        <note>At the beginning: <foreign xml:lang="he">"קצת ענינים נלקטים מאינטיטוארי בן מאסויא"</foreign>; at the end: <foreign xml:lang="he">"ע"כ מרקוח בן מאסוייא"</foreign>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -251,7 +251,7 @@
                         <locus>ff.248v-250v</locus>
                         <title>Sod ha-Ibur</title>
                         <title xml:lang="he">סוד העבור</title>
-                        <note>On fol. 249v, King Robert is mentioned as alive (died in 1343):<quote xml:lang="he">"מאי’ ארנבט דוילא נובא לאדננו מלך רובירט יע"א"</quote>. Thus the text must have been written not later than 1343</note>
+                        <note>On fol. 249v, King Robert is mentioned as alive (died in 1343): <quote xml:lang="he">"מאי’ ארנבט דוילא נובא לאדננו מלך רובירט יע"א"</quote>. Thus the text must have been written not later than 1343</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item24" n="24">
@@ -359,7 +359,7 @@
                         <locus>ff.399r-405v</locus>
                         <title>Terufot ṿe-segulot</title>
                         <title xml:lang="he">תרופות וסגלות</title>
-                        <colophon>Colophon on fol. 405v: "<foreign xml:lang="he">תם ונשלם ... וידאל [=חיים בן דוד] דיטורנון הכותב יצ"ו"</foreign>
+                        <colophon>Colophon on fol. 405v: " <foreign xml:lang="he">תם ונשלם ... וידאל [=חיים בן דוד] דיטורנון הכותב יצ"ו"</foreign>
                         </colophon>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -367,23 +367,23 @@
                   <physDesc>
                      <objectDesc form="codex">
                         <supportDesc material="chart">
-                           <support>paper<watermark>(watermarks similar to Briquet no. 4362, dated 1523; cf. the groupings by Briquet)</watermark>
+                           <support>paper <watermark>(watermarks similar to Briquet no. 4362, dated 1523; cf. the groupings by Briquet)</watermark>
                            </support>
-                           <extent>ff. 406<dimensions type="leaf" unit="mm">
+                           <extent>ff. 406 <dimensions type="leaf" unit="mm">
                                  <height quantity="196">196</height>
                                  <width quantity="151">151</width>
                               </dimensions>
                            </extent>
-                           <foliation>Foliation with Arabic numerals; earlier foliation with Hebrew characters starting on fol. 21 (=fol. א). until fol. 405 (fol.<foreign>שפה</foreign>)</foliation>
+                           <foliation>Foliation with Arabic numerals; earlier foliation with Hebrew characters starting on fol. 21 (=fol. א). until fol. 405 (fol. <foreign>שפה</foreign>)</foliation>
                            <collation>
-                              <signatures>No signatures</signatures>,<catchwords>catchwords were at the bottom of each verso (many are missing now due to trimming).</catchwords>
+                              <signatures>No signatures</signatures>, <catchwords>catchwords were at the bottom of each verso (many are missing now due to trimming).</catchwords>
                            </collation>
                            <condition>In acceptable condition.</condition>
                         </supportDesc>
                      </objectDesc>
                      <handDesc>
                         <summary>Sephardi semi-cursive script.</summary>
-                        <handNote scope="sole" script="sephardi" rend="semi-cursive">Scribe is<persName>Vidal</persName>Diturnon (di Tournon?) (<foreign xml:lang="he">וידאל [=חיים בן דוד] דיטורנון</foreign>) who was the scribe of Paris BnF hèbr. 133.</handNote>
+                        <handNote scope="sole" script="sephardi" rend="semi-cursive">Scribe is <persName>Vidal</persName> Diturnon (di Tournon?) (<foreign xml:lang="he">וידאל [=חיים בן דוד] דיטורנון</foreign>) who was the scribe of Paris BnF hèbr. 133.</handNote>
                      </handDesc>
                      <decoDesc>
                         <decoNote>Not decorated.</decoNote>
@@ -394,7 +394,7 @@
                         <origPlace>[Provence]</origPlace>
                         <origDate notBefore="1501" notAfter="1600">[16th century]</origDate>
                      </origin>
-                     <provenance>Owner's inscriptions:<foreign xml:lang="he">"יוסף הלוי בכמו"ה דמר(?) יצחק הלוי זלה"ה"</foreign>(<locus>fol. 21r</locus>),<foreign xml:lang="he">"יוסף הלוי בריה דמר יצחק הלוי זלה"ה בזמן הגרוש שהיו קוברים הספרים בקרפינטרץ</foreign>" (<locus>fol. 405v</locus>)</provenance>
+                     <provenance>Owner's inscriptions: <foreign xml:lang="he">"יוסף הלוי בכמו"ה דמר(?) יצחק הלוי זלה"ה"</foreign> (<locus>fol. 21r</locus>), <foreign xml:lang="he">"יוסף הלוי בריה דמר יצחק הלוי זלה"ה בזמן הגרוש שהיו קוברים הספרים בקרפינטרץ</foreign> " (<locus>fol. 405v</locus>)</provenance>
                      <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                   </history>
                </msPart>
@@ -410,7 +410,7 @@
                         <author ref="http://viaf.org/viaf/101087390">Recanati, Menahem ben Benjamin, active 13th century-14th century</author>
                         <author>ריקנטי, מנחם בן בנימין</author>
                         <title>Paragraph from Recanati's commentary on the Torah</title>
-                        <colophon>Colophon on fol. 407r:<foreign xml:lang="he">"על ידי שמואל בונפוש דמרשלייה אשר בא מירושלם בשנת י’צ’י’ץ’ ... תם בשנת ר’א’ה’ אנכי ... ח’ ימים לחדש אלול"</foreign>
+                        <colophon>Colophon on fol. 407r: <foreign xml:lang="he">"על ידי שמואל בונפוש דמרשלייה אשר בא מירושלם בשנת י’צ’י’ץ’ ... תם בשנת ר’א’ה’ אנכי ... ח’ ימים לחדש אלול"</foreign>
                         </colophon>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -423,7 +423,7 @@
                         <locus>f. 408v-416r</locus>
                         <title xml:lang="he">שמושי תהלים</title>
                         <colophon>
-                           <foreign xml:lang="he">"נשלם על ידי שמואל בונפוש דמרשלה איש ירושלים בשנת ה’ד’ו’ר’ בלבושו כ"א לחדש טבת.</foreign>(<locus>fol. 416r</locus>)</colophon>
+                           <foreign xml:lang="he">"נשלם על ידי שמואל בונפוש דמרשלה איש ירושלים בשנת ה’ד’ו’ר’ בלבושו כ"א לחדש טבת.</foreign> (<locus>fol. 416r</locus>)</colophon>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
@@ -431,13 +431,13 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>Paper</support>
-                           <extent>ff. 10<dimensions type="leaf" unit="mm">
+                           <extent>ff. 10 <dimensions type="leaf" unit="mm">
                                  <height quantity="196">196</height>
                                  <width quantity="151">151</width>
                               </dimensions>
                            </extent>
                            <foliation>Foliation with Arabic numerals, conitnuation of Part 1.</foliation>
-                           <collation>1 quire of 10 leaves,,<catchwords>catchwords at the bottom of each verso .</catchwords>
+                           <collation>1 quire of 10 leaves,, <catchwords>catchwords at the bottom of each verso .</catchwords>
                            </collation>
                            <condition>In acceptable condition.</condition>
                         </supportDesc>
@@ -464,11 +464,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -477,7 +477,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -507,7 +507,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2013-12-21">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

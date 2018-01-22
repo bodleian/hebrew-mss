@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_459">
    <teiHeader>
       <fileDesc>
@@ -56,12 +56,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0392.jpg">No. 2080</ref>,<bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0392.jpg">No. 2080</ref>, <bibl>Catalogueof the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
                            <ref facs="beo0249.jpg">No. 2080</ref>), and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -87,22 +87,22 @@
                         <author ref="http://viaf.org/viaf/54152998">Ptolemy, active 2nd century</author>
                         <title>Maʿaśeh keli ha-habaṭah (Treatise on the astrolabe)</title>
                         <title xml:lang="he">מעשה כלי ההבטה</title>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM <date calendar="#AM-abbreviated">259</date> (<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item2" n="2">
                         <locus>fols. 3r-3v</locus>
                         <title>Luḥot</title>
                         <title xml:lang="he">לוחות</title>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM <date calendar="#AM-abbreviated">259</date> (<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item3" n="3">
                         <locus>fols. 4r-13v</locus>
                         <title xml:lang="he">תכונת הכדור</title>
-                        <colophon>Colophon on fol. 13v:<foreign xml:lang="he">"ברוך הנותן ליעף כח והתעצמות פה מנטובא מאייו רנ"ט אני<persName>יהודה פריצול</persName>יבמ"י"</foreign>
+                        <colophon>Colophon on fol. 13v: <foreign xml:lang="he">"ברוך הנותן ליעף כח והתעצמות פה מנטובא מאייו רנ"ט אני <persName>יהודה פריצול</persName> יבמ"י"</foreign>
                         </colophon>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM <date calendar="#AM-abbreviated">259</date> (<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item4" n="4">
@@ -111,7 +111,7 @@
                         <author xml:lang="he">טיטצ’ק, יוסף</author>
                         <title>La-ʿaśot ha-atsṭrolabe</title>
                         <title xml:lang="he">לעשות האצטרולב</title>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM <date calendar="#AM-abbreviated">259</date> (<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item5" n="5">
@@ -120,7 +120,7 @@
                         <author xml:lang="he">יעקב בן מכיר</author>
                         <title>Rovaʿ Yiśraʾel ("Israel's Quadrant", chapter 16)</title>
                         <title xml:lang="he">רובע ישראל (שער טז)</title>
-                        <note>Copied by Yehudah Faritsol in Mantua in AM<date calendar="#AM-abbreviated">259</date>(<date calendar="#Gregorian">1499</date>)</note>
+                        <note>Copied by Yehudah Faritsol in Mantua in AM <date calendar="#AM-abbreviated">259</date> (<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
@@ -128,13 +128,13 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 18<dimensions type="leaf" unit="mm">
+                           <extent>ff. 18 <dimensions type="leaf" unit="mm">
                                  <height quantity="238"/>
                                  <width quantity="170"/>
                               </dimensions>
                            </extent>
                            <foliation>Foliation in Arabic numerals.</foliation>
-                           <collation>1 quire of 18 leaves<signatures>no signature</signatures>,<catchwords>no catchwords</catchwords>
+                           <collation>1 quire of 18 leaves <signatures>no signature</signatures>, <catchwords>no catchwords</catchwords>
                            </collation>
                            <condition>In good condition.</condition>
                         </supportDesc>
@@ -171,7 +171,7 @@
                         <author xml:lang="he">מודינא, יהודה אריה</author>
                         <title>Sefer ben David</title>
                         <title xml:lang="he">ספר בן דוד</title>
-                        <note>Written by<persName>Yehudah Aryeh of Modena</persName>(Leone Modena) for his pupil<persName>Yosef Ḥamits</persName>ha-rofeh.</note>
+                        <note>Written by <persName>Yehudah Aryeh of Modena</persName> (Leone Modena) for his pupil <persName>Yosef Ḥamits</persName> ha-rofeh.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
@@ -179,13 +179,13 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 6 (fols. 19-24)<dimensions type="leaf" unit="mm">
+                           <extent>ff. 6 (fols. 19-24) <dimensions type="leaf" unit="mm">
                                  <height quantity="228"/>
                                  <width quantity="155"/>
                               </dimensions>
                            </extent>
                            <foliation>Foliation in Arabic numerals (continuous foliation).</foliation>
-                           <collation>1 quire of 6 leaves<signatures>no signature</signatures>,<catchwords>catchwords on every verso.</catchwords>
+                           <collation>1 quire of 6 leaves <signatures>no signature</signatures>, <catchwords>catchwords on every verso.</catchwords>
                            </collation>
                            <condition>In good condition.</condition>
                         </supportDesc>
@@ -229,13 +229,13 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 10 (fols. 25-34)<dimensions type="leaf" unit="mm">
+                           <extent>ff. 10 (fols. 25-34) <dimensions type="leaf" unit="mm">
                                  <height quantity="238"/>
                                  <width quantity="170"/>
                               </dimensions>
                            </extent>
                            <foliation>Foliation in Arabic numerals (continuous foliation).</foliation>
-                           <collation>1 quire of 6 leaves<signatures>no signature</signatures>,<catchwords>catchwords on every verso.</catchwords>
+                           <collation>1 quire of 6 leaves <signatures>no signature</signatures>, <catchwords>catchwords on every verso.</catchwords>
                            </collation>
                            <condition>In good condition.</condition>
                         </supportDesc>
@@ -265,11 +265,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -278,7 +278,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -307,7 +307,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-09-18">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

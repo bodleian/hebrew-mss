@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_438">
    <teiHeader>
       <fileDesc>
@@ -59,12 +59,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0266.jpg">No. 1306</ref>,<bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0164.jpg">No. 1306</ref>, and on the data of the<ref target="http://aleph.nli.org.il:80/F/?func=directamp;doc_number=000093032amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
+                           <ref facs="bej0266.jpg">No. 1306</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0164.jpg">No. 1306</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=directamp;doc_number=000093032amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -73,13 +73,13 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf,<hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi>(Oxford, 1886), no. 1306.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1306.</bibl>
                      <bibl>
                         <foreign xml:lang="he">מ’ בניהו, כתבי הקבלה שלרמח"ל (ירושלים, תש"ל), עמק 156-157</foreign>
                      </bibl>
-                     <bibl>Ruderman, David B. “The Receptivity of Jewish Thought to the New Astronomy of the Sixteenth and Seventeenth Centuries: The Case ofAbraham B. Hananiah Yagel", in<hi rend="italic">Jews in Italy. Studies Dedicated to the Memory of Umberto Cassuto</hi>(Jerusalem: Magnes, 1988), 73-93.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds),<hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1306.</bibl>
-                     <bibl>Weinstein, Roni, "The Rise of the Body in Early Modern Jewish Society", in<hi rend="italic">The Jewish Body: Corporeality, Society, and Identity in the Renaissance and Early Modern Period</hi>, ed. Giuseppe Veltri and Maria Diemling (), 46-52.</bibl>
+                     <bibl>Ruderman, David B. “The Receptivity of Jewish Thought to the New Astronomy of the Sixteenth and Seventeenth Centuries: The Case ofAbraham B. Hananiah Yagel", in <hi rend="italic">Jews in Italy. Studies Dedicated to the Memory of Umberto Cassuto</hi> (Jerusalem: Magnes, 1988), 73-93.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1306.</bibl>
+                     <bibl>Weinstein, Roni, "The Rise of the Body in Early Modern Jewish Society", in <hi rend="italic">The Jewish Body: Corporeality, Society, and Identity in the Renaissance and Early Modern Period</hi>, ed. Giuseppe Veltri and Maria Diemling (), 46-52.</bibl>
                   </listBibl>
                </additional>
                <msPart xml:id="MS_Reggio_11-part1" n="1">
@@ -92,7 +92,7 @@
                      <msItem xml:id="MS_Reggio_11-part1-item1" n="1">
                         <locus>fols. 2r-85v</locus>
                         <author ref="http://viaf.org/viaf/15568196">Jagel, Abraham ben Hananiah dei Galicchi, active 16th century-17th centuryיגל, אברהם בן חנניה, 1553-1622</author>
-                        <title>Beʾer Shevaʿ<foreign xml:lang="he">באר שבע</foreign>
+                        <title>Beʾer Shevaʿ <foreign xml:lang="he">באר שבע</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -101,14 +101,14 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 85<dimensions type="leaf" unit="mm">
+                           <extent>ff. 85 <dimensions type="leaf" unit="mm">
                                  <height quantity="296">296</height>
                                  <width quantity="205">205</width>
                               </dimensions>
                            </extent>
-                           <foliation>Foliation in Arabic numerals and from fol. 2 in Hebrew characters (fol. 2=<foreign xml:lang="he">א</foreign>
+                           <foliation>Foliation in Arabic numerals and from fol. 2 in Hebrew characters (fol. 2= <foreign xml:lang="he">א</foreign>
                            </foliation>
-                           <collation>Binding is too tight to see collation.<signatures>No signatures</signatures>,<catchwords>some catchwords.</catchwords>
+                           <collation>Binding is too tight to see collation. <signatures>No signatures</signatures>, <catchwords>some catchwords.</catchwords>
                            </collation>
                            <condition>In good condition.</condition>
                         </supportDesc>
@@ -141,14 +141,14 @@
                      <msItem xml:id="MS_Reggio_11-part2-item1" n="2">
                         <locus>fols. 87r-97r</locus>
                         <author ref="http://viaf.org/viaf/89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
-                        <title>ha-Shamayim ṿeha-ʿolam (On heavens and earth)<foreign xml:lang="he">השמים והעולם</foreign>
+                        <title>ha-Shamayim ṿeha-ʿolam (On heavens and earth) <foreign xml:lang="he">השמים והעולם</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_11-part2-item2" n="3">
                         <locus>fols. 97r-112v</locus>
                         <author ref="http://viaf.org/viaf/59118174">Levi ben Gershom, 1288-1344לוי בן גרשום</author>
-                        <title>Supracommentary on<persName>Averroës</persName>' short commentary on<persName>Aristotle</persName>'s De Generatione et Corruptione<foreign xml:lang="he">פרוש על קצור אבן רשד לספר ההויה וההפסד של אריסטו</foreign>
+                        <title>Supracommentary on <persName>Averroës</persName>' short commentary on <persName>Aristotle</persName>'s De Generatione et Corruptione <foreign xml:lang="he">פרוש על קצור אבן רשד לספר ההויה וההפסד של אריסטו</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -157,13 +157,13 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff.27 (fols. 86-112)<dimensions type="leaf" unit="mm">
+                           <extent>ff.27 (fols. 86-112) <dimensions type="leaf" unit="mm">
                                  <height quantity="267">267</height>
                                  <width quantity="189">189</width>
                               </dimensions>
                            </extent>
                            <foliation>Foliation in Arabic numerals (continuous).</foliation>
-                           <collation>Binding is too tight to see collation.<signatures>No signatures,</signatures>
+                           <collation>Binding is too tight to see collation. <signatures>No signatures,</signatures>
                               <catchwords>catchwords on every verso.</catchwords>
                            </collation>
                            <condition>Fragile, inkburnt paper.</condition>
@@ -198,7 +198,7 @@
                      <msItem xml:id="MS_Reggio_11-part3-item1" n="1">
                         <locus>fols. 113r-142v</locus>
                         <author ref="http://viaf.org/viaf/73875381">Luzzatto, Moshe Ḥayyim, 1707-1747לוצאטו, משה חיים</author>
-                        <title>Milḥamot HaShem le-Ramḥal (The Wars of God)<foreign xml:lang="he">מלחמות השם לרמח"ל</foreign>
+                        <title>Milḥamot HaShem le-Ramḥal (The Wars of God) <foreign xml:lang="he">מלחמות השם לרמח"ל</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -207,7 +207,7 @@
                      <objectDesc form="codex">
                         <supportDesc material="chart">
                            <support>paper</support>
-                           <extent>ff. 30 (fols. 113-142)<dimensions type="leaf" unit="mm">
+                           <extent>ff. 30 (fols. 113-142) <dimensions type="leaf" unit="mm">
                                  <height quantity="309">309</height>
                                  <width quantity="199">199</width>
                               </dimensions>
@@ -240,11 +240,11 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="INDEX">
-               <desc>General index of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
+               <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="Neubauer">
-               <desc>Catalogue section of<bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+               <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
                </desc>
             </taxonomy>
             <taxonomy xml:id="LCSH">
@@ -253,7 +253,7 @@
                </bibl>
             </taxonomy>
             <taxonomy xml:id="IMHM">
-               <desc>Catalogue of the<bibl>
+               <desc>Catalogue of the <bibl>
                      <ref target="http://www.jnul.huji.ac.il/imhm/">Institute of Microfilmed Hebrew Manuscripts, Jewish National and University Library, Jerusalem</ref>
                   </bibl>
                </desc>
@@ -283,7 +283,7 @@
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
          <change when="2014-08-22">
-            <persName>Zsofia Buda</persName>created this file</change>
+            <persName>Zsofia Buda</persName> created this file</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
