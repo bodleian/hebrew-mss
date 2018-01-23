@@ -37,7 +37,7 @@ declare option saxon:output "indent=yes";
             { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 'ms_shelfmark_sort') }
             { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno, 'ms_shelfmark_s') }
             { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno, 'ms_shelfmark_sort') }
-            { bod:many2one(($x//tei:msDesc/tei:msIdentifier/tei:repository, $x//tei:msDesc/tei:msIdentifier/tei:idno), 'title', 'error') }
+            { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno, 'title', 'error') }
             { bod:many2one($x//tei:msDesc/tei:msIdentifier/tei:repository, 'ms_repository_s') }
             { bod:many2many($x//tei:msContents/tei:msItem/tei:author/tei:persName, 'ms_authors_sm') }
             { bod:many2many($x//tei:sourceDesc//tei:name[@type="corporate"]/tei:persName, 'ms_corpnames_sm') }
