@@ -31,7 +31,7 @@ declare option saxon:output "indent=yes";
             <field name="pk">{ $msid }</field>
             <field name="id">{ $msid }</field>
             <field name="filename_sni">{ base-uri($x) }</field>
-            { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:collection, 'ms_collection_s', 'Not specified') }
+            { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:collection, 'ms_collection_s', if ( contains(base-uri($x), 'genizah-mss') ) then 'Genizah' else 'Not specified') }
             { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:institution, 'ms_institution_s', 'Not specified') }
             { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 'ms_shelfmark_s') }
             { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 'ms_shelfmark_sort') }
