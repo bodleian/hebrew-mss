@@ -48,35 +48,35 @@
                   <summary>Mishnah Commentary by Maimonides</summary>
                   <msItem xml:id="MS_Canonici_Or_14-item1" n="1">
                      <locus>ff. 1r-206r</locus>
-                     <author ref="http://viaf.org/viaf/100185495/">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Perush ha-Mishnah le-Rambam (Ḳodashim) <foreign xml:lang="he">פרוש המשנה לרמב"ם (קדשים)</foreign>
                      </title>
-                     <note>Translated from Arabic to Hebrew by <persName>Nathanel Almali</persName>
+                     <note>Translated from Arabic to Hebrew by <persName key="person_153">Nathanel Almali</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_14-item2" n="2">
                      <locus>ff. 213r-249r</locus>
-                     <author ref="http://viaf.org/viaf/100185495/">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Perush ha-Mishnah le-Rambam (Berakhot) <foreign xml:lang="he">פרוש המשנה לרמב"ם (ברכות)</foreign>
                      </title>
-                     <note>Translated from Arabic to Hebrew by <persName>el-Harizi</persName>
+                     <note>Translated from Arabic to Hebrew by <persName key="person_154">el-Harizi</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_14-item3" n="3">
                      <locus>ff. 250r-282r</locus>
-                     <author ref="http://viaf.org/viaf/100185495/">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Perush ha-Mishnah le-Rambam (Nidah) <foreign xml:lang="he">פרוש המשנה לרמב"ם (נדה)</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_14-item4" n="4">
                      <locus>ff. 285-313</locus>
-                     <author ref="http://viaf.org/viaf/100185495/">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Perush ha-Mishnah le-Rambam (Avot) <foreign xml:lang="he">פרוש המשנה לרמב"ם (אבות)</foreign>
                      </title>
-                     <note>Translated from Arabic to Hebrew by <persName>Shmuel ibn Tibbon</persName>
+                     <note>Translated from Arabic to Hebrew by <persName key="person_155">Shmuel ibn Tibbon</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -108,7 +108,7 @@
                      <origDate notBefore="1476" notAfter="1500">[late 15th century]</origDate>
                   </origin>
                   <provenance>Censor's signature: Fra Luigi Da Bologna 1601 (fol. 313v)</provenance>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -164,15 +164,15 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/97166726">Ibn Tibbon, Shmuel, active 12th century-13th century</persName>
+                  <persName ref="http://viaf.org/viaf/97166726" key="person_76">Ibn Tibbon, Shmuel, active 12th century-13th century</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName>Luigi da Bologna</persName>
+                  <persName key="person_44">Luigi da Bologna</persName>
                </term>
             </keywords>
          </textClass>

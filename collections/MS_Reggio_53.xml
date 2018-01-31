@@ -52,7 +52,7 @@
                      <title>
                         <foreign xml:lang="he">אלפי משנה</foreign>
                      </title>
-                     <note>An alphabetical list of proverb occuring in the Talmud, the Midrash Rabah and Tanhuma, and the Zohar. With the commentary of R. <persName>Abraham Marpurgo</persName>
+                     <note>An alphabetical list of proverb occuring in the Talmud, the Midrash Rabah and Tanhuma, and the Zohar. With the commentary of R. <persName key="person_434">Abraham Marpurgo</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -142,7 +142,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
          </textClass>

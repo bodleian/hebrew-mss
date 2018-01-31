@@ -80,7 +80,7 @@
                      <origPlace>Toledo (Spain)</origPlace>
                      <origDate when="1222">1222 (Elul 4982)</origDate>
                   </origin>
-                  <provenance>Ownership notes on fol. 247v: there is an entry at end (obliterated) in which the year <date calendar="#AM">5136</date> (<date calendar="#Gregorian">1376</date>) and the name of a witness <persName>Mosheh ha-Kohen ben Yeshua</persName> are legible; Yitshak חדידה. At the beginning of the MS note (by Kennicott?): "This manuscript was presented to me by the Rev. Mr. Isaac Netto, on the 20th of August, 1770. Mr. Netto bought it, when at Tetuan in Barbary, of a boy carrying it to a box in the synagogue, called נניזה, where all fragments of holy writings are preserved, lest they should chance to be put to improper uses. A short time after I employed Mr. Isaac Luria carefully to compare the said MS. with the best printed edition of the Hebrew Bible, which is supposed to be that printed at Amsterdam in the year 1667. The following are the variations he found; and the observations thereon have been approved by the Rev. Mr. Netto."</provenance>
+                  <provenance>Ownership notes on fol. 247v: there is an entry at end (obliterated) in which the year <date calendar="#AM">5136</date> (<date calendar="#Gregorian">1376</date>) and the name of a witness <persName key="person_375">Mosheh ha-Kohen ben Yeshua</persName> are legible; Yitshak חדידה. At the beginning of the MS note (by Kennicott?): "This manuscript was presented to me by the Rev. Mr. Isaac Netto, on the 20th of August, 1770. Mr. Netto bought it, when at Tetuan in Barbary, of a boy carrying it to a box in the synagogue, called נניזה, where all fragments of holy writings are preserved, lest they should chance to be put to improper uses. A short time after I employed Mr. Isaac Luria carefully to compare the said MS. with the best printed edition of the Hebrew Bible, which is supposed to be that printed at Amsterdam in the year 1667. The following are the variations he found; and the observations thereon have been approved by the Rev. Mr. Netto."</provenance>
                </history>
                <additional>
                   <adminInfo>
@@ -135,16 +135,16 @@
             <keywords scheme="IMHM">
                <list>
                   <item>
-                     <persName>ישראל בן יצחק בן ישראל</persName>
+                     <persName key="person_376">ישראל בן יצחק בן ישראל</persName>
                   </item>
                   <item>
-                     <persName>חדידה, יצחק</persName>
+                     <persName key="person_377">חדידה, יצחק</persName>
                   </item>
                   <item>
-                     <persName>ניטו, יצחק בן דוד</persName>
+                     <persName key="person_378">ניטו, יצחק בן דוד</persName>
                   </item>
                   <item>
-                     <persName>לוריא, יצחק, מלונדון</persName>
+                     <persName key="person_379">לוריא, יצחק, מלונדון</persName>
                   </item>
                   <item>
                      <geogName>טולידו</geogName>

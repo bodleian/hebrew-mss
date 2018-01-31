@@ -48,7 +48,7 @@
                   <summary>Collection of astronomical and astrological texts</summary>
                   <msItem xml:id="MS_Reggio_46-item1" n="1">
                      <locus>ff. 1v-7v</locus>
-                     <author ref="http://viaf.org/viaf/88961846">Ibn Ezra, Abraham ben Meïr, 1089-1164עזרא, אברהם בן מאיר אבן</author>
+                     <author ref="http://viaf.org/viaf/88961846" key="person_497">Ibn Ezra, Abraham ben Meïr, 1089-1164עזרא, אברהם בן מאיר אבן</author>
                      <title>Sefer ha-ibur (The Book of Intercalation)</title>
                      <title>
                         <foreign xml:lang="he">ספר העבור</foreign>
@@ -57,7 +57,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_46-item2" n="2">
                      <locus>ff. 14v-18r</locus>
-                     <author ref="http://viaf.org/viaf/187455576">Ḥadab, Isaac ben Salomonחדב, יצחק בן שלמה (מחבר משוער)</author>
+                     <author ref="http://viaf.org/viaf/187455576" key="person_654">Ḥadab, Isaac ben Salomonחדב, יצחק בן שלמה (מחבר משוער)</author>
                      <title>Mapah asṭrologit</title>
                      <title>
                         <foreign xml:lang="he">מפה אסטרולוגית</foreign>
@@ -66,14 +66,14 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_46-item3" n="3">
                      <locus>ff. 24v-31v</locus>
-                     <author>Ibn al-Ṣaffār, Aḥmad ibn ʿAbd Allâh 09..-1035אלצפאר, אחמד אבן</author>
+                     <author key="person_655">Ibn al-Ṣaffār, Aḥmad ibn ʿAbd Allâh 09..-1035אלצפאר, אחמד אבן</author>
                      <title>Manual on the Astrolabe</title>
                      <title>
                         <foreign xml:lang="he">פרוש האצטרולב</foreign>
                      </title>
-                     <note>Translation by <persName>Jacob ben Machir ibn Tibbon</persName>
+                     <note>Translation by <persName key="person_412">Jacob ben Machir ibn Tibbon</persName>
                      </note>
-                     <note>Marginal comments by <persName>Yitsḥaḳ ibn el Aḥdav</persName> (the scribe?)</note>
+                     <note>Marginal comments by <persName key="person_413">Yitsḥaḳ ibn el Aḥdav</persName> (the scribe?)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -170,19 +170,19 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/79269165">Ibn Tibbon, Jacob ben Machir, approximately 1236-</persName>
+                  <persName ref="http://viaf.org/viaf/79269165" key="person_248">Ibn Tibbon, Jacob ben Machir, approximately 1236-</persName>
                </term>
                <term>Astrolabe</term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">יצחק בן שלמה בן צדיק אלאחדב</persName>
+                  <persName xml:lang="he" key="person_415">יצחק בן שלמה בן צדיק אלאחדב</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אמ’ יצחק ן’ אל אחדב</persName>
+                  <persName xml:lang="he" key="person_416">אמ’ יצחק ן’ אל אחדב</persName>
                </term>
             </keywords>
          </textClass>

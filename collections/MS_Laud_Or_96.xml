@@ -50,8 +50,8 @@
                   </summary>
                   <msItem xml:id="MS_Laud_Or_96-item1" n="1">
                      <locus>fols. 1r-133v</locus>
-                     <author ref="http://viaf.org/viaf/59118174">Levi ben Gershom, 1288-1344</author>
-                     <author>לוי בן גרשם, 1288-1344</author>
+                     <author ref="http://viaf.org/viaf/59118174" key="person_733">Levi ben Gershom, 1288-1344</author>
+                     <author key="person_733">לוי בן גרשם, 1288-1344</author>
                      <title>Perush ketuvim le-Ralbag (Iob)</title>
                      <title xml:lang="he">פרוש כתובים לרלב"ג (איוב)</title>
                      <note>The first and the last three leaves contain a list of different objects sold to various persons. On fol. 129v, begins commentary on Yotser de-Shabat Bereshit. On fol. 130v payments received by a teacher in Elul <date calendar="#AM">5205</date> (<date calendar="#Gregorian">1445</date>). Levi ben Gershom's commentary starts on fol. 7r.</note>
@@ -152,7 +152,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

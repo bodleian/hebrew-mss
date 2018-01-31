@@ -83,7 +83,7 @@
                      <origPlace>[Spain]</origPlace>
                      <origDate notBefore="1401" notAfter="1500">[15th century]</origDate>
                   </origin>
-                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
+                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -139,7 +139,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>
+                  <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName>
                </term>
             </keywords>
          </textClass>

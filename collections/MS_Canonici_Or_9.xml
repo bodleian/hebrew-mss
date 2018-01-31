@@ -56,18 +56,18 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_9-item2" n="2">
                      <locus>ff. 29r-33v</locus>
-                     <author ref="http://viaf.org/viaf/19208002">Alguadez, Meir ben Solomon, active 1390-1410אלגואדיש, מאיר בן</author>
+                     <author ref="http://viaf.org/viaf/19208002" key="person_542">Alguadez, Meir ben Solomon, active 1390-1410אלגואדיש, מאיר בן</author>
                      <title>Introduction to Aristotle's Hebrew translation of Ethics.</title>
                      <note>Fols. 34-35 are blank.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_9-item3" n="3">
                      <locus>ff. 36r-129r</locus>
-                     <author ref="http://viaf.org/viaf/7524651">Aristotleאריסטו</author>
+                     <author ref="http://viaf.org/viaf/7524651" key="person_78">Aristotleאריסטו</author>
                      <title>Aristotle's Hebrew translation of Ethics <foreign xml:lang="he">ספר המדות</foreign>
                      </title>
                      <note>Fols. 34-35 are blank.</note>
-                     <note>Translation by <persName>Meir ben Solomon Alguadez</persName>
+                     <note>Translation by <persName key="person_117">Meir ben Solomon Alguadez</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -104,7 +104,7 @@
                      <origPlace>[Sepharad]</origPlace>
                      <origDate notBefore="1476" notAfter="1500">[late 15th century]</origDate>
                   </origin>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -160,7 +160,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

@@ -47,7 +47,7 @@
                <msContents>
                   <msItem xml:id="MS_Huntington_402-item1" n="1">
                      <locus>ff.</locus>
-                     <author>Eleʿazar ben Eliʿezerאלעזר בן אליעזר</author>
+                     <author key="person_596">Eleʿazar ben Eliʿezerאלעזר בן אליעזר</author>
                      <title>Tafsir al-ashar al kalimāt <foreign xml:lang="he">תפסיר אלעשר אל כלמאת</foreign>
                      </title>
                      <textLang mainLang="ar">Arabic</textLang>
@@ -83,9 +83,9 @@
                      <origPlace>[Palestine or Syria]</origPlace>
                      <origDate notBefore="1465" notAfter="1485">[between 1465 and 1485]</origDate>
                   </origin>
-                  <provenance>Ownership note by <persName>Avraham ben Aharon Ḥushi</persName> on fol. 97v: <foreign xml:lang="he">"אברהם בר אהרן חושי ז"ל"</foreign>
+                  <provenance>Ownership note by <persName key="person_262">Avraham ben Aharon Ḥushi</persName> on fol. 97v: <foreign xml:lang="he">"אברהם בר אהרן חושי ז"ל"</foreign>
                   </provenance>
-                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
+                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -141,12 +141,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>
+                  <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>
+                  <persName key="person_263">
                      <foreign xml:lang="he">אלעדני, סעדיה בן דוד, 1420?-1486 (מעתיק)</foreign>
                   </persName>
                </term>

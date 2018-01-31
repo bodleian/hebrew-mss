@@ -94,7 +94,7 @@
                   </origin>
                   <provenance>On fol. 1v: "this booke was taken at Ormus in the East India and brought home [about 160?] by Captaine Richard Blythe, who gave it to his cosen Josua Downyng, and he gave it to his loving freind [Mr. Thomas] Gataker Parson of Rotherhithe."</provenance>
                   <acquisition>
-                     <persName ref="http://viaf.org/viaf/68983048">Thomas Gataker</persName>, parson of Rotherhithe gave the volume to the Bodleian Library in 1620 or 1621 (see <hi rend="italic">Summary Catalogue</hi>).</acquisition>
+                     <persName ref="http://viaf.org/viaf/68983048" key="person_333">Thomas Gataker</persName>, parson of Rotherhithe gave the volume to the Bodleian Library in 1620 or 1621 (see <hi rend="italic">Summary Catalogue</hi>).</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -151,12 +151,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/68983048">Gataker, Thomas, 1574-1654</persName>
+                  <persName ref="http://viaf.org/viaf/68983048" key="person_334">Gataker, Thomas, 1574-1654</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>
+                  <persName key="person_101">
                      <foreign xml:lang="he">פסח בן אפרים</foreign>
                   </persName>
                </term>

@@ -48,7 +48,7 @@
                   <summary>Perush ha-Tefilot</summary>
                   <msItem xml:id="MS_Laud_Or_271-item1" n="1">
                      <locus>ff. 1-193</locus>
-                     <author>Aharon ben Ḥayyim ben Ḥananel ha-Kohenאהרן בן חיים בן חננאל, הכהן ‬</author>
+                     <author key="person_504">Aharon ben Ḥayyim ben Ḥananel ha-Kohenאהרן בן חיים בן חננאל, הכהן ‬</author>
                      <title>Perush ha-Tefilot <foreign xml:lang="he">פרוש התפלות</foreign>
                      </title>
                      <note>The earliest Ashkenazi codex to be written in a semi-cursive script (M. Beit-Arie).</note>
@@ -156,15 +156,15 @@
             </keywords>
             <keywords scheme="#LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName xml:lang="he">אהרן ב"ר חיים הכהן</persName>
+                  <persName xml:lang="he" key="person_39">אהרן ב"ר חיים הכהן</persName>
                </term>
                <term>
-                  <persName xml:lang="he">דוד ב"ר מנחם</persName>
+                  <persName xml:lang="he" key="person_40">דוד ב"ר מנחם</persName>
                </term>
             </keywords>
          </textClass>

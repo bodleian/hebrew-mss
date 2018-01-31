@@ -134,22 +134,22 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>
+                  <persName key="person_245">
                      <foreign xml:lang="he">כלבריסה, מרדכי בן אליעזר (בעלים)</foreign>
                   </persName>
                </term>
                <term>
-                  <persName>
+                  <persName key="person_246">
                      <foreign xml:lang="he">יעקב רפאל מאוריטי בן אברהם (בעלים)</foreign>
                   </persName>
                </term>
                <term>
-                  <persName>
+                  <persName key="person_247">
                      <foreign xml:lang="he">שלמה בן דניאל מאולנוף (בעלים)</foreign>
                   </persName>
                </term>

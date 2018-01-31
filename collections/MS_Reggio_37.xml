@@ -48,12 +48,12 @@
                   <summary>Apiryon ʿaśah lo (part 2)</summary>
                   <msItem xml:id="MS_Reggio_37-item1" n="1">
                      <locus>ff. 1r-194r</locus>
-                     <author ref="http://viaf.org/viaf/100391085">Shelomoh ben Yedidyah Aharon, ha-Ṭroḳi, approximately 1670-1745טרוקי, ידידיה שלמה בן אהרן</author>
+                     <author ref="http://viaf.org/viaf/100391085" key="person_694">Shelomoh ben Yedidyah Aharon, ha-Ṭroḳi, approximately 1670-1745טרוקי, ידידיה שלמה בן אהרן</author>
                      <title>Apiryon ʿaśah lo (part 2)</title>
                      <title>
                         <foreign xml:lang="he">אפריון עשה לו (חלק שני)</foreign>
                      </title>
-                     <note>Begins with a poem and a small preface of the copyist (fols. 1r-2v): he is called <persName>Yehoshua Yosef ben Mosheh</persName> (fol. 2v); he started to write it on 8 Tamuz <date calendar="#AM-abbreviated">590</date> (<date calendar="#Gregorian">1830</date>) (fol. 1v); it was written for <persName>Shemuel Leyb Goldberg</persName> (fol. 1r)</note>
+                     <note>Begins with a poem and a small preface of the copyist (fols. 1r-2v): he is called <persName key="person_465">Yehoshua Yosef ben Mosheh</persName> (fol. 2v); he started to write it on 8 Tamuz <date calendar="#AM-abbreviated">590</date> (<date calendar="#Gregorian">1830</date>) (fol. 1v); it was written for <persName key="person_466">Shemuel Leyb Goldberg</persName> (fol. 1r)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -148,15 +148,15 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">גולדנברג, שמואל ליב (בעלים)</persName>
+                  <persName xml:lang="he" key="person_467">גולדנברג, שמואל ליב (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">יהושע יוסף בן משה (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_468">יהושע יוסף בן משה (מעתיק)</persName>
                </term>
             </keywords>
          </textClass>

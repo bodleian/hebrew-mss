@@ -48,7 +48,7 @@
                   <summary>Commentary on the Pentateuch by Menahem Recanati</summary>
                   <msItem xml:id="MS_Canonici_Or_85-item1" n="1">
                      <locus>ff. 1r-199r</locus>
-                     <author ref="http://viaf.org/viaf/101087390">Recanati, Menahem ben Benjamin, active 13th century-14th centuryרקנטי, מנחם בן בנימין‬</author>
+                     <author ref="http://viaf.org/viaf/101087390" key="person_528">Recanati, Menahem ben Benjamin, active 13th century-14th centuryרקנטי, מנחם בן בנימין‬</author>
                      <title>Commentary on the Pentateuch</title>
                      <title>
                         <foreign xml:lang="he">פרוש התורה לרקנטי</foreign>
@@ -144,18 +144,18 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">וולטה, מנחם בן יצחק</persName>
+                  <persName xml:lang="he" key="person_71">וולטה, מנחם בן יצחק</persName>
                </term>
                <term>
-                  <persName>Dominico Irosolimitano</persName>
+                  <persName key="person_72">Dominico Irosolimitano</persName>
                </term>
                <term>
-                  <persName>Giovanni Domenico Carretto</persName>
+                  <persName key="person_73">Giovanni Domenico Carretto</persName>
                </term>
             </keywords>
          </textClass>

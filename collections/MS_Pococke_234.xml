@@ -48,7 +48,7 @@
                   <summary>Guide for the Perplexed by Maimonides</summary>
                   <msItem xml:id="MS_Pococke_234-item1" n="1">
                      <locus>ff. 2v-6r</locus>
-                     <author ref="http://viaf.org/viaf/100186412">Ibn Gabirol, active 11th centuryאבן גבירול, שלמה בן יהודה</author>
+                     <author ref="http://viaf.org/viaf/100186412" key="person_515">Ibn Gabirol, active 11th centuryאבן גבירול, שלמה בן יהודה</author>
                      <title>
                         <foreign xml:lang="he">כתר מלכות לרשב"ג</foreign>
                      </title>
@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Pococke_234-item2" n="2">
                      <locus>ff. 6v-240v</locus>
-                     <author ref="http://viaf.org/viaf/100185495/">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Dalalat al-hairin (Guide for the Perplexed) <foreign xml:lang="he">דלאלה אלחאירין</foreign>
                      </title>
                      <note>Fols. 6v-10r: index of the biblical verses cited in the book.</note>
@@ -137,13 +137,13 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">אפרים, הרופא (בעלים)</persName>
+                  <persName xml:lang="he" key="person_55">אפרים, הרופא (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">סעדיה בן אפרים הרופא (בעלים)</persName>
+                  <persName xml:lang="he" key="person_56">סעדיה בן אפרים הרופא (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">חריזי, יהודה בן שלמה, 1170-1235 (מוזכר)</persName>
+                  <persName xml:lang="he" key="person_57">חריזי, יהודה בן שלמה, 1170-1235 (מוזכר)</persName>
                </term>
                <term>
                   <persName xml:lang="he"/>

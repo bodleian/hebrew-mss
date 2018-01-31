@@ -48,7 +48,7 @@
                   <summary>Collection of cabbalistic texts</summary>
                   <msItem xml:id="MS_Canonici_Or_5-item1" n="1">
                      <locus>ff. 1r-75v</locus>
-                     <author>Segal, Yaʿaḳov ben Ḳalonymosסגל, יעקב בן קלונימוס</author>
+                     <author key="person_659">Segal, Yaʿaḳov ben Ḳalonymosסגל, יעקב בן קלונימוס</author>
                      <title>Naḥalat Yaʿaḳov <foreign xml:lang="he">נחלת יעקב</foreign>
                      </title>
                      <note>Kabbalistical miscellanea</note>
@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item2" n="2">
                      <locus>ff. 76r-91v</locus>
-                     <author>Segal, Yaʿaḳov ben Ḳalonymosסגל, יעקב בן קלונימוס</author>
+                     <author key="person_659">Segal, Yaʿaḳov ben Ḳalonymosסגל, יעקב בן קלונימוס</author>
                      <title>Magen le-holkhe Tom ṿe-yosher <foreign xml:lang="he">מגן להולכי תום ויושר</foreign>
                      </title>
                      <note>A chapter on the defence of the truth of the Zohar</note>
@@ -66,7 +66,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item3" n="3">
                      <locus>ff. 92r-269r</locus>
-                     <author ref="http://viaf.org/viaf/12317536">Cordovero, Moses ben Jacob, 1522-1570קורדוברו, משה</author>
+                     <author ref="http://viaf.org/viaf/12317536" key="person_660">Cordovero, Moses ben Jacob, 1522-1570קורדוברו, משה</author>
                      <title>ʾOr yaḳar <foreign xml:lang="he">אור יקר (פרוש סבא דמשפטים)</foreign>
                      </title>
                      <note>Commentary on passages of the Zohar.</note>
@@ -74,7 +74,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item4" n="4">
                      <locus>ff. 270r-273v</locus>
-                     <author ref="http://viaf.org/viaf/12317536">Cordovero, Moses ben Jacob, 1522-1570קורדוברו, משה</author>
+                     <author ref="http://viaf.org/viaf/12317536" key="person_660">Cordovero, Moses ben Jacob, 1522-1570קורדוברו, משה</author>
                      <title>Shemonah be-inyan ha-gilgul <foreign xml:lang="he">שמועה בענין הגלגול</foreign>
                      </title>
                      <colophon>
@@ -83,7 +83,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item5" n="5">
                      <locus>ff. 283r-311r</locus>
-                     <author ref="http://viaf.org/viaf/51941634">Najara, Israel ben Moses, 1555?-1625?נג'רה, ישראל בן משה</author>
+                     <author ref="http://viaf.org/viaf/51941634" key="person_661">Najara, Israel ben Moses, 1555?-1625?נג'רה, ישראל בן משה</author>
                      <title>Kanfe Yonah (ḥeleḳ 1, 1-40) <foreign xml:lang="he">כנפי יונה (חלק א, א-מ)</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -118,7 +118,7 @@
                      <origPlace>Venice (Italy)</origPlace>
                      <origDate when="1636">1636</origDate>
                   </origin>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -173,7 +173,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

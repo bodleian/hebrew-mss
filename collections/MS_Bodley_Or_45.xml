@@ -48,7 +48,7 @@
                   <summary>Ahavah ba-Taʿanugim by Mosheh ben Yehudah</summary>
                   <msItem xml:id="MS_Bodley_Or_45-item1" n="1">
                      <locus>ff. 1r-387r</locus>
-                     <author ref="http://viaf.org/viaf/11774063">Mosheh ben Yehudah, active 1353-1356משה בן יהודה נגה</author>
+                     <author ref="http://viaf.org/viaf/11774063" key="person_617">Mosheh ben Yehudah, active 1353-1356משה בן יהודה נגה</author>
                      <title>Ahavah ba-Taʿanugim <foreign xml:lang="he">אהבה בתענוגים</foreign>
                      </title>
                      <colophon>Colophon on fol. 387r (beginning is lost due to damaged leaf): <foreign xml:lang="he">" ... יעקב בן שענון ס"ט נר"ו וכתבתיו להיקר ... ר’ נחמיאש ישצ"ו ... והיתה השלמתו שנים עשר יום לחדש ניסן המכובד"</foreign>
@@ -143,10 +143,10 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">שענון, יעקב בן מסעוד (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_304">שענון, יעקב בן מסעוד (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">נחמיאש, יעקב (בעלים)</persName>
+                  <persName xml:lang="he" key="person_305">נחמיאש, יעקב (בעלים)</persName>
                </term>
             </keywords>
          </textClass>

@@ -52,8 +52,8 @@
                      <title>
                         <foreign xml:lang="he">תנ"ך</foreign>
                      </title>
-                     <note>According to the colophon, it was written for <persName>Binjamin ben Shmuel</persName>.</note>
-                     <colophon>Colophon of the scribe <persName>Yeḳutiel ben Shlomoh</persName> on fol. : <foreign xml:lang="he">"כתבתי אני יקותיאל ... בכר’ שלמה זצ"ל לכבוד מורי ... בנימן ... בכ"ר שמואל ... פה בעיר ארימנו היושבת על שפת הים ועל נהרי אוויסא ומריקייא"</foreign>; followed by Italian translation of the colophon in Latin characters.</colophon>
+                     <note>According to the colophon, it was written for <persName key="person_270">Binjamin ben Shmuel</persName>.</note>
+                     <colophon>Colophon of the scribe <persName key="person_271">Yeḳutiel ben Shlomoh</persName> on fol. : <foreign xml:lang="he">"כתבתי אני יקותיאל ... בכר’ שלמה זצ"ל לכבוד מורי ... בנימן ... בכ"ר שמואל ... פה בעיר ארימנו היושבת על שפת הים ועל נהרי אוויסא ומריקייא"</foreign>; followed by Italian translation of the colophon in Latin characters.</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -135,22 +135,22 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>
+                  <persName key="person_272">
                      <foreign xml:lang="he">יקותיאל בן שלמה (מעתיק) ‬</foreign>
                   </persName>
                </term>
                <term>
-                  <persName>
+                  <persName key="person_273">
                      <foreign xml:lang="he">בנימין בן שמואל (בעלים)</foreign>
                   </persName>
                </term>
                <term>
-                  <placeName>Rimini (Italy)</placeName>
+                  <placeName key="place_15">Rimini (Italy)</placeName>
                </term>
             </keywords>
          </textClass>

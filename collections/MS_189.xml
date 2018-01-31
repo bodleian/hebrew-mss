@@ -47,11 +47,11 @@
                   <summary>Moses Ibn Tibbon's Hebrew translation of Abu Bakr Muḥammad al-Ḥaṣṣar's treatise on arithmetic</summary>
                   <msItem xml:id="MS_189-item1" n="1">
                      <locus>Ff. 1r-34r</locus>
-                     <author>al-Ḥaṣṣar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbasal-Ḥatsar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbasאבו בכר מחמד בן עבד אללה בן עבאס בן אלחצאר</author>
+                     <author key="person_647">al-Ḥaṣṣar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbasal-Ḥatsar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbasאבו בכר מחמד בן עבד אללה בן עבאס בן אלחצאר</author>
                      <editor role="translator">
-                        <persName type="standard" key="n 92022426" ref="http://viaf.org/viaf/64172358">Ibn Tibon, Mosheh, active 13th century</persName>
+                        <persName type="standard" ref="http://viaf.org/viaf/64172358" key="person_178">Ibn Tibon, Mosheh, active 13th century</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt"/>
-                        <persName xml:lang="he">משה אבן תבון</persName>
+                        <persName xml:lang="he" key="person_406">משה אבן תבון</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">Sefer ha-ḥeshbon le-al Ḥatsar</title>
@@ -109,7 +109,7 @@
                      <origPlace>[Provence]</origPlace>
                      <origDate when="1476">1476</origDate>
                   </origin>
-                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in <date calendar="#Gregorian" when="1683">1683</date> by <persName key="n 80013211" ref="http://viaf.org/viaf/73863567">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
+                  <acquisition>Probably belongs to 13 Hebrew manuscripts that were donated to the library in <date calendar="#Gregorian" when="1683">1683</date> by <persName ref="http://viaf.org/viaf/73863567" key="person_84">John Fell</persName>, Dean of Christ Church and Bishop of Oxford. (See the Christ Church Library Donors Book, p. 194.)</acquisition>
                </history>
                <additional>
                   <adminInfo>

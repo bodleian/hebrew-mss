@@ -204,7 +204,7 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part7-item1" n="7">
                         <locus>ff. 273r-278r</locus>
-                        <author>Yeshayah ben Yosef ha-Yaṿaniישעיה בן יוסף היוני</author>
+                        <author key="person_689">Yeshayah ben Yosef ha-Yaṿaniישעיה בן יוסף היוני</author>
                         <title>Ets Ḥayim <foreign xml:lang="he">עץ חיים</foreign>
                         </title>
                         <note>Philosophico-cabbalistical treatise on the ten Sefirot, on the planets, and on the Ten Commandments. Was written for R. Eliyah ha-Leṿi ben R. Ḥananel ha-Dayan.</note>
@@ -215,7 +215,7 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_220-part7-item2" n="8">
                         <locus>ff. 278r-285v</locus>
-                        <author>Naḥmanides, approximately 1195-approximately 1270משה בן נחמן</author>
+                        <author key="person_493">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן</author>
                         <title>Shaʿare ha-Tsedeḳ = Igeret ha-ḳodesh <foreign xml:lang="he">שערי הצדק = אגדת הקודש</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -231,7 +231,7 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part8-item1" n="8">
                         <locus>ff. 288r-298r</locus>
-                        <author>Yosef ben Shlomoh Ṭiṭtsiḳ (Riṭ)יוסף בן שלמה טיטצק</author>
+                        <author key="person_690">Yosef ben Shlomoh Ṭiṭtsiḳ (Riṭ)יוסף בן שלמה טיטצק</author>
                         <title>Perush Tehilim <foreign xml:lang="he">פירוש תהילים להרי"ט</foreign>
                         </title>
                         <note>Commentary on Psalms 1-20.</note>
@@ -317,12 +317,12 @@
             <keywords scheme="LCSH">
                <term ref="http://viaf.org/viaf/4502276">Koriel, Israel di, 1502?-1571?</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName xml:lang="he">קוריאל, ישראל די</persName>
+                  <persName xml:lang="he" key="person_451">קוריאל, ישראל די</persName>
                </term>
             </keywords>
          </textClass>

@@ -80,7 +80,7 @@
                   <msContents>
                      <msItem xml:id="MS_Pococke_181-part1-item1" n="1">
                         <locus>ff. 1r-34v</locus>
-                        <author ref="http://lccn.loc.gov/n83043340">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or 1053-1127בטליוסי, אבו מחמד עבדאללה בן מחמד</author>
+                        <author ref="http://lccn.loc.gov/n83043340" key="person_618">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or 1053-1127בטליוסי, אבו מחמד עבדאללה בן מחמד</author>
                         <title>Kitab al-Hadaiq <foreign xml:lang="he">כתאב אלחאדאיק</foreign>
                         </title>
                         <colophon>Colophon in on fol. 34v: <foreign xml:lang="he">"ואסתכתבה סעדיה אלאסראילי ולד אלחכים אליה אלמתטבב"</foreign>.</colophon>
@@ -127,7 +127,7 @@
                   <msContents>
                      <msItem xml:id="MS_Pococke_181-part2-item1" n="3">
                         <locus>ff. 54r-61v</locus>
-                        <author ref="http://viaf.org/viaf/89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
+                        <author ref="http://viaf.org/viaf/89770781" key="person_572">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
                         <title>
                            <foreign xml:lang="he">רסאלה פי אקסאם לעלוס</foreign>
                         </title>
@@ -168,7 +168,7 @@
                   <msContents>
                      <msItem xml:id="MS_Pococke_181-part3-item1" n="4">
                         <locus>ff. 62v-154r</locus>
-                        <author ref="http://viaf.org/viaf/89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
+                        <author ref="http://viaf.org/viaf/89770781" key="person_572">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
                         <title>al-Ḥikmah al-mashriqīyah <foreign xml:lang="he">אלחכמה אלמשרקיה</foreign>
                         </title>
                         <note>See also <ref target="http://www.fihrist.org.uk/profile/manuscript/9bd74961-da49-48a5-9fbf-49522f13dc3b">Fihrist catalogue.</ref>
@@ -232,25 +232,25 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">סעדיה בן אליהו הרופא (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_380">סעדיה בן אליהו הרופא (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אברהם בן יוסף (בעלים)</persName>
+                  <persName xml:lang="he" key="person_381">אברהם בן יוסף (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">חזן, דוד (בעלים)</persName>
+                  <persName xml:lang="he" key="person_382">חזן, דוד (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">יחיא, יוסף בן שמואל (בעלים)</persName>
+                  <persName xml:lang="he" key="person_383">יחיא, יוסף בן שמואל (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">יחיא, שמואל בן חננאל (בעלים)</persName>
+                  <persName xml:lang="he" key="person_384">יחיא, שמואל בן חננאל (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">יעקב בן יצחק הלוי ירושלמי (בעלים)</persName>
+                  <persName xml:lang="he" key="person_385">יעקב בן יצחק הלוי ירושלמי (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">רומן, יעקב בן יצחק אבן בקודה (בעלים)</persName>
+                  <persName xml:lang="he" key="person_386">רומן, יעקב בן יצחק אבן בקודה (בעלים)</persName>
                </term>
                <term>
                   <persName xml:lang="he"/>

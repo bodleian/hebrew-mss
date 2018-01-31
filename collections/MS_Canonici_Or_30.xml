@@ -48,7 +48,7 @@
                   <summary>Sefer Mitsṿot Ḳaṭan</summary>
                   <msItem xml:id="MS_Canonici_Or_30-item1" n="1">
                      <locus>ff. 1r-204v</locus>
-                     <author ref="http://viaf.org/viaf/4009920">Isaac ben Joseph, of Corbeil, active 13th centuryיצחק בן יוסף, מקורביל</author>
+                     <author ref="http://viaf.org/viaf/4009920" key="person_523">Isaac ben Joseph, of Corbeil, active 13th centuryיצחק בן יוסף, מקורביל</author>
                      <title>Sefer Mitsṿot Ḳaṭan (The Small Book of Commandments) <foreign xml:lang="he">ספר מצוות קטן</foreign>
                      </title>
                      <note>With the annotation of Rabbi Perets and a few more other glosses.</note>
@@ -92,8 +92,8 @@
                      <origPlace>[Italy?]</origPlace>
                      <origDate notBefore="1376" notAfter="1400">[late 14th century]</origDate>
                   </origin>
-                  <provenance>Ownership inscription by <persName>Shimshon Cohen Modon</persName> on fol. 1r: <foreign xml:lang="he">"להחכם כ"ץ מודון" [=שמשון כהן מודון]</foreign>; censor's signature: Domenico Isrosolomito 1599 (fol. 204v)</provenance>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <provenance>Ownership inscription by <persName key="person_67">Shimshon Cohen Modon</persName> on fol. 1r: <foreign xml:lang="he">"להחכם כ"ץ מודון" [=שמשון כהן מודון]</foreign>; censor's signature: Domenico Isrosolomito 1599 (fol. 204v)</provenance>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -149,12 +149,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">מודנה, אברהם (בעלים)</persName>
+                  <persName xml:lang="he" key="person_68">מודנה, אברהם (בעלים)</persName>
                </term>
             </keywords>
          </textClass>

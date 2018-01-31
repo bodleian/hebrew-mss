@@ -48,7 +48,7 @@
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Pococke_213-item1" n="1">
                      <locus>ff. 6r-127v</locus>
-                     <author ref="http://viaf.org/viaf/100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
+                     <author ref="http://viaf.org/viaf/100213323" key="person_485">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
                      <title>Commentary on the Psalms <foreign xml:lang="he">פרוש כתובים לרד"ק (תהלים)</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -61,28 +61,28 @@
                   </msItem>
                   <msItem xml:id="MS_Pococke_213-item3" n="3">
                      <locus>ff. 132r-153v</locus>
-                     <author ref="http://viaf.org/viaf/90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164אבן עזרא, אברהם בן מאיר</author>
+                     <author ref="http://viaf.org/viaf/90633023" key="person_497">Ibn Ezra, Abraham ben Meïr, 1089-1164אבן עזרא, אברהם בן מאיר</author>
                      <title>Commentary on Eccesiastes <foreign xml:lang="he">פרוש כתובים לראב"ע (קהלת)</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Pococke_213-item4" n="4">
                      <locus>ff. 153v-157v</locus>
-                     <author>Yiśraʾel ben Shmuel ha-Maʿaraviישראל בן שמואל המערבי</author>
+                     <author key="person_517">Yiśraʾel ben Shmuel ha-Maʿaraviישראל בן שמואל המערבי</author>
                      <title>Hilkhot sheḥitah <foreign xml:lang="he">הלכות שחיטה</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Pococke_213-item5" n="5">
                      <locus>ff. 157v-171v</locus>
-                     <author ref="http://viaf.org/viaf/95246510">Baṣīr, Joseph ben Abraham, ha-Kohen ha-Ro'eh al-, active 11th centuryיוסף אלבציר</author>
+                     <author ref="http://viaf.org/viaf/95246510" key="person_518">Baṣīr, Joseph ben Abraham, ha-Kohen ha-Ro'eh al-, active 11th centuryיוסף אלבציר</author>
                      <title>Maḥkhimat peti <foreign xml:lang="he">מחכימת פתי</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Pococke_213-item6" n="6">
                      <locus>ff. 172r-209r</locus>
-                     <author ref="http://viaf.org/viaf/49113312">Aaron ben Elijah, 1328?-1369אהרן בן אליה מניקומדיה</author>
+                     <author ref="http://viaf.org/viaf/49113312" key="person_519">Aaron ben Elijah, 1328?-1369אהרן בן אליה מניקומדיה</author>
                      <title>Gan Eden (Hilkhot sheḥitah) <foreign xml:lang="he">גן עדן (הלכות שחיטה)</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>

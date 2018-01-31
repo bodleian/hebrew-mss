@@ -90,7 +90,7 @@
                      <origPlace>[Morocco?]</origPlace>
                      <origDate notBefore="1301" notAfter="1400">[14th century]</origDate>
                   </origin>
-                  <acquisition>Presented by dr. <persName>John Lloyd</persName> in 1602, but the identification is not certain (see <hi rend="italic">Summary Catalogue</hi>).</acquisition>
+                  <acquisition>Presented by dr. <persName key="person_209">John Lloyd</persName> in 1602, but the identification is not certain (see <hi rend="italic">Summary Catalogue</hi>).</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -147,15 +147,15 @@
             <keywords scheme="LCSH">
                <term>Yom Kippur</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/34512366">Bodley, Thomas, Sir, 1545-1613</persName>
+                  <persName ref="http://viaf.org/viaf/34512366" key="person_54">Bodley, Thomas, Sir, 1545-1613</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">אלצאיג, שמואל בן יום טוב אבן</persName>
+                  <persName xml:lang="he" key="person_210">אלצאיג, שמואל בן יום טוב אבן</persName>
                </term>
                <term>
-                  <persName xml:lang="he">נחמיאש, יצחק</persName>
+                  <persName xml:lang="he" key="person_211">נחמיאש, יצחק</persName>
                </term>
             </keywords>
          </textClass>

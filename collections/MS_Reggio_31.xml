@@ -47,7 +47,7 @@
                <msContents>
                   <msItem xml:id="MS_Reggio_31-item1" n="1">
                      <locus>ff. 1r-120r</locus>
-                     <author ref="http://viaf.org/viaf/73875381">Luzzatto, Moshe Ḥayyim, 1707-1747לוצאטו, משה חיים, 1707-1747</author>
+                     <author ref="http://viaf.org/viaf/73875381" key="person_650">Luzzatto, Moshe Ḥayyim, 1707-1747לוצאטו, משה חיים, 1707-1747</author>
                      <title>Tiḳunim ḥadashim</title>
                      <title>
                         <foreign xml:lang="he">תקונים חדשים</foreign>
@@ -100,7 +100,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Italian semi-cursive script (fols. 2r-120(ii)r. Fols. 121 and 123r-124r in a more cursive script in <persName>Jacob Shalom</persName>'s handwriting and fol. 123 in Luzzatto's own hand in cursive script, 1734.</summary>
+                     <summary>Italian semi-cursive script (fols. 2r-120(ii)r. Fols. 121 and 123r-124r in a more cursive script in <persName key="person_289">Jacob Shalom</persName>'s handwriting and fol. 123 in Luzzatto's own hand in cursive script, 1734.</summary>
                      <handNote scope="sole" script="italian" rend="semi-cursive"/>
                   </handDesc>
                   <decoDesc>
@@ -172,7 +172,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
          </textClass>

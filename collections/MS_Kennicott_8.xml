@@ -50,7 +50,7 @@
                      <locus>ff.1r-179v</locus>
                      <title type="desc">Books of Psalms, Job and Proverbs.</title>
                      <note>At the end a list of the 150 psalms (fols. 175r-179v).</note>
-                     <colophon>Colophon written and punctuated by <persName>Mosheh ben Matityahu</persName> for <persName>Mosheh ben Daniel</persName> of <placeName>Macerata</placeName> on fol. 174: "אני משה יזי"י בכמ"ר מתתיה ישר"ו כתבתי ונקדתי זה תלים איוב משלי ונשלם היום יום ה’ ... מייו קס"ד ... וכתבתיו לאחי יפת הגדול כמ"ר משה יזי"י בכמ"ר דניאל מב"ע ממצירטא".</colophon>
+                     <colophon>Colophon written and punctuated by <persName key="person_339">Mosheh ben Matityahu</persName> for <persName key="person_340">Mosheh ben Daniel</persName> of <placeName key="place_31">Macerata</placeName> on fol. 174: "אני משה יזי"י בכמ"ר מתתיה ישר"ו כתבתי ונקדתי זה תלים איוב משלי ונשלם היום יום ה’ ... מייו קס"ד ... וכתבתיו לאחי יפת הגדול כמ"ר משה יזי"י בכמ"ר דניאל מב"ע ממצירטא".</colophon>
                      <textLang mainLang="he"/>
                   </msItem>
                </msContents>
@@ -130,31 +130,31 @@
                <term>
                   <ref target="http://lccn.loc.gov/n80008481"/> Bible. Hagiographa</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/12343831">Kennicott, Benjamin, 1718-1783</persName>
+                  <persName ref="http://viaf.org/viaf/12343831" key="person_106">Kennicott, Benjamin, 1718-1783</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <list>
                   <item>
-                     <persName>משה בן מתתיה</persName>
+                     <persName key="person_341">משה בן מתתיה</persName>
                   </item>
                   <item>
-                     <persName>משה בן דניאל ממצירטה</persName>
+                     <persName key="person_342">משה בן דניאל ממצירטה</persName>
                   </item>
                   <item>
-                     <persName>קרמי, משה</persName>
+                     <persName key="person_343">קרמי, משה</persName>
                   </item>
                   <item>
-                     <persName>קרמי, חנמאל</persName>
+                     <persName key="person_344">קרמי, חנמאל</persName>
                   </item>
                   <item>
-                     <persName>מנדס דה קושטא, עמנואל</persName>
+                     <persName key="person_345">מנדס דה קושטא, עמנואל</persName>
                   </item>
                   <item>
-                     <persName>שמואל בן מרדכי</persName>
+                     <persName key="person_346">שמואל בן מרדכי</persName>
                   </item>
                   <item>
-                     <persName>שלמה בן יהודה, איש ירושלים</persName>
+                     <persName key="person_347">שלמה בן יהודה, איש ירושלים</persName>
                   </item>
                   <item>
                      <geogName>מצירטה</geogName>

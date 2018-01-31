@@ -146,7 +146,7 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>
+                  <persName key="person_101">
                      <foreign xml:lang="he">פסח בן אפרים</foreign>
                   </persName>
                </term>

@@ -143,24 +143,24 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <placeName>Ṣanʻāʼ (Yemen)</placeName>
+                  <placeName key="place_1">Ṣanʻāʼ (Yemen)</placeName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">יוסף בן בניה בן סעדיה בן זכריה (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_22">יוסף בן בניה בן סעדיה בן זכריה (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">סעדיה בן ישועה (בעלים)</persName>
+                  <persName xml:lang="he" key="person_23">סעדיה בן ישועה (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אלגמל, גיאת בן דוד (בעלים)</persName>
+                  <persName xml:lang="he" key="person_24">אלגמל, גיאת בן דוד (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">יוסף בן אברהם (בעלים)</persName>
+                  <persName xml:lang="he" key="person_25">יוסף בן אברהם (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אלחממי, יחיא בן דוד (בעלים)</persName>
+                  <persName xml:lang="he" key="person_26">אלחממי, יחיא בן דוד (בעלים)</persName>
                </term>
             </keywords>
          </textClass>

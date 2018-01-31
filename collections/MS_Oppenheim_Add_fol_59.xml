@@ -47,7 +47,7 @@
                <msContents>
                   <msItem xml:id="MS_Oppenheim_Add_fol_59-item1" n="1">
                      <locus>ff. 1r-223v</locus>
-                     <author ref="http://viaf.org/viaf/23727001">Daṿid ben Yeshaʻ, active 15th century-16th centuryדוד בן ישע</author>
+                     <author ref="http://viaf.org/viaf/23727001" key="person_629">Daṿid ben Yeshaʻ, active 15th century-16th centuryדוד בן ישע</author>
                      <title>al-Wajiz al- Mughni</title>
                      <title>
                         <foreign xml:lang="jrb">אלוגיז אלמג’ני</foreign>
@@ -137,18 +137,18 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/95159227">Saʻadia ben Joseph, 882-942</persName>
+                  <persName ref="http://viaf.org/viaf/95159227" key="person_350">Saʻadia ben Joseph, 882-942</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">שלמה בן יצחק (רש"י), 1040-1105</persName>
+                  <persName xml:lang="he" key="person_116">שלמה בן יצחק (רש"י), 1040-1105</persName>
                </term>
                <term>
-                  <persName xml:lang="he">סעדיה בן יוסף, אלפיומי, 882-942</persName>
+                  <persName xml:lang="he" key="person_350">סעדיה בן יוסף, אלפיומי, 882-942</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אפרים הלוי בן דוד הלוי בן עודד הלוי בן ישע הלוי בן דוד הלוי</persName>
+                  <persName xml:lang="he" key="person_353">אפרים הלוי בן דוד הלוי בן עודד הלוי בן ישע הלוי בן דוד הלוי</persName>
                </term>
             </keywords>
          </textClass>

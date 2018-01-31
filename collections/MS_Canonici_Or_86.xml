@@ -137,39 +137,39 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">שלמה (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_141">שלמה (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">יצחק (מעתיק) ‬</persName>
+                  <persName xml:lang="he" key="person_142">יצחק (מעתיק) ‬</persName>
                </term>
                <term>
-                  <persName xml:lang="he">יוסף (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_143">יוסף (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">משה, פרנס, מרוטנבורג</persName>
+                  <persName xml:lang="he" key="person_144">משה, פרנס, מרוטנבורג</persName>
                </term>
                <term>
-                  <persName xml:lang="he">מנחם, המכירי</persName>
+                  <persName xml:lang="he" key="person_145">מנחם, המכירי</persName>
                </term>
                <term>
-                  <persName xml:lang="he">שמואל בן אשר</persName>
+                  <persName xml:lang="he" key="person_146">שמואל בן אשר</persName>
                </term>
                <term>
-                  <persName xml:lang="he">יוסף בן נתן, חזן מטירנא</persName>
+                  <persName xml:lang="he" key="person_147">יוסף בן נתן, חזן מטירנא</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אלעזר בן יהודה, מגרמיזה, 1176?-1238</persName>
+                  <persName xml:lang="he" key="person_148">אלעזר בן יהודה, מגרמיזה, 1176?-1238</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אשר, הלוי הנאה</persName>
+                  <persName xml:lang="he" key="person_149">אשר, הלוי הנאה</persName>
                </term>
                <term>
-                  <persName xml:lang="he">שמואל בן ברוך מבמברג</persName>
+                  <persName xml:lang="he" key="person_150">שמואל בן ברוך מבמברג</persName>
                </term>
             </keywords>
          </textClass>

@@ -48,11 +48,11 @@
                   <summary>Commentary on Isaiah by David Kimhi</summary>
                   <msItem xml:id="MS_Canonici_Or_53-item1" n="1">
                      <locus>ff. 1r-121r</locus>
-                     <author ref="http://viaf.org/viaf/100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
+                     <author ref="http://viaf.org/viaf/100213323" key="person_485">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
                      <title>Commentary on Isaiah <foreign xml:lang="he">פרוש נביאים לרד"ק (ישעיה)</foreign>
                      </title>
-                     <note>Written by <persName>Yiśraʾel Ashkenazi ben ʿAzaryah ben Mosheh</persName>, finished on Tuesday 22 Heshṿan <date calendar="#AM">5211</date> (<date calendar="#Gregorian">1450</date>). Yiśraʾel sold it to <persName>Shlomoh ben Yitsḥaḳ Naḥum</persName> in <date calendar="#AM">5237</date> (<date calendar="#Gregorian">1477</date>). Later it belonged to <persName>Eliahu Naḥum</persName>, the son of the latter.</note>
-                     <note>Purchase note is localised in <placeName>Chios</placeName> (<foreign xml:lang="he">כיאו</foreign>).</note>
+                     <note>Written by <persName key="person_125">Yiśraʾel Ashkenazi ben ʿAzaryah ben Mosheh</persName>, finished on Tuesday 22 Heshṿan <date calendar="#AM">5211</date> (<date calendar="#Gregorian">1450</date>). Yiśraʾel sold it to <persName key="person_126">Shlomoh ben Yitsḥaḳ Naḥum</persName> in <date calendar="#AM">5237</date> (<date calendar="#Gregorian">1477</date>). Later it belonged to <persName key="person_127">Eliahu Naḥum</persName>, the son of the latter.</note>
+                     <note>Purchase note is localised in <placeName key="place_8">Chios</placeName> (<foreign xml:lang="he">כיאו</foreign>).</note>
                      <colophon>Colophon on fol. 121r: <foreign xml:lang="he">"נשלם פי’ ישעיה הנביא לרבי’ דוד קמחי ז"ל עם הגירסא על ידי ... ישראל אשכנזי בכה"ר עזריא אשכנזי יצ"ו בכה"ר משה אשכנזי תʹנʹצʹבʹהʹ יום גʹ כ"ב לירח חשון שנת ה’רי"א"</foreign>.</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -91,7 +91,7 @@
                      <origDate when="1450">1450</origDate>
                   </origin>
                   <provenance>Ownership inscription on fol. 1r: <foreign xml:lang="he">"אליאו נחום במאו"ר ... שלמה"</foreign>; purchase note written by the scribe: <foreign xml:lang="he">"אלול הרל"ז בכיאו" "אני ישראל בכ"ר עזריא אשכנזי ספר מתא מקהלת כיאו מכרתי הספר הזה לכמ’ שלמה בכ"ר יצחק נחום יצ"ו"</foreign> (fol. 121v).</provenance>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -147,18 +147,18 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">אשכנזי, ישראל בן עזריה (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_128">אשכנזי, ישראל בן עזריה (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">נחום, שלמה בן יצחק (בעלים)</persName>
+                  <persName xml:lang="he" key="person_129">נחום, שלמה בן יצחק (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">‫ נחום, אליהו בן שלמה (בעלים)</persName>
+                  <persName xml:lang="he" key="person_130">‫ נחום, אליהו בן שלמה (בעלים)</persName>
                </term>
                <term>
                   <persName xml:lang="he"/>

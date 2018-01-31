@@ -48,7 +48,7 @@
                   <summary>Sefer ha-Parnas by Mosheh Parnas</summary>
                   <msItem xml:id="MS_Bodley_Or_146-item1" n="1">
                      <locus>ff. 1r-68v</locus>
-                     <author>Parnas, Moshehמשה, פרנס, מרוטנבורג</author>
+                     <author key="person_686">Parnas, Moshehמשה, פרנס, מרוטנבורג</author>
                      <title>Sefer ha-Parnas <foreign xml:lang="he">ספר הפרנס</foreign>
                      </title>
                      <note>212 ritual decisions by Meir of Rothenburg collected by one of his pupils.</note>
@@ -147,10 +147,10 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">שלמה בן אליהו (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_446">שלמה בן אליהו (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">משה בן יסעדיה הכהן (בעלים)</persName>
+                  <persName xml:lang="he" key="person_447">משה בן יסעדיה הכהן (בעלים)</persName>
                </term>
             </keywords>
          </textClass>

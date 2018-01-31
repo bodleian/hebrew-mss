@@ -49,7 +49,7 @@
                   <msItem xml:id="MS_Reggio_6-item1" n="1">
                      <title>Sefer Yesod Olam</title>
                      <title xml:lang="he">ספר יסוד עולם</title>
-                     <author>Yitsḥaḳ ben Yosef, active 13th-14th centuryישראלי, יצחק בן יוסף</author>
+                     <author key="person_656">Yitsḥaḳ ben Yosef, active 13th-14th centuryישראלי, יצחק בן יוסף</author>
                      <note>Beginning and end wanting; lacunae. The chronological chapter (iv.18 of the edition) is to be found in the MS. at the end of iii. There are marginal notes added headed נ"א.</note>
                      <listBibl>
                         <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 2045.</bibl>

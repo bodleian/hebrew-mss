@@ -48,26 +48,26 @@
                   <summary>Aaron ben Joseph's commentaries on the Bible</summary>
                   <msItem xml:id="MS_Reggio_4-item1" n="1">
                      <locus>ff. 1r-221v</locus>
-                     <author ref="http://viaf.org/viaf/48229099">Aaron ben Joseph, ha-Levi, approximately 1235-אהרן בן יוסף הקראי</author>
+                     <author ref="http://viaf.org/viaf/48229099" key="person_532">Aaron ben Joseph, ha-Levi, approximately 1235-אהרן בן יוסף הקראי</author>
                      <title>Sefer ha-Mivḥar</title>
                      <title>
                         <foreign xml:lang="he">ספר המבחר</foreign>
                      </title>
-                     <note>With commentaries mostly by <persName>Mordekhai ben Nisan ha-ḳaṭan ha-Ṭurḳi</persName> (<foreign xml:lang="he">"מרדכי בע"ס מאמר מרדכי במאו’ כמוהר"ר ניסן הקטן הטרוקי"</foreign>
+                     <note>With commentaries mostly by <persName key="person_92">Mordekhai ben Nisan ha-ḳaṭan ha-Ṭurḳi</persName> (<foreign xml:lang="he">"מרדכי בע"ס מאמר מרדכי במאו’ כמוהר"ר ניסן הקטן הטרוקי"</foreign>
                      </note>
-                     <note>The scribe was <persName>Yeshuʿah Yosef ben Mosheh ha-Melamed</persName>.</note>
+                     <note>The scribe was <persName key="person_93">Yeshuʿah Yosef ben Mosheh ha-Melamed</persName>.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_4-item2" n="2">
                      <locus>ff. 223r-265v</locus>
-                     <author ref="http://viaf.org/viaf/48229099">Aaron ben Joseph, ha-Levi, approximately 1235-אהרן בן יוסף הקראי</author>
+                     <author ref="http://viaf.org/viaf/48229099" key="person_532">Aaron ben Joseph, ha-Levi, approximately 1235-אהרן בן יוסף הקראי</author>
                      <title>Commentaries on the Former Prophets</title>
                      <title>
                         <foreign xml:lang="he">פרוש נביאים ראשונים</foreign>
                      </title>
                      <note>With commentaries mostly by Mordekhai ben Nisan ha-ḳaṭan ha-Ṭurḳi (<foreign xml:lang="he">"מרדכי בע"ס מאמר מרדכי במאו’ כמוהר"ר ניסן הקטן הטרוקי"</foreign>
                      </note>
-                     <colophon>Colophon of the scribe <persName>Yeshuʿah Yosef ben Mosheh ha-Melamed</persName> dated AM [5]586 on fol. <foreign xml:lang="he">"פה בקה"ק קוקיזוב סמוך לעיר לבוב, ותהי השלמת כתיבתי ... י"ז לר"ח מנחם בשנת תקפ"ו לפ"ק, הקט’ ישועה יוסף בלא"א ... משה המלמד"</foreign>
+                     <colophon>Colophon of the scribe <persName key="person_93">Yeshuʿah Yosef ben Mosheh ha-Melamed</persName> dated AM [5]586 on fol. <foreign xml:lang="he">"פה בקה"ק קוקיזוב סמוך לעיר לבוב, ותהי השלמת כתיבתי ... י"ז לר"ח מנחם בשנת תקפ"ו לפ"ק, הקט’ ישועה יוסף בלא"א ... משה המלמד"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -163,12 +163,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">ישועה יוסף בן משה</persName>
+                  <persName xml:lang="he" key="person_94">ישועה יוסף בן משה</persName>
                </term>
             </keywords>
          </textClass>

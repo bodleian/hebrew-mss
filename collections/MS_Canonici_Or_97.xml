@@ -48,7 +48,7 @@
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Canonici_Or_97-item1" n="1">
                      <locus>ff. 2r-54r</locus>
-                     <author>Rieti, Moses ben Isaac da, 1388-1460?ריאיטי, משה בן יצחק</author>
+                     <author key="person_512">Rieti, Moses ben Isaac da, 1388-1460?ריאיטי, משה בן יצחק</author>
                      <title>Miḳdash meʿaṭ</title>
                      <title>
                         <foreign xml:lang="he">מקדש מעט</foreign>
@@ -58,7 +58,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item2" n="2">
                      <locus>ff. 55v-59r</locus>
-                     <author>Rieti, Moses ben Isaac da, 1388-1460?ריאיטי, משה בן יצחק</author>
+                     <author key="person_512">Rieti, Moses ben Isaac da, 1388-1460?ריאיטי, משה בן יצחק</author>
                      <title>Igeret yaʿar ha-Levanon</title>
                      <title>
                         <foreign xml:lang="he">אגרת יער הלבנון</foreign>
@@ -67,7 +67,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item3" n="3">
                      <locus>ff. 59v-60v</locus>
-                     <author>Rieti, Moses ben Isaac da, 1388-1460?ריאיטי, משה בן יצחק</author>
+                     <author key="person_512">Rieti, Moses ben Isaac da, 1388-1460?ריאיטי, משה בן יצחק</author>
                      <title>Ḳinah</title>
                      <title>
                         <foreign xml:lang="he">קינה</foreign>
@@ -100,7 +100,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item7" n="7">
                      <locus>ff. 67r-68v</locus>
-                     <author>Pontsibontsi, Shlomoh ben Eliyahפונציבונצי, שלמה בן אליה</author>
+                     <author key="person_577">Pontsibontsi, Shlomoh ben Eliyahפונציבונצי, שלמה בן אליה</author>
                      <title>Commentary on the Pentateuch (Genesis)</title>
                      <title>
                         <foreign xml:lang="he">פרוש התורה (בראשית)</foreign>
@@ -206,21 +206,21 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">יקותיאל בן שלמה, הרופא, מנרבונא</persName>
+                  <persName xml:lang="he" key="person_218">יקותיאל בן שלמה, הרופא, מנרבונא</persName>
                </term>
                <term>
-                  <persName xml:lang="he">ברוך בן שלמה כהן</persName>
+                  <persName xml:lang="he" key="person_219">ברוך בן שלמה כהן</persName>
                </term>
                <term>
-                  <persName xml:lang="he">שושן, נסים</persName>
+                  <persName xml:lang="he" key="person_220">שושן, נסים</persName>
                </term>
                <term>
-                  <persName xml:lang="he">חנין, נחמן בן שבתי</persName>
+                  <persName xml:lang="he" key="person_221">חנין, נחמן בן שבתי</persName>
                </term>
             </keywords>
          </textClass>

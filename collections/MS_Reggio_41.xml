@@ -48,7 +48,7 @@
                   <summary>Commentary on the More Nevukhim</summary>
                   <msItem xml:id="MS_Reggio_41-item1" n="1">
                      <locus>ff. 1r-240r</locus>
-                     <author ref="http://viaf.org/viaf/97760497">Leon, Messer David ben Judah, approximately 1470-1526?דוד בן יהודה, מסר לאון</author>
+                     <author ref="http://viaf.org/viaf/97760497" key="person_620">Leon, Messer David ben Judah, approximately 1470-1526?דוד בן יהודה, מסר לאון</author>
                      <title>ʿEyn ha-ḳore</title>
                      <title>
                         <foreign xml:lang="he">עין הקורא</foreign>
@@ -147,7 +147,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
          </textClass>

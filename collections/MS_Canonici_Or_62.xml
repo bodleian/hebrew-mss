@@ -49,10 +49,10 @@
                   <msItem xml:id="MS_Canonici_Or_62-item1" n="1">
                      <locus>ff. 1r-274v</locus>
                      <title>Hebrew Bible</title>
-                     <note>Commentaries: Rashi's commentary on the Pentateuch, Ibn Ezra's commentary on Esther, Song of Songs with the commentary of <persName>Abraham ben Isaac ha-Levi Tamakh</persName>,(-1393), Ruth with the commentary of Rashi and Ibn Ezra, Lamentations with the commentary of Ibn Ezra, Ecclesiastes with the commentary of Ibn Ezra (only at the beginning)</note>
-                     <note>The Pentateuch was finished on Sunday the <date calendar="#AM">22nd of Tammuz 5232</date> = <date calendar="#Gregorian">1472</date> by <persName>Brakhiel ben Hizkiyah Raphael Tarbut</persName>
-                        <persName xml:lang="he">ברכיאל בר’ חזקיה רפאל טרבוט</persName> for <name type="unknown">Abraham Rava</name>
-                        <persName xml:lang="he">אברהם רבא</persName>
+                     <note>Commentaries: Rashi's commentary on the Pentateuch, Ibn Ezra's commentary on Esther, Song of Songs with the commentary of <persName key="person_426">Abraham ben Isaac ha-Levi Tamakh</persName>,(-1393), Ruth with the commentary of Rashi and Ibn Ezra, Lamentations with the commentary of Ibn Ezra, Ecclesiastes with the commentary of Ibn Ezra (only at the beginning)</note>
+                     <note>The Pentateuch was finished on Sunday the <date calendar="#AM">22nd of Tammuz 5232</date> = <date calendar="#Gregorian">1472</date> by <persName key="person_427">Brakhiel ben Hizkiyah Raphael Tarbut</persName>
+                        <persName xml:lang="he" key="person_428">ברכיאל בר’ חזקיה רפאל טרבוט</persName> for <name type="unknown">Abraham Rava</name>
+                        <persName xml:lang="he" key="person_429">אברהם רבא</persName>
                      </note>
                      <note>Latin note on fol. 190r, Latin notes on front flyleaf verso about content.</note>
                      <colophon>"אני הסופר ברכיאל בר’ חזקיה רפאל טרבוט סיימתי זה החמש לאברהם רבא היום יום א’ כב תמוז רל"ב" (f.190r)</colophon>
@@ -95,7 +95,7 @@
                   <origin>
                      <geogName>[Northern Italy]</geogName>, <origDate when="1472">1472</origDate>
                   </origin>
-                  <provenance>Censor's note <persName>Camillo Jaghel</persName> 1619(?) (fol. 274v) <date calendar="#Gregorian">1619</date>.</provenance>
+                  <provenance>Censor's note <persName key="person_58 person_43">Camillo Jaghel</persName> 1619(?) (fol. 274v) <date calendar="#Gregorian">1619</date>.</provenance>
                </history>
                <additional>
                   <adminInfo>
@@ -156,10 +156,10 @@
                <term>Pentateuch</term>
                <term>Five Scrolls</term>
                <term>
-                  <persName type="scribe">Brakhiel ben Hizkiyah Raphael טרבוט</persName>
+                  <persName type="scribe" key="person_430">Brakhiel ben Hizkiyah Raphael טרבוט</persName>
                </term>
                <term>
-                  <persName type="patron">Abraham רבא</persName>
+                  <persName type="patron" key="person_431">Abraham רבא</persName>
                </term>
             </keywords>
             <keywords scheme="LCSH">

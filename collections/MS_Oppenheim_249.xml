@@ -52,7 +52,7 @@
                      <title>
                         <foreign xml:lang="he">תלמוד בבלי סדר נזיקין (בבא בתרא ט-עט)</foreign>
                      </title>
-                     <note>With the commentary of <persName ref="http://viaf.org/viaf/19684048">Rashi</persName> until the middle of chapter 3, rest is an anonymous commentary.</note>
+                     <note>With the commentary of <persName ref="http://viaf.org/viaf/19684048" key="person_62">Rashi</persName> until the middle of chapter 3, rest is an anonymous commentary.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -150,7 +150,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/7753200">Oppenheim, David ben Abraham, 1664-1736</persName>
+                  <persName ref="http://viaf.org/viaf/7753200" key="person_63">Oppenheim, David ben Abraham, 1664-1736</persName>
                </term>
             </keywords>
          </textClass>

@@ -146,15 +146,15 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">יצחק בן אפרים הכהן בן אלשונה ‬</persName>
+                  <persName xml:lang="he" key="person_302">יצחק בן אפרים הכהן בן אלשונה ‬</persName>
                </term>
                <term>
-                  <persName xml:lang="he">מוסקטו, שבתי</persName>
+                  <persName xml:lang="he" key="person_303">מוסקטו, שבתי</persName>
                </term>
             </keywords>
          </textClass>

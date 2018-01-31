@@ -48,7 +48,7 @@
                   <summary>138 pitḥe ḥokhmah By Moshe Ḥayyim Luzzatto</summary>
                   <msItem xml:id="MS_Reggio_30-item1" n="1">
                      <locus>ff. 2r-150r</locus>
-                     <author ref="http://viaf.org/viaf/73875381">Luzzatto, Moshe Ḥayyim, 1707-1747לוצאטו, משה חיים</author>
+                     <author ref="http://viaf.org/viaf/73875381" key="person_650">Luzzatto, Moshe Ḥayyim, 1707-1747לוצאטו, משה חיים</author>
                      <title>138 pitḥe ḥokhmah <foreign xml:lang="he">קל"ח פתחי חכמה</foreign>
                      </title>
                      <note>An introduction to the Kabbalah consisting 138 paragraphs, with commentary</note>
@@ -144,7 +144,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
          </textClass>

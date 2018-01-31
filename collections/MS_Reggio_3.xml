@@ -48,13 +48,13 @@
                   <summary>Asher ben Yehiel's works</summary>
                   <msItem xml:id="MS_Reggio_3-item1" n="1">
                      <locus>ff. 1r-246r</locus>
-                     <author ref="http://viaf.org/viaf/30339950">Asher ben Jehiel, approximately 1250-1327(אשר בן יחיאל)</author>
+                     <author ref="http://viaf.org/viaf/30339950" key="person_642">Asher ben Jehiel, approximately 1250-1327(אשר בן יחיאל)</author>
                      <title>Ashre</title>
                      <title>
                         <foreign xml:lang="he">אשרי</foreign>
                      </title>
-                     <note>Decisions on Berakhot, Avodah Zarah, Hulin, Berkhorot and the small treatises with glosses (by <persName>Israel of Kremz</persName> and others).</note>
-                     <note>Written for <persName>Manoaḥ ben Avraham</persName>.</note>
+                     <note>Decisions on Berakhot, Avodah Zarah, Hulin, Berkhorot and the small treatises with glosses (by <persName key="person_392">Israel of Kremz</persName> and others).</note>
+                     <note>Written for <persName key="person_393">Manoaḥ ben Avraham</persName>.</note>
                      <colophon>
                         <foreign xml:lang="he">"סיימתי ספר הלכות להנה"ר מנוח בר’ אברהם ז"ל"</foreign>
                      </colophon>
@@ -139,15 +139,15 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">ישראל, מקרמז</persName>
+                  <persName xml:lang="he" key="person_394">ישראל, מקרמז</persName>
                </term>
                <term>
-                  <persName xml:lang="he">מנוח בן אברהם</persName>
+                  <persName xml:lang="he" key="person_395">מנוח בן אברהם</persName>
                </term>
             </keywords>
          </textClass>

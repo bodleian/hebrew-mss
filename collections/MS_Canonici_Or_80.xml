@@ -48,7 +48,7 @@
                   <summary>Sefer ha-Shorashim</summary>
                   <msItem xml:id="MS_Canonici_Or_80-item1" n="1">
                      <locus>ff. 1r-248r</locus>
-                     <author ref="http://viaf.org/viaf/100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
+                     <author ref="http://viaf.org/viaf/100213323" key="person_485">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
                      <title>Sefer ha-Shorashim</title>
                      <title>
                         <foreign xml:lang="he">ספר השרשים</foreign>
@@ -141,7 +141,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

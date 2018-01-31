@@ -48,10 +48,10 @@
                   <summary>Sefer ha-Mitsṿot by Leṿi ben Yafet</summary>
                   <msItem xml:id="MS_Reggio_5-item1" n="1">
                      <locus>ff. 1r-186v</locus>
-                     <author ref="http://viaf.org/viaf/61220050">Levi ben Japhet, active 10th centuryלוי בן יפת, הלוי</author>
+                     <author ref="http://viaf.org/viaf/61220050" key="person_648">Levi ben Japhet, active 10th centuryלוי בן יפת, הלוי</author>
                      <title>Sefer ha-Mitsṿot le-Leṿi ben Yafet <foreign xml:lang="he">ספר המצוות ללוי בן יפת</foreign>
                      </title>
-                     <note>On fol. 109b and at the end notes by <persName>Moritz Steinschneider</persName> on the order of the leaves.</note>
+                     <note>On fol. 109b and at the end notes by <persName key="person_407">Moritz Steinschneider</persName> on the order of the leaves.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -150,10 +150,10 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/22242243">Steinschneider, Moritz, 1816-1907</persName>
+                  <persName ref="http://viaf.org/viaf/22242243" key="person_408">Steinschneider, Moritz, 1816-1907</persName>
                </term>
             </keywords>
          </textClass>

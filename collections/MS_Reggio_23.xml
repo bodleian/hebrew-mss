@@ -48,7 +48,7 @@
                   <summary>Extracts from philosophical and kabbalistic works and novellae</summary>
                   <msItem xml:id="MS_Reggio_23-item1" n="1">
                      <locus>ff. 1r-201v</locus>
-                     <author ref="http://viaf.org/viaf/24763579">Allemanno, Johanan ben Isaac, approximately 1435-approximately 1504אלמנו, יוחנן בן יצחק</author>
+                     <author ref="http://viaf.org/viaf/24763579" key="person_489">Allemanno, Johanan ben Isaac, approximately 1435-approximately 1504אלמנו, יוחנן בן יצחק</author>
                      <title>Extracts from various philosohpical and kabbalistic works and various novellae <foreign xml:lang="he">לקוטים בקבלה ובפילוסופיה וחדושים שונים</foreign>
                      </title>
                      <note>Autograph</note>
@@ -150,7 +150,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
          </textClass>

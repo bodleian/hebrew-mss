@@ -119,14 +119,14 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName>Rashi</persName>, <date calendar="#Gregorian">1040-1105</date>
+                  <persName key="person_62">Rashi</persName>, <date calendar="#Gregorian">1040-1105</date>
                </term>
                <term>
-                  <persName>Levi ben Gershom,</persName>
+                  <persName key="person_733">Levi ben Gershom,</persName>
                   <date calendar="#Gregorian">1288-1344</date>
                </term>
                <term>
-                  <persName>Kimhi, David</persName>, <date calendar="#Gregorian">approximately 1160-approximately 1235</date>
+                  <persName key="person_236">Kimhi, David</persName>, <date calendar="#Gregorian">approximately 1160-approximately 1235</date>
                </term>
                <term>
                   <geogName>Segovia (Spain)</geogName>
@@ -135,23 +135,23 @@
                   <ref target="http://lccn.loc.gov/n80008482">Bible. Former Prophets</ref>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/12343831">Kennicott, Benjamin, 1718-1783</persName>
+                  <persName ref="http://viaf.org/viaf/12343831" key="person_106">Kennicott, Benjamin, 1718-1783</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName>אלאביט, אברהם</persName>
+                  <persName key="person_237">אלאביט, אברהם</persName>
                </term>
                <term>
-                  <persName>לוי בן גרשם, 1288-1344</persName>
+                  <persName key="person_733">לוי בן גרשם, 1288-1344</persName>
                </term>
                <term>קמחי, דוד בן יוסף, 1160-1235 ‬</term>
                <term>שלמה בן יצחק (רש"י), 1040-1105</term>
                <term>
-                  <persName>יצחק כהן</persName>
+                  <persName key="person_239">יצחק כהן</persName>
                </term>
                <term>
-                  <persName>סידון, עלאל בן ישועה</persName>
+                  <persName key="person_240">סידון, עלאל בן ישועה</persName>
                </term>
                <term>
                   <geogName>שיגוביה</geogName>

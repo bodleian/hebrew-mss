@@ -143,17 +143,17 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>
+                  <persName key="person_417">
                      <foreign xml:lang="he">ענו, משה בן שמואל (מעתיק)</foreign>
                   </persName>
                </term>
                <term>
-                  <persName>
+                  <persName key="person_418">
                      <foreign xml:lang="he">פונטרימולי, עזריה אפרים (בעלים)</foreign>
                   </persName>
                </term>

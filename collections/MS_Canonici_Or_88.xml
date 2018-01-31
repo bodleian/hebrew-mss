@@ -48,7 +48,7 @@
                   <summary>Hebrew translation of Avicenna's Canon</summary>
                   <msItem xml:id="MS_Canonici_Or_88-item1" n="1">
                      <locus>ff. 1r-436r</locus>
-                     <author ref="http://viaf.org/viaf/89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה, 980-1037</author>
+                     <author ref="http://viaf.org/viaf/89770781" key="person_572">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה, 980-1037</author>
                      <title>Canon (Books 1-5)</title>
                      <title>
                         <foreign xml:lang="he">קאנון (ספר א’-ה’) ‬</foreign>
@@ -136,17 +136,17 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>
+                  <persName key="person_151">
                      <foreign xml:lang="he">לורקי, יוסף בן יהושע</foreign>
                   </persName>
                </term>
                <term>
-                  <persName>
+                  <persName key="person_152">
                      <foreign xml:lang="he">נתן, המאתי</foreign>
                   </persName>
                </term>

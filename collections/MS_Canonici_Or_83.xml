@@ -48,7 +48,7 @@
                   <summary>Miscellany of rabbinic texts</summary>
                   <msItem xml:id="MS_Canonici_Or_83-item1" n="1">
                      <locus>ff. 1r-18v</locus>
-                     <author>Yaʿaḳov ben Shimshonיעקב בן שמשון</author>
+                     <author key="person_663">Yaʿaḳov ben Shimshonיעקב בן שמשון</author>
                      <title>Commentary on the Mishnah (Tractate Avot)</title>
                      <title>
                         <foreign xml:lang="he">פרוש המשנה (אבות) ‬</foreign>
@@ -57,7 +57,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_83-item2" n="2">
                      <locus>ff. 19r-42v</locus>
-                     <author ref="http://viaf.org/viaf/8698827">Samson ben Zadok, -1312שמשון בן צדוק</author>
+                     <author ref="http://viaf.org/viaf/8698827" key="person_664">Samson ben Zadok, -1312שמשון בן צדוק</author>
                      <title>Tashbets</title>
                      <title>
                         <foreign xml:lang="he">תשב"ץ</foreign>
@@ -66,7 +66,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_83-item3" n="3">
                      <locus>ff. 43r-48r</locus>
-                     <author>Eliezer (13th-14th century)אליעזר (מאה י"ג-י"ד)</author>
+                     <author key="person_665">Eliezer (13th-14th century)אליעזר (מאה י"ג-י"ד)</author>
                      <title>Liḳuṭe dinim</title>
                      <title>
                         <foreign xml:lang="he">לקוטי דינים</foreign>
@@ -161,7 +161,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

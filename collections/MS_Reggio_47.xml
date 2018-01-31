@@ -84,7 +84,7 @@
                      <summary>Miscellaneous texts</summary>
                      <msItem xml:id="MS_Reggio_47-part1-item1" n="1">
                         <locus>fols. 1v-2v</locus>
-                        <author ref="http://viaf.org/viaf/54152998">Ptolemy, active 2nd century</author>
+                        <author ref="http://viaf.org/viaf/54152998" key="person_546">Ptolemy, active 2nd century</author>
                         <title>Maʿaśeh keli ha-habaṭah (Treatise on the astrolabe)</title>
                         <title xml:lang="he">מעשה כלי ההבטה</title>
                         <note>Copied by Yehudah Faritsol in Mantua in AM <date calendar="#AM-abbreviated">259</date> (<date calendar="#Gregorian">1499</date>)</note>
@@ -100,15 +100,15 @@
                      <msItem xml:id="MS_Reggio_47-part1-item3" n="3">
                         <locus>fols. 4r-13v</locus>
                         <title xml:lang="he">תכונת הכדור</title>
-                        <colophon>Colophon on fol. 13v: <foreign xml:lang="he">"ברוך הנותן ליעף כח והתעצמות פה מנטובא מאייו רנ"ט אני <persName>יהודה פריצול</persName> יבמ"י"</foreign>
+                        <colophon>Colophon on fol. 13v: <foreign xml:lang="he">"ברוך הנותן ליעף כח והתעצמות פה מנטובא מאייו רנ"ט אני <persName key="person_132">יהודה פריצול</persName> יבמ"י"</foreign>
                         </colophon>
                         <note>Copied by Yehudah Faritsol in Mantua in AM <date calendar="#AM-abbreviated">259</date> (<date calendar="#Gregorian">1499</date>)</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item4" n="4">
                         <locus>fols. 14v-17r</locus>
-                        <author>Josef Ṭaṭtsiḳ</author>
-                        <author xml:lang="he">טיטצ’ק, יוסף</author>
+                        <author key="person_547">Josef Ṭaṭtsiḳ</author>
+                        <author xml:lang="he" key="person_548">טיטצ’ק, יוסף</author>
                         <title>La-ʿaśot ha-atsṭrolabe</title>
                         <title xml:lang="he">לעשות האצטרולב</title>
                         <note>Copied by Yehudah Faritsol in Mantua in AM <date calendar="#AM-abbreviated">259</date> (<date calendar="#Gregorian">1499</date>)</note>
@@ -116,8 +116,8 @@
                      </msItem>
                      <msItem xml:id="MS_Reggio_47-part1-item5" n="5">
                         <locus>fol. 18v</locus>
-                        <author ref="http://viaf.org/viaf/79269165">Ibn Tibbon, Jacob ben Machir, approximately 1236</author>
-                        <author xml:lang="he">יעקב בן מכיר</author>
+                        <author ref="http://viaf.org/viaf/79269165" key="person_248">Ibn Tibbon, Jacob ben Machir, approximately 1236</author>
+                        <author xml:lang="he" key="person_549">יעקב בן מכיר</author>
                         <title>Rovaʿ Yiśraʾel ("Israel's Quadrant", chapter 16)</title>
                         <title xml:lang="he">רובע ישראל (שער טז)</title>
                         <note>Copied by Yehudah Faritsol in Mantua in AM <date calendar="#AM-abbreviated">259</date> (<date calendar="#Gregorian">1499</date>)</note>
@@ -167,11 +167,11 @@
                      <summary>Sefer ben David</summary>
                      <msItem xml:id="MS_Reggio_47-part2-item1" n="6">
                         <locus>fols. 19r-24r</locus>
-                        <author ref="http://viaf.org/viaf/4948231">Modena, Leone, 1571-1648</author>
-                        <author xml:lang="he">מודינא, יהודה אריה</author>
+                        <author ref="http://viaf.org/viaf/4948231" key="person_550">Modena, Leone, 1571-1648</author>
+                        <author xml:lang="he" key="person_551">מודינא, יהודה אריה</author>
                         <title>Sefer ben David</title>
                         <title xml:lang="he">ספר בן דוד</title>
-                        <note>Written by <persName>Yehudah Aryeh of Modena</persName> (Leone Modena) for his pupil <persName>Yosef Ḥamits</persName> ha-rofeh.</note>
+                        <note>Written by <persName key="person_133">Yehudah Aryeh of Modena</persName> (Leone Modena) for his pupil <persName key="person_134">Yosef Ḥamits</persName> ha-rofeh.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
@@ -218,8 +218,8 @@
                      <summary>Ḳol Śimḥa</summary>
                      <msItem xml:id="MS_Reggio_47-part3-item1" n="7">
                         <locus>fols. 26-34</locus>
-                        <author ref="http://viaf.org/viaf/60610564">Calimani, Simon, 1699-1784</author>
-                        <author xml:lang="he">קלימני, שמחה בן אברהם</author>
+                        <author ref="http://viaf.org/viaf/60610564" key="person_552">Calimani, Simon, 1699-1784</author>
+                        <author xml:lang="he" key="person_553">קלימני, שמחה בן אברהם</author>
                         <title>Ḳol Śimḥa</title>
                         <title xml:lang="he">קול שמחה</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -292,12 +292,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName xml:lang="he">יהודה פריצול</persName>
+                  <persName xml:lang="he" key="person_132">יהודה פריצול</persName>
                </term>
             </keywords>
          </textClass>

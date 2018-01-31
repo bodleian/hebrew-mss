@@ -48,7 +48,7 @@
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Canonici_Or_104-item1" n="1">
                      <locus>ff. 1r-29r</locus>
-                     <author>Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
+                     <author key="person_508">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
                      <title>Beḥinat ʿolam (The Examination of the World)</title>
                      <title>
@@ -58,7 +58,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item2" n="2">
                      <locus>ff. 29v-96v</locus>
-                     <author>Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
+                     <author key="person_508">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
                      <title>Ketav hitnatslut (Letter of Apology)</title>
                      <title>
@@ -68,7 +68,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item3" n="3">
                      <locus>ff. 97r-102v</locus>
-                     <author>Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
+                     <author key="person_508">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
                      <title>Baḳashat ha-memin</title>
                      <title>
@@ -78,7 +78,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item4" n="4">
                      <locus>ff. 102v-103v</locus>
-                     <author>Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
+                     <author key="person_508">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
                      <title>Elohim elay atah ashaḥarekhah (O God, You are my God, I seek You, Ps. 63:2)</title>
                      <title>
@@ -88,7 +88,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item5" n="5">
                      <locus>ff. 104r-107r</locus>
-                     <author>Bedersi, Abraham ben Isaac, active 13th century <foreign xml:lang="he">בדרשי, אברהם</foreign>
+                     <author key="person_509">Bedersi, Abraham ben Isaac, active 13th century <foreign xml:lang="he">בדרשי, אברהם</foreign>
                      </author>
                      <title>Baḳashat ha-lamedin</title>
                      <title>
@@ -98,7 +98,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item6" n="6">
                      <locus>ff. 107r-114r</locus>
-                     <author>Joseph ben Sheshet ibn Latimi <foreign xml:lang="he">לטימי, יוסף בן ששת</foreign>
+                     <author key="person_510">Joseph ben Sheshet ibn Latimi <foreign xml:lang="he">לטימי, יוסף בן ששת</foreign>
                      </author>
                      <title>Aamir et Adoni</title>
                      <title>
@@ -109,7 +109,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item7" n="7">
                      <locus>ff. 114v-123r</locus>
-                     <author>Ezobi, Jehoseph ben Hanan ben Nathan, active 13th century <foreign xml:lang="he">אזובי, יוסף בן חנן</foreign>
+                     <author key="person_511">Ezobi, Jehoseph ben Hanan ben Nathan, active 13th century <foreign xml:lang="he">אזובי, יוסף בן חנן</foreign>
                      </author>
                      <title>Keʿarat kesef</title>
                      <title>
@@ -119,7 +119,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item8" n="8">
                      <locus>ff. 124r-128r</locus>
-                     <author>Rieti, Moses ben Isaac da, 1388-1460? <foreign xml:lang="he">ריאיטי, משה</foreign>
+                     <author key="person_512">Rieti, Moses ben Isaac da, 1388-1460? <foreign xml:lang="he">ריאיטי, משה</foreign>
                      </author>
                      <title>Miḳdash meʿaṭ (Meʻon ha-shoʼalim)</title>
                      <title>
@@ -218,22 +218,22 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>
+                  <persName key="person_46">
                      <foreign xml:lang="he">פונטנילה, ישראל</foreign>
                   </persName>
                </term>
                <term>
-                  <persName>
+                  <persName key="person_47">
                      <foreign xml:lang="he">פינצי, דוד בן עזריאל</foreign>
                   </persName>
                </term>
                <term>
-                  <persName>Luigi da Bologna (censor)</persName>
+                  <persName key="person_44">Luigi da Bologna (censor)</persName>
                </term>
             </keywords>
          </textClass>

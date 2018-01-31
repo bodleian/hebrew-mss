@@ -52,14 +52,14 @@
                      <title>Hebrew Bible <foreign xml:lang="he">תנ"ך</foreign>
                      </title>
                      <note>With both masorahs; Isaiah before Jeremiah; the Prophets are followed by Chronicles, next come the Psalms, Proverbs, Job, Ruth, Song of Song, Ecclesiastes, Lamentations, Esther, Daniel, Ezra and Nehemiah, the latter without division.</note>
-                     <note>The copist is probably indentical with <persName ref="http://viaf.org/viaf/96079760">Moses ibn Zabara</persName>
-                        <persName xml:lang="he">(משה בר’ יעקב ן’ זברה)</persName>, the author of Malakhat ha-Sefer, who emigrated to Morocco where he was held in great esteem.</note>
+                     <note>The copist is probably indentical with <persName ref="http://viaf.org/viaf/96079760" key="person_327">Moses ibn Zabara</persName>
+                        <persName xml:lang="he" key="person_328">(משה בר’ יעקב ן’ זברה)</persName>, the author of Malakhat ha-Sefer, who emigrated to Morocco where he was held in great esteem.</note>
                      <colophon>Colophon of the scribe on fol. 438r: "אני משה בר’ יעקב ן’ זברה הסופר ... כתבתי ונקדתי ומסרתי והגהתי אלה ארבעה ועשרים ספרים בקובץ אחד וסימתי אותו ביום רביעי א"ב ימים לחדש אב שנת והביאותים א’ל’ ה’ר’ קדשי לפרט האלף הששי [=רל"ו] בכאן במתא לה קרוניא והחזקתי אותו בל"ז קונדרסין ... לבחור הנחמד יצחק בן ... דון שלמה די בראגה נ"ע". Colophon of the illuminator on fol. 453v: "אני יוסף ן’ חיים זה הספר ציירתי והשלמתי".</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Kennicott_1-item2" n="2">
                      <locus>ff.1-9 and ff. 438v-453</locus>
-                     <author>Kimhi, David, approximately 1160-approximately 1235</author>
+                     <author key="person_624">Kimhi, David, approximately 1160-approximately 1235</author>
                      <title>Sefer ha-Mikhlol <foreign xml:lang="he">ספר המכלול</foreign>
                      </title>
                   </msItem>
@@ -87,7 +87,7 @@
                      <origPlace>La Coruña</origPlace>
                      <origDate when="1476">1476</origDate>
                   </origin>
-                  <provenance>Acquired for the Radcliffe Library, Oxford, by <persName ref=" http://viaf.org/viaf/12343831">Benjamin Kennicott.</persName>
+                  <provenance>Acquired for the Radcliffe Library, Oxford, by <persName ref=" http://viaf.org/viaf/12343831" key="person_329">Benjamin Kennicott.</persName>
                      <date calendar="#Gregorian">(1718-1783)</date>.</provenance>
                   <acquisition>Transferred to the Bodleian Library in <date calendar="#Gregorian" when="1872">1872</date>.</acquisition>
                </history>
@@ -161,7 +161,7 @@
                   <ref target="http://lccn.loc.gov/n79054379">Bible. Old Testament.</ref>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/12343831">Kennicott, Benjamin, 1718-1783</persName>
+                  <persName ref="http://viaf.org/viaf/12343831" key="person_106">Kennicott, Benjamin, 1718-1783</persName>
                </term>
                <term>Malakhat ha-Sefer</term>
                <term>
@@ -176,20 +176,20 @@
             </keywords>
             <keywords scheme="#LCSH">
                <term>
-                  <persName ref=" http://viaf.org/viaf/12343831">Kennicott, Benjamin, 1718-1783</persName>
+                  <persName ref=" http://viaf.org/viaf/12343831" key="person_106">Kennicott, Benjamin, 1718-1783</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName>זברה, משה בן יעקב אבן (מעתיק)</persName> ‬</term>
+                  <persName key="person_330">זברה, משה בן יעקב אבן (מעתיק)</persName> ‬</term>
                <term>
-                  <persName>יוסף בן חיים (צייר)</persName>
+                  <persName key="person_331">יוסף בן חיים (צייר)</persName>
                </term>
                <term>
-                  <persName>ברגה, יצחק בן שלמה די (בעלים)</persName>
+                  <persName key="person_332">ברגה, יצחק בן שלמה די (בעלים)</persName>
                </term>
                <term>
-                  <placeName>לה קרוניא</placeName>
+                  <placeName key="place_30">לה קרוניא</placeName>
                </term>
             </keywords>
          </textClass>

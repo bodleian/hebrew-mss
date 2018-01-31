@@ -48,7 +48,7 @@
                   <summary>Midrash ha-Gadol (Leviticus)</summary>
                   <msItem xml:id="MS_Oppenheim_Add_4_124c-item1" n="1">
                      <locus>ff. 1r-284r</locus>
-                     <author ref="http://viaf.org/viaf/19572491">Adani, David ben Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
+                     <author ref="http://viaf.org/viaf/19572491" key="person_591">Adani, David ben Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
                      <title>Midrash ha-Gadol (Leviticus)</title>
                      <title>
                         <foreign xml:lang="he">מדרש הגדול (ויקרא)</foreign>
@@ -59,7 +59,7 @@
                   </msItem>
                   <msItem xml:id="MS_Oppenheim_Add_4_124c-item2" n="2">
                      <locus>ff. 1r-284r</locus>
-                     <author ref="http://viaf.org/viaf/83474670">Alts'ahri, Yiḥya ben Seʻadyah, approximately 1505-approximately 1583אלצ’אהרי, זכריה</author>
+                     <author ref="http://viaf.org/viaf/83474670" key="person_621">Alts'ahri, Yiḥya ben Seʻadyah, approximately 1505-approximately 1583אלצ’אהרי, זכריה</author>
                      <title>Sefer Tsedah la-derekh</title>
                      <title>
                         <foreign xml:lang="he">ספר צדה לדרך</foreign>

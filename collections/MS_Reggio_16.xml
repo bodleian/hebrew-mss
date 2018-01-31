@@ -48,7 +48,7 @@
                   <summary>Elijah ben Josef of Nola's commentary on Job</summary>
                   <msItem xml:id="MS_Reggio_16-item1" n="1">
                      <locus>ff. 1r-100r</locus>
-                     <author>Elijah ben Josef of Nola (Nolano)נולנו, אליהו</author>
+                     <author key="person_739">Elijah ben Josef of Nola (Nolano)נולנו, אליהו</author>
                      <title>Commentary on the Writings (Job)</title>
                      <title>
                         <foreign xml:lang="he">‫ פרוש כתובים לאליהו נולנו (איוב) ‬</foreign>
@@ -148,7 +148,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">

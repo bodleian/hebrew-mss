@@ -48,7 +48,7 @@
                   <summary>Bet yaʻar ha-Levanon IV</summary>
                   <msItem xml:id="MS_Reggio_10-item1" n="1">
                      <locus>ff. 1r-260r</locus>
-                     <author ref="http://viaf.org/viaf/15568196">Jagel, Abraham ben Hananiah dei Galicchi, active 16th century-17th centuryיגל, אברהם בן חנניה, 1553-1622</author>
+                     <author ref="http://viaf.org/viaf/15568196" key="person_638">Jagel, Abraham ben Hananiah dei Galicchi, active 16th century-17th centuryיגל, אברהם בן חנניה, 1553-1622</author>
                      <title>Bet yaʻar ha-Levanon IV</title>
                      <title>
                         <foreign xml:lang="he">בית יער הלבנון (ד)</foreign>
@@ -146,7 +146,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
                <term>Jewish philosophy -- Early works to 1800</term>
             </keywords>

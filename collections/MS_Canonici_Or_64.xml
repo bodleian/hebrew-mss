@@ -48,7 +48,7 @@
                   <summary>Commentary on the Pentateuch by Abraham ibn Ezra</summary>
                   <msItem xml:id="MS_Canonici_Or_64-item1" n="1">
                      <locus>ff. 1r-168r</locus>
-                     <author ref="http://viaf.org/viaf/90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164אבן עזרא, אברהם בן מאיר, 1089-1164</author>
+                     <author ref="http://viaf.org/viaf/90633023" key="person_497">Ibn Ezra, Abraham ben Meïr, 1089-1164אבן עזרא, אברהם בן מאיר, 1089-1164</author>
                      <title>Commentary on the Pentateuch <foreign xml:lang="he">פרוש התורה לראב"ע</foreign>
                      </title>
                      <note>Marginal notes.</note>
@@ -91,7 +91,7 @@
                      <origDate notBefore="1401" notAfter="1425">[early 15th century]</origDate>
                   </origin>
                   <provenance>Ownership inscription: <foreign xml:lang="he">"זה הספר שלי עזרה קלדרון"</foreign> (fol. 108r)</provenance>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -147,7 +147,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

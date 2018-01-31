@@ -47,7 +47,7 @@
                <msContents>
                   <summary>Mishneh Torah (Sefer Madaʿ - Zeraʿim)</summary>
                   <msItem xml:id="MS_Laud_Or_160-item1" n="1">
-                     <author ref="http://viaf.org/viaf/100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Mishneh Torah (Sefer Madaʿ - Zeraʿim) <foreign xml:lang="he">משנה תורה (ספר מדע-זרעים) ‬</foreign>
                      </title>
                      <colophon>
@@ -133,7 +133,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

@@ -135,18 +135,18 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">שמעון (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_364">שמעון (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">כץ, ציפרלן אשת שלמה</persName>
+                  <persName xml:lang="he" key="person_365">כץ, ציפרלן אשת שלמה</persName>
                </term>
                <term>
-                  <persName xml:lang="he">כץ, שלמה בן אורי</persName>
+                  <persName xml:lang="he" key="person_366">כץ, שלמה בן אורי</persName>
                </term>
             </keywords>
          </textClass>

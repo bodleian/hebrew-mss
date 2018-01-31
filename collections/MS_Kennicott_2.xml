@@ -146,27 +146,27 @@
                   <ref target="http://id.loc.gov/authorities/names/n79140933">Bible. Five Scrolls.</ref>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/12343831">Kennicott, Benjamin, 1718-1783</persName>
+                  <persName ref="http://viaf.org/viaf/12343831" key="person_106">Kennicott, Benjamin, 1718-1783</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName>אבן גאון, יהושע בן אברהם (מעתיק)</persName>
+                  <persName key="person_107">אבן גאון, יהושע בן אברהם (מעתיק)</persName>
                </term>
                <term>
-                  <persName>חביב, משה אבן, מאה יג-י"ד (בעלים)</persName>
+                  <persName key="person_108">חביב, משה אבן, מאה יג-י"ד (בעלים)</persName>
                </term>
                <term>
-                  <persName>נסים בן אהרן הכהן (בעלים) ‬</persName>
+                  <persName key="person_109">נסים בן אהרן הכהן (בעלים) ‬</persName>
                </term>
                <term>
-                  <persName>פארינט, שמואל (בעלים) ‬</persName>
+                  <persName key="person_110">פארינט, שמואל (בעלים) ‬</persName>
                </term>
                <term>
-                  <persName>יצחק בן גרשם (מוזכר) ‬</persName>
+                  <persName key="person_111">יצחק בן גרשם (מוזכר) ‬</persName>
                </term>
                <term>
-                  <persName>פלכון, יוסף (חותם) ‬</persName>
+                  <persName key="person_112">פלכון, יוסף (חותם) ‬</persName>
                </term>
                <term>
                   <geogName>שוריא</geogName>

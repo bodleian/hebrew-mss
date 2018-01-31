@@ -48,7 +48,7 @@
                   <summary>Shaʿare Gan ʿeden</summary>
                   <msItem xml:id="MS_Reggio_39-item1" n="1">
                      <locus>ff. 1r-80r</locus>
-                     <author ref="http://viaf.org/viaf/7352439">Salṭaro, Yehudah ben Mosheh(assumed author)סלטרו, יהודה בן משה (מחבר משוער)</author>
+                     <author ref="http://viaf.org/viaf/7352439" key="person_539">Salṭaro, Yehudah ben Mosheh(assumed author)סלטרו, יהודה בן משה (מחבר משוער)</author>
                      <title>Shaʿare Gan ʿeden</title>
                      <title>
                         <foreign xml:lang="he">שערי גן עדן</foreign>
@@ -152,7 +152,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
          </textClass>

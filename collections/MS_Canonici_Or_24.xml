@@ -50,9 +50,9 @@
                      <locus>ff. 1v-184v</locus>
                      <title>Sidur minhag Sefarad (Catalonia) <foreign xml:lang="he">סדור מנהג ספרד (קטלוניא)</foreign>
                      </title>
-                     <note>Prayers in memory of <persName>Michael Kohen di Lonil</persName> (<persName>
+                     <note>Prayers in memory of <persName key="person_227">Michael Kohen di Lonil</persName> (<persName key="person_228">
                            <foreign xml:lang="he">מיכאל כהן די לוניל</foreign>
-                        </persName>) on fols. 137v-138v. Prayers in memory of <persName>Marat Binḳolina</persName> (<persName>
+                        </persName>) on fols. 137v-138v. Prayers in memory of <persName key="person_229">Marat Binḳolina</persName> (<persName key="person_230">
                            <foreign xml:lang="he">מרת בינקולוניא</foreign>
                         </persName>) on fol. 139r.</note>
                      <colophon>Colophons of the scribe-vocalizer on fols. 115r, 142r, 174v: <foreign xml:lang="he">סליק הנקדן הצרפתי פרץ טרבוט</foreign>.</colophon>
@@ -89,7 +89,7 @@
                      <origPlace>[Italy?]</origPlace>
                      <origDate notBefore="1476" notAfter="1500">[late-15th century]</origDate>
                   </origin>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -144,18 +144,18 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">טרבוט, פרץ (נקדן)</persName>
+                  <persName xml:lang="he" key="person_231">טרבוט, פרץ (נקדן)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">לוניל, מיכאל כהן</persName>
+                  <persName xml:lang="he" key="person_232">לוניל, מיכאל כהן</persName>
                </term>
                <term>
-                  <persName xml:lang="he">בינקולינא</persName>
+                  <persName xml:lang="he" key="person_233">בינקולינא</persName>
                </term>
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

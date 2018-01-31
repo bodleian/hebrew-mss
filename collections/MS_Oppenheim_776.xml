@@ -145,12 +145,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/7753200">Oppenheim, David ben Abraham, 1664-1736</persName>
+                  <persName ref="http://viaf.org/viaf/7753200" key="person_63">Oppenheim, David ben Abraham, 1664-1736</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">אשר בן יצחק</persName>
+                  <persName xml:lang="he" key="person_258">אשר בן יצחק</persName>
                </term>
             </keywords>
          </textClass>

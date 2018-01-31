@@ -48,7 +48,7 @@
                   <summary>Arbaʿah Ṭurim (Yoreh Deʿah)</summary>
                   <msItem xml:id="MS_Laud_Or_233-item1" n="1">
                      <locus>ff. 2r-175v</locus>
-                     <author ref="http://viaf.org/viaf/73882588">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
+                     <author ref="http://viaf.org/viaf/73882588" key="person_514">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
                      <title>Ṭur (Yoreh Deʿah) <foreign xml:lang="he">טור (יורה דעה)</foreign>
                      </title>
                      <note>Written by Yamin [=Benyamin] ben Mosheh, called Wolf Ḳarnakh on Friday, 5 Adar Sheni 223 [1463]. According to M. Beit-Arie, the scribe's name must have been Benyamin (Zeʾev).</note>
@@ -151,69 +151,69 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <placeName>Ichenhausen (Germany)</placeName>
+                  <placeName key="place_22">Ichenhausen (Germany)</placeName>
                </term>
                <term>
-                  <placeName>Fürth (Bavaria, Germany)</placeName>
+                  <placeName key="place_23">Fürth (Bavaria, Germany)</placeName>
                </term>
                <term>
-                  <placeName ref="http://viaf.org/viaf/153543031">Prague (Czech Republic)</placeName>
+                  <placeName ref="http://viaf.org/viaf/153543031" key="place_24">Prague (Czech Republic)</placeName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName>Yamin ben Mosheh Ṿolf</persName>
+                  <persName key="person_315">Yamin ben Mosheh Ṿolf</persName>
                </term>
                <term>
-                  <persName>Benyamin ben Mosheh Wolf</persName>
+                  <persName key="person_316">Benyamin ben Mosheh Wolf</persName>
                </term>
                <term>
-                  <persName xml:lang="he">קרנך, בנימין וולף בן משה</persName>
+                  <persName xml:lang="he" key="person_317">קרנך, בנימין וולף בן משה</persName>
                </term>
                <term>
-                  <persName xml:lang="he">בלומא, רפאל</persName>
+                  <persName xml:lang="he" key="person_318">בלומא, רפאל</persName>
                </term>
                <term>
-                  <persName xml:lang="he">ישעיה בן יוסף מנשה</persName>
+                  <persName xml:lang="he" key="person_319">ישעיה בן יוסף מנשה</persName>
                </term>
                <term>
-                  <persName xml:lang="he">גרונבך, אברהם בן יצחק</persName>
+                  <persName xml:lang="he" key="person_320">גרונבך, אברהם בן יצחק</persName>
                </term>
                <term>
-                  <persName xml:lang="he">קצנלנבוגן, אברהם בן יצחק</persName>
+                  <persName xml:lang="he" key="person_321">קצנלנבוגן, אברהם בן יצחק</persName>
                </term>
                <term>
-                  <persName xml:lang="he">סגל, מאיר בן משה</persName>
+                  <persName xml:lang="he" key="person_322">סגל, מאיר בן משה</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אוירנגר, אלחנן בן ישראל</persName>
+                  <persName xml:lang="he" key="person_323">אוירנגר, אלחנן בן ישראל</persName>
                </term>
                <term>
-                  <persName xml:lang="he">יוסף בן אהרן מק"ק פלון</persName>
+                  <persName xml:lang="he" key="person_324">יוסף בן אהרן מק"ק פלון</persName>
                </term>
                <term>
-                  <persName xml:lang="he">פיקא, שמעון בן יהודה</persName>
+                  <persName xml:lang="he" key="person_325">פיקא, שמעון בן יהודה</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אוירבך, יהודה בן שמעון</persName>
+                  <persName xml:lang="he" key="person_326">אוירבך, יהודה בן שמעון</persName>
                </term>
                <term>
-                  <placeName xml:lang="he">איכהוזן</placeName>
+                  <placeName xml:lang="he" key="place_25">איכהוזן</placeName>
                </term>
                <term>
-                  <placeName xml:lang="he">ליכטנשטאט</placeName>
+                  <placeName xml:lang="he" key="place_26">ליכטנשטאט</placeName>
                </term>
                <term>
-                  <placeName xml:lang="he">פיורדא</placeName>
+                  <placeName xml:lang="he" key="place_27">פיורדא</placeName>
                </term>
                <term>
-                  <placeName xml:lang="he">פלון</placeName>
+                  <placeName xml:lang="he" key="place_28">פלון</placeName>
                </term>
                <term>
-                  <placeName xml:lang="he">פראג</placeName>
+                  <placeName xml:lang="he" key="place_29">פראג</placeName>
                </term>
             </keywords>
          </textClass>

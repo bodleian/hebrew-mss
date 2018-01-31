@@ -48,19 +48,19 @@
                   <summary>Collection of philosophical texts</summary>
                   <msItem xml:id="MS_Bodley_Or_100-item1" n="1">
                      <locus>ff. 1r-76r</locus>
-                     <author>Judah, ha-Levi, active 12th centuryיהודה בן שמואל, הלוי</author>
+                     <author key="person_573">Judah, ha-Levi, active 12th centuryיהודה בן שמואל, הלוי</author>
                      <title>Sefer ha-Kuzari <foreign xml:lang="he">ספר הכוזרי</foreign>
                      </title>
-                     <note>Translated by <persName ref="http://viaf.org/viaf/49379706">Yehudah ibn Tibon</persName>
+                     <note>Translated by <persName ref="http://viaf.org/viaf/49379706" key="person_113">Yehudah ibn Tibon</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_100-item2" n="2">
                      <locus>ff. 76v-99v</locus>
-                     <author>Ptolemy, active 2nd century (attributed to)פתולמאוס</author>
+                     <author key="person_546">Ptolemy, active 2nd century (attributed to)פתולמאוס</author>
                      <title>Sefer ha-Peri <foreign xml:lang="he">ספר הפרי</foreign>
                      </title>
-                     <note>Attributed to Ptolemy, belived to be the Hebrew transation of his Centiloquium, but most probably written by <persName>Ahmad b. Yusuf al-Misri</persName> (835-912), Egyptian mathematician (ch. Sela, <hi rend="italic">Abraham Ibn Ezra and the Rise of Medieval Hebrew Science</hi> [2003], 321-322).</note>
+                     <note>Attributed to Ptolemy, belived to be the Hebrew transation of his Centiloquium, but most probably written by <persName key="person_205">Ahmad b. Yusuf al-Misri</persName> (835-912), Egyptian mathematician (ch. Sela, <hi rend="italic">Abraham Ibn Ezra and the Rise of Medieval Hebrew Science</hi> [2003], 321-322).</note>
                      <colophon>Colophon of the translator Kalonymos on fol. 99r: <foreign xml:lang="he">"נשלם זה הספר לבטלמיוס ופירוש לאבוחמד בן גוסף בן אבי אבראהתים ... והעתקתיו אני קלונימוס ... ע"ד לפרט"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -156,17 +156,17 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/34512366">Bodley, Thomas, Sir, 1545-1613</persName>
+                  <persName ref="http://viaf.org/viaf/34512366" key="person_54">Bodley, Thomas, Sir, 1545-1613</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>
+                  <persName key="person_206">
                      <foreign xml:lang="he">דורן, יצחק בן משה, 1350?-1415? (ממנו)</foreign>
                   </persName>
                </term>
                <term>
-                  <persName>
+                  <persName key="person_207">
                      <foreign xml:lang="he">אבן תבון, יהודה בן שאול</foreign>
                   </persName>
                </term>

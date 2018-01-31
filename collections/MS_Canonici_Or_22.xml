@@ -50,10 +50,10 @@
                      <locus>ff. 11r-125r</locus>
                      <title>Hebrew Bible: Pentateuch <foreign xml:lang="he">תורה</foreign>
                      </title>
-                     <note>Written by <persName>Rafaʾel Tsarfati ha-Naḳdan ben Levi</persName>, and finished on Monday 5 Adar 5228 (=1468) for <persName>Daṿid ben Yoʾab</persName>. The copyist was paid by R. Yehosuha manhig ḥanut ba-Ḳasṭilo.</note>
+                     <note>Written by <persName key="person_4">Rafaʾel Tsarfati ha-Naḳdan ben Levi</persName>, and finished on Monday 5 Adar 5228 (=1468) for <persName key="person_5">Daṿid ben Yoʾab</persName>. The copyist was paid by R. Yehosuha manhig ḥanut ba-Ḳasṭilo.</note>
                      <note>Fols. 1-10 and 126-130 are blank.</note>
-                     <colophon>Colophon of the naḳdan ('punctuator' or 'vocaliser'), <persName>Rafaʾel Tsarfati</persName> on fol. 125r: <foreign xml:lang="he">לסיים מלאכת הנקוד ביום חמשי לירח אדר שני שנת חמשת אלפים ובר"ך את עמך ... רפאל צרפתי הנקדן ב"כ מהר"ר לוי ... ‬ ‫ והיה שכרי חמשה פרחי’ רחבים קבלתים מכמ"ר דוד יזי"י בכ"ר יואב בעל הספר הזה, היינו קבלתים ממנו על יד כמ"ר יהושע מנהיג חנות בקסטיילו</foreign>.</colophon>
-                     <note>As the colophon shows, Rafaʾel got his wage from R. <persName>Daṿid ben Yoav</persName>, the owner of the book.</note>
+                     <colophon>Colophon of the naḳdan ('punctuator' or 'vocaliser'), <persName key="person_6">Rafaʾel Tsarfati</persName> on fol. 125r: <foreign xml:lang="he">לסיים מלאכת הנקוד ביום חמשי לירח אדר שני שנת חמשת אלפים ובר"ך את עמך ... רפאל צרפתי הנקדן ב"כ מהר"ר לוי ... ‬ ‫ והיה שכרי חמשה פרחי’ רחבים קבלתים מכמ"ר דוד יזי"י בכ"ר יואב בעל הספר הזה, היינו קבלתים ממנו על יד כמ"ר יהושע מנהיג חנות בקסטיילו</foreign>.</colophon>
+                     <note>As the colophon shows, Rafaʾel got his wage from R. <persName key="person_7">Daṿid ben Yoav</persName>, the owner of the book.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -87,7 +87,7 @@
                      <origPlace>[Italy]</origPlace>
                      <origDate when="1468">1468 (date of vocalisation)</origDate>
                   </origin>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -143,23 +143,23 @@
             <keywords scheme="#IMHM">
                <term>
                   <foreign xml:lang="he">
-                     <persName>רפאל בן לוי צרפתי, נקדן</persName>
+                     <persName key="person_8">רפאל בן לוי צרפתי, נקדן</persName>
                   </foreign>
                </term>
                <term>
                   <foreign xml:lang="he">
-                     <persName>דוד בן יואב (בעלים)</persName>
+                     <persName key="person_9">דוד בן יואב (בעלים)</persName>
                   </foreign>
                </term>
                <term>
                   <foreign xml:lang="he">
-                     <persName>יהושע, מקסטליו (מוזכר)</persName>
+                     <persName key="person_10">יהושע, מקסטליו (מוזכר)</persName>
                   </foreign>
                </term>
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

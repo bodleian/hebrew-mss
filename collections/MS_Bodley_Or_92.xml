@@ -48,7 +48,7 @@
                   <summary>Tsori ha-guf by Nathan ben Joel Falaquera</summary>
                   <msItem xml:id="MS_Bodley_Or_92-item1" n="1">
                      <locus>ff. 1r-288r</locus>
-                     <author ref="http://viaf.org/viaf/61799914">Falaquera, Nathan ben Joel, active 13th centuryפלקירה, נתן בן יואל</author>
+                     <author ref="http://viaf.org/viaf/61799914" key="person_505">Falaquera, Nathan ben Joel, active 13th centuryפלקירה, נתן בן יואל</author>
                      <title>Tsori ha-guf (Balm for the Body) <foreign xml:lang="he">צרי הגוף</foreign>
                      </title>
                      <note>Beginning and end is incomplete.</note>

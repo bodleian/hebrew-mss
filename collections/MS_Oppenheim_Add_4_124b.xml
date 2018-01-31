@@ -48,7 +48,7 @@
                   <summary>Midrash ha-Gadol (Exodus)</summary>
                   <msItem xml:id="MS_Oppenheim_Add_4_124b-item1" n="1">
                      <locus>ff. 1r-215r</locus>
-                     <author ref="http://viaf.org/viaf/19572491">Adani, David ben Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
+                     <author ref="http://viaf.org/viaf/19572491" key="person_591">Adani, David ben Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
                      <title>Midrash ha-Gadol (Exodus)</title>
                      <title>
                         <foreign xml:lang="he">מדרש הגדול (שמות)</foreign>
@@ -133,7 +133,7 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">ישע בן שלום בן סעדיה (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_374">ישע בן שלום בן סעדיה (מעתיק)</persName>
                </term>
             </keywords>
          </textClass>

@@ -48,7 +48,7 @@
                   <summary>Collection of philosophical texts</summary>
                   <msItem xml:id="MS_Canonici_Or_17-item1" n="1">
                      <locus>ff. 1r-126r</locus>
-                     <author ref="http://viaf.org/viaf/31996761">Ghazzālī, 1058-1111גזאלי, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/31996761" key="person_615">Ghazzālī, 1058-1111גזאלי, מחמד בן מחמד</author>
                      <title>Kaṿanot ha-filosofim (Intentions of the Philosophers) <foreign xml:lang="he">כוונות הפילוסופים</foreign>
                      </title>
                      <note>Hebrew translation of the Intentions of the Philosophers (Maqâsid al-falâsifa) by Isaac Albalag, called Tiḳun ha-Deʿot</note>
@@ -57,7 +57,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_17-item2" n="2">
                      <locus>ff. 129v-153v</locus>
-                     <author ref="http://viaf.org/viaf/89245664">Moses, of Narbonne, -1362נרבוני, משה בן יהושע</author>
+                     <author ref="http://viaf.org/viaf/89245664" key="person_562">Moses, of Narbonne, -1362נרבוני, משה בן יהושע</author>
                      <title>Perush Kaṿanot ha-filosofim <foreign xml:lang="he">רוש כונות הפילוסופים לגזאלי</foreign>
                      </title>
                      <note>Commentary on Ghazzali's Intentions of the Philosophers (Maqâsid al-falâsifa)</note>
@@ -65,11 +65,11 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_17-item3" n="3">
                      <locus>ff. 161v-183v</locus>
-                     <author ref="http://viaf.org/viaf/89245664">Fārābīפראבי, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/89245664" key="person_563">Fārābīפראבי, מחמד בן מחמד</author>
                      <title>Hatḥalot ha-nimtsaʾot (The Book of Principles) <foreign xml:lang="he">ההתחלות הנמצאות</foreign>
                      </title>
                      <note>Commentary on Ghazzali's Intentions of the Philosophers (Maqâsid al-falâsifa)</note>
-                     <note>Translated by <persName>Moses ben Samuel ibn Tibbon</persName>
+                     <note>Translated by <persName key="person_177">Moses ben Samuel ibn Tibbon</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -106,7 +106,7 @@
                      <origDate when="1477">1477</origDate>
                   </origin>
                   <provenance>Owners' inscriptions: <foreign xml:lang="he">"יצחק אליעזר סנגויני", "שמואל סנגויני(?)"</foreign>; censors' signatures: Fra. Gir. da Durazzano 1640 (fol. 2r), Laurnaiu[s] Franguellu[s] 1575 (fol. 65v), Fra. Luigu da Bologna 1598, Cammillo Jaghel 1613 (fol. 237r), Renato da Mod[en]a 1626, 1555 ... Hac. Geraldini ... [norarized by] Ceesa Bellosus</provenance>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -162,13 +162,13 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/64172358">Ibn Tibon, Mosheh, active 13th century</persName>
+                  <persName ref="http://viaf.org/viaf/64172358" key="person_178">Ibn Tibon, Mosheh, active 13th century</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/29110411">Albalag, Isaac, active 13th century</persName>
+                  <persName ref="http://viaf.org/viaf/29110411" key="person_179">Albalag, Isaac, active 13th century</persName>
                </term>
             </keywords>
          </textClass>

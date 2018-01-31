@@ -93,7 +93,7 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_101-part1-item1" n="1">
                         <locus>ff. 2r-8v</locus>
-                        <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן (רמב"ן)</author>
+                        <author ref="http://viaf.org/viaf/219072992" key="person_586">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן (רמב"ן)</author>
                         <title>Commentary on the Pentateuch <foreign xml:lang="he">חידושים בפי' התורה</foreign>
                         </title>
                         <note>Ends Gen. 2:12. Not the short commentary. The copyist deleted some passages.</note>
@@ -106,7 +106,7 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_101-part1-item3" n="3">
                         <locus>ff. 19r-98v</locus>
-                        <author ref="http://viaf.org/viaf/100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף, (רד"ק)</author>
+                        <author ref="http://viaf.org/viaf/100213323" key="person_587">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף, (רד"ק)</author>
                         <title>Commentary on Psalms <foreign xml:lang="he">פרוש כתובים לרד"ק (תהלים) ‬</foreign>
                         </title>
                         <note>No poem at the beginning; ends Ps.71:21</note>
@@ -157,14 +157,14 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_101-part2-item1" n="4">
                         <locus>ff. 100r-164v</locus>
-                        <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן (רמב"ן)</author>
+                        <author ref="http://viaf.org/viaf/219072992" key="person_586">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן (רמב"ן)</author>
                         <title>Short commentary on the Pentateuch <foreign xml:lang="he">פרוש התורה לרמב"ן (הקצר)</foreign> ‬</title>
                         <colophon>Colophon on fol. 164v: "סליקו ... ע"י אליעזר משה יהע"ל בכ"ר יואב ז"ל דלבריאה היום יום א’ כ’ באלול שנת א’ב’ר’ך’ לפרט קטן וכתבתיו לר’ רפאל יזיי"א בכ"ר יוסף יצחק ישר"ו"</colophon>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_101-part2-item2" n="5">
                         <locus>ff. 165r-166v</locus>
-                        <author ref="http://lccn.loc.gov/nr93011812">Recanati, Menahem ben Benjamin, active 13th century-14th centuryריקאנטי, מנחם בן בנימין</author>
+                        <author ref="http://lccn.loc.gov/nr93011812" key="person_588">Recanati, Menahem ben Benjamin, active 13th century-14th centuryריקאנטי, מנחם בן בנימין</author>
                         <title>Sefer Reʾayat ha-Yadayim me-eḥad me-ḥakhmei Hodu <foreign xml:lang="he">ספר ראיית הידים מאחד מחכמי הודו</foreign>
                         </title>
                         <note>At the beginning: " <foreign xml:lang="he">ליקוטים מצאתי כתובי’ בקונטרס אחד מכמ"ר מנחם דריקנטי ז"ל</foreign> ".</note>
@@ -179,14 +179,14 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_101-part2-item4" n="7">
                         <locus>ff. 170v-235v</locus>
-                        <author ref="http://lccn.loc.gov/n81078650">Levi ben Gershom, 1288-1344לוי בן גרשום</author>
+                        <author ref="http://lccn.loc.gov/n81078650" key="person_733">Levi ben Gershom, 1288-1344לוי בן גרשום</author>
                         <title>Commentary on Job <foreign xml:lang="he">פרוש כתובים לרלב"ג (איוב)</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_101-part2-item5" n="8">
                         <locus>ff. 236r-302(i)r</locus>
-                        <author ref="http://lccn.loc.gov/nr91008016">Ṭoviyahu ben Eliʻezer, active 11th centuryטוביה בן אליעזר</author>
+                        <author ref="http://lccn.loc.gov/nr91008016" key="person_589">Ṭoviyahu ben Eliʻezer, active 11th centuryטוביה בן אליעזר</author>
                         <title>Midrash leḳaḥ ṭov (le-ḥamesh megilot) <foreign xml:lang="he">מדרש לקח טוב (לחמש מגלות)</foreign> ‬</title>
                         <colophon>On fol.236r: "ותכל מלאכת עבודת הקדש על ידי <foreign xml:lang="he">הצעיר אליעזר משה יהע"ל בכמ"ר יואב זצ"ל מלבריאה ... למר’ רפאל יזיי"א בכ"ר יוסף יצחק ישרו’ והשלמתיו היום יום ה’ יום אחרון של חנוכה שנת רכ"ג לפרט קטן</foreign> "</colophon>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -241,7 +241,7 @@
                         </title>
                         <note>Incomplete at the end.</note>
                         <note>
-                           <persName ref="http://viaf.org/viaf/95159227">Saʻadia ben Joseph, 882-942 (attributed to in the printed edition)</persName>
+                           <persName ref="http://viaf.org/viaf/95159227" key="person_350">Saʻadia ben Joseph, 882-942 (attributed to in the printed edition)</persName>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -309,7 +309,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

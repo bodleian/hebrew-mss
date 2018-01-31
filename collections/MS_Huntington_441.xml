@@ -48,7 +48,7 @@
                   <summary>Collection of kabbalistic texts</summary>
                   <msItem xml:id="MS_Huntington_441-item1" n="1">
                      <locus>ff. 1r-18r</locus>
-                     <author>Yosef Ḳasṭelקשטיל, יוסף</author>
+                     <author key="person_593">Yosef Ḳasṭelקשטיל, יוסף</author>
                      <title>Responsa to the questions about kabbalah posed by R. Yehudah Ḥayṭ</title>
                      <title>
                         <foreign xml:lang="he">תשובות לשאלות על דרך הקבלה ששאל ר’ יהודה חייט</foreign>
@@ -57,7 +57,7 @@
                   </msItem>
                   <msItem xml:id="MS_Huntington_441-item2" n="2">
                      <locus>ff. 18r-39v</locus>
-                     <author>Yaʿaḳov ben Yaʿaḳov ha-Kohenיעקב בן יעקב הכהן</author>
+                     <author key="person_594">Yaʿaḳov ben Yaʿaḳov ha-Kohenיעקב בן יעקב הכהן</author>
                      <title>Perush merkhavat Yeḥezkiel</title>
                      <title>
                         <foreign xml:lang="he">פרוש מרכבת יחזקאל</foreign>
@@ -67,7 +67,7 @@
                   </msItem>
                   <msItem xml:id="MS_Huntington_441-item3" n="3">
                      <locus>ff. 39v-71v</locus>
-                     <author ref="http://viaf.org/viaf/88057479">Gikatilla, Joseph ben Abraham, 1248-ג’קטילה, יוסף בן אברהם</author>
+                     <author ref="http://viaf.org/viaf/88057479" key="person_649">Gikatilla, Joseph ben Abraham, 1248-ג’קטילה, יוסף בן אברהם</author>
                      <title>Perush maʿaśeh merkhavah</title>
                      <title>
                         <foreign xml:lang="he">פרוש מעשה מרכבה</foreign>
@@ -77,7 +77,7 @@
                   </msItem>
                   <msItem xml:id="MS_Huntington_441-item4" n="4">
                      <locus>ff. 72r-144v</locus>
-                     <author ref="http://viaf.org/viaf/79260667">Moses ben Shem Tov, de Leon, 1250-1305ליאון, משה די</author>
+                     <author ref="http://viaf.org/viaf/79260667" key="person_537">Moses ben Shem Tov, de Leon, 1250-1305ליאון, משה די</author>
                      <title>Sefer ha-Shem</title>
                      <title>
                         <foreign xml:lang="he">ספר השם</foreign>
@@ -86,7 +86,7 @@
                   </msItem>
                   <msItem xml:id="MS_Huntington_441-item5" n="5">
                      <locus>ff. 145v-215v</locus>
-                     <author ref="http://viaf.org/viaf/79260667">Moses ben Shem Tov, de Leon, 1250-1305ליאון, משה די</author>
+                     <author ref="http://viaf.org/viaf/79260667" key="person_537">Moses ben Shem Tov, de Leon, 1250-1305ליאון, משה די</author>
                      <title>Mishkan ha-ʿedut</title>
                      <title>
                         <foreign xml:lang="he">משכן העדות</foreign>
@@ -95,7 +95,7 @@
                   </msItem>
                   <msItem xml:id="MS_Huntington_441-item6" n="6">
                      <locus>ff. 216r-237r</locus>
-                     <author ref="http://viaf.org/viaf/44658675">Baḥya ben Asher ben Ḥlava, ?-1340בחיי בן אשר אבן חלאוה</author>
+                     <author ref="http://viaf.org/viaf/44658675" key="person_595">Baḥya ben Asher ben Ḥlava, ?-1340בחיי בן אשר אבן חלאוה</author>
                      <title>Shulḥan shel ʾarbaʿ</title>
                      <title>
                         <foreign xml:lang="he">שלחן של ארבע</foreign>
@@ -130,7 +130,7 @@
                      <origPlace>[North Africa]</origPlace>
                      <origDate notBefore="1501" notAfter="1525">[early 16th century]</origDate>
                   </origin>
-                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
+                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -186,7 +186,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>
+                  <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName>
                </term>
             </keywords>
          </textClass>

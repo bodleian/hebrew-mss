@@ -47,10 +47,10 @@
                <msContents>
                   <summary>Sefer ha-ḥefets ha-shalem</summary>
                   <msItem xml:id="MS_Laud_Or_157-item1" n="1">
-                     <author ref="http://viaf.org/viaf/100178533">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013?</author>
+                     <author ref="http://viaf.org/viaf/100178533" key="person_636">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013?</author>
                      <title>Sefer ha-ḥefets ha-shalem (Liber theoricae necnon practicae)</title>
                      <title xml:lang="he">ספר החפץ בשלם</title>
-                     <note>Translated from Arabic by <persName>Meshullam ben Yonah</persName> at the request of his friend Shalem.</note>
+                     <note>Translated from Arabic by <persName key="person_387">Meshullam ben Yonah</persName> at the request of his friend Shalem.</note>
                      <note>Note in Latin about the content (fol. [ii]r); numerous medical notes in Latin and a Hebrew note (" <foreign xml:lang="he">הספר הזה חברו החכם בגדול המכונה עלזהראוי</foreign> ") on fol. [iii]r, numerous Hebrew notes on fol. [iii]v.</note>
                      <note>Numerous marginal and interlinear glosses, notes in Hebrew, some in Latin, chapter numbers in the margin.</note>
                      <note>Fols. 213-214 are blank.</note>
@@ -147,15 +147,15 @@
             </keywords>
             <keywords scheme="#LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName>Dominico Irosolomitano</persName>
+                  <persName key="person_388">Dominico Irosolomitano</persName>
                </term>
                <term>
-                  <persName xml:lang="he">משלם בן יונה</persName>
+                  <persName xml:lang="he" key="person_389">משלם בן יונה</persName>
                </term>
             </keywords>
          </textClass>

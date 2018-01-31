@@ -140,7 +140,7 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>Hippolitus Ferrarensis</persName> (censor)</term>
+                  <persName key="person_42">Hippolitus Ferrarensis</persName> (censor)</term>
             </keywords>
          </textClass>
       </profileDesc>

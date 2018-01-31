@@ -48,8 +48,8 @@
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Reggio_51-item1" n="1">
                      <locus>ff. 2r-7v</locus>
-                     <author ref="http://viaf.org/viaf/95159227">Saʿadia ben Joseph, 882-942(debated authorship)</author>
-                     <author>סעדיה בן יוסף, אלפיומי, (מיוחס לו) ‬</author>
+                     <author ref="http://viaf.org/viaf/95159227" key="person_350">Saʿadia ben Joseph, 882-942(debated authorship)</author>
+                     <author key="person_605">סעדיה בן יוסף, אלפיומי, (מיוחס לו) ‬</author>
                      <title>Sidur Rasag</title>
                      <title>
                         <foreign xml:lang="he">סדור רס"ג</foreign>
@@ -64,14 +64,14 @@
                         <foreign xml:lang="he">ספר יצירה</foreign>
                      </title>
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor.</note>
-                     <note>Sefer Yetsirah (ff. 9r-10r) followed by the commentary attributed to <persName ref="http://viaf.org/viaf/211875786">Abu-Sahl Dunash ben Tamim</persName> (ff. 11r-19v).</note>
+                     <note>Sefer Yetsirah (ff. 9r-10r) followed by the commentary attributed to <persName ref="http://viaf.org/viaf/211875786" key="person_285">Abu-Sahl Dunash ben Tamim</persName> (ff. 11r-19v).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                      <note>fol. 11v is blank.</note>
                   </msItem>
                   <msItem xml:id="MS_Reggio_51-item3" n="3">
                      <locus>ff. 20r-32r</locus>
-                     <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270</author>
-                     <author>משה בן נחמן, 1194-1270</author>
+                     <author ref="http://viaf.org/viaf/219072992" key="person_606">Naḥmanides, approximately 1195-approximately 1270</author>
+                     <author key="person_487">משה בן נחמן, 1194-1270</author>
                      <title>Derashot ha-Ramban (Sermons by Nahmanides)</title>
                      <title>
                         <foreign xml:lang="he">דרשות הרמב"ן</foreign>
@@ -81,8 +81,8 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_51-item4" n="4">
                      <locus>ff. 34r-38r</locus>
-                     <author ref="http://viaf.org/viaf/100185495">Maimonides, Moses, 1135-1204</author>
-                     <author>משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495" key="person_115">Maimonides, Moses, 1135-1204</author>
+                     <author key="person_156">משה בן מימון</author>
                      <title>Perush ha-Mishnah le-Rambam (Pereḳ ḥeleḳ)</title>
                      <title>
                         <foreign xml:lang="he">פרוש המשנה לרמב"ם (פרק חלק)</foreign>
@@ -104,8 +104,8 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_51-item6" n="6">
                      <locus>ff. 42r-46v</locus>
-                     <author ref="http://viaf.org/viaf/89245664">Moses, of Narbonne, -1362</author>
-                     <author>נרבוני, משה בן יהושע</author>
+                     <author ref="http://viaf.org/viaf/89245664" key="person_184">Moses, of Narbonne, -1362</author>
+                     <author key="person_185">נרבוני, משה בן יהושע</author>
                      <title>Igeret ʿal shiʿur ḳomah</title>
                      <title>
                         <foreign xml:lang="he"/> אגרת על שעור קומה</title>
@@ -216,18 +216,18 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/69350064">Schorr, Osias</persName>
+                  <persName ref="http://viaf.org/viaf/69350064" key="person_286">Schorr, Osias</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/211875786">Dunash ibn Tamim, active 10th century</persName>
+                  <persName ref="http://viaf.org/viaf/211875786" key="person_287">Dunash ibn Tamim, active 10th century</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">שור, יהושע השל, 1818-1895</persName>
+                  <persName xml:lang="he" key="person_288">שור, יהושע השל, 1818-1895</persName>
                </term>
             </keywords>
          </textClass>

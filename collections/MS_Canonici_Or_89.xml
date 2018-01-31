@@ -48,7 +48,7 @@
                   <summary>Legal decisions of Isaiah di Trani the Elder</summary>
                   <msItem xml:id="MS_Canonici_Or_89-item1" n="1">
                      <locus>ff. 1r-234v</locus>
-                     <author ref="http://viaf.org/viaf/28447292">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
+                     <author ref="http://viaf.org/viaf/28447292" key="person_609">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
                      <title>Pisḳe Rid <foreign xml:lang="he">פסקי רי"ד</foreign>
                      </title>
                      <note>Second volume of a two-volume codex; volume 1 is <ref target="#MS_Can_Or_90">MS Can. 90</ref>
@@ -57,11 +57,11 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_89-item2" n="2">
                      <locus>ff. 236v-257r</locus>
-                     <author ref="http://viaf.org/viaf/28447292">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
+                     <author ref="http://viaf.org/viaf/28447292" key="person_609">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
                      <title>Sefer ha-Makriaʿ <foreign xml:lang="he">ספר המכריע</foreign>
                      </title>
                      <note>Written for Rabbi Menaḥem ben Binjamin.</note>
-                     <colophon>Colophon of the scribe <persName>Paola Abraham ben Yoav</persName> on fol. 257r: "תהלות יי’ ... אשר רחמני אותי פולה בת ר’ אברהם הסופר בי"ר יואב צי"ע ... ר’ מנחם בי"ר בנימן הצדיק ... קרובי ... והפצירני ... לכתוב לו הספר ... ונגמרה ... יום רביעי שני ימים לחודש הראשון שנת חמשת אלפים וחמשים ושלשה לבריאת עולם"</colophon>
+                     <colophon>Colophon of the scribe <persName key="person_290">Paola Abraham ben Yoav</persName> on fol. 257r: "תהלות יי’ ... אשר רחמני אותי פולה בת ר’ אברהם הסופר בי"ר יואב צי"ע ... ר’ מנחם בי"ר בנימן הצדיק ... קרובי ... והפצירני ... לכתוב לו הספר ... ונגמרה ... יום רביעי שני ימים לחודש הראשון שנת חמשת אלפים וחמשים ושלשה לבריאת עולם"</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -147,30 +147,30 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName>Vincentius Matelica</persName>
+                  <persName key="person_291">Vincentius Matelica</persName>
                </term>
                <term>
-                  <persName>Jacob Geraldini</persName>
+                  <persName key="person_292">Jacob Geraldini</persName>
                </term>
                <term>
-                  <persName>Dominico Irosolimitano</persName>
+                  <persName key="person_72">Dominico Irosolimitano</persName>
                </term>
                <term>
-                  <persName>Alessandro Scipione</persName>
+                  <persName key="person_293">Alessandro Scipione</persName>
                </term>
                <term>
-                  <persName>Giovanni Domenico Carretto</persName>
+                  <persName key="person_73">Giovanni Domenico Carretto</persName>
                </term>
                <term>
-                  <persName>פולה בת אברהם בן יואב (מעתיקה)</persName>
+                  <persName key="person_294">פולה בת אברהם בן יואב (מעתיקה)</persName>
                </term>
                <term>
-                  <persName>מנחם בן בנימין (בעלים)</persName>
+                  <persName key="person_295">מנחם בן בנימין (בעלים)</persName>
                </term>
             </keywords>
          </textClass>

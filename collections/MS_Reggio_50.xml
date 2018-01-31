@@ -48,7 +48,7 @@
                   <summary>Risposta al Libro che fu dato alle stampa del Padre Pinamonti intitolato la sinagoga disingamnato</summary>
                   <msItem xml:id="MS_Reggio_50-item1" n="1">
                      <locus>ff. 1r-150r</locus>
-                     <author ref="http://viaf.org/viaf/38640738">Briel, Judah ben Eliezer, 1643-1722</author>
+                     <author ref="http://viaf.org/viaf/38640738" key="person_597">Briel, Judah ben Eliezer, 1643-1722</author>
                      <title>Risposta al Libro che fu dato alle stampa del Padre Pinamonti intitolato la sinagoga disingamnato</title>
                      <note>A few marginal notes in Hebrew on fols. 1-2.</note>
                      <textLang mainLang="it">Italian</textLang>
@@ -140,16 +140,16 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/12424383">Pinamonti, Giovanni Pietro, 1632-1703</persName>
+                  <persName ref="http://viaf.org/viaf/12424383" key="person_264">Pinamonti, Giovanni Pietro, 1632-1703</persName>
                </term>
                <term>Polemics--Religious aspects.</term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName ref="http://viaf.org/viaf/38640738">Briel, Leon</persName>
+                  <persName ref="http://viaf.org/viaf/38640738" key="person_265">Briel, Leon</persName>
                </term>
             </keywords>
          </textClass>

@@ -94,7 +94,7 @@
                      <origPlace>[France?]</origPlace>
                      <origDate notBefore="1201" notAfter="1225">[early 13th century]</origDate>
                   </origin>
-                  <provenance>Belonged to the library of the monastery of St. <placeName>Edmundbury</placeName> as owner's inscription proves: "Hoc psalteriu[m] ebraycu[m] est de bibliotheca ven[er]abilis monasterii Sancti Eadmundi acomodatu[m] fratri <persName>Ricardo Bryngkelei</persName> ordinis minorum sacreque theologie humilissimo professori 1502 ". Owner's inscription on fol. 1v: "Liber Guilielmi Laud Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1633"</provenance>
+                  <provenance>Belonged to the library of the monastery of St. <placeName key="place_3">Edmundbury</placeName> as owner's inscription proves: "Hoc psalteriu[m] ebraycu[m] est de bibliotheca ven[er]abilis monasterii Sancti Eadmundi acomodatu[m] fratri <persName key="person_38">Ricardo Bryngkelei</persName> ordinis minorum sacreque theologie humilissimo professori 1502 ". Owner's inscription on fol. 1v: "Liber Guilielmi Laud Archiepi[scopi] Cantuar[iensis] et Cancellarii Universitatis Oxon[iensis] 1633"</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
                <additional>
@@ -155,7 +155,7 @@
             <keywords scheme="LCSH">
                <term ref="http://viaf.org/viaf/157379710">Cathedral Church of St. James (Bury St. Edmunds, England)</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

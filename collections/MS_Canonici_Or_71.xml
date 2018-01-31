@@ -134,7 +134,7 @@
                   <msContents>
                      <msItem xml:id="MS_Canonici_Or_71-part2-item1" n="2">
                         <locus>ff. 19r-301v</locus>
-                        <author ref="http://viaf.org/viaf/100185495/">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                        <author ref="http://viaf.org/viaf/100185495/" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                         <title>Guide for the Perplexed (Moreh Nevukhim) <foreign xml:lang="he">מורה נבוכים</foreign>
                         </title>
                         <note>fol. 19r is written by an Italian-Ashkenazi hand, the same who wrote the <ref target="#MS_Can_Or_71_1_a">index</ref> to the biblical passages (fols. 3r-1</note>
@@ -142,13 +142,13 @@
                      </msItem>
                      <msItem xml:id="MS_Canonici_Or_71-part2-item2" n="3">
                         <locus>ff. 303r-335r</locus>
-                        <author ref="http://viaf.org/viaf/97166726">Ibn Tibbon, Shmuel, active 12th century-13th centuryאבן תבון, שמואל בן יהודה, 1150-1230</author>
+                        <author ref="http://viaf.org/viaf/97166726" key="person_76">Ibn Tibbon, Shmuel, active 12th century-13th centuryאבן תבון, שמואל בן יהודה, 1150-1230</author>
                         <title>Perush ha-milot ha-zarot sheba-Moreh nevukhim le-Rambam <foreign xml:lang="he">פרוש המלות הזרות שבמורה נבוכים לרמב"ם</foreign>
                         </title>
                      </msItem>
                      <msItem xml:id="MS_Canonici_Or_71-part2-item3" n="4">
                         <locus>ff. 335r-337v</locus>
-                        <author ref="http://viaf.org/viaf/97166726">Ibn Tibbon, Shmuel, active 12th century-13th centuryאבן תבון, שמואל בן יהודה, 1150-1230</author>
+                        <author ref="http://viaf.org/viaf/97166726" key="person_76">Ibn Tibbon, Shmuel, active 12th century-13th centuryאבן תבון, שמואל בן יהודה, 1150-1230</author>
                         <title>Perush ṭaʿame ha-mitsṿot <foreign xml:lang="he">פרוש טעמי המצוות</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -229,15 +229,15 @@
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName xml:lang="he">דליאוצו, שמואל בן משה (בעלים)</persName>
+                  <persName xml:lang="he" key="person_74">דליאוצו, שמואל בן משה (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">זרקא, יהוסף בן יצחק (חותם) ‬</persName>
+                  <persName xml:lang="he" key="person_75">זרקא, יהוסף בן יצחק (חותם) ‬</persName>
                </term>
             </keywords>
             <keywords scheme="#LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/97166726">Ibn Tibbon, Shmuel, active 12th century-13th century</persName>
+                  <persName ref="http://viaf.org/viaf/97166726" key="person_76">Ibn Tibbon, Shmuel, active 12th century-13th century</persName>
                </term>
             </keywords>
          </textClass>

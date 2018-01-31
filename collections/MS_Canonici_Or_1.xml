@@ -54,7 +54,7 @@
                      <title>Sidur minhag Ashkenaz ha-maʿaravi le-kol ha-shanah (Würzburg Siddur) <foreign xml:lang="he">סדור מנהג אשכנז המערבי לכל השנה</foreign>
                      </title>
                      <note>Commentaries in the margins</note>
-                     <note>The name <persName>Aaron</persName> is pointed out on fol. 41r, the word naḳdan is added in the margin probably by the vocalizer with a very thin quill.</note>
+                     <note>The name <persName key="person_458">Aaron</persName> is pointed out on fol. 41r, the word naḳdan is added in the margin probably by the vocalizer with a very thin quill.</note>
                      <note>On fols. 91v-92v the scribe copied (with many errors due to misreading) a calendar starting with the year [50]64, being the sixth year of the cycle 264 (should be the tenth year of cycle 267) and concluding with the last year of the cycle.</note>
                      <note>The Sidur contains the Amidah prayers for Rosh ha-Shanah and Yom Kippur (fols. 1v-24r); hoshanot and piyyutim for Śimḥat Torah (fols. 24v-41v); maaravim (fols. 41v-48v, 57r-80v); and Aramaic piyyutim for the Ten Commandments and for the seventh day of Passover (fols. 106r-131v)</note>
                      <note>Additional texts: uncomplete Haggadah (fols. 49r-56v), calendar with halakhot and seder ha-ḳeriah (order of the reading of biblical sections) for Sabbaths and festivals (fols. 81r-93v)</note>
@@ -157,16 +157,16 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/19684048">Rashi, 1040-1105</persName>
+                  <persName ref="http://viaf.org/viaf/19684048" key="person_116">Rashi, 1040-1105</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/22494885">Ephraim ben Jacob, of Bonn, 1132-</persName>
+                  <persName ref="http://viaf.org/viaf/22494885" key="person_459">Ephraim ben Jacob, of Bonn, 1132-</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/34317013">Gershom ben Judah, Meʼor ha-Golah, active 10th century-11th century</persName>
+                  <persName ref="http://viaf.org/viaf/34317013" key="person_460">Gershom ben Judah, Meʼor ha-Golah, active 10th century-11th century</persName>
                </term>
                <term>Siddur.</term>
                <term>Würzburg (Germany)</term>

@@ -48,8 +48,8 @@
                   <summary>Collection</summary>
                   <msItem xml:id="MS_Laud_Or_106-item1" n="1">
                      <locus>ff. 1r-93v</locus>
-                     <author ref="http://lccn.loc.gov/n80001062">Ibn Gabirol, active 11th century</author>
-                     <author>אבן גבירול, שלמה</author>
+                     <author ref="http://lccn.loc.gov/n80001062" key="person_670">Ibn Gabirol, active 11th century</author>
+                     <author key="person_671">אבן גבירול, שלמה</author>
                      <title>Azharot le-Shavuʿot <foreign xml:lang="he">אזהרות לשבועות</foreign>
                      </title>
                      <colophon>" <foreign xml:lang="he">ונשלם פי’ המצות ביום ששי כ’ יום לחדש סיון במתא מכנאסה שנת הרס"ט ליצירה</foreign> " (<locus>fol. 93v</locus>)</colophon>
@@ -57,8 +57,8 @@
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_106-item2" n="2">
                      <locus>ff. 94r-142r</locus>
-                     <author ref="http://lccn.loc.gov/no97004332">ProbablyAsher ben Shelomyah</author>
-                     <author>אשר בן שלמיה, מלוניל</author>
+                     <author ref="http://lccn.loc.gov/no97004332" key="person_672">ProbablyAsher ben Shelomyah</author>
+                     <author key="person_673">אשר בן שלמיה, מלוניל</author>
                      <title>The Abbreviated Duties of the Heart <foreign xml:lang="he">קצור ספר חובות הלבבות</foreign>
                      </title>
                      <colophon>
@@ -70,8 +70,8 @@
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_106-item3" n="3">
                      <locus>ff. 143r-159r</locus>
-                     <author ref="http://lccn.loc.gov/n88622071">Jonah ben Abraham Gerondi, approximately 1200-1263</author>
-                     <author>גירונדי, יונה בן אברהם</author>
+                     <author ref="http://lccn.loc.gov/n88622071" key="person_674">Jonah ben Abraham Gerondi, approximately 1200-1263</author>
+                     <author key="person_675">גירונדי, יונה בן אברהם</author>
                      <title>Sefer ha-yirʼah <foreign xml:lang="he">ספר היראה</foreign>
                      </title>
                      <colophon>
@@ -80,8 +80,8 @@
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_106-item4" n="4">
                      <locus>ff. 160-165v</locus>
-                     <author ref="http://viaf.org/viaf/7524651">Aristotle(attributed to)</author>
-                     <author>אריסטו</author>
+                     <author ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle(attributed to)</author>
+                     <author key="person_677">אריסטו</author>
                      <title>Sefer ha-Patuaḥ <foreign xml:lang="he">ספר התפוח</foreign>
                      </title>
                      <colophon>" <foreign xml:lang="he">ונשלם ביום רביעי טו ימים לחדש אב במתא בכנאסה שנת הרס"ט ליצירה</foreign> " (<locus>fol. 165v</locus>)</colophon>
@@ -176,7 +176,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

@@ -48,7 +48,7 @@
                   <summary>Mishpaṭe ha-Kokhavim (4-8)</summary>
                   <msItem xml:id="MS_Laud_Or_310-item1" n="1">
                      <locus>ff. 1-247</locus>
-                     <author>Ibn Rigal, Aliאבן רג’אל, עלי</author>
+                     <author key="person_641">Ibn Rigal, Aliאבן רג’אל, עלי</author>
                      <title>Mishpaṭe ha-Kokhavim (4-8) <foreign xml:lang="he">משפטי הכוכבים (ד-ח)</foreign>
                      </title>
                      <note>Astrological treatise written by Yosef ben R. Gedaliah Franḳo. The same scribe copied BnF MS hébr. 215 in 1398 in Portugal.</note>
@@ -156,18 +156,18 @@
             <keywords scheme="LCSH">
                <term>Portuguese language</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/39386049">Dee, John, 1527-1608</persName>
+                  <persName ref="http://viaf.org/viaf/39386049" key="person_12">Dee, John, 1527-1608</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">פרנקו, יוסף בן גדליה</persName>
+                  <persName xml:lang="he" key="person_390">פרנקו, יוסף בן גדליה</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אבולחסין עלי פילייו די אבן ראג’יאל</persName>
+                  <persName xml:lang="he" key="person_391">אבולחסין עלי פילייו די אבן ראג’יאל</persName>
                </term>
             </keywords>
          </textClass>

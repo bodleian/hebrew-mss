@@ -48,7 +48,7 @@
                   <summary>Mishpaṭe ha-kokhavim</summary>
                   <msItem xml:id="MS_Reggio-item1" n="1">
                      <locus>ff. 1r-90r</locus>
-                     <author ref="http://viaf.org/viaf/97920643">Ibn Abī al-Rijāl, ʻAlī, 1015 or 1016-1062 or 1063אבן רג’אל, עלי</author>
+                     <author ref="http://viaf.org/viaf/97920643" key="person_630">Ibn Abī al-Rijāl, ʻAlī, 1015 or 1016-1062 or 1063אבן רג’אל, עלי</author>
                      <title>Mishpaṭe ha-kokhavim (Bāriʻ fī aḥkām al-nujūm)</title>
                      <title>
                         <foreign xml:lang="he">משפטי הכוכבים</foreign>
@@ -145,7 +145,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
          </textClass>

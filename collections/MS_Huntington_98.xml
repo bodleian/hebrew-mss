@@ -48,7 +48,7 @@
                   <summary>Bet Elohim by Moses Almosnino</summary>
                   <msItem xml:id="MS_Huntington_98-item1" n="1">
                      <locus>ff. 2r-95v</locus>
-                     <author ref="http://viaf.org/viaf/100909415">Almosnino, Moses ben Baruch, approximately 1515-approximately 1580אלמושנינו, משה בן ברוך, 1518-1579</author>
+                     <author ref="http://viaf.org/viaf/100909415" key="person_635">Almosnino, Moses ben Baruch, approximately 1515-approximately 1580אלמושנינו, משה בן ברוך, 1518-1579</author>
                      <title>Bet Elohim (The House of God)</title>
                      <title>
                         <foreign xml:lang="he">בית אלהים</foreign>
@@ -96,7 +96,7 @@
                      <origDate when="1574">1574</origDate>
                   </origin>
                   <provenance>Ownership inscription: <foreign xml:lang="he">"מכסף מקנתי ... יצחק ב"ר שלמה קארא"</foreign> (fol. 2r). Fol. 1r: list of money taken by the owner to Jerusalem.</provenance>
-                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
+                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -152,21 +152,21 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>
+                  <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/84975906">Sacro Bosco, Joannes de, active 1230</persName>
+                  <persName ref="http://viaf.org/viaf/84975906" key="person_370">Sacro Bosco, Joannes de, active 1230</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">עמרם, חיים (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_371">עמרם, חיים (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">קרא, יצחק בן שלמה (בעלים)</persName>
+                  <persName xml:lang="he" key="person_372">קרא, יצחק בן שלמה (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">עפיא, אהרן (מוזכר)</persName>
+                  <persName xml:lang="he" key="person_373">עפיא, אהרן (מוזכר)</persName>
                </term>
             </keywords>
          </textClass>

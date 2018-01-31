@@ -48,7 +48,7 @@
                   <summary>Commentary on Mishnah Nezikin and Kodashim</summary>
                   <msItem xml:id="MS_Pococke_295-item1" n="1">
                      <locus>ff. 1r-300v</locus>
-                     <author ref="http://viaf.org/viaf/100185495/">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title type="desc">Commentary on Mishnah (Neziḳin and Ḳodashim) <foreign xml:lang="he">פרוש המשנה לרמב"ם בערבית (סדר נזיקין, קדשים)</foreign>
                      </title>
                      <note>Beginning with Bama Kama chapter 8. Marginal notes containing corrections and two notes (on Hulin chapter 3) of Shmuel ben Mosheh Magrabi. The first chapter of Hulin is interrupted bya leaf containing the last two verses of Exodus with Onkelos and Saadiah's Arabic translation.</note>
@@ -134,14 +134,14 @@
             <keywords scheme="#Neubauer">
                <term>Thalmud, Halakhah</term>
                <term>
-                  <persName xml:lang="he">משה בן מימון</persName>
+                  <persName xml:lang="he" key="person_156">משה בן מימון</persName>
                </term>
                <term>Commentary on Mishnah Nezikin and Kodashim.</term>
                <term xml:lang="he">
                   <title type="desc" xml:lang="he">פרוש המשנה לרמב"ם (סדר נזיקין, קדשים)</title>
                </term>
                <term>
-                  <persName xml:lang="he">אברהם כהן דקניט(?)</persName>
+                  <persName xml:lang="he" key="person_157">אברהם כהן דקניט(?)</persName>
                </term>
             </keywords>
             <keywords scheme="LCSH">
@@ -149,7 +149,7 @@
                <term>Mishnah. Nezikin</term>
                <term>Mishnah. Kodashim</term>
                <term>
-                  <persName type="aut">Maimonides, Moses,</persName>. <date calendar="#Gregorian">1135-1204</date> Autograph.</term>
+                  <persName type="aut" key="person_115">Maimonides, Moses,</persName>. <date calendar="#Gregorian">1135-1204</date> Autograph.</term>
             </keywords>
             <keywords scheme="IMHM">
                <list>

@@ -48,7 +48,7 @@
                   <summary>Mishneh Torah (Sefer Nashim) by Maimonides</summary>
                   <msItem xml:id="MS_Pococke_98-item1" n="1">
                      <locus>ff. 1r-183v</locus>
-                     <author ref="http://viaf.org/viaf/100185495/">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Mishneh Torah (Sefer Nashim) <foreign xml:lang="he">משנה תורה בערבית (ספר נשים)</foreign>
                      </title>
                      <note>Volume 1 of a 2-volume set, for volume 2 see <ref target="MS_Poc_106">MS. Poc. 106</ref>.</note>
@@ -130,16 +130,16 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">עבד אלעזיז בן תאבח (מעתיק)</persName>
+                  <persName xml:lang="he" key="person_27">עבד אלעזיז בן תאבח (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">חרבבוי, הארון הכהן (בעלים)</persName>
+                  <persName xml:lang="he" key="person_28">חרבבוי, הארון הכהן (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">צדקה בן יוסף (בעלים)</persName>
+                  <persName xml:lang="he" key="person_29">צדקה בן יוסף (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אבועלי בן מוסאן (בעלים)</persName>
+                  <persName xml:lang="he" key="person_30">אבועלי בן מוסאן (בעלים)</persName>
                </term>
             </keywords>
          </textClass>

@@ -83,12 +83,12 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_93-part1-item1" n="1">
                         <locus>ff.1r-28v</locus>
-                        <author ref="http://viaf.org/viaf/29547910">Archimedes</author>
+                        <author ref="http://viaf.org/viaf/29547910" key="person_566">Archimedes</author>
                         <title>Archimedes' two books on sphere and cylinder</title>
                         <title xml:lang="he">ספר ארשמידאה בכדור ובאצונא</title>
-                        <note>Translated into Hebrew from <persName>Qosta ben Luqa</persName>'s Arabic by Qalonymos ben Kalonymos (the revised translation).</note>
-                        <note>Written by <persName>Yitsḥaḳ ben R. Yehudah <foreign xml:lang="he">שויכאת</foreign>
-                           </persName> at <placeName>Saragossa</placeName> in the house of R. <persName>Yitsḥaḳ Kohen</persName>, finished on Tuesday the 11 of the first Adar <date calendar="#AM">5212</date> (<date calendar="#Gregorian">1452</date>)</note>
+                        <note>Translated into Hebrew from <persName key="person_193">Qosta ben Luqa</persName>'s Arabic by Qalonymos ben Kalonymos (the revised translation).</note>
+                        <note>Written by <persName key="person_194">Yitsḥaḳ ben R. Yehudah <foreign xml:lang="he">שויכאת</foreign>
+                           </persName> at <placeName key="place_12">Saragossa</placeName> in the house of R. <persName key="person_195">Yitsḥaḳ Kohen</persName>, finished on Tuesday the 11 of the first Adar <date calendar="#AM">5212</date> (<date calendar="#Gregorian">1452</date>)</note>
                         <incipit>
                            <foreign xml:lang="he">מארמישדאה אל אוסנאוס שלום. כבר פניתי אליך והראיתי וכתבתי במופת</foreign>
                         </incipit>
@@ -123,7 +123,7 @@
                         <origPlace>Saragossa (Spain)</origPlace>
                         <origDate when="1452">1452</origDate>
                      </origin>
-                     <provenance>Censors' signatures on fol. 28v: <persName>Domenico Irosolomi[ta]no</persName>; <persName>Aless[an]dre Scipione</persName> 1597. Owner's inscription on fol. 31r: <persName>Jacobus Bruschinzanus</persName>? (Roman characters)</provenance>
+                     <provenance>Censors' signatures on fol. 28v: <persName key="person_196">Domenico Irosolomi[ta]no</persName>; <persName key="person_197">Aless[an]dre Scipione</persName> 1597. Owner's inscription on fol. 31r: <persName key="person_198">Jacobus Bruschinzanus</persName>? (Roman characters)</provenance>
                   </history>
                </msPart>
                <msPart xml:id="MS_Laud_Or_93-part2" n="2">
@@ -135,8 +135,8 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_93-part2-item1" n="2">
                         <locus>ff.34v-80r</locus>
-                        <author>Jordanus Rufus</author>
-                        <author xml:lang="he">יורדנוס ריפוס</author>
+                        <author key="person_567">Jordanus Rufus</author>
+                        <author xml:lang="he" key="person_568">יורדנוס ריפוס</author>
                         <title>The Hebrew translation of Jordanus Rufus' treatise on the hyppiaritic</title>
                         <title xml:lang="he">חבור בטיפול הסוס ורפואתו</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -183,7 +183,7 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_93-part3-item1" n="3">
                         <locus>ff.81r-97v</locus>
-                        <author>Tura di Castello</author>
+                        <author key="person_569">Tura di Castello</author>
                         <title>On the use of the waters of Poreta</title>
                         <title xml:lang="he">טורה די קסטילו: התועלת ממי פורטה ולאי זה חולי טובה וסדר שתייתה</title>
                         <textLang mainLang="he" otherLangs="la">Hebrew and Latin</textLang>
@@ -215,7 +215,7 @@
                         <origPlace>[Italy]</origPlace>
                         <origDate when="1430">[ca. 1430]</origDate>
                      </origin>
-                     <provenance>Censors' signatures on fol. 97v: <persName>Domenico Irosolomi[ta]no</persName> 1597; <persName>Fra. Luigi [da Bologna]</persName>, 1597. Owner's inscription on fol. 99r: <persName>Abraham and Rafael Galiḳo</persName>
+                     <provenance>Censors' signatures on fol. 97v: <persName key="person_196">Domenico Irosolomi[ta]no</persName> 1597; <persName key="person_199">Fra. Luigi [da Bologna]</persName>, 1597. Owner's inscription on fol. 99r: <persName key="person_200">Abraham and Rafael Galiḳo</persName>
                      </provenance>
                   </history>
                </msPart>
@@ -228,24 +228,24 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_93-part4-item1" n="4">
                         <locus>ff.100v-120r</locus>
-                        <author ref="http://viaf.org/viaf/98323479">Zarqālī, Ibrāhīm ibn Yaḥyá, -1100</author>
-                        <author>זרקאלה, אברהים בן יחיא אבן</author>
-                        <title>Astronomical treatise on the tables of <persName>Ibn el-Zarqala (Azarchiel)</persName>
+                        <author ref="http://viaf.org/viaf/98323479" key="person_570">Zarqālī, Ibrāhīm ibn Yaḥyá, -1100</author>
+                        <author key="person_571">זרקאלה, אברהים בן יחיא אבן</author>
+                        <title>Astronomical treatise on the tables of <persName key="person_201">Ibn el-Zarqala (Azarchiel)</persName>
                         </title>
                         <title xml:lang="he">אגרת המעשה בלוח</title>
                         <note>Translated from Arabic into Hebrew, divided into sixty chapters, without a preface.</note>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_93-part4-item2" n="5">
                         <locus>ff.121r-142r</locus>
-                        <author ref="http://viaf.org/viaf/79269165">Ibn Tibbon, Jacob ben Machir, approximately 1236-</author>
-                        <author>יעקב בן מכיר</author>
+                        <author ref="http://viaf.org/viaf/79269165" key="person_248">Ibn Tibbon, Jacob ben Machir, approximately 1236-</author>
+                        <author key="person_549">יעקב בן מכיר</author>
                         <title>Treatise on the astrolabe in sixteen chapters</title>
                         <title xml:lang="he">רובע ישראל</title>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_93-part4-item3" n="6">
                         <locus>f.142v</locus>
-                        <author ref="http://lccn.loc.gov/n86041195">Ibn Tibbon, Jacob ben Machir, approximately 1236-</author>
-                        <author xml:lang="he">יעקב בן מכיר</author>
+                        <author ref="http://lccn.loc.gov/n86041195" key="person_248">Ibn Tibbon, Jacob ben Machir, approximately 1236-</author>
+                        <author xml:lang="he" key="person_549">יעקב בן מכיר</author>
                         <title>Treatise on the astrolabe in fourty chapters</title>
                         <note>Translated from the Arabic (see Neubauer No.2081, 1).</note>
                         <note>On fol. 33r is a note, headed <foreign xml:lang="he">אבקים נגד מגפת הבהמות</foreign>.</note>
@@ -276,7 +276,7 @@
                         <origPlace>[Sepharad]</origPlace>
                         <origDate notBefore="1401" notAfter="1425">[early 15th c.]</origDate>
                      </origin>
-                     <provenance>Censors' signatures: Gio. Dominico Carretto 1618 (f. 159v); <persName>Clemente Renatto</persName> (f. 160r); <persName>Luigi</persName>, 1600 (f. 160v)</provenance>
+                     <provenance>Censors' signatures: Gio. Dominico Carretto 1618 (f. 159v); <persName key="person_202">Clemente Renatto</persName> (f. 160r); <persName key="person_203">Luigi</persName>, 1600 (f. 160v)</provenance>
                   </history>
                </msPart>
             </msDesc>
@@ -314,7 +314,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
                <term>
                   <ref target="a3"/>
@@ -325,7 +325,7 @@
                <term target="http://lccn.loc.gov/sh85118613">Science, Medieval</term>
                <term target="http://lccn.loc.gov/sh85009022">Astronomy, Medieval</term>
                <term ref="a1">
-                  <persName>Qusṭā ibn Lūqā, approximately 820-approximately 912</persName>
+                  <persName key="person_204">Qusṭā ibn Lūqā, approximately 820-approximately 912</persName>
                </term>
             </keywords>
          </textClass>

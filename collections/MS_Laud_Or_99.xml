@@ -48,8 +48,8 @@
                   <summary>Sefer ha-Bayit ha-Ḳatsir (The Short Law of the House)</summary>
                   <msItem xml:id="MS_Laud_Or_99-item1" n="1">
                      <locus>ff. 1r-87v</locus>
-                     <author ref="http://lccn.loc.gov/n83027128">Adret, Solomon ben Abraham, 1235-1310</author>
-                     <author>אדרת, שלמה בן אברהם</author>
+                     <author ref="http://lccn.loc.gov/n83027128" key="person_91">Adret, Solomon ben Abraham, 1235-1310</author>
+                     <author key="person_531">אדרת, שלמה בן אברהם</author>
                      <title>Sefer ha-Bayit ha-Ḳatsir (The Short Law of the House)</title>
                      <title xml:lang="he">ספר תורת הבית הקצר</title>
                      <note>Without the poem. At end his formulas for various civil acts and the beginning of the enumeration of the chapters of the Mishnah.</note>
@@ -67,15 +67,15 @@
                   <handDesc>
                      <handNote scope="sole" script="italian" rend="semi-cursive">
                         <desc>Italian semi-cursive script</desc>
-                        <persName>Scribe: Perets ben Mordekhai Tsarfati</persName>
+                        <persName key="person_85">Scribe: Perets ben Mordekhai Tsarfati</persName>
                      </handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>[Northern Italy]</origPlace>
-                     <origDate when="1463">1463</origDate>. Written by <persName>Perets ben Mordekhai Tsarfati</persName> for <persName>R. Daniel מבוטרי</persName>. Finished on 17 Adar II <origDate calendar="#AM">5223</origDate> (<origDate calendar="#Gregorian">1463</origDate>).</origin>
-                  <provenance>Censors: <persName>Fra Luigi</persName> del <date calendar="#Gregorian">1600</date>, <persName>Dominico Irosolomi[ta]no</persName>, <persName>Gio[vanni] Domi[ni[co] Carretto</persName>
+                     <origDate when="1463">1463</origDate>. Written by <persName key="person_86">Perets ben Mordekhai Tsarfati</persName> for <persName key="person_87">R. Daniel מבוטרי</persName>. Finished on 17 Adar II <origDate calendar="#AM">5223</origDate> (<origDate calendar="#Gregorian">1463</origDate>).</origin>
+                  <provenance>Censors: <persName key="person_88">Fra Luigi</persName> del <date calendar="#Gregorian">1600</date>, <persName key="person_89">Dominico Irosolomi[ta]no</persName>, <persName key="person_73">Gio[vanni] Domi[ni[co] Carretto</persName>
                      <date calendar="#Gregorian">1618</date> (fol.83v).</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
@@ -128,19 +128,19 @@
             <keywords scheme="LCSH">
                <term>Jewish law</term>
                <term>
-                  <persName>Adret, Solomon ben Abraham, 1235-1310</persName>
+                  <persName key="person_91">Adret, Solomon ben Abraham, 1235-1310</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
                <term>
-                  <persName>Luigi da Bologna</persName> (censor)</term>
+                  <persName key="person_44">Luigi da Bologna</persName> (censor)</term>
                <term>
-                  <persName>Dominico Irosolimitano</persName> (censor)</term>
+                  <persName key="person_72">Dominico Irosolimitano</persName> (censor)</term>
                <term>
-                  <persName>Giovanni Domenico Carretto</persName> (censor)</term>
+                  <persName key="person_73">Giovanni Domenico Carretto</persName> (censor)</term>
             </keywords>
          </textClass>
       </profileDesc>

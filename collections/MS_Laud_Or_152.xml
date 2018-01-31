@@ -48,7 +48,7 @@
                   <summary>Mishneh Torah, Books 1-3</summary>
                   <msItem xml:id="MS_Laud_Or_152-item1" n="1">
                      <locus>ff. 1r-88v</locus>
-                     <author ref="http://viaf.org/viaf/100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Mishneh Torah (Sefer Madaʿ- Sefer Ahavah) <foreign xml:lang="he">משנה תורה (ספר מדע-אהבה)</foreign>
                      </title>
                      <note>Content: Mishneh Torah Book 1- Book 3, 3:10 (end wanting), with the Maimuni glosses.</note>
@@ -148,27 +148,27 @@
             </keywords>
             <keywords scheme="#LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName xml:lang="he">אליעזר בר שמואל הכהן</persName>
+                  <persName xml:lang="he" key="person_102">אליעזר בר שמואל הכהן</persName>
                </term>
                <term>
-                  <persName xml:lang="he">אשר בן יוסף מגינצבורג</persName>
+                  <persName xml:lang="he" key="person_103">אשר בן יוסף מגינצבורג</persName>
                </term>
                <term>
-                  <persName xml:lang="he">צדוק בן אליעזר מפרוסטיץ</persName>
+                  <persName xml:lang="he" key="person_104">צדוק בן אליעזר מפרוסטיץ</persName>
                </term>
                <term>
-                  <placeName ref="http://viaf.org/viaf/155974977">Günzburg (Germany)</placeName>
+                  <placeName ref="http://viaf.org/viaf/155974977" key="place_5">Günzburg (Germany)</placeName>
                </term>
                <term>
-                  <placeName ref=" http://viaf.org/viaf/249850896">Huttenheim (Philippsburg, Germany)</placeName>
+                  <placeName ref=" http://viaf.org/viaf/249850896" key="place_6">Huttenheim (Philippsburg, Germany)</placeName>
                </term>
                <term>
-                  <placeName ref="http://viaf.org/viaf/140781773">Prostějov (Czech Republic)</placeName>
+                  <placeName ref="http://viaf.org/viaf/140781773" key="place_7">Prostějov (Czech Republic)</placeName>
                </term>
             </keywords>
          </textClass>

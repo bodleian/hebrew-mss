@@ -77,7 +77,7 @@
                      <origPlace>[Spain]</origPlace>
                      <origDate notBefore="1332">1332</origDate>
                   </origin>
-                  <acquisition>It was one of the 35 MSS donated by <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName> to the Bodleian Library in 1678, 1680, and 1683.</acquisition>
+                  <acquisition>It was one of the 35 MSS donated by <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName> to the Bodleian Library in 1678, 1680, and 1683.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -133,7 +133,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>
+                  <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName>
                </term>
             </keywords>
          </textClass>

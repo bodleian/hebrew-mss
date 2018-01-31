@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Huntington_343-item2" n="2">
                      <locus>ff. 3r-278v</locus>
-                     <author ref="http://viaf.org/viaf/66823723">Aḥa, of Shabḥa, 680-752אחאי, משבחא, גאון, 680-752</author>
+                     <author ref="http://viaf.org/viaf/66823723" key="person_545">Aḥa, of Shabḥa, 680-752אחאי, משבחא, גאון, 680-752</author>
                      <title>Responsa <foreign xml:lang="he">שאילתות</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -91,7 +91,7 @@
                      <origDate notBefore="1401" notAfter="1500">[15th century]</origDate>
                   </origin>
                   <provenance>Ownership inscription: "Robertus Huntington" (fol. 3r)</provenance>
-                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
+                  <acquisition>It belonged to the oriental collection of <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName> (1636/7-1701), and was bought in 1693 together with 645 other MSS for £752 10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -147,7 +147,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/34684157">Robert Huntington</persName>
+                  <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName>
                </term>
             </keywords>
          </textClass>

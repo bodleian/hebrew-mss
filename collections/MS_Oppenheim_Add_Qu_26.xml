@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_405">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_392">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Digital description of MS. Oppenheim Add. 4° 26</title>
+            <title>Digital description of MS. Oppenheim Add. Qu. 26</title>
             <respStmt>
                <resp>Cataloguer</resp>
                <persName>[Name of cataloguer]</persName>
@@ -29,12 +29,12 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <idno>MS_Opp_Add_Qu_26</idno>
-            <idno type="msID">MS_Oppenheim_Add_4_26</idno>
+            <idno>MS_Oppenheim_Add_Qu_26</idno>
+            <idno type="msID">MS_Oppenheim_Add_Qu_26</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Oppenheim_Add_4_26" xml:lang="en">
+            <msDesc xml:id="MS_Oppenheim_Add_Qu_26" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -42,11 +42,10 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
-                  <idno>MS. Oppenheim Add. 4° 26</idno>
+                  <idno>MS. Oppenheim Add. Qu. 26</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Hebrew Bible: Pentateuch, Hafṭarot , Five Scrolls and Megilat Antiochus</summary>
-                  <msItem xml:id="MS_Oppenheim_Add_4_26-item1" n="1">
+                  <msItem xml:id="MS_Oppenheim_Add_Qu_26-item1" n="1">
                      <locus>ff. 3v-239v</locus>
                      <title>Hebrew Bible: Pentateuch, Hafṭarot , Five Scrolls and Megilat Antiochus ('Abravanel Pentateuch')</title>
                      <title>
@@ -62,8 +61,8 @@
                      <supportDesc material="perg">
                         <support>parchment</support>
                         <extent>ff. 240 <dimensions type="leaf" unit="mm">
-                              <height quantity="229">229</height>
-                              <width quantity="170">170</width>
+                              <height quantity="229"/>
+                              <width quantity="170"/>
                            </dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals.</foliation>
@@ -72,9 +71,6 @@
                            <catchwords>catchwords, repeated words, marked central opening</catchwords>
                         </collation>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout columns="2">Text in two columns.</layout>
-                     </layoutDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Sephardi square script.</summary>
@@ -92,13 +88,13 @@
                      <origPlace>[Spain]</origPlace>
                      <origDate when="1480">1480</origDate>
                   </origin>
-                  <provenance>Owner's inscriptions: on fol. 239v above the main colophon, by <persName key="person_167">Samuel Don Abravanel</persName>: <foreign xml:lang="he">מהנשא דון שמואל אברבנאל</foreign>. Under the colophon on fol. 239v, by Elisha Finzi: <foreign xml:lang="he">החומש הזה עם א מקרא מעשרים וארבה עם המסורת מכתיבת יד הסופר ר שמואל בר יצחק דמרינה ס"ט בקלף בשנת ... מישת אלפים רנ"א במתא אישבונה הם מה שבשארו בידי אלישע פנצי יצו מרכוש הרבה שהניחו בידי</foreign>. Owner's signature of <persName key="person_168">Naftali ha-Leṿi</persName> on fol. 2r: <foreign xml:lang="he">נפתלי הלוי</foreign> (seventeenth-century hand). Owner's signature on fol. 2r: "questo libro de la [...] Anna Levi nate Linchette (Pinchelle?)". Above this inscription another one by Anna partially erased. Ownership (?) note in Hebrew from 5264(?) (1503 or 1504) with the name of the owner erased on fol. 2r. Censor's signature on fol. 238r: "Gio. Dom[eni]co Vistorini 1609".</provenance>
+                  <provenance>Owner's inscriptions: on fol. 239v above the main colophon, by <persName key="person_167">Samuel Don Abravanel</persName>: <foreign xml:lang="he">מהנשא דון שמואל אברבנאל</foreign>. Under the colophon on fol. 239v, by Elisha Finzi: <foreign xml:lang="he">החומש הזה עם א מקרא מעשרים וארבה עם המסורת מכתיבת יד הסופר ר שמואל בר יצחק דמרינה ס"ט בקלף בשנת ... מישת אלפים רנ"א במתא אישבונה הם מה שבשארו בידי אלישע פנצי יצו מרכוש הרבה שהניחו בידי</foreign>. Owner's signature of <persName key="person_168">Naftali ha-Leṿi</persName> on fol. 2r: <foreign xml:lang="he">נפתלי הלוי</foreign> (seventeenth-century hand). Owner's signature on fol. 2r: "questo libro de la [...] Anna Levi nate Linchette (Pinchelle?)". Above this inscription another one by Anna partially erased. Ownership (?) note in Hebrew from 5264(?) (1503 or 1504) with the name of the owner erased on fol. 2r. Censor's signature on fol. 238r: "Gio. Dom[eni]co Vistorini 1609"</provenance>
                   <acquisition>It was bought in 1852 from Mr. Coombe for £12.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0039.jpg bej0040.jpg">No. 30</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0039.jpg bej0040.jpg">No. 30</ref>), <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
                            <ref facs="beo0059.jpg">No. 30</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">

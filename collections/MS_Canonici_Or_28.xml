@@ -90,8 +90,8 @@
                      <origPlace>[Northern Italy]</origPlace>
                      <origDate when="1450">[mid-15th century]</origDate>
                   </origin>
-                  <provenance>Ownership inscription by <persName>Abraham of Modena</persName>: <foreign xml:lang="he">הגיע לחלק כמ’ אברהם ממודינא כשחלק הספרי’ עם כמ’ יעקב אחיו כ"ח יונייו רס"ז</foreign> (fol. 180r); censor's signature: Fra Luigi 1599 (fol. 183v)</provenance>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <provenance>Ownership inscription by <persName key="person_212">Abraham of Modena</persName>: <foreign xml:lang="he">הגיע לחלק כמ’ אברהם ממודינא כשחלק הספרי’ עם כמ’ יעקב אחיו כ"ח יונייו רס"ז</foreign> (fol. 180r); censor's signature: Fra Luigi 1599 (fol. 183v)</provenance>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -147,12 +147,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">מודנה, אברהם (בעלים)</persName>
+                  <persName xml:lang="he" key="person_68">מודנה, אברהם (בעלים)</persName>
                </term>
             </keywords>
          </textClass>

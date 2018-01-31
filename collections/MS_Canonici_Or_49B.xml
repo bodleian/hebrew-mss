@@ -85,8 +85,8 @@
                      <origPlace>[Italy]</origPlace>
                      <origDate notBefore="1401" notAfter="1425">[early 15th century]</origDate>
                   </origin>
-                  <provenance>Various ownership inscriptions in Hebrew and Italian on fol. 1r: "questo libro o del mag. ... salamon ... ; purchase note in Hebrew on fol. 1r by <persName>Shmuel</persName>; birth notes in Hebrew and Italian on fols. 1v-2r, 221(2)v-222r. Censor's signature on fol. 221(1)v: Vicentio de Mattelica, 1622</provenance>
-                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName>Giovanni Perissinotti</persName> and <persName>Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                  <provenance>Various ownership inscriptions in Hebrew and Italian on fol. 1r: "questo libro o del mag. ... salamon ... ; purchase note in Hebrew on fol. 1r by <persName key="person_296">Shmuel</persName>; birth notes in Hebrew and Italian on fols. 1v-2r, 221(2)v-222r. Censor's signature on fol. 221(1)v: Vicentio de Mattelica, 1622</provenance>
+                  <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -141,39 +141,39 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
                <term>
-                  <placeName>Gubbio</placeName>
+                  <placeName key="place_16">Gubbio</placeName>
                </term>
                <term>
-                  <placeName>Lucignana</placeName>
+                  <placeName key="place_17">Lucignana</placeName>
                </term>
                <term>
-                  <placeName>Cagli</placeName>
+                  <placeName key="place_18">Cagli</placeName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he">הללויה, אליהו מקאלי (בעלים) ‬</persName>
+                  <persName xml:lang="he" key="person_297">הללויה, אליהו מקאלי (בעלים) ‬</persName>
                </term>
                <term>
-                  <persName xml:lang="he">מרדכי בן משה (בעלים)</persName>
+                  <persName xml:lang="he" key="person_298">מרדכי בן משה (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">שלמה מצליח (בעלים)</persName>
+                  <persName xml:lang="he" key="person_299">שלמה מצליח (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he">שמואל בן יקותיאל (בעלים)</persName>
+                  <persName xml:lang="he" key="person_300">שמואל בן יקותיאל (בעלים)</persName>
                </term>
                <term>
-                  <placeName xml:lang="he">אגוביו</placeName>
+                  <placeName xml:lang="he" key="place_19">אגוביו</placeName>
                </term>
                <term>
-                  <placeName xml:lang="he">לוציניאה</placeName>
+                  <placeName xml:lang="he" key="place_20">לוציניאה</placeName>
                </term>
                <term>
-                  <placeName xml:lang="he">קאלי</placeName>
+                  <placeName xml:lang="he" key="place_21">קאלי</placeName>
                </term>
             </keywords>
          </textClass>
