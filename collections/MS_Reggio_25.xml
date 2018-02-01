@@ -105,7 +105,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item8" n="8">
                      <locus>ff. 44r-53r</locus>
-                     <author ref="http://viaf.org/viaf/79054878" key="person_538">Abulafia, Abraham ben Samuel, 1240-approximately 1292 (attributed to)אבולעפיה, אברהם בן שמואל (מחבר משוער)</author>
+                     <author ref="http://viaf.org/viaf/79054878" key="person_4003">Abulafia, Abraham ben Samuel, 1240-approximately 1292 (attributed to)אבולעפיה, אברהם בן שמואל (מחבר משוער)</author>
                      <title>Perush Sefer yetsirah</title>
                      <title>
                         <foreign xml:lang="he">פרוש ספר יצירה</foreign>
@@ -122,7 +122,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item10" n="10">
                      <locus>ff. 60r-87r</locus>
-                     <author ref="http://viaf.org/viaf/8687273" key="person_662">Abraham ben David, of Posquières, approximately 1125-1198(attributed to)אברהם בן דוד מפוסקיר (מיוחס לו)</author>
+                     <author ref="http://viaf.org/viaf/8687273" key="person_4004">Abraham ben David, of Posquières, approximately 1125-1198(attributed to)אברהם בן דוד מפוסקיר (מיוחס לו)</author>
                      <title>Perush Sefer yetsirah</title>
                      <title>
                         <foreign xml:lang="he">פרוש ספר יצירה</foreign>
