@@ -69,6 +69,39 @@
         </xsl:choose>
     </xsl:template>
     
+    
+   
+    <xsl:template name="Footer">
+        <xsl:if test="starts-with(/TEI/@xml:id, 'volume_')">
+            <!-- Only Genizah has images (?) -->
+            <div class="footer">
+                <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/msDesc/additional/adminInfo/tei:recordHist/tei:source/tei:ref/@facs">
+                    <h3>Catalogue Images</h3>
+                    <ul>
+                        <xsl:for-each select="tokenize(normalize-space(string-join(/TEI/teiHeader/fileDesc/sourceDesc/msDesc/additional/adminInfo/tei:recordHist/tei:source/tei:ref/@facs, ' ')), ' ')">
+                            <li>
+                                <a href="{ concat('/images/catalogue/', .) }"><xsl:value-of select="substring-before(substring-after(., '_'), '.jpg')"/></a>
+                            </li>
+                        </xsl:for-each>
+                    </ul>
+                </xsl:if>
+                <xsl:if test="/TEI/facsimile/graphic">
+                    <h3>Fragment Images</h3>
+                    <p style="float:right;">
+                        <xsl:for-each select="/TEI/facsimile/graphic/@url">
+                            <xsl:variable name="jpgfilename" select="replace(., '\.tiff*$', '.jpg')"/>
+                            <xsl:variable name="fullsizefile" select="concat('/fragments/full/', $jpgfilename)"/>
+                            <xsl:variable name="thumbfile" select="concat('/fragments/thumbs/', $jpgfilename)"/>
+                            <xsl:variable name="folio" select="tokenize(substring-before($jpgfilename, '.jpg'), '_')[last()]"/>
+                            <a href="{ $fullsizefile }" title="{ $folio }" style="display: inline-block; float:right;">
+                                <img src="{ $thumbfile }" alt="Thumbnail of { $folio }" height="80"/>
+                            </a>
+                        </xsl:for-each>
+                    </p>
+                </xsl:if>
+            </div>
+        </xsl:if>
+    </xsl:template>
 
 
 </xsl:stylesheet>
