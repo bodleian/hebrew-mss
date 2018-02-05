@@ -1,4 +1,4 @@
-import module namespace bod = "http://www.bodleian.ox.ac.uk/bdlss" at "https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc2solr.xquery";
+import module namespace bod = "http://www.bodleian.ox.ac.uk/bdlss" at "https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc2solr.xquery"; 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare option saxon:output "indent=yes";
 
@@ -55,6 +55,7 @@ declare option saxon:output "indent=yes";
             { bod:physForm($x//tei:physDesc/tei:objectDesc, 'ms_physform_sm', 'Not specified') }
             { bod:languages($x//tei:sourceDesc//tei:textLang, 'ms_lang_sm', 'Not specified') }
             { bod:centuries($x//tei:origin//tei:origDate[@calendar = '#Gregorian' or (not(@calendar) and count(ancestor::tei:origin//tei:origDate) eq 1)], 'ms_date_sm', 'Not Specified') }
+            { bod:many2many($x//tei:profileDesc/tei:textClass/tei:keywords/tei:term, 'ms_subjects_sm') }
             { bod:indexHTML($htmldoc, 'ms_textcontent_tni') }
             { bod:displayHTML($htmldoc, 'display') }
         </doc>

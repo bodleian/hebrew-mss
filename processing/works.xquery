@@ -12,12 +12,12 @@ declare option saxon:output "indent=yes";
     for $work in $works
         let $id := $work/@xml:id/string()
         let $title := normalize-space($work//tei:title[@type="uniform"][1]/string())
+        let $variants := $work//tei:title[@type="variant"]
         let $targetids := (for $i in $work/tei:ref/@target/string() return $i)
         let $mss1 := $collection1//tei:TEI[.//tei:msItem[@xml:id = $targetids]]
         let $mss2 := $collection2//tei:TEI[.//tei:msItem[@xml:id = $targetids]]
         let $mss := ($mss1, $mss2)
-        let $lang := $work/tei:textLang/string(@mainLang)
-        let $subjects := distinct-values($work/tei:note[@type = "subject"]/string())
+        
 
         return if (count($mss) > 0) then
         <doc>
@@ -26,6 +26,11 @@ declare option saxon:output "indent=yes";
             <field name="id">{ $id }</field>
             <field name="title">{ $title }</field>
             <field name="wk_title_s">{ $title }</field>
+            { for $variant in $variants
+                let $vname := normalize-space($variant/string())
+                order by $vname
+                return <field name="wk_variant_sm">{ $vname }</field>
+            }
             <field name="alpha_title">{ 
                 if (contains($title, ':')) then
                     bod:alphabetize($title)
@@ -43,8 +48,7 @@ declare option saxon:output "indent=yes";
         </doc>
         else
             (
-            (:bod:logging('info', 'Skipping work in works.xml but not in any manuscript', ($id, $title)):)
-            bod:logging('warn', $id, $targetids)
+            bod:logging('info', 'Skipping work in works.xml but not in any manuscript', ($id, $title))
             )
 }
 
