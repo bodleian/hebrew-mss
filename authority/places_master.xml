@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place xml:id="place_46">
+               <placeName type="index" source="bodl">.. שעל לשון ים מצרים</placeName>
+               <ref>/catalog/volume_4|MS. Heb. a. 2</ref>
+            </place>
+            <place xml:id="place_48">
+               <placeName type="index" source="bodl #TYPED">Alexandria</placeName>
+               <ref>/catalog/volume_15|MS. Heb. b. 3</ref>
+               <ref>/catalog/volume_4|MS. Heb. a. 2</ref>
+               <ref>/catalog/volume_95|MS. Heb. d. 76</ref>
+            </place>
+            <place xml:id="place_4">
+               <placeName type="index" source="#IMHM">Avignon</placeName>
+               <ref>/catalog/manuscript_297|MS. Canonici Or. 79</ref>
+            </place>
+            <place xml:id="place_64">
+               <placeName type="index" source="bodl">Baghdad</placeName>
+               <ref>/catalog/volume_106|MS. Heb. e. 105</ref>
+               <ref>/catalog/volume_183|MS. Heb. f. 26</ref>
+            </place>
+            <place xml:id="place_83">
+               <placeName type="index" source="bodl">Bombay</placeName>
+               <ref>/catalog/volume_106|MS. Heb. e. 105</ref>
+            </place>
+            <place xml:id="place_77">
+               <placeName type="index" source="#TYPED">Caesarea</placeName>
+               <ref>/catalog/volume_93|MS. Heb. d. 74</ref>
+            </place>
+            <place xml:id="place_18">
+               <placeName type="index" source="LCSH">Cagli</placeName>
+               <ref>/catalog/manuscript_264|MS. Canonici Or. 49B</ref>
+            </place>
+            <place xml:id="place_52">
+               <placeName type="index" source="bodl">Cairo</placeName>
+               <ref>/catalog/volume_179|MS. Heb. f. 22</ref>
+               <ref>/catalog/volume_206|MS. Heb. f. 56</ref>
+            </place>
+            <place xml:id="place_2">
+               <placeName type="index" source="LCSH">Carpentras (France)</placeName>
+               <ref>/catalog/manuscript_408|MS. Oppenheim Add. 8° 14</ref>
+            </place>
+            <place xml:id="place_8">
+               <placeName type="index" source="bodl">Chios</placeName>
+               <ref>/catalog/manuscript_269|MS. Canonici Or. 53</ref>
+            </place>
+            <place xml:id="place_79">
+               <placeName type="index" source="bodl">Damascus</placeName>
+               <ref>/catalog/volume_94|MS. Heb. d. 75</ref>
+            </place>
+            <place xml:id="place_66">
+               <placeName type="index" source="bodl">Damietta</placeName>
+               <ref>/catalog/volume_15|MS. Heb. b. 3</ref>
+            </place>
+            <place xml:id="place_3">
+               <placeName type="index" source="bodl">Edmundbury</placeName>
+               <ref>/catalog/manuscript_352|MS. Laud Or. 174</ref>
+            </place>
+            <place xml:id="place_55">
+               <placeName type="index" source="bodl #TYPED">Egypt</placeName>
+               <ref>/catalog/volume_35|MS. Heb. c. 27</ref>
+               <ref>/catalog/volume_92|MS. Heb. d. 73</ref>
+               <ref>/catalog/volume_94|MS. Heb. d. 75</ref>
+               <ref>/catalog/volume_95|MS. Heb. d. 76</ref>
+               <ref>/catalog/volume_99|MS. Heb. d. 80</ref>
+            </place>
+            <place xml:id="place_54">
+               <placeName type="index" source="bodl #INDEX #TYPED">Fez</placeName>
+               <ref>/catalog/volume_162|MS. Heb. e. 98</ref>
+               <ref>/catalog/volume_191|MS. Heb. f. 34</ref>
+               <ref>/catalog/volume_95|MS. Heb. d. 76</ref>
+            </place>
+            <place xml:id="place_41">
+               <placeName type="index" source="bodl #TYPED">Fostat</placeName>
+               <placeName type="variant" source="bodl">Fostat on the Nile</placeName>
+               <placeName type="variant" source="bodl">Fustat</placeName>
+               <ref>/catalog/volume_158|MS. Heb. e. 94</ref>
+               <ref>/catalog/volume_4|MS. Heb. a. 2</ref>
+               <ref>/catalog/volume_11|MS. Heb. b. 13</ref>
+               <ref>/catalog/volume_15|MS. Heb. b. 3</ref>
+               <ref>/catalog/volume_162|MS. Heb. e. 98</ref>
+               <ref>/catalog/volume_206|MS. Heb. f. 56</ref>
+               <ref>/catalog/volume_25|MS. Heb. c. 13</ref>
+               <ref>/catalog/volume_4|MS. Heb. a. 2</ref>
+               <ref>/catalog/volume_73|MS. Heb. d. 48</ref>
+               <ref>/catalog/volume_94|MS. Heb. d. 75</ref>
+               <ref>/catalog/volume_95|MS. Heb. d. 76</ref>
+            </place>
+            <place xml:id="place_23">
+               <placeName type="index" source="LCSH">Fürth (Bavaria, Germany)</placeName>
+               <ref>/catalog/manuscript_354|MS. Laud Or. 233</ref>
+            </place>
+            <place xml:id="place_16">
+               <placeName type="index" source="LCSH">Gubbio</placeName>
+               <ref>/catalog/manuscript_264|MS. Canonici Or. 49B</ref>
+            </place>
+            <place xml:id="place_5">
+               <placeName type="index" source="IMHM">Günzburg (Germany)</placeName>
+               <ref>/catalog/manuscript_346|MS. Laud Or. 152</ref>
+            </place>
+            <place xml:id="place_6">
+               <placeName type="index" source="IMHM">Huttenheim (Philippsburg, Germany)</placeName>
+               <ref>/catalog/manuscript_346|MS. Laud Or. 152</ref>
+            </place>
+            <place xml:id="place_22">
+               <placeName type="index" source="LCSH">Ichenhausen (Germany)</placeName>
+               <ref>/catalog/manuscript_354|MS. Laud Or. 233</ref>
+            </place>
+            <place xml:id="place_38">
+               <placeName type="index" source="bodl">Jerusalem</placeName>
+               <ref>/catalog/volume_25|MS. Heb. c. 13</ref>
+               <ref>/catalog/volume_62|MS. Heb. d. 36</ref>
+               <ref>/catalog/volume_93|MS. Heb. d. 74</ref>
+            </place>
+            <place xml:id="place_69">
+               <placeName type="index" source="bodl">Kahira near Fostat</placeName>
+               <ref>/catalog/volume_15|MS. Heb. b. 3</ref>
+            </place>
+            <place xml:id="place_49">
+               <placeName type="index" source="bodl #TYPED">Kairowan</placeName>
+               <ref>/catalog/volume_37|MS. Heb. c. 50</ref>
+               <ref>/catalog/volume_4|MS. Heb. a. 2</ref>
+            </place>
+            <place xml:id="place_33">
+               <placeName type="index" source="LCSH">Krakow</placeName>
+               <ref>/catalog/manuscript_376|MS. Michael 619</ref>
+            </place>
+            <place xml:id="place_17">
+               <placeName type="index" source="LCSH">Lucignana</placeName>
+               <ref>/catalog/manuscript_264|MS. Canonici Or. 49B</ref>
+            </place>
+            <place xml:id="place_31">
+               <placeName type="index" source="bodl">Macerata</placeName>
+               <ref>/catalog/manuscript_10|MS. Kennicott 8</ref>
+            </place>
+            <place xml:id="place_78">
+               <placeName type="index" source="bodl">Narbonne</placeName>
+               <ref>/catalog/volume_203|MS. Heb. f. 48</ref>
+            </place>
+            <place xml:id="place_36">
+               <placeName type="index" source="LCSH">Nuremberg (Germany)</placeName>
+               <ref>/catalog/manuscript_356|MS. Laud Or. 269</ref>
+            </place>
+            <place xml:id="place_63">
+               <placeName type="index" source="bodl">Palestine</placeName>
+               <placeName type="variant" source="#INDEX">Palestine (ארץ ישראל)</placeName>
+               <ref>/catalog/volume_89|MS. Heb. d. 66</ref>
+               <ref>/catalog/volume_183|MS. Heb. f. 26</ref>
+            </place>
+            
+            <place xml:id="place_24">
+               <placeName type="index" source="LCSH">Prague (Czech Republic)</placeName>
+               <ref>/catalog/manuscript_354|MS. Laud Or. 233</ref>
+            </place>
+            <place xml:id="place_7">
+               <placeName type="index" source="IMHM">Prostějov (Czech Republic)</placeName>
+               <ref>/catalog/manuscript_346|MS. Laud Or. 152</ref>
+            </place>
+            <place xml:id="place_61">
+               <placeName type="index" source="#INDEX">Pumbeditha</placeName>
+               <ref>/catalog/volume_191|MS. Heb. f. 34</ref>
+            </place>
+            <place xml:id="place_15">
+               <placeName type="index" source="#IMHM">Rimini (Italy)</placeName>
+               <ref>/catalog/manuscript_306|MS. Canonici Or. 87</ref>
+            </place>
+            <place xml:id="place_35">
+               <placeName type="index" source="bodl">Rome</placeName>
+               <ref>/catalog/manuscript_338|MS. Laud Or. 105</ref>
+            </place>
+            <place xml:id="place_12">
+               <placeName type="index" source="bodl">Saragossa</placeName>
+               <ref>/catalog/manuscript_19|MS. Laud Or. 93</ref>
+            </place>
+            <place xml:id="place_84">
+               <placeName type="index" source="bodl">Siena</placeName>
+               <ref>/catalog/volume_106|MS. Heb. e. 105</ref>
+            </place>
+            <place xml:id="place_76">
+               <placeName type="index" source="#TYPED">Sombat</placeName>
+               <ref>/catalog/volume_93|MS. Heb. d. 74</ref>
+            </place>
+            <place xml:id="place_62">
+               <placeName type="index" source="#INDEX">Spain</placeName>
+               <ref>/catalog/volume_191|MS. Heb. f. 34</ref>
+            </place>
+            <place xml:id="place_1">
+               <placeName type="index" source="LCSH">Ṣanʻāʼ (Yemen)</placeName>
+               <ref>/catalog/manuscript_406|MS. Oppenheim Add. 4° 97a</ref>
+            </place>
+            <place xml:id="place_14">
+               <placeName type="index" source="#IMHM">Tanam (Yemen)</placeName>
+               <ref>/catalog/manuscript_401|MS. Oppenheim Add. 4° 124a</ref>
+            </place>
+            <place xml:id="place_34">
+               <placeName type="index" source="LCSH">Ternopilʹ (Ukraine)</placeName>
+               <ref>/catalog/manuscript_452|MS. Reggio 36</ref>
+            </place>
+            <place xml:id="place_39">
+               <placeName type="index" source="bodl">Tiberias</placeName>
+               <ref>/catalog/volume_25|MS. Heb. c. 13</ref>
+            </place>
+            <place xml:id="place_65">
+               <placeName type="index" source="bodl #TYPED">Tripoli</placeName>
+               <ref>/catalog/volume_43|MS. Heb. c. 56</ref>
+            </place>
+            <place xml:id="place_80">
+               <placeName type="index" source="bodl #TYPED">Tyre</placeName>
+               <ref>/catalog/volume_94|MS. Heb. d. 75</ref>
+            </place>
+            <place xml:id="place_32">
+               <placeName type="index" source="bodl">Venice</placeName>
+               <ref>/catalog/manuscript_362|MS. Laud Or. 314</ref>
+            </place>
+            <place xml:id="place_43">
+               <placeName type="index" source="#INDEX">Vitry</placeName>
+               <ref>/catalog/volume_60|MS. Heb. d. 34</ref>
+            </place>
+            <place xml:id="place_19">
+               <placeName type="index" source="#IMHM">אגוביו</placeName>
+               <ref>/catalog/manuscript_264|MS. Canonici Or. 49B</ref>
+            </place>
+            <place xml:id="place_67">
+               <placeName type="index" source="bodl">אי כפתור at the mouth of the Nile</placeName>
+               <ref>/catalog/volume_15|MS. Heb. b. 3</ref>
+            </place>
+            <place xml:id="place_10">
+               <placeName type="index" source="#IMHM">אייכישלן</placeName>
+               <ref>/catalog/manuscript_395|MS. Oppenheim 248</ref>
+            </place>
+            <place xml:id="place_9">
+               <placeName type="index" source="#IMHM">אייסרליץ</placeName>
+               <ref>/catalog/manuscript_395|MS. Oppenheim 248</ref>
+            </place>
+            <place xml:id="place_25">
+               <placeName type="index" source="IMHM">איכהוזן</placeName>
+               <ref>/catalog/manuscript_354|MS. Laud Or. 233</ref>
+            </place>
+            <place xml:id="place_56">
+               <placeName type="index" source="bodl">אלמעאינה</placeName>
+               <ref>/catalog/volume_121|MS. Heb. e. 32</ref>
+            </place>
+            <place xml:id="place_82">
+               <placeName type="index" source="bodl">אלפסטאט</placeName>
+               <ref>/catalog/volume_94|MS. Heb. d. 75</ref>
+            </place>
+            <place xml:id="place_74">
+               <placeName type="index" source="bodl">אלקדס</placeName>
+               <ref>/catalog/volume_93|MS. Heb. d. 74</ref>
+            </place>
+            <place xml:id="place_53">
+               <placeName type="index" source="bodl">אשקלון דעל גב ימא רבא מותבה</placeName>
+               <ref>/catalog/volume_162|MS. Heb. e. 98</ref>
+            </place>
+            <place xml:id="place_70">
+               <placeName type="index" source="bodl">בזוילה אלמהדיה</placeName>
+               <ref>/catalog/volume_15|MS. Heb. b. 3</ref>
+            </place>
+            <place xml:id="place_68">
+               <placeName type="index" source="bodl">בלביס</placeName>
+               <ref>/catalog/volume_15|MS. Heb. b. 3</ref>
+            </place>
+            <place xml:id="place_59">
+               <placeName type="index" source="bodl">דאר בן לפאחה</placeName>
+               <ref>/catalog/volume_158|MS. Heb. e. 94</ref>
+            </place>
+            <place xml:id="place_45">
+               <placeName type="index" source="bodl">חנס מצרים</placeName>
+               <ref>/catalog/volume_4|MS. Heb. a. 2</ref>
+            </place>
+            <place xml:id="place_30">
+               <placeName type="index" source="IMHM">לה קרוניא</placeName>
+               <ref>/catalog/manuscript_2|MS. Kennicott 1</ref>
+            </place>
+            <place xml:id="place_20">
+               <placeName type="index" source="#IMHM">לוציניאה</placeName>
+               <ref>/catalog/manuscript_264|MS. Canonici Or. 49B</ref>
+            </place>
+            <place xml:id="place_26">
+               <placeName type="index" source="IMHM">ליכטנשטאט</placeName>
+               <ref>/catalog/manuscript_354|MS. Laud Or. 233</ref>
+            </place>
+            <place xml:id="place_44">
+               <placeName type="index" source="bodl">מדינת ברקה</placeName>
+               <ref>/catalog/volume_4|MS. Heb. a. 2</ref>
+            </place>
+            <place xml:id="place_42">
+               <placeName type="index" source="bodl">מעזיה אלקאהרה</placeName>
+               <ref>/catalog/volume_25|MS. Heb. c. 13</ref>
+            </place>
+            <place xml:id="place_73">
+               <placeName type="index" source="bodl">סומבאט</placeName>
+               <ref>/catalog/volume_93|MS. Heb. d. 74</ref>
+            </place>
+            <place xml:id="place_13">
+               <placeName type="index" source="#IMHM">סרקוסא</placeName>
+               <ref>/catalog/manuscript_327|MS. Huntington 299</ref>
+            </place>
+            <place xml:id="place_27">
+               <placeName type="index" source="IMHM">פיורדא</placeName>
+               <ref>/catalog/manuscript_354|MS. Laud Or. 233</ref>
+            </place>
+            <place xml:id="place_28">
+               <placeName type="index" source="IMHM">פלון</placeName>
+               <ref>/catalog/manuscript_354|MS. Laud Or. 233</ref>
+            </place>
+            <place xml:id="place_29">
+               <placeName type="index" source="IMHM">פראג</placeName>
+               <ref>/catalog/manuscript_354|MS. Laud Or. 233</ref>
+            </place>
+            <place xml:id="place_37">
+               <placeName type="index" source="bodl">צוען</placeName>
+               <ref>/catalog/volume_69|MS. Heb. d. 44</ref>
+            </place>
+            <place xml:id="place_21">
+               <placeName type="index" source="#IMHM">קאלי</placeName>
+               <ref>/catalog/manuscript_264|MS. Canonici Or. 49B</ref>
+            </place>
+            <place xml:id="place_75">
+               <placeName type="index" source="bodl">קיסאריה</placeName>
+               <ref>/catalog/volume_93|MS. Heb. d. 74</ref>
+            </place>
+            <place xml:id="place_57">
+               <placeName type="index" source="bodl #TYPED">קסיא</placeName>
+               <ref>/catalog/volume_99|MS. Heb. d. 80</ref>
+            </place>
+            <place xml:id="place_11">
+               <placeName type="index" source="#IMHM">קעלין</placeName>
+               <ref>/catalog/manuscript_395|MS. Oppenheim 248</ref>
+            </place>
+            <place xml:id="place_58">
+               <placeName type="index" source="bodl">קצר אלשמע</placeName>
+               <ref>/catalog/volume_158|MS. Heb. e. 94</ref>
+            </place>
+            <place xml:id="place_72">
+               <placeName type="index" source="bodl">רמלה</placeName>
+               <ref>/catalog/volume_15|MS. Heb. b. 3</ref>
+            </place>
+            <place xml:id="place_40">
+               <placeName type="index" source="bodl">רקת</placeName>
+               <ref>/catalog/volume_25|MS. Heb. c. 13</ref>
+            </place>
+            <place xml:id="place_71">
+               <placeName type="index" source="bodl">תם בית אלוסט</placeName>
+               <ref>/catalog/volume_15|MS. Heb. b. 3</ref>
+            </place>
+            <place xml:id="place_81">
+               <placeName type="index" source="bodl #TYPED">תניס</placeName>
+               <ref>/catalog/volume_94|MS. Heb. d. 75</ref>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
