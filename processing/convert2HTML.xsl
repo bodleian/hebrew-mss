@@ -71,13 +71,13 @@
     
     
    
-    <xsl:template name="Footer">
+    <xsl:template name="AdditionalContent">
         <xsl:if test="starts-with(/TEI/@xml:id, 'volume_')">
-            <!-- Only Genizah has images (?) -->
-            <div class="footer">
+            <!-- Currently only Genizah has images -->
+            <div class="additional_content">
                 <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/msDesc/additional/adminInfo/tei:recordHist/tei:source/tei:ref/@facs">
                     <h3>Catalogue Images</h3>
-                    <ul>
+                    <ul style="list-style-type:none;">
                         <xsl:for-each select="tokenize(normalize-space(string-join(/TEI/teiHeader/fileDesc/sourceDesc/msDesc/additional/adminInfo/tei:recordHist/tei:source/tei:ref/@facs, ' ')), ' ')">
                             <li>
                                 <a href="{ concat('/images/catalogue/', .) }"><xsl:value-of select="substring-before(substring-after(., '_'), '.jpg')"/></a>
