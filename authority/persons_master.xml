@@ -3208,14 +3208,11 @@
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_e_94.xml -->
             </person>
             <person xml:id="person_1947">
-               <persName type="display">David Qamḥi</persName>
+               <persName type="display">David Qimhi</persName>
+               <persName type="variant">David Qamḥi</persName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_c_54.xml -->
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_27.xml -->
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_75.xml -->
-               <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_79.xml -->
-            </person>
-            <person xml:id="person_1939">
-               <persName type="display">David Qimhi</persName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_79.xml -->
             </person>
             <person xml:id="person_3034">
