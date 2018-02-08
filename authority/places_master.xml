@@ -237,7 +237,8 @@
                <!-- Found in: ../collections/MS_Canonici_Or_49B.xml -->
             </place>
             <place xml:id="place_67">
-               <placeName type="index" source="bodl">אי כפתור at the mouth of the Nile</placeName>
+               <placeName type="index" source="bodl">Kaftor Island at the mouth of the Nile</placeName>
+               <placeName type="variant" source="bodl">אי כפתור at the mouth of the Nile</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_b_3.xml -->
             </place>
             <place xml:id="place_10">
