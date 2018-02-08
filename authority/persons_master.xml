@@ -2955,21 +2955,15 @@
                <persName type="display">Calimani, Simon, 1699-1784</persName>
                <!-- Found in: ../collections/MS_Reggio_47.xml -->
             </person>
-            <person xml:id="person_312">
-               <persName type="display">Camillo Jagel</persName>
-               <!-- Found in: ../collections/MS_Canonici_Or_16.xml -->
-            </person>
             <person xml:id="person_43">
                <persName type="display">Camillo Jaghel</persName>
-               <persName type="variant">"Camillo Jaghel</persName>
+               <persName type="variant">Camillo Jagel</persName>
+               <persName type="variant">Cammillo Jaghel</persName>
+               <!-- Found in: ../collections/MS_Canonici_Or_16.xml -->
                <!-- Found in: ../collections/MS_Canonici_Or_62.xml -->
                <!-- Found in: ../collections/MS_Canonici_Or_67.xml -->
                <!-- Found in: ../collections/MS_Canonici_Or_68.xml -->
                <!-- Found in: ../collections/MS_Canonici_Or_79.xml -->
-            </person>
-            <person xml:id="person_309">
-               <persName type="display">Cammillo Jaghel</persName>
-               <!-- Found in: ../collections/MS_Canonici_Or_16.xml -->
             </person>
             <person xml:id="person_3">
                <persName type="display">Canonici, Matteo Luigi, 1727-1805</persName>
