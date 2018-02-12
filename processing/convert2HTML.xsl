@@ -39,18 +39,23 @@
                 </a>
             </td>
             <td>
-                <xsl:if test="ancestor::msPart or .//locus">
-                    <xsl:if test="ancestor::msPart and (ancestor::msPart//msItem[title])[1]/@xml:id = @xml:id">
-                        <a href="{ concat('#', ancestor::msPart[1]/@xml:id) }">
-                            <xsl:text>Part </xsl:text>
-                            <xsl:value-of select="ancestor::msPart[1]/@n"/>
-                        </a>
-                        <xsl:if test=".//locus">
-                            <br/>
+                <xsl:choose>
+                    <xsl:when test="ancestor::msPart or .//locus">
+                        <xsl:if test="ancestor::msPart and (ancestor::msPart//msItem[title])[1]/@xml:id = @xml:id">
+                            <a href="{ concat('#', ancestor::msPart[1]/@xml:id) }">
+                                <xsl:text>Part </xsl:text>
+                                <xsl:value-of select="ancestor::msPart[1]/@n"/>
+                            </a>
+                            <xsl:if test=".//locus">
+                                <br/>
+                            </xsl:if>
                         </xsl:if>
-                    </xsl:if>
-                    <xsl:apply-templates select="(.//locus)[1]" mode="fraglist"/>
-                </xsl:if>
+                        <xsl:apply-templates select="(.//locus)[1]" mode="fraglist"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <br/>
+                    </xsl:otherwise>
+                </xsl:choose>
             </td>
         </tr>
     </xsl:template>
