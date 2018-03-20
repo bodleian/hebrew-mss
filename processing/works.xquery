@@ -37,7 +37,7 @@ declare option saxon:output "indent=yes";
                 else
                     bod:alphabetizeTitle($title)
             }</field>
-            { bod:languages($work/tei:textLang, 'wk_lang_sm') }
+            { bod:languages($work/tei:textLang, 'ms_lang_sm') }
             { for $ms in $mss
                 let $msid := $ms/string(@xml:id)
                 let $url := concat("/catalog/", $msid[1])
