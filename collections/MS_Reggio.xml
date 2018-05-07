@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_435">
@@ -30,11 +30,11 @@
                </address>
             </pubPlace>
             <idno>MS_Reggio_12</idno>
-            <idno type="msID">MS_Reggio</idno>
+            <idno type="msID">MS_Reggio_12</idno>
             <idno type="catalogue">Hebrew</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Reggio" xml:lang="en">
+            <msDesc xml:id="MS_Reggio_12" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -42,11 +42,11 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
-                  <idno>MS. Reggio</idno>
+                  <idno>MS. Reggio_12</idno>
                </msIdentifier>
                <msContents>
                   <summary>Mishpaṭe ha-kokhavim</summary>
-                  <msItem xml:id="MS_Reggio-item1" n="1">
+                  <msItem xml:id="MS_Reggio_12-item1" n="1">
                      <locus>ff. 1r-90r</locus>
                      <author ref="http://viaf.org/viaf/97920643" key="person_630">Ibn Abī al-Rijāl, ʻAlī, 1015 or 1016-1062 or 1063אבן רג’אל, עלי</author>
                      <title>Mishpaṭe ha-kokhavim (Bāriʻ fī aḥkām al-nujūm)</title>
