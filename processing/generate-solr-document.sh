@@ -72,7 +72,7 @@ if [ ! "$5" == "noindex" ]; then
     # being indexed; so if we're indexing organizations, then, skip the empty step.
     if [ ! $1 == "organizations.xquery" ]; then
         echo "Emptying Solr of $3 records..."
-        curl -fsS "http://${4}:8983/solr/hebrew-mss/update?stream.body=<delete><query>type:${3}</query></delete>&commit=true" 1>> $LOGFILE 2>> $LOGFILE
+        curl -X POST -fsS "http://${4}:8983/solr/hebrew-mss/update?commit=true" --data-binary "<delete><query>type:${3}</query></delete>" -H "Content-Type: text/xml" 1>> $LOGFILE 2>> $LOGFILE
     fi
 
     # Upload generated XML to Solr
