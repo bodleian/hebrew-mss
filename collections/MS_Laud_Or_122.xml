@@ -137,7 +137,7 @@
                         <handNote scope="sole" script="italian" rend="cursive">At least two hands: hand 1: ff. 1-137r; hand 2: ff. 138r-140v middle of line 11 (rest of the page written by hand 1)</handNote>
                      </handDesc>
                      <decoDesc>
-                        <decoNote type="other">Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                      <additions>
                         <p>Blank folios: ff. 117v-124v; 141r-143v</p>
@@ -227,7 +227,7 @@
                         <handNote scope="sole" script="italian" rend="cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote type="other">Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>

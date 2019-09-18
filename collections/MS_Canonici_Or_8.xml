@@ -112,7 +112,7 @@
                         <handNote scope="major" script="ashkenazi" rend="semi-cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote>Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
@@ -157,7 +157,7 @@
                         <handNote scope="major" script="ashkenazi" rend="semi-cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote>Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>

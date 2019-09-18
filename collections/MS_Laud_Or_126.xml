@@ -75,7 +75,7 @@
                      <handNote scope="major" script="ashkenazi" rend="semi-cursive"/>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>Not decorated.</decoNote>
+                     <decoNote type="none">Not decorated.</decoNote>
                   </decoDesc>
                   <bindingDesc>
                      <p>Soft parchment binding.</p>

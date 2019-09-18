@@ -79,7 +79,7 @@
                      <handNote scope="minor" script="byzantine" rend="square"/>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>Not decorated.</decoNote>
+                     <decoNote type="none">Not decorated.</decoNote>
                   </decoDesc>
                   <bindingDesc>
                      <p>Light brown leather binding, blind tooled.</p>

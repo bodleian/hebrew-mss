@@ -76,7 +76,7 @@
                      <handNote scope="minor" script="italian" rend="cursive"/>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>Not decorated.</decoNote>
+                     <decoNote type="none">Not decorated.</decoNote>
                   </decoDesc>
                   <bindingDesc>
                      <p>Light leather binding, blind-tooled.</p>

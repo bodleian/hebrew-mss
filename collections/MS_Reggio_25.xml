@@ -182,7 +182,7 @@
                      <handNote scope="sole" script="italian" rend="cursive"/>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>Not decorated.</decoNote>
+                     <decoNote type="none">Not decorated.</decoNote>
                   </decoDesc>
                   <bindingDesc>
                      <p>Brown paper binding.</p>

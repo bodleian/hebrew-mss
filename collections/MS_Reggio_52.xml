@@ -120,7 +120,7 @@
                         <handNote scope="sole" script="rashi" rend="semi-cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote>Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
@@ -205,7 +205,7 @@
                         <handNote scope="minor" script="italian" rend="cursive">Italian cursive script on fols. 53-54.</handNote>
                      </handDesc>
                      <decoDesc>
-                        <decoNote>Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>

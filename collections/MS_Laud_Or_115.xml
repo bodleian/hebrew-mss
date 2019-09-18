@@ -122,7 +122,7 @@
                         <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote>Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
@@ -200,7 +200,7 @@
                         <handNote scope="sole" script="sephardi" rend="cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote>Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>

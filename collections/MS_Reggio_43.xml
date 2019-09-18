@@ -170,7 +170,7 @@
                         <handNote scope="sole" script="rashi"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote type="other">Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
@@ -221,7 +221,7 @@
                         <handNote scope="sole" script="italian" rend="semi-cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote type="other">Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
@@ -289,7 +289,7 @@
                         <handNote scope="sole" script="italian" rend="cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote type="other">Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
@@ -335,7 +335,7 @@
                         <handNote scope="sole" script="byzantine" rend="semi-cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote type="other">Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                </msPart>

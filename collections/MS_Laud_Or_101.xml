@@ -137,7 +137,7 @@
                         <handNote scope="sole" script="italian" rend="semi-cursive">Each work by a different hand (no. 3, last lines of fols. 93v-94r in two different hands, fols. 94v-98v in a very cursive script).</handNote>
                      </handDesc>
                      <decoDesc>
-                        <decoNote>Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
@@ -212,7 +212,7 @@
                         <handNote scope="sole" script="italian" rend="semi-cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote>Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
@@ -270,7 +270,7 @@
                         <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
                      </handDesc>
                      <decoDesc>
-                        <decoNote>Not decorated.</decoNote>
+                        <decoNote type="none">Not decorated.</decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
