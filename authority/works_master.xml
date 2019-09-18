@@ -13716,13 +13716,6 @@
                <!-- ../../genizah-mss/collections/MS_Heb_f_56.xml#MS_Heb_f_56-part13-item1 -->
                <textLang mainLang="he"/>
             </bibl>
-            <bibl xml:id="work_138">
-               <title type="uniform">Liturgical poems</title>
-               <title type="variant">פיוטים</title>
-               <ref target="MS_Huntington_343-item1"/>
-               <!-- ../../hebrew-mss/collections/MS_Huntington_343.xml#MS_Huntington_343-item1 -->
-               <textLang mainLang="he"/>
-            </bibl>
             <bibl xml:id="work_1474">
                <title type="uniform">Liturgical rules in Arabic</title>
                <ref target="MS_Heb_d_63-part32-item1"/>
@@ -21459,8 +21452,8 @@
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_2133">
-               <title type="uniform">פיוטים</title>
-               <title type="variant">Liturgical poems</title>
+               <title type="uniform">Liturgical poems</title>
+               <title type="variant">פיוטים</title>
                <ref target="MS_Heb_e_93-part59-item1"/>
                <!-- ../../genizah-mss/collections/MS_Heb_e_93.xml#MS_Heb_e_93-part59-item1 -->
                <ref target="MS_Heb_e_93-part62-item1"/>
@@ -21531,8 +21524,8 @@
                <!-- ../../genizah-mss/collections/MS_Heb_d_42.xml#MS_Heb_d_42-part4-item1-item3 -->
             </bibl>
             <bibl xml:id="work_804">
-               <title type="uniform">קינה</title>
-               <title type="variant">Ḳinah</title>
+               <title type="uniform">Ḳinah</title>
+               <title type="variant">קינה</title>
                <ref target="MS_Canonici_Or_97-item3"/>
                <!-- ../../hebrew-mss/collections/MS_Canonici_Or_97.xml#MS_Canonici_Or_97-item3 -->
                <ref target="MS_Heb_d_63-part43-item1"/>
@@ -21842,13 +21835,6 @@
                <title type="variant">קערת הכסף</title>
                <ref target="MS_Canonici_Or_109-item4"/>
                <!-- ../../hebrew-mss/collections/MS_Canonici_Or_109.xml#MS_Canonici_Or_109-item4 -->
-               <textLang mainLang="he"/>
-            </bibl>
-            <bibl xml:id="work_188">
-               <title type="uniform">Ḳinah</title>
-               <title type="variant">קינה</title>
-               <ref target="MS_Canonici_Or_97-item3"/>
-               <!-- ../../hebrew-mss/collections/MS_Canonici_Or_97.xml#MS_Canonici_Or_97-item3 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_59">
