@@ -92,7 +92,7 @@
                   </origin>
                   <acquisition>It belonged to Rabbi Isaac Samuel Reggio's (1784-1855) library, which was purchased en bloc by the Bodleian Library in 1853.</acquisition>
                </history>
-               <additional>
+               <additional><surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/1b31feda-8e1e-4c3c-ac0b-86d6f3ce10a4"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl></surrogates>
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886 <ref facs="bej0387.jpg">No. 2045</ref>

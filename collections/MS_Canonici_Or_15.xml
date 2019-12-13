@@ -109,7 +109,7 @@
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
-                  <surrogates>
+                  <surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/6d5d9a6c-864b-4a22-8f2d-10546975c186"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 20934</idno>
                      </bibl>
