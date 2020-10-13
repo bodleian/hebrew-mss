@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_435">
@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
-                  <idno>MS. Reggio_12</idno>
+                  <idno>MS. Reggio 12</idno>
                </msIdentifier>
                <msContents>
                   <summary>Mishpaṭe ha-kokhavim</summary>
@@ -105,6 +105,12 @@
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 19315</idno>
+                     </bibl>
+                     <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/42e08d72-a528-49d1-ad91-304734814a63">
+                           <title>Digital Bodleian</title>
+                        </ref> 
+                        <note>(full digital facsimile)</note>
                      </bibl>
                   </surrogates>
                   <listBibl>
