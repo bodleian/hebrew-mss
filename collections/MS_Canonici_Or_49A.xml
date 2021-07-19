@@ -71,11 +71,11 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 17690</idno>
                      </bibl>
-                     <listBibl>
-                        <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 1083.</bibl>
-                        <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1083.</bibl>
-                     </listBibl>
                   </surrogates>
+                  <listBibl>
+                      <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 1083.</bibl>
+                      <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1083.</bibl>
+                  </listBibl>
                </additional>
                <msPart xml:id="MS_Canonici_Or_49A-part1" n="1">
                   <msIdentifier>

@@ -1,0 +1,26 @@
+manuscript_84	https://digital.bodleian.ox.ac.uk/objects/7c5d5d69-0fc4-4fd5-a273-4bcbc43dbae5/	full	full digital facsimile
+manuscript_212	https://digital.bodleian.ox.ac.uk/objects/0b50f968-15c4-4028-877a-c5cf13b95519/	full	full digital facsimile
+manuscript_219	https://digital.bodleian.ox.ac.uk/objects/4e4a8b46-b299-498c-945a-af1596bdf80a/	full	full digital facsimile
+manuscript_222	https://digital.bodleian.ox.ac.uk/objects/1269b37a-2242-4048-a476-8287ceb29a1c/	full	full digital facsimile
+manuscript_225	https://digital.bodleian.ox.ac.uk/objects/3109b567-ca63-491c-a181-c5eb20c10965/	full	full digital facsimile
+manuscript_238	https://digital.bodleian.ox.ac.uk/objects/643faac0-85f3-4352-91d0-9cd58231e304/	full	full digital facsimile
+manuscript_249	https://digital.bodleian.ox.ac.uk/objects/be940f1a-33ee-4de4-8b8a-48460b0358e3/	full	full digital facsimile
+manuscript_242	https://digital.bodleian.ox.ac.uk/objects/65cb50e5-3ebe-497d-9db9-9731cfa5539e/	full	full digital facsimile
+manuscript_255	https://digital.bodleian.ox.ac.uk/objects/fc01922d-dc99-401d-8c05-3e9b559daaca/	full	full digital facsimile
+manuscript_256	https://digital.bodleian.ox.ac.uk/objects/a8816b77-ca80-4e52-9e36-ec8e9075cb8b/	full	full digital facsimile
+manuscript_259	https://digital.bodleian.ox.ac.uk/objects/df0e0004-3a66-4e96-91f5-4c29608cb689/	full	full digital facsimile
+manuscript_266	https://digital.bodleian.ox.ac.uk/objects/92f7ac4e-ea68-4bcc-9534-c484e7bef9b7/	full	full digital facsimile
+manuscript_269	https://digital.bodleian.ox.ac.uk/objects/0b9a5ad6-47dd-4b80-aa95-414b58388744/	full	full digital facsimile
+manuscript_271	https://digital.bodleian.ox.ac.uk/objects/1fe1eabf-6371-4362-b0a4-90004ee537f7/	full	full digital facsimile
+manuscript_275	https://digital.bodleian.ox.ac.uk/objects/55bec112-6eea-47b0-a98c-c19140076ff7/	full	full digital facsimile
+manuscript_277	https://digital.bodleian.ox.ac.uk/objects/2fce767b-030a-41dd-aa89-a3f54e188bf8/	full	full digital facsimile
+manuscript_278	https://digital.bodleian.ox.ac.uk/objects/2f0b220e-cbd8-4a4b-a7da-cad9193a369e/	full	full digital facsimile
+manuscript_281	https://digital.bodleian.ox.ac.uk/objects/8d1465c5-9d57-4a27-b2a3-4fc4d5f97876/	full	full digital facsimile
+manuscript_288	https://digital.bodleian.ox.ac.uk/objects/c0415cfd-fed2-4f6d-8f23-971b72ce9665/	full	full digital facsimile
+manuscript_292	https://digital.bodleian.ox.ac.uk/objects/16539671-241c-4147-9f75-6b2283cde78a/	full	full digital facsimile
+manuscript_293	https://digital.bodleian.ox.ac.uk/objects/0ace300a-c490-4609-a7b2-4fb304f4fd99/	full	full digital facsimile
+manuscript_294	https://digital.bodleian.ox.ac.uk/objects/db74a8ee-55e0-40e7-a00e-0c595fce9e62/	full	full digital facsimile
+manuscript_295	https://digital.bodleian.ox.ac.uk/objects/236c3069-6753-46f6-bdee-a5022424cd44/	full	full digital facsimile
+manuscript_300	https://digital.bodleian.ox.ac.uk/objects/5c3723f3-b830-42a1-b2da-bd35dc114fd8/	full	full digital facsimile
+manuscript_311	https://digital.bodleian.ox.ac.uk/objects/1ab8bbe0-0d56-4fb3-b6f0-c1b4abb88acd/	full	full digital facsimile
+manuscript_2	https://digital.bodleian.ox.ac.uk/objects/d6306b41-8f0d-4618-9793-0ddca92981a1/	partial	single image of binding only
