@@ -120,7 +120,7 @@
                         <p>Access to the Hebrew manuscripts at Christ Church is strictly by appointment only: please email <email>library@chch.ox.ac.uk</email> or <email>cristina.neagu@chch.ox.ac.uk</email>.</p>
                      </availability>
                   </adminInfo>
-                  <surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/21942d30-e427-4ebf-917e-a2b24bfbd028"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl>
+                  <surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/objects/21942d30-e427-4ebf-917e-a2b24bfbd028/"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 15581</idno>
                      </bibl>

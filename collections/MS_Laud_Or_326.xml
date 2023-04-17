@@ -68,7 +68,7 @@
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
-               <surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/0b53fec2-202f-4713-8693-b6421b30fc1b"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl></surrogates></additional>
+               <surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/objects/0b53fec2-202f-4713-8693-b6421b30fc1b/"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl></surrogates></additional>
                <msPart xml:id="MS_Laud_Or_326-part1" n="1">
                   <msIdentifier>
                      <altIdentifier type="partial">
