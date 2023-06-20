@@ -110,7 +110,7 @@ declare function local:buildSummary($msdescorpart as element()) as xs:string
                     { for $lang in $languages2index
                         return bod:many2many($x//tei:msContents/tei:msItem/tei:title[@xml:lang = $lang], concat('ms_works_', $lang, '_sm'))
                     }
-                    { bod:trueIfExists($x//tei:sourceDesc//tei:decoDesc/tei:decoNote, 'ms_deconote_b') }
+                    { bod:trueIfExists($x//tei:sourceDesc//tei:decoDesc/tei:decoNote[not(@type='none')], 'ms_deconote_b') }
                     { bod:materials($x//tei:msDesc//tei:physDesc//tei:supportDesc[@material], 'ms_materials_sm', 'Not specified') }
                     { bod:physForm($x//tei:physDesc/tei:objectDesc, 'ms_physform_sm', 'Not specified') }
                     { bod:languages($x//tei:sourceDesc//tei:textLang, 'ms_lang_sm', 'Not specified') }
