@@ -65,6 +65,7 @@ declare function local:buildSummary($msdescorpart as element()) as xs:string
         for $x in $collection
 
             let $msid := $x//tei:TEI/@xml:id/string()
+            let $isgenizah as xs:boolean := contains(base-uri($x), 'genizah-mss')
             return 
             if (string-length($msid) ne 0) then 
             
@@ -90,7 +91,7 @@ declare function local:buildSummary($msdescorpart as element()) as xs:string
                     <field name="pk">{ $msid }</field>
                     <field name="id">{ $msid }</field>
                     <field name="filename_sni">{ base-uri($x) }</field>
-                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:collection, 'ms_collection_s', if ( contains(base-uri($x), 'genizah-mss') ) then 'Genizah' else 'Not specified') }
+                    { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:collection, 'ms_collection_s', if ($isgenizah) then 'Genizah' else 'Not specified') }
                     { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:institution, 'ms_institution_s', 'Not specified') }
                     { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 'ms_shelfmark_s') }
                     { bod:one2one($x//tei:msDesc/tei:msIdentifier/tei:idno[@type="shelfmark"], 'ms_shelfmark_sort') }
@@ -115,6 +116,18 @@ declare function local:buildSummary($msdescorpart as element()) as xs:string
                     { bod:languages($x//tei:sourceDesc//tei:textLang, 'ms_lang_sm', 'Not specified') }
                     { bod:centuries($x//tei:origin//tei:origDate[@calendar = '#Gregorian' or (not(@calendar) and count(ancestor::tei:origin//tei:origDate) eq 1)], 'ms_date_sm', 'Not Specified') }
                     { bod:many2many($x//tei:profileDesc/tei:textClass/tei:keywords/tei:term, 'ms_subjects_sm') }
+                    {
+                    let $digfields := bod:digitized($x//tei:sourceDesc//tei:surrogates//tei:bibl, 'ms_digitized_s')
+                    return
+                    if ($isgenizah) then
+                        (: All Genizah have digital images, currently hosted on the catalogue web site :)
+                        (
+                        <field name="ms_digitized_s">Yes</field>,
+                        $digfields[not(@name='ms_digitized_s')]
+                        )
+                    else
+                        $digfields
+                    }
                     { bod:requesting($x/tei:TEI) }
                     { bod:indexHTML($htmldoc, 'ms_textcontent_tni') }
                     { bod:displayHTML($htmldoc, 'display') }
