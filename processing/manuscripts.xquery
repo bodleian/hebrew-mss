@@ -2,6 +2,56 @@ import module namespace bod = "http://www.bodleian.ox.ac.uk/bdlss" at "https://r
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare option saxon:output "indent=yes";
 
+declare function local:buildSummaries($ms as document-node()) as xs:string*
+{
+    if ($ms//tei:msDesc/(tei:head|tei:msContents/tei:summary) or not($ms//tei:msPart)) then
+        (: If there is a head or summary for the whole manuscript, choose that :)
+        local:buildSummary($ms//tei:msDesc[1])
+    else
+        (: For multi-part manuscripts, list the first ten :)
+        (
+        for $part in $ms//tei:msPart[count(preceding::tei:msPart) lt 10]
+            return
+            local:buildSummary($part)
+        ,
+        if (count($ms//tei:msPart) gt 10) then
+            let $moreparts := count($ms//tei:msPart) - 10
+            return
+            (: If there are only up to five more, list them, otherwise indicate how many more there are :)
+            if ($moreparts le 5) then
+                for $part in $ms//tei:msPart[count(preceding::tei:msPart) ge 10]
+                    return
+                    local:buildSummary($part)
+            else
+                concat('[', $moreparts, ' more parts', ']')
+        else
+            ()
+        )
+};
+
+declare function local:buildSummary($msdescorpart as element()) as xs:string
+{
+    (: Retrieve various pieces of information, from which the summary will be constructed :)
+    let $head := normalize-space(string-join($msdescorpart/tei:head//text(), ''))
+    let $summary := normalize-space(string-join($msdescorpart//tei:msContents/tei:summary//text(), ''))
+    let $worktitles := distinct-values(for $t in $msdescorpart//tei:msItem[not(ancestor::tei:msItem[tei:title])]/tei:title[1]/normalize-space() return if (ends-with($t, '.')) then substring($t, 1, string-length($t)-1) else $t)
+
+    (: The main part of the summary is the head element, if not then the summary, if not then a list of work titles :)
+    return
+    if ($head) then
+        bod:shortenToNearestWord($head, 128)
+    else if ($summary) then
+        bod:shortenToNearestWord($summary, 128)
+    else if (count($worktitles) gt 0) then
+        if (count($worktitles) gt 2) then 
+            concat(string-join(subsequence($worktitles, 1, 2), ', '), ', etc.')
+        else
+            string-join($worktitles, ', ')
+    else if (count($msdescorpart//tei:msItem) gt 1) then
+        'Untitled works or fragments'
+    else
+        'Untitled work or fragment'
+};
 
 <add>
 {
@@ -54,7 +104,7 @@ declare option saxon:output "indent=yes";
                     { bod:many2many($x//tei:physDesc//tei:extent, 'ms_extents_sm') }
                     { bod:many2many($x//tei:physDesc//tei:layout, 'ms_layout_sm') }
                     { bod:many2many($x//tei:msContents/tei:msItem/tei:note, 'ms_notes_sm') }
-                    { bod:many2many($x//tei:msContents/tei:summary, 'ms_summary_sm') }
+                    { bod:strings2many(local:buildSummaries($x), 'ms_summary_sm') }
                     { bod:many2many($x//tei:msContents/tei:msItem/tei:title, 'ms_works_sm') }
                     { for $lang in $languages2index
                         return bod:many2many($x//tei:msContents/tei:msItem/tei:title[@xml:lang = $lang], concat('ms_works_', $lang, '_sm'))
