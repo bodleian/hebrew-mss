@@ -48,7 +48,7 @@
                   <summary>Mishneh Torah, Books 1-3</summary>
                   <msItem xml:id="MS_Laud_Or_152-item1" n="1">
                      <locus>ff. 1r-88v</locus>
-                     <author ref="http://viaf.org/viaf/100185495" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Mishneh Torah (Sefer Madaʿ- Sefer Ahavah) <foreign xml:lang="he">משנה תורה (ספר מדע-אהבה)</foreign>
                      </title>
                      <note>Content: Mishneh Torah Book 1- Book 3, 3:10 (end wanting), with the Maimuni glosses.</note>
@@ -148,7 +148,7 @@
             </keywords>
             <keywords scheme="#LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">

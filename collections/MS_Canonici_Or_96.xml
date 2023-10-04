@@ -48,12 +48,12 @@
                   <summary>Shoshan ha-Refuʾah</summary>
                   <msItem xml:id="MS_Canonici_Or_96-item1" n="1">
                      <locus>ff. 1r-200r</locus>
-                     <author ref="http://viaf.org/viaf/226497544" key="person_703">Bernard, de Gordon, approximately 1260-approximately 1318ברנרד דה גורדון</author>
+                     <author ref="http://viaf.org/viaf/226497544" key="person_226497544">Bernard, de Gordon, approximately 1260-approximately 1318ברנרד דה גורדון</author>
                      <title>Shoshan ha-Refuʾah (Lilium medicinae)</title>
                      <title>
                         <foreign xml:lang="he">שושן הרפואה (ד-ז)</foreign>
                      </title>
-                     <note>Hebrew translation by <persName key="person_241">Yekutiel ben Solomon of Narbonne</persName>
+                     <note>Hebrew translation by <persName key="person_7030">Yekutiel ben Solomon of Narbonne</persName>
                      </note>
                      <note>Incomplete at the beginning.</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -138,12 +138,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he" key="person_218">יקותיאל בן שלמה, הרופא, מנרבונא</persName>
+                  <persName xml:lang="he" key="person_7030">יקותיאל בן שלמה, הרופא, מנרבונא</persName>
                </term>
             </keywords>
          </textClass>

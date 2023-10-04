@@ -48,11 +48,11 @@
                   <summary>Abraham ibn Ezra: Tsaḥut ba-diḳduḳ</summary>
                   <msItem xml:id="MS_Laud_Or_105-item1" n="1">
                      <locus>ff.1r-78v</locus>
-                     <author ref="http://viaf.org/viaf/90633023" key="person_731">Ibn Ezra, Abraham ben Mei͏̈r, 1092-1167</author>
-                     <author key="person_732">אבן עזרא, אברהם בן מאיר</author>
+                     <author ref="http://viaf.org/viaf/90633023" key="person_90633023">Ibn Ezra, Abraham ben Mei͏̈r, 1092-1167</author>
+                     <author key="person_90633023">אבן עזרא, אברהם בן מאיר</author>
                      <title>Tsaḥut ba-diḳduḳ</title>
                      <title xml:lang="he">ספר צחות בדקדוק</title>
-                     <note>Written by <persName key="person_480">Mosheh ben Eliaḳim</persName> for <persName key="person_481">Eliyahu ben Asher ha-Leṿi</persName> in <placeName key="place_35">Rome</placeName>.</note>
+                     <note>Written by <persName key="person_480">Mosheh ben Eliaḳim</persName> for <persName key="person_99167803127217771345">Eliyahu ben Asher ha-Leṿi</persName> in <placeName key="place_35">Rome</placeName>.</note>
                      <colophon>" <foreign xml:lang="he">אני משה בר אליקים כתבתי זה הספר להר’ אליהו בר אשר הלוי ז"ל ... נשלם היום יום ג’ כף לחדש שבט שנת חמשת אלפים ר"פ כאן ברומי</foreign> " (fol. 75v)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -149,7 +149,7 @@
             <keywords scheme="#LCSH">
                <term>Hebrew language -- Grammar -- Early works to 1800</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

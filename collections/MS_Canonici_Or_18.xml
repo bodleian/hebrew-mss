@@ -56,9 +56,9 @@
                            <item>fols. 173v-390r in the margins: Pentateuch with Targum Onḳelos</item>
                            <item>fols. 395r-403r (main text): Mishnah Pirḳe Avot</item>
                            <item>fols. 403v-405r: Pereḳ ḳinyan Torah ("Acquisition of Torah")</item>
-                           <item>fols. 395r-403r in the margins: Commentary on Pirḳe Avot by Maimonides in the translation of <persName key="person_113">Yehudah ibn Tibon</persName>
+                           <item>fols. 395r-403r in the margins: Commentary on Pirḳe Avot by Maimonides in the translation of <persName key="person_49379706">Yehudah ibn Tibon</persName>
                            </item>
-                           <item>fols. 403v-405r: Commentary on Pereḳ ḳinyan Torah attributed to <persName key="person_62">Rashi</persName>
+                           <item>fols. 403v-405r: Commentary on Pereḳ ḳinyan Torah attributed to <persName key="person_19684048">Rashi</persName>
                            </item>
                            <item>fols. 405v-439v in the margins: Hafṭarot for all Sabbaths of the year according to the Romanite rite.</item>
                         </list>
@@ -157,16 +157,16 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/49379706" key="person_114">Tibon, Yehudah ibn, approximately 1120-approximately 1190</persName>
+                  <persName ref="http://viaf.org/viaf/49379706" key="person_49379706">Tibon, Yehudah ibn, approximately 1120-approximately 1190</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/100185495" key="person_115">Maimonides, Moses, 1135-1204</persName>
+                  <persName ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/19684048" key="person_116">Rashi, 1040-1105</persName>
+                  <persName ref="http://viaf.org/viaf/19684048" key="person_19684048">Rashi, 1040-1105</persName>
                </term>
             </keywords>
          </textClass>

@@ -48,7 +48,7 @@
                   <summary>Livnat ha-Sapir</summary>
                   <msItem xml:id="MS_Canonici_Or_4-item1" n="1">
                      <locus>ff. 10r-130v</locus>
-                     <author ref="http://viaf.org/viaf/89803764" key="person_590">Judah ben Jehiel, active 15th centuryנתן בן יחיאל, מרומה</author>
+                     <author ref="http://viaf.org/viaf/89803764" key="person_89803764">Judah ben Jehiel, active 15th centuryנתן בן יחיאל, מרומה</author>
                      <title>Livnat ha-Sapir (The Pavement of Sapphire) <foreign xml:lang="he">לבנת הספיר</foreign>
                      </title>
                      <note>Grammatical work divided into two parts.</note>
@@ -149,10 +149,10 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
                <term>
-                  <persName ref=" http://viaf.org/viaf/39270602" key="person_17">Modon, Shimshon Kohen, 1679-1727</persName>
+                  <persName ref=" http://viaf.org/viaf/39270602" key="person_39270602">Modon, Shimshon Kohen, 1679-1727</persName>
                </term>
                <term>
                   <persName xml:lang="he" key="person_256">מירי, משה</persName>

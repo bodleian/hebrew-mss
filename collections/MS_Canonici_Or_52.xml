@@ -48,7 +48,7 @@
                   <summary>Commentary on the Prophets by David Kimhi</summary>
                   <msItem xml:id="MS_Canonici_Or_52-item1" n="1">
                      <locus>ff. 1r-166r</locus>
-                     <author ref="http://viaf.org/viaf/100213323" key="person_485">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
+                     <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
                      <title>Commentary on the Prophets <foreign xml:lang="he">פרוש נביאים לרד"ק</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -143,7 +143,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

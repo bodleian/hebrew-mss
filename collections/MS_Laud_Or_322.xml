@@ -50,7 +50,7 @@
                   </summary>
                   <msItem xml:id="MS_Laud_Or_322-item1" n="1">
                      <locus>ff. 1r-343v</locus>
-                     <author ref="http://viaf.org/viaf/293743688" key="person_492">Isaiah ben Elijah, di Trani, -approximately 1280טרני, ישעיה בן אליהו די</author>
+                     <author ref="http://viaf.org/viaf/293743688" key="person_100648641">Isaiah ben Elijah, di Trani, -approximately 1280טרני, ישעיה בן אליהו די</author>
                      <title>Pisḳe Riaz <foreign xml:lang="he">פסקי ריא"ז</foreign>
                      </title>
                      <note>Undoubtedly copied by Benjamin who frequently pointed out the acrostics of this name (e.g., fols. 92v, 166v, 305v).</note>
@@ -147,7 +147,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

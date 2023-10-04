@@ -48,7 +48,7 @@
                   <summary>Commentary on the Mishnah by Maimonides</summary>
                   <msItem xml:id="MS_Pococke_242-item1" n="1">
                      <locus>ff. 1r-180v</locus>
-                     <author ref="http://viaf.org/viaf/100185495" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
                      <title>Commentary on the Mishnah in Hebrew (Seder Moʿed) <foreign xml:lang="he">פרוש המשנה לרמב"ם בערבית (סדר מועד)</foreign>
                      </title>
                      <note>Not complete: from middle of chapter 1 of Eruvin until chapter 3 of Hagigah.</note>

@@ -215,7 +215,7 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_220-part7-item2" n="8">
                         <locus>ff. 278r-285v</locus>
-                        <author key="person_493">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן</author>
+                        <author key="person_219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן</author>
                         <title>Shaʿare ha-Tsedeḳ = Igeret ha-ḳodesh <foreign xml:lang="he">שערי הצדק = אגדת הקודש</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -317,12 +317,12 @@
             <keywords scheme="LCSH">
                <term ref="http://viaf.org/viaf/4502276">Koriel, Israel di, 1502?-1571?</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName xml:lang="he" key="person_451">קוריאל, ישראל די</persName>
+                  <persName xml:lang="he" key="person_4502276">קוריאל, ישראל די</persName>
                </term>
             </keywords>
          </textClass>

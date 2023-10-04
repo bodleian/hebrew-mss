@@ -52,7 +52,7 @@
                      <title>
                         <foreign xml:lang="he">תורה, הפטרות ומגלות</foreign>
                      </title>
-                     <colophon>Colophon of the scribe <persName key="person_166">Mosheh ben Yaʿaḳov Kalef</persName> is on fol. 239v: <foreign xml:lang="he">"אני משה הסופר בר’ יעקב ס"ט בן ... משה כאלף ... כתבתי ... וסיימתיהו ... אלול שנת חמשת אלפים ומאתים וארבעים"</foreign>. The date Tuesday 20 Elul 5240 given in the colophon is erroneous since 20 Elul never falls on Tuesday. Colophon of the scribe of the masorah in the micrographic pattern framing the colophon of the main scribe: <foreign xml:lang="he">"אני שמואל הסופר בן ... יהושע פרונתירנו[?] מסר אלו חמשת חומשי תורה והפטרות וחמש מגילות"</foreign>
+                     <colophon>Colophon of the scribe <persName key="person_7021">Mosheh ben Yaʿaḳov Kalef</persName> is on fol. 239v: <foreign xml:lang="he">"אני משה הסופר בר’ יעקב ס"ט בן ... משה כאלף ... כתבתי ... וסיימתיהו ... אלול שנת חמשת אלפים ומאתים וארבעים"</foreign>. The date Tuesday 20 Elul 5240 given in the colophon is erroneous since 20 Elul never falls on Tuesday. Colophon of the scribe of the masorah in the micrographic pattern framing the colophon of the main scribe: <foreign xml:lang="he">"אני שמואל הסופר בן ... יהושע פרונתירנו[?] מסר אלו חמשת חומשי תורה והפטרות וחמש מגילות"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -92,7 +92,7 @@
                      <origPlace>[Spain]</origPlace>
                      <origDate when="1480">1480</origDate>
                   </origin>
-                  <provenance>Owner's inscriptions: on fol. 239v above the main colophon, by <persName key="person_167">Samuel Don Abravanel</persName>: <foreign xml:lang="he">מהנשא דון שמואל אברבנאל</foreign>. Under the colophon on fol. 239v, by Elisha Finzi: <foreign xml:lang="he">החומש הזה עם א מקרא מעשרים וארבה עם המסורת מכתיבת יד הסופר ר שמואל בר יצחק דמרינה ס"ט בקלף בשנת ... מישת אלפים רנ"א במתא אישבונה הם מה שבשארו בידי אלישע פנצי יצו מרכוש הרבה שהניחו בידי</foreign>. Owner's signature of <persName key="person_168">Naftali ha-Leṿi</persName> on fol. 2r: <foreign xml:lang="he">נפתלי הלוי</foreign> (seventeenth-century hand). Owner's signature on fol. 2r: "questo libro de la [...] Anna Levi nate Linchette (Pinchelle?)". Above this inscription another one by Anna partially erased. Ownership (?) note in Hebrew from 5264(?) (1503 or 1504) with the name of the owner erased on fol. 2r. Censor's signature on fol. 238r: "Gio. Dom[eni]co Vistorini 1609".</provenance>
+                  <provenance>Owner's inscriptions: on fol. 239v above the main colophon, by <persName key="person_167">Samuel Don Abravanel</persName>: <foreign xml:lang="he">מהנשא דון שמואל אברבנאל</foreign>. Under the colophon on fol. 239v, by Elisha Finzi: <foreign xml:lang="he">החומש הזה עם א מקרא מעשרים וארבה עם המסורת מכתיבת יד הסופר ר שמואל בר יצחק דמרינה ס"ט בקלף בשנת ... מישת אלפים רנ"א במתא אישבונה הם מה שבשארו בידי אלישע פנצי יצו מרכוש הרבה שהניחו בידי</foreign>. Owner's signature of <persName key="person_7022">Naftali ha-Leṿi</persName> on fol. 2r: <foreign xml:lang="he">נפתלי הלוי</foreign> (seventeenth-century hand). Owner's signature on fol. 2r: "questo libro de la [...] Anna Levi nate Linchette (Pinchelle?)". Above this inscription another one by Anna partially erased. Ownership (?) note in Hebrew from 5264(?) (1503 or 1504) with the name of the owner erased on fol. 2r. Censor's signature on fol. 238r: "Gio. Dom[eni]co Vistorini 1609".</provenance>
                   <acquisition>It was bought in 1852 from Mr. Coombe for £12.</acquisition>
                </history>
                <additional>
@@ -155,13 +155,13 @@
                   <persName xml:lang="he" key="person_169">פינצי, אלישע ‬</persName>
                </term>
                <term>
-                  <persName xml:lang="he" key="person_170">נפתלי, הלוי</persName>
+                  <persName xml:lang="he" key="person_7022">נפתלי, הלוי</persName>
                </term>
                <term>
                   <persName xml:lang="he" key="person_171">שמואל בן יהושע</persName>
                </term>
                <term>
-                  <persName xml:lang="he" key="person_172">כלף, משה בן יעקב אבן</persName>
+                  <persName xml:lang="he" key="person_7021">כלף, משה בן יעקב אבן</persName>
                </term>
                <term>
                   <persName xml:lang="he" key="person_173">שמואל בן יצחק מדמקינה</persName>
@@ -170,7 +170,7 @@
                   <persName key="person_174">Levi (Pincherele), Anna</persName>
                </term>
                <term>
-                  <persName key="person_175">Giovanni Domenico Vistorini</persName>
+                  <persName key="person_14162178752907851019">Giovanni Domenico Vistorini</persName>
                </term>
             </keywords>
          </textClass>

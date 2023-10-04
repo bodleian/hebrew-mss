@@ -48,7 +48,7 @@
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Canonici_Or_29-item1" n="1">
                      <locus>ff. 1v-17v</locus>
-                     <author ref="http://viaf.org/viaf/71428967" key="person_611">Falaquera, Shem Tov ben Joseph, approximately 1225-approximately 1295פלקירא, שם טוב בן יוסף אבן</author>
+                     <author ref="http://viaf.org/viaf/71428967" key="person_71428967">Falaquera, Shem Tov ben Joseph, approximately 1225-approximately 1295פלקירא, שם טוב בן יוסף אבן</author>
                      <title>Poems</title>
                      <note>The poem <foreign xml:lang="he">בתי הנהגת הגוף</foreign> in 16 parts.</note>
                      <note>See Steinschneider, Cat. Bodl. col. 2538</note>
@@ -56,35 +56,35 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_29-item2" n="2">
                      <locus>ff. 19r-52v</locus>
-                     <author ref="http://viaf.org/viaf/22011154" key="person_612">Judah ben Isaac ibn Shabbetai, active 13th centuryשבתי, יהודה בן יצחק הלוי אבן</author>
+                     <author ref="http://viaf.org/viaf/22011154" key="person_308697194">Judah ben Isaac ibn Shabbetai, active 13th centuryשבתי, יהודה בן יצחק הלוי אבן</author>
                      <title>Minḥat Yehudah śoneh ha-nashim <foreign xml:lang="he">מנחת יהודה המכונה שונא הנשים</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_29-item3" n="3">
                      <locus>ff. 53r-64v</locus>
-                     <author ref="http://viaf.org/viaf/22011154" key="person_612">Judah ben Isaac ibn Shabbetai, active 13th centuryשבתי, יהודה בן יצחק הלוי אבן</author>
+                     <author ref="http://viaf.org/viaf/22011154" key="person_308697194">Judah ben Isaac ibn Shabbetai, active 13th centuryשבתי, יהודה בן יצחק הלוי אבן</author>
                      <title>Divre ha-eleh ṿeha-niduy <foreign xml:lang="he">דברי האלה והנדוי</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_29-item4" n="4">
                      <locus>ff. 65r-118r</locus>
-                     <author ref="http://viaf.org/viaf/120777116" key="person_613">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340פניני, ידעיה בן אברהם הבדרשי</author>
+                     <author ref="http://viaf.org/viaf/120777116" key="person_120777116">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340פניני, ידעיה בן אברהם הבדרשי</author>
                      <title>Ketav ha-hitnatslut <foreign xml:lang="he">כתב התנצלות</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_29-item5" n="5">
                      <locus>ff. 118r-136v</locus>
-                     <author ref="http://viaf.org/viaf/120777116" key="person_613">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340פניני, ידעיה בן אברהם הבדרשי</author>
+                     <author ref="http://viaf.org/viaf/120777116" key="person_120777116">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340פניני, ידעיה בן אברהם הבדרשי</author>
                      <title>Igeret beḥinat ha-ʿolam <foreign xml:lang="he">אגרת בחינת העולם</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_29-item6" n="6">
                      <locus>ff. 137v-140v</locus>
-                     <author ref="http://viaf.org/viaf/46652374" key="person_614">Ezobi, Jehoseph ben Hanan ben Nathan, active 13th centuryאזובי, יוסף בן חנן</author>
+                     <author ref="http://viaf.org/viaf/46652374" key="person_23309685">Ezobi, Jehoseph ben Hanan ben Nathan, active 13th centuryאזובי, יוסף בן חנן</author>
                      <title>Ḳeʿarat kesef <foreign xml:lang="he">קערת כסף</foreign>
                      </title>
                      <note>ff.140v-143v additional texts, notes added by later Italian cursive hands.</note>
@@ -183,7 +183,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

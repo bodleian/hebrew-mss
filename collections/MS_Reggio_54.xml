@@ -48,13 +48,13 @@
                   <summary>Sefer derekh tevunot</summary>
                   <msItem xml:id="MS_Reggio_54-item1" n="1">
                      <locus>ff. 1r-63r</locus>
-                     <author ref="http://viaf.org/viaf/73875381" key="person_650">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
-                     <author key="person_651">לוצאטו, משה חיים</author>
+                     <author ref="http://viaf.org/viaf/73875381" key="person_73875381">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
+                     <author key="person_73875381">לוצאטו, משה חיים</author>
                      <title>Sefer derekh tevunot</title>
                      <title>
                         <foreign xml:lang="he">ספר דרך תבונות</foreign>
                      </title>
-                     <note>Copied from <persName ref="http://viaf.org/viaf/11563454" key="person_409">Shmuel Gerondi</persName>'s printed edition of 1830 <foreign xml:lang="he">פה פאדובה בשנת התק"ץ בציווי כמוהר"ר מרדכי שמואל גירונדי</foreign>
+                     <note>Copied from <persName ref="http://viaf.org/viaf/11563454" key="person_11563454">Shmuel Gerondi</persName>'s printed edition of 1830 <foreign xml:lang="he">פה פאדובה בשנת התק"ץ בציווי כמוהר"ר מרדכי שמואל גירונדי</foreign>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -152,15 +152,15 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_67197037">Reggio, Isaacus, 1784-1855</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/11563454" key="person_410">Ghirondi, Mordecai Samuel ben Benzion Aryeh, 1799-1852</persName>
+                  <persName ref="http://viaf.org/viaf/11563454" key="person_11563454">Ghirondi, Mordecai Samuel ben Benzion Aryeh, 1799-1852</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he" key="person_410">גרונדי, מרדכי שמואל, 1799-1852</persName>
+                  <persName xml:lang="he" key="person_11563454">גרונדי, מרדכי שמואל, 1799-1852</persName>
                </term>
             </keywords>
          </textClass>

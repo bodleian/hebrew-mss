@@ -48,11 +48,11 @@
                   <summary>Canon (Books I, V) by Avicenna</summary>
                   <msItem xml:id="MS_Canonici_Or_50-item1" n="1">
                      <locus>ff. 2r-306v</locus>
-                     <author ref="http://viaf.org/viaf/89770781" key="person_572">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
+                     <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
                      <title>Canon (Books I, V) <foreign xml:lang="he">קאנון (ספר א’, ה’)</foreign>
                      </title>
                      <note>Nathan's translation.</note>
-                     <colophon>Colophon by <persName key="person_159">Shimshon Kohen Modon</persName> on fol. 1r: <foreign xml:lang="he">... הצעיר שמשון כהן מודון יצ"ו שנת הקס"ב</foreign>
+                     <colophon>Colophon by <persName key="person_39270602">Shimshon Kohen Modon</persName> on fol. 1r: <foreign xml:lang="he">... הצעיר שמשון כהן מודון יצ"ו שנת הקס"ב</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -149,7 +149,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

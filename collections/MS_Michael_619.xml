@@ -53,7 +53,7 @@
                         <foreign xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים</foreign>
                      </title>
                      <note>The codex is the third volume of a three-volume prayer book; the first volume is kept in Budapest (<ref target="http://kaufmann.mtak.hu/en/ms384/ms384-coll1.htm">Library of the Hungarian Academy of Sciences, Kaufmann Collection MS A384</ref>, and the second volume is in kept in London (<ref target="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=19240">British Library MS Add. 22413</ref>). Originally the prayer book constituted a two-volume codex.</note>
-                     <note>False colophon on fol. 293r: <foreign xml:lang="he">אני מרדכי גימפיל מקראקא כתבתי המחזור הזה שנת מʹחʹזʹוʹר לפʺק</foreign> (I <persName key="person_452">Mordekhai Gimpil of Cracow</persName> wrote this mahzor [in the] year 5261) (=1501)</note>
+                     <note>False colophon on fol. 293r: <foreign xml:lang="he">אני מרדכי גימפיל מקראקא כתבתי המחזור הזה שנת מʹחʹזʹוʹר לפʺק</foreign> (I <persName key="person_7017">Mordekhai Gimpil of Cracow</persName> wrote this mahzor [in the] year 5261) (=1501)</note>
                      <note>Deletions by censor? (e.g. fols. 37r, 85r)</note>
                      <note>Piyyutim accompanied by piyyut commentaries in the margins.</note>
                      <colophon>None.</colophon>
@@ -93,8 +93,8 @@
                      <origPlace>[Ashkenaz]</origPlace>
                      <origDate when="1322">ca. 1322</origDate>
                   </origin>
-                  <provenance>False colophon on fol. 293r: <foreign xml:lang="he">אני מרדכי גימפיל מקראקא כתבתי המחזור הזה שנת מʹחʹזʹוʹר לפʺק</foreign> ("I <persName key="person_452">Mordekhai Gimpil of Cracow</persName> wrote this mahzor [in the] year 5261" [=1501]). Ownership inscription on fols. 1r and 293v: <foreign xml:lang="he">אני קלמן בר יוסף גרשון</foreign> ("I Kalman ban Yosef Gershon").</provenance>
-                  <acquisition>It belonged to the library of <persName key="person_274">Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+                  <provenance>False colophon on fol. 293r: <foreign xml:lang="he">אני מרדכי גימפיל מקראקא כתבתי המחזור הזה שנת מʹחʹזʹוʹר לפʺק</foreign> ("I <persName key="person_7017">Mordekhai Gimpil of Cracow</persName> wrote this mahzor [in the] year 5261" [=1501]). Ownership inscription on fols. 1r and 293v: <foreign xml:lang="he">אני קלמן בר יוסף גרשון</foreign> ("I Kalman ban Yosef Gershon").</provenance>
+                  <acquisition>It belonged to the library of <persName key="person_17140230">Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -163,7 +163,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/17140230" key="person_275">Michael, Heimann Joseph, 1792-1846</persName>
+                  <persName ref="http://viaf.org/viaf/17140230" key="person_17140230">Michael, Heimann Joseph, 1792-1846</persName>
                </term>
                <term>
                   <placeName key="place_33">Krakow</placeName>
@@ -171,7 +171,7 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he" key="person_453">מרדכי גימפל, מקראקא</persName>
+                  <persName xml:lang="he" key="person_7017">מרדכי גימפל, מקראקא</persName>
                </term>
                <term>
                   <persName xml:lang="he" key="person_454">גרשון, קלמן בן יוסף</persName>

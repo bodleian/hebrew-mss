@@ -48,49 +48,49 @@
                   <summary>Collection of philosophical texts</summary>
                   <msItem xml:id="MS_Canonici_Or_63-item1" n="1">
                      <locus>ff. 1r-33r</locus>
-                     <author ref="http://viaf.org/viaf/19688718" key="person_398">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
                      <title>Paraphrase of Aristotle's Physica auscultatio <foreign xml:lang="he">קצור ספר השמע הטבעי של אריסטו</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_63-item2" n="2">
                      <locus>ff. 33v-57r</locus>
-                     <author ref="http://viaf.org/viaf/19688718" key="person_398">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
                      <title>Paraphrase of Aristotle's De Coelo et Mundo <foreign xml:lang="he">כללי ספר השמים והעולם של אריסטו</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_63-item3" n="3">
                      <locus>ff. 57v-65b</locus>
-                     <author ref="http://viaf.org/viaf/19688718" key="person_398">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
                      <title>Paraphrase of Aristotle's De Generatione et Corruptione <foreign xml:lang="he">כללי ספר ההויה וההפסד של אריסטו</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_63-item4" n="4">
                      <locus>ff. 66r-92b</locus>
-                     <author ref="http://viaf.org/viaf/19688718" key="person_398">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
                      <title>Paraphrase of Aristotle's Meteorologica <foreign xml:lang="he">כללי ספר האותות העליונות של אריסטו</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_63-item5" n="5">
                      <locus>ff. 93r-116r</locus>
-                     <author ref="http://viaf.org/viaf/19688718" key="person_398">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
                      <title>Paraphrase of Aristotle's De Anima <foreign xml:lang="he">כללי ספר הנפש של אריסטו</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_63-item6" n="6">
                      <locus>ff. 116v-133v</locus>
-                     <author ref="http://viaf.org/viaf/19688718" key="person_398">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
                      <title>Paraphrase of Aristotle's De Sensu et Sensibili <foreign xml:lang="he">קצור ספר החוש והמוחש של אריסטו</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_63-item7" n="7">
                      <locus>ff. 134r-151v</locus>
-                     <author ref="http://viaf.org/viaf/100219934" key="person_646">Themistiusתמיסטיוס</author>
+                     <author ref="http://viaf.org/viaf/100219934" key="person_100219934">Themistiusתמיסטיוס</author>
                      <title>Commentary on the book Δ of Aristotle's Metaphysics <foreign xml:lang="he">המאמר הנרשם באות למד מספר מה שאחר הטבע של אריסטו.</foreign>
                      </title>
                      <note>Translated by <persName key="person_405">Moshe Finzi</persName> (Steinschneider, Cat. Lugd. Bat., p.79)</note>
@@ -98,7 +98,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_63-item8" n="8">
                      <locus>ff. 152r-192v</locus>
-                     <author ref="http://viaf.org/viaf/19688718" key="person_398">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד בן מחמד</author>
                      <title>Averroës' epitomes of Books 1-4 of Aristotle's Metaphysics <foreign xml:lang="he">קצור ספר מה שאחר הטבע של אריסטו (חלק א-ד)</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -179,7 +179,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

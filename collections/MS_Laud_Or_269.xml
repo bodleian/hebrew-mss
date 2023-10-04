@@ -47,7 +47,7 @@
                <msContents>
                   <summary>Ḳitsur pisḳe ha-Rosh</summary>
                   <msItem xml:id="MS_Laud_Or_269-item1" n="1">
-                     <author ref="http://viaf.org/viaf/73882588" key="person_743">Yaaqov ben Asher, ca. 1270-1340יעקב בן אשר, ?1270-?1340</author>
+                     <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Yaaqov ben Asher, ca. 1270-1340יעקב בן אשר, ?1270-?1340</author>
                      <title>Ḳitsur pisḳe ha-Rosh <foreign xml:lang="he">קצור פסקי הרא"ש</foreign>
                      </title>
                      <note>With some glosses, ends with Nedarim.</note>
@@ -151,7 +151,7 @@
                   <persName xml:lang="he" key="person_483">שמעון בן יצחק ז"ק</persName>
                </term>
                <term>
-                  <persName xml:lang="he" key="person_484">אשר בן יחיאל</persName>
+                  <persName xml:lang="he" key="person_30339950">אשר בן יחיאל</persName>
                </term>
             </keywords>
             <keywords scheme="LCSH">
@@ -159,7 +159,7 @@
                   <placeName key="place_36">Nuremberg (Germany)</placeName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

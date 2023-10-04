@@ -74,7 +74,7 @@
                      <origPlace>[Provence?]</origPlace>
                      <origDate when="1400">[ca. 1400]</origDate>
                   </origin>
-                  <provenance>Purchase note by <persName key="person_32">Ṿidal Mosheh Rafael ben Yosef</persName>, dated 3 Teveṭ 5301 (that is 1540): <foreign xml:lang="he">"יום ג לחדש טבת שנת ה אלפים וש"א...אני וידאל משה רפאל בן פורת בכמ"ר הרופא מאשט[רו] יוסף נ"ע קניתי זה הסידור מחתני יצ"ו ר’ שלמה בכ"ר יעקב [...] ברצלוני דר היום בויסיגיאה"</foreign> (fol. 376v). Ṿidal bought the sidur from his father-in-law Shlomoh ben Yaʿaḳov. Censor's signature: Antonio Franceso Enquires 1687 (fol. 376v)</provenance>
+                  <provenance>Purchase note by <persName key="person_7028">Ṿidal Mosheh Rafael ben Yosef</persName>, dated 3 Teveṭ 5301 (that is 1540): <foreign xml:lang="he">"יום ג לחדש טבת שנת ה אלפים וש"א...אני וידאל משה רפאל בן פורת בכמ"ר הרופא מאשט[רו] יוסף נ"ע קניתי זה הסידור מחתני יצ"ו ר’ שלמה בכ"ר יעקב [...] ברצלוני דר היום בויסיגיאה"</foreign> (fol. 376v). Ṿidal bought the sidur from his father-in-law Shlomoh ben Yaʿaḳov. Censor's signature: Antonio Franceso Enquires 1687 (fol. 376v)</provenance>
                </history>
                <additional>
                   <adminInfo>
@@ -134,16 +134,16 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName key="person_33">Antonio Francesco Enriques (censor)</persName>
+                  <persName key="person_16162178748207850623">Antonio Francesco Enriques (censor)</persName>
                </term>
                <term>
-                  <persName xml:lang="he" key="person_34">וידל, משה רפאל בן יוסף (בעלים)</persName>
+                  <persName xml:lang="he" key="person_7028">וידל, משה רפאל בן יוסף (בעלים)</persName>
                </term>
                <term>
                   <persName xml:lang="he" key="person_35">שלמה בן יעקב (בעלים)</persName>
                </term>
                <term>
-                  <persName xml:lang="he" key="person_36">קשלרי, ישראל בן יוסף (ממנו)</persName>
+                  <persName xml:lang="he" key="person_33169072682364721494">קשלרי, ישראל בן יוסף (ממנו)</persName>
                </term>
             </keywords>
          </textClass>

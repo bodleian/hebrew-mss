@@ -48,7 +48,7 @@
                   <summary>Obadiah Sforno's works</summary>
                   <msItem xml:id="MS_Canonici_Or_16-item1" n="1">
                      <locus>ff. 2r-65v</locus>
-                     <author ref="http://viaf.org/viaf/29887312" key="person_622">Sforno, Obadiah ben Jacob, approximately 1470-approximately 1550ספורנו, עובדיה בן יעקב‬</author>
+                     <author ref="http://viaf.org/viaf/29887312" key="person_29887312">Sforno, Obadiah ben Jacob, approximately 1470-approximately 1550ספורנו, עובדיה בן יעקב‬</author>
                      <title>Zeh sefer ʾor ʿamim <foreign xml:lang="he">זה ספר אור עמים</foreign>
                      </title>
                      <note>Printed, Bologna, 1587 (see, Ṿinograd, Bologna 8).</note>
@@ -57,7 +57,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_16-item2" n="2">
                      <locus>ff. 68r-238r</locus>
-                     <author ref="http://viaf.org/viaf/29887312" key="person_623">Sforno, Obadiah ben Jacob, approximately 1470-approximately 1550ספורנו, עובדיה בן יעקב</author>
+                     <author ref="http://viaf.org/viaf/29887312" key="person_29887312">Sforno, Obadiah ben Jacob, approximately 1470-approximately 1550ספורנו, עובדיה בן יעקב</author>
                      <title>Commentary on the Pentateuch by Obadiah Sforno <foreign xml:lang="he">פרוש התורה לספורנו</foreign>
                      </title>
                      <note>Fols. 66-67 and 224-228 are blank.</note>
@@ -96,7 +96,7 @@
                      <origPlace>[Italy]</origPlace>
                      <origDate notBefore="1576" notAfter="1600">[late 16th century]</origDate>
                   </origin>
-                  <provenance>Owners' inscriptions: <foreign xml:lang="he">"יצחק אליעזר סנגויני", "שמואל סנגויני(?)"</foreign>; censors' signatures: Fra. Gir. da Durazzano 1640 (fol. 2r), Laurnaiu[s] Franguellu[s] 1575 (fol. 65v), Fra. <persName key="person_44">Luigi da Bologna</persName> 1598, <persName key="person_43">Cammillo Jaghel</persName> 1613 (fol. 237r), Renato da Mod[en]a 1626, 1555 ... Hac. Geraldini ... [norarized by] Ceesa Bellosus (fol. 237v)</provenance>
+                  <provenance>Owners' inscriptions: <foreign xml:lang="he">"יצחק אליעזר סנגויני", "שמואל סנגויני(?)"</foreign>; censors' signatures: Fra. Gir. da Durazzano 1640 (fol. 2r), Laurnaiu[s] Franguellu[s] 1575 (fol. 65v), Fra. <persName key="person_44">Luigi da Bologna</persName> 1598, <persName key="person_316606361">Cammillo Jaghel</persName> 1613 (fol. 237r), Renato da Mod[en]a 1626, 1555 ... Hac. Geraldini ... [norarized by] Ceesa Bellosus (fol. 237v)</provenance>
                   <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
@@ -153,24 +153,24 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName key="person_310">Girolamo, da Durazzano</persName>
+                  <persName key="person_195167803128317771333">Girolamo, da Durazzano</persName>
                </term>
                <term>
-                  <persName key="person_311">Laurentius Franguellus</persName>
+                  <persName key="person_8681169261613109510005">Laurentius Franguellus</persName>
                </term>
                <term>
                   <persName key="person_44">Luigi da Bologna</persName>
                </term>
                <term>
-                  <persName key="person_43">Camillo Jagel</persName>
+                  <persName key="person_316606361">Camillo Jagel</persName>
                </term>
                <term>
-                  <persName key="person_313">Renato da Modena</persName>
+                  <persName key="person_431159474324327662713">Renato da Modena</persName>
                </term>
                <term>
                   <persName key="person_292">Jacob Geraldini</persName>

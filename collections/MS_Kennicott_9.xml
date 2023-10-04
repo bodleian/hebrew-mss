@@ -49,7 +49,7 @@
                   <msItem xml:id="MS_Kennicott_9-item1" n="1">
                      <locus>ff.1r-304v</locus>
                      <title type="desc">Various readings from the Targum collected from three editions.</title>
-                     <note>The three editions are the following: Antwerp 1569, Bale 1619, and Vatican MS on vellum, dated <date calendar="#AM">5055</date> (<date calendar="#Gregorian">1295</date>), by the convert <persName key="person_474">Giulio Morosini</persName>, formerly <persName key="person_475">Shmuel ben David Nahmias of Venice</persName>. Title page is in Hebrew (f. 2r) and Latin (f. 1v), giving the names of the pope and the librarian of the time. The work began by the converted Jew, Joan. Baptista Jona, formerly R. Juda of Sapheth (see Assemani, Codd. Urbino 58 and 59. The present MS is probably a copy of the Vatican MS). It was finished on 1 February 1677.</note>
+                     <note>The three editions are the following: Antwerp 1569, Bale 1619, and Vatican MS on vellum, dated <date calendar="#AM">5055</date> (<date calendar="#Gregorian">1295</date>), by the convert <persName key="person_77889652">Giulio Morosini</persName>, formerly <persName key="person_475">Shmuel ben David Nahmias of Venice</persName>. Title page is in Hebrew (f. 2r) and Latin (f. 1v), giving the names of the pope and the librarian of the time. The work began by the converted Jew, Joan. Baptista Jona, formerly R. Juda of Sapheth (see Assemani, Codd. Urbino 58 and 59. The present MS is probably a copy of the Vatican MS). It was finished on 1 February 1677.</note>
                      <note>"ספר השנויים הנמצאים בתרגום משלשה מקראות גדולות ... שהן בגנזי ספרי ואטיקאנו, הראשונה נקראת מקרא ריגייא נדפס על קלף באנוירשה [אנטוורפן] שנת א’תקס"ט [=שכ"ט]. השנית נקראת מקרא בושטורפי [BUXTORF] נדפס בבאשיליאה שנת א’תרי"ט [=שע"ט]. והשלישית נקראת מקרא שהובא מאורבינו כתיבת יד על הקלף שנת הנה לבריאת עולם וביאת משחינו א’ר’צ’ה’ [=1294]" וטיקן אורבינטי 1 (ס’ 726). ‬ "ובעיון רב נכתבו בו בשלשה עמודים כל שנויים ... המכתב וטעיות הדפוס ובאמצע השלשה עמודים נכתבו כל פסוק ופסוק גם בלשון הקדש".</note>
                      <note>ס’ דניאל עזרא ונחמיה אינם בזה הספר מפני שאין בהם תרגומים, אבל בדברי הימים א’ וב’ יש תרגום אורבינו ולא שם" וזה בשינויי לנוסח המופיע בכ"י וטיקן הנ"ל.(f.304v)</note>
                      <colophon>On fol. 2r: "ותשלם המלאכה בשנת הראשון לשבת על כסא מלכותו הכהן הגדול אינוצינצו י"א ... והיה היום יום א’ יום ראשון לחדש פיברארו שנת אתרע"ז על יד ממני הצעיר ... גולייו מורושיני שהיה מלפנים ... שמואל בר דוד ממשפחת בן נחמיאש מעיר בויניציאה". ‬</colophon>
@@ -124,12 +124,12 @@
                <term>
                   <ref target="http://lccn.loc.gov/n79150252"/> Bible. Old Testament. Aramaic.</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/12343831" key="person_106">Kennicott, Benjamin, 1718-1783</persName>
+                  <persName ref="http://viaf.org/viaf/12343831" key="person_12343831">Kennicott, Benjamin, 1718-1783</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName key="person_476">מורושיני, ג’וליו (מעתיק מוזכר)</persName>
+                  <persName key="person_77889652">מורושיני, ג’וליו (מעתיק מוזכר)</persName>
                </term>
                <term>בוקסטורף, יוהנס, האב, 1564-1629 (מוזכר)</term>
             </keywords>

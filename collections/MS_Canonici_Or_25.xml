@@ -48,7 +48,7 @@
                   <summary>ʾOr ha-śekhel</summary>
                   <msItem xml:id="MS_Canonici_Or_25-item1" n="1">
                      <locus>ff. 1r-112v</locus>
-                     <author ref="http://viaf.org/viaf/79054878" key="person_538">Abulafia, Abraham ben Samuel, 1240-approximately 1292אבולעפיה, אברהם בן שמואל</author>
+                     <author ref="http://viaf.org/viaf/79054878" key="person_79054878">Abulafia, Abraham ben Samuel, 1240-approximately 1292אבולעפיה, אברהם בן שמואל</author>
                      <title>ʾOr ha-śekhel <foreign xml:lang="he">אור השכל</foreign>
                      </title>
                      <note>Abulafia's kabbalistical treatise on the Tetragrammaton divided into ten parts.</note>
@@ -146,7 +146,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

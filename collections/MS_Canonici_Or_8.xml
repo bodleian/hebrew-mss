@@ -86,7 +86,7 @@
                   <msContents>
                      <msItem xml:id="MS_Canonici_Or_8-part1-item1" n="1">
                         <locus>ff. 1r-162v</locus>
-                        <author ref="http://viaf.org/viaf/89245664" key="person_562">Moses, of Narbonne, -1362נרבוני, משה בן יהושע</author>
+                        <author ref="http://viaf.org/viaf/89245664" key="person_293459163">Moses, of Narbonne, -1362נרבוני, משה בן יהושע</author>
                         <title>Perush kaṿanot ha-filosofim le-Gazali <foreign xml:lang="he">פרוש כונות הפילוסופים לגזאלי</foreign>
                         </title>
                         <note>Fols. 163-167 are blank.</note>
@@ -132,7 +132,7 @@
                   <msContents>
                      <msItem xml:id="MS_Canonici_Or_8-part2-item1" n="2">
                         <locus>ff. 168r-244v</locus>
-                        <author ref="http://viaf.org/viaf/19688718" key="person_398">Averroës, 1126-1198אבן רשד, מחמד</author>
+                        <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד</author>
                         <title>Beʾur ʾemtsai ʿal Sefer ha-Higayon shel Arisṭo <foreign xml:lang="he">באור אמצעי על ספר ההגיון של אריסטו</foreign>
                         </title>
                         <note>Yaakov Anatoli's translation.</note>
@@ -202,13 +202,13 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/79259912" key="person_368">Anatoli, Jacob ben Abba Mari ben Samson, active 13th century</persName>
+                  <persName ref="http://viaf.org/viaf/79259912" key="person_79259912">Anatoli, Jacob ben Abba Mari ben Samson, active 13th century</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/31996761" key="person_615">Ghazzālī, 1058-1111</persName>
+                  <persName ref="http://viaf.org/viaf/31996761" key="person_31996761">Ghazzālī, 1058-1111</persName>
                </term>
             </keywords>
          </textClass>

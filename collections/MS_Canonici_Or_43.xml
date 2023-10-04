@@ -48,7 +48,7 @@
                   <summary>Avicenna: Canon (Book I)</summary>
                   <msItem xml:id="MS_Canonici_Or_43-item1" n="1">
                      <locus>ff. 1r-205v</locus>
-                     <author ref="http://viaf.org/viaf/89770781" key="person_572">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה,980-1037</author>
+                     <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה,980-1037</author>
                      <title>Canon (Book I) <foreign xml:lang="he">קאנון (ספר א’)</foreign>
                      </title>
                      <note>Nathan's translation, with marginal notes, containing omissions, various readings and commentaries.</note>
@@ -148,7 +148,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">

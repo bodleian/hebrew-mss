@@ -48,7 +48,7 @@
                   <summary>Orlando furioso</summary>
                   <msItem xml:id="MS_Canonici_Or_6-item1" n="1">
                      <locus>ff. 5r-196v</locus>
-                     <author ref="http://viaf.org/viaf/71386455" key="person_580">Ariosto, Lodovico, 1474-1533אריוסטו, לודוביקו</author>
+                     <author ref="http://viaf.org/viaf/71386455" key="person_71386455">Ariosto, Lodovico, 1474-1533אריוסטו, לודוביקו</author>
                      <title>Orlando furioso <foreign xml:lang="he">אורלאנדו פורייוזו</foreign>
                      </title>
                      <textLang mainLang="it">Italian written in Hebrew characters.</textLang>
@@ -142,7 +142,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

@@ -86,8 +86,8 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_113-part1-item1" n="1">
                         <locus>ff.21r-23v</locus>
-                        <author ref="http://viaf.org/viaf/88896884" key="person_695">Harizi, Judah ben Solomon, active 12th century-13th century</author>
-                        <author key="person_696">חריזי, יהודה בן שלמה</author>
+                        <author ref="http://viaf.org/viaf/88896884" key="person_297241688">Harizi, Judah ben Solomon, active 12th century-13th century</author>
+                        <author key="person_297241688">חריזי, יהודה בן שלמה</author>
                         <title>Refuʾat ha-Geṿiyah</title>
                         <title xml:lang="he">רפואת הגויה</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -112,16 +112,16 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item5" n="5">
                         <locus>ff.28v-54v</locus>
-                        <author key="person_697">Alṭabari, Eli ben Barikh (?)</author>
-                        <author key="person_698">אלטברי, אלי בן בריך(?)</author>
+                        <author key="person_7002">Alṭabari, Eli ben Barikh (?)</author>
+                        <author key="person_7002">אלטברי, אלי בן בריך(?)</author>
                         <title>Segulot Alṭabari</title>
                         <title xml:lang="he">סגולות אלטאברי</title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item6" n="6">
                         <locus>ff.54v-56v</locus>
-                        <author ref="http://viaf.org/viaf/95159227" key="person_350">Saʻadia ben Joseph, 882-942</author>
-                        <author key="person_699">סעדיה בן יוסף, אלפיומי (מיוחס לו) ‬</author>
+                        <author ref="http://viaf.org/viaf/95159227" key="person_95159227">Saʻadia ben Joseph, 882-942</author>
+                        <author key="person_95159227">סעדיה בן יוסף, אלפיומי (מיוחס לו) ‬</author>
                         <title>Sefer Goralot</title>
                         <title xml:lang="he">ספר גורלות</title>
                         <note>On fol. : <quote xml:lang="he">"גורלות מר’ סעדיה נסו אותם אנשי בבל ואשכנז’ וספרד’"</quote>
@@ -136,7 +136,7 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item8" n="8">
                         <locus>ff.62v-64v</locus>
-                        <author ref="http://viaf.org/viaf/7524651" key="person_78">Aristotleאריסטו(מיוחס לו)</author>
+                        <author ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotleאריסטו(מיוחס לו)</author>
                         <title>Sod ha-sodot</title>
                         <title xml:lang="he">סוד הסודות</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -155,8 +155,8 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item11" n="11">
                         <locus>ff.68v-71r</locus>
-                        <author ref="http://viaf.org/viaf/235675121" key="person_701">Jean, de Saint-Amand, active 13th century-14th century</author>
-                        <author key="person_702">יוהנס מסנט אמנד</author>
+                        <author ref="http://viaf.org/viaf/235675121" key="person_3799159478165027990002">Jean, de Saint-Amand, active 13th century-14th century</author>
+                        <author key="person_3799159478165027990002">יוהנס מסנט אמנד</author>
                         <title>Hatsaʿah</title>
                         <title xml:lang="he">הצעה</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -175,23 +175,23 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item14" n="14">
                         <locus>ff.78r-96v</locus>
-                        <author ref=" http://viaf.org/viaf/226497544" key="person_703">Bernard, de Gordon, approximately 1260-approximately 1318</author>
-                        <author key="person_704">ברנרד דה גורדון</author>
+                        <author ref=" http://viaf.org/viaf/226497544" key="person_226497544">Bernard, de Gordon, approximately 1260-approximately 1318</author>
+                        <author key="person_226497544">ברנרד דה גורדון</author>
                         <title xml:lang="la">Lilium medicinae</title>
                         <title xml:lang="he">שושן הרפואה (לקוטים)</title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item15" n="15">
                         <locus>ff.97r-98v</locus>
-                        <author ref="http://viaf.org/viaf/130475687" key="person_705">Asaph, ha-Rofe, active 6th century</author>
-                        <author key="person_706">אסף הרופא</author>
+                        <author ref="http://viaf.org/viaf/130475687" key="person_130475687">Asaph, ha-Rofe, active 6th century</author>
+                        <author key="person_130475687">אסף הרופא</author>
                         <title>Refuʾot</title>
                         <title xml:lang="he">רפואות</title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item16" n="16">
                         <locus>ff.99r-125v</locus>
-                        <author ref="http://viaf.org/viaf/95159227" key="person_350">Saʻadia ben Joseph, 882-942</author>
+                        <author ref="http://viaf.org/viaf/95159227" key="person_95159227">Saʻadia ben Joseph, 882-942</author>
                         <author key="person_707">יעקב בן יוסף הלוי</author>
                         <title>ha-Maʾamar ba-ḥazirim</title>
                         <title xml:lang="he">המאמר בחזירים</title>
@@ -202,15 +202,15 @@
                         <title>Liḳuṭim ba-refuʾah</title>
                         <title xml:lang="he">לקוטים ברפואה</title>
                         <note>Among others contains extracts on ear diseases, poisons, bites, wounds and pains.</note>
-                        <note>Extracts from <persName key="person_469">Galen</persName>, <persName key="person_470">Bernard de Gordon</persName>, etc.</note>
+                        <note>Extracts from <persName key="person_44299175">Galen</persName>, <persName key="person_226497544">Bernard de Gordon</persName>, etc.</note>
                         <note>At the end: <foreign xml:lang="he">"נבחר ונלקט מספר הבחירה אשר יסדה השר ברפואת אנשי זמננו"</foreign>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item18" n="18">
                         <locus>ff.195r-197v</locus>
-                        <author ref="http://viaf.org/viaf/112670997" key="person_708">Ibn Māsawayh, Yūḥannā, -857 or 858</author>
-                        <author key="person_709">מאסויה, יחיא אבן</author>
+                        <author ref="http://viaf.org/viaf/112670997" key="person_297043647">Ibn Māsawayh, Yūḥannā, -857 or 858</author>
+                        <author key="person_297043647">מאסויה, יחיא אבן</author>
                         <title>Anṭidoṭarium (extracts)</title>
                         <title xml:lang="he">אנטידוטריום (לקוטים)</title>
                         <note>Anonym translator.</note>
@@ -235,8 +235,8 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item21" n="21">
                         <locus>ff.230v-233v</locus>
-                        <author ref="http://viaf.org/viaf/95154093" key="person_710">Rāzī, Abū Bakr Muḥammad ibn Zakarīyā, 865?-925?</author>
-                        <author key="person_711">ראזי, מחמד בן זכריה</author>
+                        <author ref="http://viaf.org/viaf/95154093" key="person_95154093">Rāzī, Abū Bakr Muḥammad ibn Zakarīyā, 865?-925?</author>
+                        <author key="person_95154093">ראזי, מחמד בן זכריה</author>
                         <title>Sefer Almantsuri (extracts from part 3)</title>
                         <title xml:lang="he">אלמנצורי (לקוטים מחלק ג)</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -262,8 +262,8 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item25" n="25">
                         <locus>ff.258v-260r</locus>
-                        <author ref="http://viaf.org/viaf/65305329" key="person_712">Todros ben Isaac, active 1321-1322</author>
-                        <author key="person_713">יצחק טודרוס הרופא</author>
+                        <author ref="http://viaf.org/viaf/65305329" key="person_65305329">Todros ben Isaac, active 1321-1322</author>
+                        <author key="person_65305329">יצחק טודרוס הרופא</author>
                         <title>Maʾamar ba-laḳuʾah</title>
                         <title xml:lang="he">המאמר בלאקואה</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -276,23 +276,23 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item27" n="27">
                         <locus>ff.271r-275r</locus>
-                        <author ref="http://viaf.org/viaf/100205722" key="person_714">Guy, de Chauliac, approximately 1300-1368</author>
+                        <author ref="http://viaf.org/viaf/100205722" key="person_100205722">Guy, de Chauliac, approximately 1300-1368</author>
                         <title>Kirurgia (maʾamar 7 limud 2: ba-terufot praṭiyot (Chirurgia magna)</title>
                         <title xml:lang="he">כירורגיאה (מאמר ז למוד ב: בתרופות פרטיות)</title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item28" n="28">
                         <locus>ff.275r-277r</locus>
-                        <author ref="http://viaf.org/viaf/89770781" key="person_572">Avicenna, 980?-1037</author>
-                        <author key="person_716">אבן סינא, אלחסין בן עבדאללה</author>
+                        <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037</author>
+                        <author key="person_89770781">אבן סינא, אלחסין בן עבדאללה</author>
                         <title>Ḳanon (sefer 1)(Canon medicinae)</title>
                         <title xml:lang="he">קאנון (ספר א’)</title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item29" n="29">
                         <locus>ff.277b-280r</locus>
-                        <author ref="http://viaf.org/viaf/307289072" key="person_717">Lattes, Isaak ben Jakob ca. 2. H. 14. Jh.</author>
-                        <author key="person_718">לטיש, יצחק בן יעקב</author>
+                        <author ref="http://viaf.org/viaf/307289072" key="person_307289072">Lattes, Isaak ben Jakob ca. 2. H. 14. Jh.</author>
+                        <author key="person_307289072">לטיש, יצחק בן יעקב</author>
                         <title>Maʾamar be-veḳiaʿ</title>
                         <title xml:lang="he">המאמר בבקיעה</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -311,8 +311,8 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item32" n="32">
                         <locus>ff.348v-350r</locus>
-                        <author ref="http://viaf.org/viaf/287984736" key="person_719">Hippocrates</author>
-                        <author xml:lang="he" key="person_720">היפוקרטס (מיוחס לו)</author>
+                        <author ref="http://viaf.org/viaf/287984736" key="person_287984736">Hippocrates</author>
+                        <author xml:lang="he" key="person_287984736">היפוקרטס (מיוחס לו)</author>
                         <title>Perush ha-Sefer he-ḥatum ha-nimtsa ba-ḳever Avuḳraṭ</title>
                         <title xml:lang="he">פרוש הספר החתום הנמצא בקבר אבוקראט</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -350,7 +350,7 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item38" n="38">
                         <locus>ff.396v-399r</locus>
-                        <author key="person_721">זהראוי, כ’לף בן אלעבאס</author>
+                        <author key="person_56636061">זהראוי, כ’לף בן אלעבאס</author>
                         <title>ha-Tseruf</title>
                         <title xml:lang="he">הצרוף</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -407,8 +407,8 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_113-part2-item1" n="40">
                         <locus>ff. 407r</locus>
-                        <author ref="http://viaf.org/viaf/101087390" key="person_722">Recanati, Menahem ben Benjamin, active 13th century-14th century</author>
-                        <author key="person_723">ריקנטי, מנחם בן בנימין</author>
+                        <author ref="http://viaf.org/viaf/101087390" key="person_101087390">Recanati, Menahem ben Benjamin, active 13th century-14th century</author>
+                        <author key="person_101087390">ריקנטי, מנחם בן בנימין</author>
                         <title>Paragraph from Recanati's commentary on the Torah</title>
                         <colophon>Colophon on fol. 407r: <foreign xml:lang="he">"על ידי שמואל בונפוש דמרשלייה אשר בא מירושלם בשנת י’צ’י’ץ’ ... תם בשנת ר’א’ה’ אנכי ... ח’ ימים לחדש אלול"</foreign>
                         </colophon>
@@ -491,13 +491,13 @@
             </keywords>
             <keywords scheme="LCSH">
                <term ref="MS_Laud_Or_113_1_w">
-                  <persName ref="http://viaf.org/viaf/100189814" key="person_472">Arnaldus de Villanueva</persName>
+                  <persName ref="http://viaf.org/viaf/100189814" key="person_100189814">Arnaldus de Villanueva</persName>
                </term>
                <term ref="MS_Laud_Or_113_1_w">
-                  <persName ref="http://viaf.org/viaf/34501062" key="person_473">Robert, King of Naples, approximately 1275-1343</persName>
+                  <persName ref="http://viaf.org/viaf/34501062" key="person_264872870">Robert, King of Naples, approximately 1275-1343</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

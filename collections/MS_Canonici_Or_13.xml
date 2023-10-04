@@ -48,7 +48,7 @@
                   <summary>Sefer ha-Manhig</summary>
                   <msItem xml:id="MS_Canonici_Or_13-item1" n="1">
                      <locus>ff. 1r-154r</locus>
-                     <author ref="http://viaf.org/viaf/305405832" key="person_522">Abraham ben Nathan, ha-Yarḥi, approximately 1155-1215אברהם בן נתן, הירחי</author>
+                     <author ref="http://viaf.org/viaf/305405832" key="person_305405832">Abraham ben Nathan, ha-Yarḥi, approximately 1155-1215אברהם בן נתן, הירחי</author>
                      <title>Sefer ha-Manhig <foreign xml:lang="he">ספר המנהיג</foreign>
                      </title>
                      <note>The name or acrostic of Moses is often pointed out (e.g. fols. 8v, 98v-twice, 113v)</note>
@@ -83,7 +83,7 @@
                      <origPlace>[Italy]</origPlace>
                      <origDate notBefore="1401" notAfter="1425">[early 15th century]</origDate>
                   </origin>
-                  <provenance>Censors' signatures: "Subsignavi ego <persName key="person_64">Guidus Menotius</persName> Regien[sis] Not[ariu]s de Man[tov]a ... di Jac. Geraldini commiss[ari] Ap[osto]lici et Ducalus, die 18 Martii <date calendar="#Gregorian">1556</date> " (fol. 1r); "Domenico Irosolomi[ta]no <date calendar="#Gregorian">1597</date> " (fol. 153v)</provenance>
+                  <provenance>Censors' signatures: "Subsignavi ego <persName key="person_1162606507849532216">Guidus Menotius</persName> Regien[sis] Not[ariu]s de Man[tov]a ... di Jac. Geraldini commiss[ari] Ap[osto]lici et Ducalus, die 18 Martii <date calendar="#Gregorian">1556</date> " (fol. 1r); "Domenico Irosolomi[ta]no <date calendar="#Gregorian">1597</date> " (fol. 153v)</provenance>
                   <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
@@ -140,15 +140,15 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName key="person_65">Guido Menotius (censor)</persName>
+                  <persName key="person_1162606507849532216">Guido Menotius (censor)</persName>
                </term>
                <term>
-                  <persName key="person_66">Dominico Irosolomitano (censor)</persName>
+                  <persName key="person_79251093">Dominico Irosolomitano (censor)</persName>
                </term>
             </keywords>
          </textClass>

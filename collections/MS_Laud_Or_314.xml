@@ -50,7 +50,7 @@
                      <locus>ff.1r-26v</locus>
                      <title>Haggadah shel Pesaḥ ke-minhag Aleppo (Aram Tsuvah) <foreign xml:lang="he">הגדה של פסח כמנהג ארם צובה</foreign>
                      </title>
-                     <note>Rite of Aleppo. At the beginning (fols. 2-4) a lengthy description in Latin of an otherwise unknown edition of the Passover Haggadah printed by <persName key="person_419">Daniel Bomberg</persName> in <placeName key="place_32">Venice</placeName> [n.d.] and the beginning of a description of a Haggadah printed by <persName key="person_420">Christofolo Zanetti</persName> (Rome, 1564)</note>
+                     <note>Rite of Aleppo. At the beginning (fols. 2-4) a lengthy description in Latin of an otherwise unknown edition of the Passover Haggadah printed by <persName key="person_29586752">Daniel Bomberg</persName> in <placeName key="place_32">Venice</placeName> [n.d.] and the beginning of a description of a Haggadah printed by <persName key="person_420">Christofolo Zanetti</persName> (Rome, 1564)</note>
                      <note>Latin description of the Haggadah on fols. 2-4, Haggadah itself begins on fol. 8r.</note>
                      <note>The date specified in the colophon <foreign xml:lang="he">גשמ"י ברכ"ה לפ"ק</foreign> (<date calendar="#AM">5580</date> = <date calendar="#Gregorian">1820</date>) is refuted by two ownership inscriptions of 1618 and 1633. The year should be read גשמ"י (5353=1593) which was in fact a leap year, and so 18 Adar II did fall on a Monday.</note>
                      <colophon>
@@ -155,7 +155,7 @@
             </keywords>
             <keywords scheme="#LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

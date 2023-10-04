@@ -54,7 +54,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_109-item2" n="2">
                      <locus>ff. 103r-123r</locus>
-                     <author key="person_670">Ibn Gabirol, active 11th century <foreign xml:lang="he">גבירול, שלמה בן יהודה אבן</foreign>
+                     <author key="person_100186412">Ibn Gabirol, active 11th century <foreign xml:lang="he">גבירול, שלמה בן יהודה אבן</foreign>
                      </author>
                      <title>Keter Malkhut <foreign xml:lang="he">כתר מלכות</foreign>
                      </title>
@@ -62,7 +62,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_109-item3" n="3">
                      <locus>ff. 123v-163r</locus>
-                     <author key="person_508">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
+                     <author key="person_120777116">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
                      <title>Beḥinat ʿolam (The Examination of the World) <foreign xml:lang="he">בחינת עולם</foreign>
                      </title>
@@ -70,7 +70,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_109-item4" n="4">
                      <locus>ff. 163v-173v</locus>
-                     <author key="person_658">Ezobi, Jehoseph ben Hanan ben Nathan, active 13th century <foreign xml:lang="he">אזובי, יוסם בן חנן</foreign>
+                     <author key="person_23309685">Ezobi, Jehoseph ben Hanan ben Nathan, active 13th century <foreign xml:lang="he">אזובי, יוסם בן חנן</foreign>
                      </author>
                      <title>Ḳeʿarat ha-kesef <foreign xml:lang="he">קערת הכסף</foreign>
                      </title>
@@ -78,7 +78,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_109-item5" n="5">
                      <locus>ff. 174r-185v</locus>
-                     <author key="person_512">Rieti, Moses ben Isaac da, 1388-1460? <foreign xml:lang="he">ריאיטי, משה</foreign>
+                     <author key="person_24669073">Rieti, Moses ben Isaac da, 1388-1460? <foreign xml:lang="he">ריאיטי, משה</foreign>
                      </author>
                      <title>Miḳdash meʿaṭ (Meʻon ha-shoʼalim) <foreign xml:lang="he">מקדש מעט (מעון השואלים)</foreign>
                      </title>
@@ -168,7 +168,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
                <term>Correggio (Italy)</term>
             </keywords>

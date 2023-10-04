@@ -48,7 +48,7 @@
                   <summary>Commentary on the Book of Psalms by Joseph Ḥayyun</summary>
                   <msItem xml:id="MS_Canonici_Or_51-item1" n="1">
                      <locus>ff. 2r-258r</locus>
-                     <author ref="http://viaf.org/viaf/78823237" key="person_608">Ḥayyun, Joseph ben Abraham, -1497חיון, יוסף בן אברהם</author>
+                     <author ref="http://viaf.org/viaf/78823237" key="person_7357235">Ḥayyun, Joseph ben Abraham, -1497חיון, יוסף בן אברהם</author>
                      <title>Commentary on the Book of Psalms <foreign xml:lang="he">פרוש כתובים ליוסף חיון (תהלים)</foreign>
                      </title>
                      <note>Fols. 159-164 are blank.</note>
@@ -144,7 +144,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

@@ -48,9 +48,9 @@
                   <summary>David ben Shmuel ibn Shushan's Hebrew translation of Thomas Bricot's compendium of Aristotle's works</summary>
                   <msItem xml:id="MS_Canonici_Or_7-item1" n="1">
                      <locus>ff. 4v-</locus>
-                     <author ref="http://viaf.org/viaf/92769057" key="person_598">Bricot, Thomas, -1516בריקוט, תומס</author>
+                     <author ref="http://viaf.org/viaf/92769057" key="person_199611504">Bricot, Thomas, -1516בריקוט, תומס</author>
                      <title>
-                        <persName key="person_266">David ben Shmuel ibn Shushan</persName>'s Hebrew translation of <persName key="person_267">Thomas Bricot</persName>'s compendium of <persName key="person_78">Aristotle</persName>'s works <foreign xml:lang="he">אותות עליונות (קצור: תומס בריקוט)</foreign>
+                        <persName key="person_266">David ben Shmuel ibn Shushan</persName>'s Hebrew translation of <persName key="person_199611504">Thomas Bricot</persName>'s compendium of <persName key="person_7524651">Aristotle</persName>'s works <foreign xml:lang="he">אותות עליונות (קצור: תומס בריקוט)</foreign>
                      </title>
                      <note>fols. 4v-79v: <foreign xml:lang="he">ספר השמע הטבעי</foreign> (Physica Auscultatio)</note>
                      <note>fols. 80r-105v: <foreign xml:lang="he">ספר השמים והעולם</foreign> (De Coelo et Mundi)</note>
@@ -151,7 +151,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

@@ -48,7 +48,7 @@
                   <summary>Mikhlol by David Kimhi</summary>
                   <msItem xml:id="MS_Laud_Or_293-item1" n="1">
                      <locus>ff. 1-205</locus>
-                     <author ref="http://viaf.org/viaf/100213323" key="person_582">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף, 1160-1235</author>
+                     <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף, 1160-1235</author>
                      <title>Mikhlol <foreign xml:lang="he">מכלול</foreign>
                      </title>
                      <note>Grammar, with marginal notes in Latin. The MS has not the poem beginning <foreign xml:lang="he">לכל חכמה</foreign>; it ends with the words <foreign xml:lang="he">חכם שמושה מן וכבר זכרונוהו</foreign>
@@ -148,7 +148,7 @@
             <keywords scheme="LCSH">
                <term>Grammar</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

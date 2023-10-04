@@ -80,7 +80,7 @@
                   <msContents>
                      <msItem xml:id="MS_Pococke_181-part1-item1" n="1">
                         <locus>ff. 1r-34v</locus>
-                        <author ref="http://lccn.loc.gov/n83043340" key="person_618">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or 1053-1127בטליוסי, אבו מחמד עבדאללה בן מחמד</author>
+                        <author ref="http://lccn.loc.gov/n83043340" key="person_9592162669514255500009">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or 1053-1127בטליוסי, אבו מחמד עבדאללה בן מחמד</author>
                         <title>Kitab al-Hadaiq <foreign xml:lang="he">כתאב אלחאדאיק</foreign>
                         </title>
                         <colophon>Colophon in on fol. 34v: <foreign xml:lang="he">"ואסתכתבה סעדיה אלאסראילי ולד אלחכים אליה אלמתטבב"</foreign>.</colophon>
@@ -127,7 +127,7 @@
                   <msContents>
                      <msItem xml:id="MS_Pococke_181-part2-item1" n="3">
                         <locus>ff. 54r-61v</locus>
-                        <author ref="http://viaf.org/viaf/89770781" key="person_572">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
+                        <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
                         <title>
                            <foreign xml:lang="he">רסאלה פי אקסאם לעלוס</foreign>
                         </title>
@@ -168,7 +168,7 @@
                   <msContents>
                      <msItem xml:id="MS_Pococke_181-part3-item1" n="4">
                         <locus>ff. 62v-154r</locus>
-                        <author ref="http://viaf.org/viaf/89770781" key="person_572">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
+                        <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
                         <title>al-Ḥikmah al-mashriqīyah <foreign xml:lang="he">אלחכמה אלמשרקיה</foreign>
                         </title>
                          <note>See also <ref target="https://www.fihrist.org.uk/catalog/manuscript_1418">Fihrist catalogue.</ref>

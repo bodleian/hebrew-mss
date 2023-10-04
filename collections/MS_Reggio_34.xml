@@ -48,7 +48,7 @@
                   <summary>Ari nohem</summary>
                   <msItem xml:id="MS_Reggio_34-item1" n="1">
                      <locus>ff. 1r-50r</locus>
-                     <author ref="http://viaf.org/viaf/4948231" key="person_550">Modena, Leone, 1571-1648מודנה, יהודה אריה בן יצחק, 1571-1648</author>
+                     <author ref="http://viaf.org/viaf/4948231" key="person_4948231">Modena, Leone, 1571-1648מודנה, יהודה אריה בן יצחק, 1571-1648</author>
                      <title>Ari nohem</title>
                      <title>
                         <foreign xml:lang="he">ארי נוהם</foreign>
@@ -149,7 +149,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_67197037">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
          </textClass>

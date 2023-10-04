@@ -48,7 +48,7 @@
                   <summary>Ḳitsur mi-kol melekhet ha-higayon by Averroës</summary>
                   <msItem xml:id="MS_Bodley_Or_77-item1" n="1">
                      <locus>ff. 1r-74r</locus>
-                     <author key="person_398">Averroës, 1126-1198אבן רשד, מחמד</author>
+                     <author key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד</author>
                      <title>Ḳitsur mi-kol melekhet ha-higayon <foreign xml:lang="he">קצור מכל מלאכת ההגיון</foreign>
                      </title>
                      <note>Translated to Hebrew by Jacob ben Machir ibn Tibbon.</note>
@@ -141,13 +141,13 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/34512366" key="person_54">Bodley, Thomas, Sir, 1545-1613</persName>
+                  <persName ref="http://viaf.org/viaf/34512366" key="person_34512366">Bodley, Thomas, Sir, 1545-1613</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/314797824" key="person_248">Ibn Tibbon, Jacob ben Machir, approximately 1236</persName>
+                  <persName ref="http://viaf.org/viaf/314797824" key="person_79269165">Ibn Tibbon, Jacob ben Machir, approximately 1236</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/25033206" key="person_249">Afendopolo, Caleb ben Elijah, 1464?-1525</persName>
+                  <persName ref="http://viaf.org/viaf/25033206" key="person_15146522312132391609">Afendopolo, Caleb ben Elijah, 1464?-1525</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
@@ -155,7 +155,7 @@
                   <persName xml:lang="he" key="person_250">שבתי בן שבתי, הסופר (מעתיק)</persName>
                </term>
                <term>
-                  <persName xml:lang="he" key="person_251">אפנדופולו, כלב בן אליהו (בעלים)</persName>
+                  <persName xml:lang="he" key="person_15146522312132391609">אפנדופולו, כלב בן אליהו (בעלים)</persName>
                </term>
             </keywords>
          </textClass>

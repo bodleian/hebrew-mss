@@ -47,8 +47,8 @@
                <msContents>
                   <summary>Ṭur (Oraḥ Ḥayim)</summary>
                   <msItem xml:id="MS_Laud_Or_166-item1" n="1">
-                     <author ref="http://viaf.org/viaf/73882588" key="person_692">Jacob ben Asher, approximately 1269-approximately 1340</author>
-                     <author key="person_693">יעקב בן אשר, ?1270-?1340</author>
+                     <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Jacob ben Asher, approximately 1269-approximately 1340</author>
+                     <author key="person_301582237">יעקב בן אשר, ?1270-?1340</author>
                      <title>Ṭur (Oraḥ Ḥayim)</title>
                      <title xml:lang="he">טור (ארח חיים)</title>
                      <note>691 paragraphs; with marginal notes by later hand</note>
@@ -135,7 +135,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

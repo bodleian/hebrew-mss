@@ -83,7 +83,7 @@
                   <msContents>
                      <msItem xml:id="MS_Marsh_382-part1-item1" n="1">
                         <locus>ff. 1r-157v</locus>
-                        <author ref="http://viaf.org/viaf/100185495/" key="person_115">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                        <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
                         <title>Mishneh Torah (fragment) <foreign xml:lang="he">משנה תורה (קטע)</foreign>
                         </title>
                         <textLang mainLang="he">Hebrew</textLang>

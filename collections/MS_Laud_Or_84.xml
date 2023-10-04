@@ -48,7 +48,7 @@
                   <summary>Ohev mishpaṭ: Perush Iob</summary>
                   <msItem xml:id="MS_Laud_Or_84-item1" n="1">
                      <locus>ff. 1r-228v</locus>
-                     <author xml:lang="he-Latn-x-lc" ref="http://viaf.org/viaf/37714446" key="person_491">Duran, Simeon ben Ẓemaḥ, 1361-1444דורן, שמעון בן צמח</author>
+                     <author xml:lang="he-Latn-x-lc" ref="http://viaf.org/viaf/37714446" key="person_37714446">Duran, Simeon ben Ẓemaḥ, 1361-1444דורן, שמעון בן צמח</author>
                      <title>Ohev mishpaṭ: Perush Iob.</title>
                      <title xml:lang="he">אוהב משפט: פירוש איוב</title>
                      <colophon>On <locus>fol.</locus>: " <foreign xml:lang="he">נשלם על ידי ... לאשר נתן כתר תורה על ראשו ... ר’ יצחק בן ... רבי אברהם הכהן נטרוהי רחמנא, והיתה השלמתו עשרה ימים לירח סיון שנת ובני ישראל יוצאים ביד ר’מ’ה’ מוסף על חמשת אלפים ... נאים הכתב יוסף בר עלי ס"ט בן ישראל</foreign> ".</colophon>
@@ -132,7 +132,7 @@
             <keywords scheme="LCSH">
                <term>Bible. Commentaries.</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">

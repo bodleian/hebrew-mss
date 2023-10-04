@@ -139,7 +139,7 @@
                   <msContents>
                      <msItem xml:id="MS_Reggio_26-part2-item1" n="2">
                         <locus>ff. 65r-136v</locus>
-                        <author ref="http://viaf.org/viaf/79260667" key="person_4005">Moses ben Shem Tov, de Leon, 1250-1305(attributed to)ליאון, משה די</author>
+                        <author ref="http://viaf.org/viaf/79260667" key="person_79260667">Moses ben Shem Tov, de Leon, 1250-1305(attributed to)ליאון, משה די</author>
                         <title>Sefer ha-Shem</title>
                         <title>
                            <foreign xml:lang="he">ספר השם</foreign>
@@ -216,7 +216,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_67197037">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">

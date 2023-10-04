@@ -48,7 +48,7 @@
                   <summary>Sefer ha-Shorashim</summary>
                   <msItem xml:id="MS_Canonici_Or_67-item1" n="1">
                      <locus>ff. 1r-233r</locus>
-                     <author ref="http://viaf.org/viaf/100213323" key="person_485">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
+                     <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
                      <title>Sefer ha-Shorashim <foreign xml:lang="he">ספר השורשים</foreign>
                      </title>
                      <note>On the margins at the beginning and on some leaves in the middle of the MS there are omissions and biblical referenes by an Italian hand. Glosses written in an Italian mid-late 15th-century hand.</note>
@@ -92,7 +92,7 @@
                      <origPlace>Lisbon?</origPlace>
                      <origDate when="1378">1378?</origDate>
                   </origin>
-                   <provenance>Ownership inscriptions: <foreign xml:lang="he">יונה יאיר</foreign> (fol.1r); <foreign xml:lang="he">יוסף בן יצחק זרקו</foreign> (fol. 234v) ; censors' signatures: <persName key="person_43">"Camillo Jaghel</persName> 1613", "Ego Frater <persName key="person_59">Renatus a Mutina</persName> ord[in]is Capp[ucino]ru[m] correxi anno 1626", "Revisto per mi fra <persName key="person_44">Luigi da Bologna</persName> del ordine de sa' Domenico ... 1599" (fol. 233r), "fra Gir[olamo] da Duranallo 1640" (fol. 234v).</provenance>
+                   <provenance>Ownership inscriptions: <foreign xml:lang="he">יונה יאיר</foreign> (fol.1r); <foreign xml:lang="he">יוסף בן יצחק זרקו</foreign> (fol. 234v) ; censors' signatures: <persName key="person_316606361">"Camillo Jaghel</persName> 1613", "Ego Frater <persName key="person_59">Renatus a Mutina</persName> ord[in]is Capp[ucino]ru[m] correxi anno 1626", "Revisto per mi fra <persName key="person_44">Luigi da Bologna</persName> del ordine de sa' Domenico ... 1599" (fol. 233r), "fra Gir[olamo] da Duranallo 1640" (fol. 234v).</provenance>
                   <acquisition>Matteo Luigi Canonici's (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
@@ -152,7 +152,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
@@ -160,16 +160,16 @@
                   <persName xml:lang="he"/>
                </term>
                <term>
-                  <persName key="person_60">Girolamo, da Durazzano (censor)</persName>
+                  <persName key="person_195167803128317771333">Girolamo, da Durazzano (censor)</persName>
                </term>
                <term>
                   <persName key="person_44">Luigi da Bologna (censor)</persName>
                </term>
                <term>
-                  <persName key="person_61">Renato da Modena (censor)</persName>
+                  <persName key="person_431159474324327662713">Renato da Modena (censor)</persName>
                </term>
                <term>
-                  <persName key="person_43">Camillo Jaghel</persName>
+                  <persName key="person_316606361">Camillo Jaghel</persName>
                </term>
             </keywords>
          </textClass>

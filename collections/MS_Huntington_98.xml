@@ -48,7 +48,7 @@
                   <summary>Bet Elohim by Moses Almosnino</summary>
                   <msItem xml:id="MS_Huntington_98-item1" n="1">
                      <locus>ff. 2r-95v</locus>
-                     <author ref="http://viaf.org/viaf/100909415" key="person_635">Almosnino, Moses ben Baruch, approximately 1515-approximately 1580אלמושנינו, משה בן ברוך, 1518-1579</author>
+                     <author ref="http://viaf.org/viaf/100909415" key="person_100909415">Almosnino, Moses ben Baruch, approximately 1515-approximately 1580אלמושנינו, משה בן ברוך, 1518-1579</author>
                      <title>Bet Elohim (The House of God)</title>
                      <title>
                         <foreign xml:lang="he">בית אלהים</foreign>
@@ -155,7 +155,7 @@
                   <persName ref="http://viaf.org/viaf/34684157" key="person_131">Robert Huntington</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/84975906" key="person_370">Sacro Bosco, Joannes de, active 1230</persName>
+                  <persName ref="http://viaf.org/viaf/84975906" key="person_7345152140002111100001">Sacro Bosco, Joannes de, active 1230</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">

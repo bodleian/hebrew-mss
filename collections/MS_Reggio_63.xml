@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_63-item2" n="2">
                      <locus>ff. 1r-338r</locus>
-                     <author key="person_513">ha-Yiśraʾeli, Yiśraʾel ben Yosefהישראלי, ישראל בן יוסף, מטולידו</author>
+                     <author key="person_297308748">ha-Yiśraʾeli, Yiśraʾel ben Yosefהישראלי, ישראל בן יוסף, מטולידו</author>
                      <title>Mitsṿot Zemanit <foreign xml:lang="he">מצוות זמניות ‬</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -69,7 +69,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_63-item4" n="4">
                      <locus>ff. 374v-430v</locus>
-                     <author ref="http://viaf.org/viaf/73882588" key="person_514">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
+                     <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
                      <title>Ṭur (Oraḥ Ḥayim, Hilkhot Taʿanit tsibur) <foreign xml:lang="he">טור (ארח חיים, הלכות תענית צבור) ‬</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -168,12 +168,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_67197037">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he" key="person_52">הישראלי, ישראל בן יוסף, מטולידו</persName>
+                  <persName xml:lang="he" key="person_297308748">הישראלי, ישראל בן יוסף, מטולידו</persName>
                </term>
                <term>
                   <persName xml:lang="he" key="person_53">שם טוב בן יצחק אבן ארדוטיאל</persName>

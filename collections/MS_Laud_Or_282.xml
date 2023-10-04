@@ -90,7 +90,7 @@
                      <origPlace>[Spain]</origPlace>
                      <origDate when="1400">[ca. 1400]</origDate>
                   </origin>
-                  <provenance>Ownership inscriptions: "Joannes Dee 1562 January 8. Louanii emit"; "Liber Guilielmi Laud Archiepi[scopi] Cantuari[iensis] et Cancellarii Universitatis Oxon[iensis] 1633" (fol.1r); Description of the content in English by Archbishop Laud (?) mentioning <persName key="person_11">John Dee</persName> (fol. v r)</provenance>
+                  <provenance>Ownership inscriptions: "Joannes Dee 1562 January 8. Louanii emit"; "Liber Guilielmi Laud Archiepi[scopi] Cantuari[iensis] et Cancellarii Universitatis Oxon[iensis] 1633" (fol.1r); Description of the content in English by Archbishop Laud (?) mentioning <persName key="person_39386049">John Dee</persName> (fol. v r)</provenance>
                   <acquisition>Donated to the Library by Archbishop William Laud (see Summary Catalogue, vol.II, part 1, pp.13-14).</acquisition>
                </history>
                <additional>
@@ -158,10 +158,10 @@
                <term>Magia</term>
                <term>Portuguese language</term>
                <term>
-                  <persName ref="http://viaf.org/viaf/39386049" key="person_12">Dee, John, 1527-1608</persName>
+                  <persName ref="http://viaf.org/viaf/39386049" key="person_39386049">Dee, John, 1527-1608</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

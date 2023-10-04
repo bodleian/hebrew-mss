@@ -52,17 +52,17 @@
                      <title>
                         <foreign xml:lang="he">ספר הכולל</foreign>
                      </title>
-                     <note>Mainly extracts from <persName ref="http://viaf.org/viaf/90633023" key="person_455">Abraham ibn Ezra</persName>'s astrological treatises</note>
+                     <note>Mainly extracts from <persName ref="http://viaf.org/viaf/90633023" key="person_90633023">Abraham ibn Ezra</persName>'s astrological treatises</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_13-item2" n="2">
                      <locus>ff. 1r-84v</locus>
-                     <author ref="http://viaf.org/viaf/100189814" key="person_691">Arnaldus, de Villanova, -1311ארנלדוס מוילהנובה</author>
+                     <author ref="http://viaf.org/viaf/100189814" key="person_100189814">Arnaldus, de Villanova, -1311ארנלדוס מוילהנובה</author>
                      <title>Panim be-mishpaṭ</title>
                      <title>
                         <foreign xml:lang="he">פנים במשפט</foreign>
                      </title>
-                     <note>Hebrew translation of Capitula Astrologiae by <persName key="person_456">Solomon ben Abraham Avigdor</persName> (<foreign xml:lang="he">אבהרם בן שלמה אביגדור</foreign>)</note>
+                     <note>Hebrew translation of Capitula Astrologiae by <persName key="person_78950824">Solomon ben Abraham Avigdor</persName> (<foreign xml:lang="he">אבהרם בן שלמה אביגדור</foreign>)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_13-item3" n="3">
@@ -71,7 +71,7 @@
                      <title>
                         <foreign xml:lang="he">ספר התקופה</foreign>
                      </title>
-                     <note>Astronomical rules, contains extracts from <persName ref="http://viaf.org/viaf/90633023" key="person_455">Abraham ibn Ezra</persName>'s works</note>
+                     <note>Astronomical rules, contains extracts from <persName ref="http://viaf.org/viaf/90633023" key="person_90633023">Abraham ibn Ezra</persName>'s works</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -162,10 +162,10 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_67197037">Reggio, Isaacus, 1784-1855</persName>
                </term>
                <term>
-                  <persName ref="http://viaf.org/viaf/78950824" key="person_457">Avigdor, Solomon ben Abraham, 1384-</persName>
+                  <persName ref="http://viaf.org/viaf/78950824" key="person_78950824">Avigdor, Solomon ben Abraham, 1384-</persName>
                </term>
             </keywords>
          </textClass>

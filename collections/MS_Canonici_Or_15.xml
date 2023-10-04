@@ -50,7 +50,7 @@
                   </summary>
                   <msItem xml:id="MS_Canonici_Or_15-item1" n="1">
                      <locus>ff. 1r-223v</locus>
-                     <author ref="http://viaf.org/viaf/73882588" key="person_514">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
+                     <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
                      <title>Arbaʿah Ṭurim (Yoreh Deʿah) <foreign xml:lang="he">טור (יורה דעה)</foreign>
                      </title>
                      <note>Last leaf transposed.</note>
@@ -152,7 +152,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">

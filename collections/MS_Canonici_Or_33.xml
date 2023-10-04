@@ -50,7 +50,7 @@
                   </summary>
                   <msItem xml:id="MS_Canonici_Or_33-item1" n="1">
                      <locus>ff. 2r-123r</locus>
-                     <author ref="http://viaf.org/viaf/100213323" key="person_485">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
+                     <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
                      <title>Perush Neviʿim le-Radaḳ (Commentary on the Prophets [Minor Prophets]) <foreign xml:lang="he">‫ פרוש נביאים לרד"ק (תרי עשר)</foreign>
                      </title>
                      <colophon>Colophon on fol. 123r: <foreign xml:lang="he">נשלם ... בחמישי בשביעי לחמישי שנת חמשת אלפים ומאה ושמונה עשרה לבריאת עולם, היא שנת אלף ומאתים ותשעים לחרבן הבית ... על יד אשר מניין אותיותיו כמניין אבריו [=אברהם] בן אשר תחלתו עשרות חמשה ואחריתו שנים גם שלשה ואמצעיתו ארבעים [=נתן] בכפרים שלשה</foreign>
@@ -144,12 +144,12 @@
             <keywords scheme="Neubauer">
                <term>Commentaries and Supercommentaries</term>
                <term>
-                  <persName key="person_208">Andrea del Monte</persName>
+                  <persName key="person_8165867579964002792">Andrea del Monte</persName>
                </term>
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

@@ -48,7 +48,7 @@
                   <summary>Meshal ha-Ḳadmoni</summary>
                   <msItem xml:id="MS_Canonici_Or_59-item1" n="1">
                      <locus>ff. 51r-57r (folios are not in order, see collation)</locus>
-                     <author ref="http://viaf.org/viaf/78820242" key="person_502">Sahula, Isaac ben Solomon, active 13th century</author>
+                     <author ref="http://viaf.org/viaf/78820242" key="person_78820242">Sahula, Isaac ben Solomon, active 13th century</author>
                      <title>Meshal ha-Ḳadmoni (Parable of the Ancient) <foreign xml:lang="he">משל הקדמוני</foreign>
                      </title>
                      <note>The beginning of the introduction is missing, Latin and Hebrew notes on fol. 57v</note>
@@ -155,7 +155,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

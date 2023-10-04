@@ -48,7 +48,7 @@
                   <summary>Torat ha-Adam</summary>
                   <msItem xml:id="MS_Canonici_Or_72-item1" n="1">
                      <locus>ff. 1v-130r</locus>
-                     <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270 <persName key="person_487">משה בן נחמן, 1194-1270</persName>
+                     <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270 <persName key="person_219072992">משה בן נחמן, 1194-1270</persName>
                      </author>
                      <title>Torat ha-Adam <foreign xml:lang="he">תורת האדם</foreign>
                      </title>
@@ -143,7 +143,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

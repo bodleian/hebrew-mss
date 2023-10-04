@@ -48,7 +48,7 @@
                   <summary>ʿArukh</summary>
                   <msItem xml:id="MS_Canonici_Or_2-item1" n="1">
                      <locus>ff. 1r-393r</locus>
-                     <author ref="http://viaf.org/viaf/88359528" key="person_540">Nathan ben Jehiel, of Rome, 1035-approximately 1110נתן בן יחיאל, מרומה</author>
+                     <author ref="http://viaf.org/viaf/88359528" key="person_17211098">Nathan ben Jehiel, of Rome, 1035-approximately 1110נתן בן יחיאל, מרומה</author>
                      <title>ʿArukh <foreign xml:lang="he">ערוך</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -87,7 +87,7 @@
                   </origin>
                   <provenance>Ownership inscription: <foreign xml:lang="he">"אי"ש ג"ר" [=אברהם י"ש גרציאנו]</foreign> (fol. 393r); contract of purchase of the MS: <foreign xml:lang="he">"שמואל אב"י יזיי"א בכמ"ר משה אב"י זלה"ה" מכר "זה הערוך לכמ"ר זכריה ... בכמ"ר בנימין פנצי ב שבט ריא לפ"ק ... פה כרך מונטנייאנו"</foreign> (fol. 394v); censors' signatures : Luigi da Bologna, 1599; Renato da Mod[en]a, 1621; Gir. da. Durazzano 16[..] (fol. 395v)</provenance>
                   <acquisition>
-                     <persName key="person_98">Matteo Luigi Canonici</persName>'s (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
+                     <persName key="person_2384880">Matteo Luigi Canonici</persName>'s (1727-1805) collections passed to his brother Giuseppe, and on his death in 1807 to <persName key="person_1">Giovanni Perissinotti</persName> and <persName key="person_2">Girolamo Cardina</persName>, who divided them. To the former fell the MSS., then about 3550 in number, and, after many attempts to sell them, the Bodleian became the purchaser of the greater part in 1817, for £5444 5s. 1d., or including incidental expenses about £6030, the largest single purchase ever made by the Library. The formal list of volumes handed over was signed on May 18, 1817, and the books probably arrived later that year.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -143,24 +143,24 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="IMHM">
                <term>
-                  <persName key="person_60">Girolamo, da Durazzano (censor)</persName>
+                  <persName key="person_195167803128317771333">Girolamo, da Durazzano (censor)</persName>
                </term>
                <term>
                   <persName key="person_44">Luigi da Bologna (censor)</persName>
                </term>
                <term>
-                  <persName key="person_61">Renato da Modena (censor)</persName>
+                  <persName key="person_431159474324327662713">Renato da Modena (censor)</persName>
                </term>
                <term>
                   <geogName>Montagnana (Italy)‏</geogName>
                </term>
                <term>
-                  <persName xml:lang="he" key="person_99">גרציאנו, אברהם יוסף שלמה בן מרדכי</persName>
+                  <persName xml:lang="he" key="person_308274269">גרציאנו, אברהם יוסף שלמה בן מרדכי</persName>
                </term>
                <term>
                   <persName xml:lang="he" key="person_100">שמואל בן משה אב"י</persName>

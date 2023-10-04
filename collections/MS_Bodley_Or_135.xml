@@ -62,7 +62,7 @@
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item3" n="3">
                      <locus>ff. 11r-230(ii)v</locus>
-                     <author ref="http://viaf.org/viaf/90489505" key="person_525">Parḥon, Salomon ben Abraham ibn, active 12th centuryפרחון, שלמה בן אברהם</author>
+                     <author ref="http://viaf.org/viaf/90489505" key="person_90489505">Parḥon, Salomon ben Abraham ibn, active 12th centuryפרחון, שלמה בן אברהם</author>
                      <title>Maḥberet ha-ʿArukh <foreign xml:lang="he">מחברת הערוך</foreign>
                      </title>
                      <note>The name Samuel is pointed out on fols. 33r, 62v, and 99v.</note>
@@ -83,7 +83,7 @@
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item6" n="6">
                      <locus>ff. 256r-290r</locus>
-                     <author key="person_526">Berechiah ben Natronai, ha-Nakdan, active 12th century-13th centuryברכיה בן נטרונאי הנקדן</author>
+                     <author key="person_68022714">Berechiah ben Natronai, ha-Nakdan, active 12th century-13th centuryברכיה בן נטרונאי הנקדן</author>
                      <title>Mishle shuʻalim <foreign xml:lang="he">משלי שועלים</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -138,7 +138,7 @@
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item15" n="15">
                      <locus>ff. 361r-363v</locus>
-                     <author key="person_527">Menaḥem ben Perets ha-Ḥebroniמנחם בן פרץ החברוני</author>
+                     <author key="person_499149066726965601917">Menaḥem ben Perets ha-Ḥebroniמנחם בן פרץ החברוני</author>
                      <title>Masaʿ be-erets Yiśaʾel <foreign xml:lang="he">מסע בארץ ישראל</foreign>
                      </title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -230,7 +230,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/86836195" key="person_69">Ibn Ezra, Moses, approximately 1060-approximately 1139</persName>
+                  <persName ref="http://viaf.org/viaf/86836195" key="person_86836195">Ibn Ezra, Moses, approximately 1060-approximately 1139</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">

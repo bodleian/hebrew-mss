@@ -47,8 +47,8 @@
                <msContents>
                   <summary>Commentary on the Prophets (Isaiah-Jeremiah)</summary>
                   <msItem xml:id="MS_Laud_Or_126-item1" n="1">
-                     <author ref="http://viaf.org/viaf/19684048" key="person_116">Rashi, 1040-1105</author>
-                     <author key="person_652">שלמה בן יצחק (רש"י)</author>
+                     <author ref="http://viaf.org/viaf/19684048" key="person_19684048">Rashi, 1040-1105</author>
+                     <author key="person_19684048">שלמה בן יצחק (רש"י)</author>
                      <title>Commentary on the Prophets (Isaiah-Jeremiah)</title>
                      <title xml:lang="he">פרוש נביאים לרש"י (ישעיה-ירמיה) ‬</title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -143,7 +143,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
          </textClass>

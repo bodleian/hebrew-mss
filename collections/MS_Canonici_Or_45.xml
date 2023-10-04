@@ -48,7 +48,7 @@
                   <summary>Commentary on the Pentateuch by Abraham ibn Ezra</summary>
                   <msItem xml:id="MS_Canonici_Or_45-item1" n="1">
                      <locus>ff. 1r-221r</locus>
-                     <author ref="http://viaf.org/viaf/90633023" key="person_497">Ibn Ezra, Abraham ben Meïr, 1089-1164אבן עזרא, אברהם בן מאיר</author>
+                     <author ref="http://viaf.org/viaf/90633023" key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164אבן עזרא, אברהם בן מאיר</author>
                      <title>Commentary on the Pentateuch <foreign xml:lang="he">פרוש התורה לראב"ע</foreign>
                      </title>
                      <note>A few corrections in the margins.</note>
@@ -150,12 +150,12 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he" key="person_260">בנימין בן יואב (בעלים)</persName>
+                  <persName xml:lang="he" key="person_7004">בנימין בן יואב (בעלים)</persName>
                </term>
                <term>
                   <persName xml:lang="he" key="person_261">מתתיה (בעלים)</persName>

@@ -84,15 +84,15 @@
                      <summary>Poem for the wedding of Isaac Marini</summary>
                      <msItem xml:id="MS_Reggio_52-part1-item1" n="1">
                         <locus>1r-10r</locus>
-                        <author ref="http://viaf.org/viaf/73875381" key="person_650">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
-                        <author key="person_726">
+                        <author ref="http://viaf.org/viaf/73875381" key="person_73875381">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
+                        <author key="person_73875381">
                            <foreign xml:lang="he">לוצטו, משה חיים</foreign>
                         </author>
                         <title>Shir la-ḥatunat <persName key="person_477">Yitsḥaḳ ben Shabtai Marini</persName> (Poem for the wedding of <persName key="person_478">Isaac Marini</persName>)</title>
                         <title>
                            <foreign xml:lang="he">שיר לחתונת יצחק בן שבתי מריני</foreign>
                         </title>
-                        <note>Copied by <persName ref="http://viaf.org/viaf/2075341" key="person_479">Yisroel Simcha Schorr</persName>
+                        <note>Copied by <persName ref="http://viaf.org/viaf/2075341" key="person_2075341">Yisroel Simcha Schorr</persName>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -139,8 +139,8 @@
                      <summary>Various works of Moshe Ḥayyim Luzzatto</summary>
                      <msItem xml:id="MS_Reggio_52-part2-item1" n="2">
                         <locus>ff. 11r-25v</locus>
-                        <author ref="http://viaf.org/viaf/73875381" key="person_650">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
-                        <author key="person_726">
+                        <author ref="http://viaf.org/viaf/73875381" key="person_73875381">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
+                        <author key="person_73875381">
                            <foreign xml:lang="he">לוצטו, משה חיים</foreign>
                         </author>
                         <title>Commentary on Tractate Rosh ha-Shanah</title>
@@ -151,8 +151,8 @@
                      </msItem>
                      <msItem xml:id="MS_Reggio_52-part2-item2" n="3">
                         <locus>ff. 26r-50r</locus>
-                        <author ref="http://viaf.org/viaf/73875381" key="person_650">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
-                        <author key="person_726">
+                        <author ref="http://viaf.org/viaf/73875381" key="person_73875381">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
+                        <author key="person_73875381">
                            <foreign xml:lang="he">לוצטו, משה חיים</foreign>
                         </author>
                         <title>ʿAśarah pirḳe Mishnah</title>
@@ -163,8 +163,8 @@
                      </msItem>
                      <msItem xml:id="MS_Reggio_52-part2-item3" n="4">
                         <locus>ff.50v-52v</locus>
-                        <author ref="http://viaf.org/viaf/73875381" key="person_650">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
-                        <author key="person_726">
+                        <author ref="http://viaf.org/viaf/73875381" key="person_73875381">Luzzatto, Moshe Ḥayyim, 1707-1747</author>
+                        <author key="person_73875381">
                            <foreign xml:lang="he">לוצטו, משה חיים</foreign>
                         </author>
                         <title>ʿEśrim ṿe-arbaʿah ḳushṭe kalah</title>
@@ -248,7 +248,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/67197037" key="person_19">Reggio, Isaacus, 1784-1855</persName>
+                  <persName ref="http://viaf.org/viaf/67197037" key="person_67197037">Reggio, Isaacus, 1784-1855</persName>
                </term>
             </keywords>
          </textClass>

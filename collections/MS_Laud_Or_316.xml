@@ -48,7 +48,7 @@
                   <summary>Collection of halakhical texts</summary>
                   <msItem xml:id="MS_Laud_Or_316-item1" n="1">
                      <locus>ff. 1v-11v</locus>
-                     <author ref="http://viaf.org/viaf/9742647" key="person_555">Dueren, Isaac ben Meir, active 13th centuryיצחק בן מאיר מדורא</author>
+                     <author ref="http://viaf.org/viaf/9742647" key="person_9742647">Dueren, Isaac ben Meir, active 13th centuryיצחק בן מאיר מדורא</author>
                      <title>Hilkhot nidah <foreign xml:lang="he">הלכות נדה</foreign>
                      </title>
                      <note>Name of the author mentioned on fol. 11v</note>
@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_316-item2" n="2">
                      <locus>ff. 12r-65v</locus>
-                     <author ref="http://viaf.org/viaf/59118174" key="person_733">Levi ben Gershom, 1288-1344לוי בן גרשם, 1288-1344</author>
+                     <author ref="http://viaf.org/viaf/59118174" key="person_59118174">Levi ben Gershom, 1288-1344לוי בן גרשם, 1288-1344</author>
                      <title>Shaʿare Dura <foreign xml:lang="he">שערי דורא</foreign>
                      </title>
                      <note>Numerous scribbles on fol. 1r.</note>
@@ -155,7 +155,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/54940373" key="person_13">Laud, William, 1573-1645</persName>
+                  <persName ref="http://viaf.org/viaf/54940373" key="person_54940373">Laud, William, 1573-1645</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">

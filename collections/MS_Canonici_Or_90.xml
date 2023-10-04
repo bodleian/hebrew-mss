@@ -48,7 +48,7 @@
                   <summary>Pisḳe Rid</summary>
                   <msItem xml:id="MS_Canonici_Or_90-item1" n="1">
                      <locus>ff. 1r-251r</locus>
-                     <author ref="http://viaf.org/viaf/28447292" key="person_609">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
+                     <author ref="http://viaf.org/viaf/28447292" key="person_98318342">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
                      <title>Pisḳe Rid (Berakhot, Shabbat, Eruvin) <foreign xml:lang="he">פסקי רי"ד (ברכות, שבת, ערובין)</foreign>
                      </title>
                      <note>First volume of a two-volume codex; volume 2 is <ref target="#MS_Can_Or_89">MS Can. 89</ref>
@@ -145,7 +145,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
             <keywords scheme="#IMHM">
@@ -156,13 +156,13 @@
                   <persName key="person_425">Leo (censor)</persName>
                </term>
                <term>
-                  <persName key="person_72">Dominico Irosolimitano</persName>
+                  <persName key="person_79251093">Dominico Irosolimitano</persName>
                </term>
                <term>
                   <persName key="person_73">Giovanni Domenico Carretto</persName>
                </term>
                <term>
-                  <persName key="person_293">Alessandro Scipione</persName>
+                  <persName key="person_13163810144338820957">Alessandro Scipione</persName>
                </term>
             </keywords>
          </textClass>

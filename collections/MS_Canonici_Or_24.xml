@@ -50,9 +50,9 @@
                      <locus>ff. 1v-184v</locus>
                      <title>Sidur minhag Sefarad (Catalonia) <foreign xml:lang="he">סדור מנהג ספרד (קטלוניא)</foreign>
                      </title>
-                     <note>Prayers in memory of <persName key="person_227">Michael Kohen di Lonil</persName> (<persName key="person_228">
+                     <note>Prayers in memory of <persName key="person_7016">Michael Kohen di Lonil</persName> (<persName key="person_7016">
                            <foreign xml:lang="he">מיכאל כהן די לוניל</foreign>
-                        </persName>) on fols. 137v-138v. Prayers in memory of <persName key="person_229">Marat Binḳolina</persName> (<persName key="person_230">
+                        </persName>) on fols. 137v-138v. Prayers in memory of <persName key="person_7014">Marat Binḳolina</persName> (<persName key="person_7014">
                            <foreign xml:lang="he">מרת בינקולוניא</foreign>
                         </persName>) on fol. 139r.</note>
                      <colophon>Colophons of the scribe-vocalizer on fols. 115r, 142r, 174v: <foreign xml:lang="he">סליק הנקדן הצרפתי פרץ טרבוט</foreign>.</colophon>
@@ -144,18 +144,18 @@
             </keywords>
             <keywords scheme="#IMHM">
                <term>
-                  <persName xml:lang="he" key="person_231">טרבוט, פרץ (נקדן)</persName>
+                  <persName xml:lang="he" key="person_6229150325542610090004">טרבוט, פרץ (נקדן)</persName>
                </term>
                <term>
-                  <persName xml:lang="he" key="person_232">לוניל, מיכאל כהן</persName>
+                  <persName xml:lang="he" key="person_7016">לוניל, מיכאל כהן</persName>
                </term>
                <term>
-                  <persName xml:lang="he" key="person_233">בינקולינא</persName>
+                  <persName xml:lang="he" key="person_7014">בינקולינא</persName>
                </term>
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>

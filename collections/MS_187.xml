@@ -45,22 +45,22 @@
                </msIdentifier>
                <msContents>
                   <summary>
-                     <persName key="person_77">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle</persName> and <persName ref="http://viaf.org/viaf/264344179" key="person_79">Thomas Aquinas</persName>, translated by <persName key="person_80">Eli Ḥabillo</persName>
+                     <persName key="person_78775033">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle</persName> and <persName ref="http://viaf.org/viaf/264344179" key="person_100910150">Thomas Aquinas</persName>, translated by <persName key="person_7010">Eli Ḥabillo</persName>
                   </summary>
                   <msItem xml:id="MS_187-item1" n="1">
                      <locus from="1a" to="39b">ff. 1r-39v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_530">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
                      <editor role="translator">
-                        <persName type="standard" key="person_81">Habillo, Eli ben Joseph</persName>
-                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_81">Ḥabilyo, ʿEli ben Yosef</persName>
-                        <persName xml:lang="he" key="person_81">חביליו, עלי בן יוסף</persName>
+                        <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
+                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
+                        <persName xml:lang="he" key="person_7010">חביליו, עלי בן יוסף</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">Sefer ha-shamayim ṿeha-ʿolam la-ḥakham Ṿerśoryo mi-Pariś holekh ʿal derekh sheʾelot</title>
                      <title xml:lang="he-Latn-x-lc" type="alt"/>
                      <title xml:lang="he">ספר השמים והעולם לחכם וירשוריו מפאריש הולך על דרך השאלות</title>
                      <title xml:lang="he" type="alt"/>
-                     <title xml:lang="en" type="desc">Johannes Versor's quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle</persName>'s De caelo et mundo</title>
+                     <title xml:lang="en" type="desc">Johannes Versor's quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle</persName>'s De caelo et mundo</title>
                      <note>The text on f. 1v is continued on f. 3r.</note>
                      <note>F. 2 is a later addition, which contains part of a medical treatise.</note>
                      <note>On ff. 36v-37v there are indices of the questions on 'de generatione et corruptione' and 'de anima'; these are repeated (in a different hand) on <locus from="38a" to="38b">ff. 38r-38v</locus>, followed by the questions on 'de sensu', 'de memoria', 'de somno', and on Thomas Aquinas's'de ente et essentia'.</note>
@@ -74,11 +74,11 @@
                   </msItem>
                   <msItem xml:id="MS_187-item2" n="2">
                      <locus from="39b" to="68a">ff. 39v-68r</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_530">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
                      <editor role="translator">
-                        <persName type="standard" key="person_81">Habillo, Eli ben Joseph</persName>
-                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_81">Ḥabilyo, ʿEli ben Yosef</persName>
-                        <persName xml:lang="he" key="person_81">חביליו, עלי בן יוסף</persName>
+                        <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
+                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
+                        <persName xml:lang="he" key="person_7010">חביליו, עלי בן יוסף</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">Sefer haṿayah ṿe-hefsed la-ḥakham Ṿerśoryo holekh ʿal derekh sheʾelot</title>
@@ -86,7 +86,7 @@
                      <title xml:lang="he">ספר הויה והפסד לחכם וירשוריו הולך על דרך שאלות</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName key="person_77">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle</persName>'s 'De generatione et corruptione'</title>
+                        <persName key="person_78775033">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle</persName>'s 'De generatione et corruptione'</title>
                      <colophon>Translator's colophon on f. 68r: <foreign xml:lang="he">נשלם העתקת הספר הזה על ידי עלי בר' יוסף חביליו זלה''ה בכ''א יום לחדש טבת שנת ר'ל'ג' לפרט במונתשון [...]</foreign> [i.e. <date calendar="#Gregorian">1472</date> ]</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
@@ -97,11 +97,11 @@
                   </msItem>
                   <msItem xml:id="MS_187-item3" n="3">
                      <locus from="68a" to="119a">68r-119r</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_530">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
                      <editor role="translator">
-                        <persName type="standard" key="person_81">Habillo, Eli ben Joseph</persName>
-                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_81">Ḥabilyo, ʿEli ben Yosef</persName>
-                        <persName xml:lang="he" key="person_81">חביליו, עלי בן יוסף</persName>
+                        <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
+                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
+                        <persName xml:lang="he" key="person_7010">חביליו, עלי בן יוסף</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">Sefer ha-nefesh la-ḥakham Ṿerśor mi-Pariś holekh ʿal derekh ha-sheʾelot</title>
@@ -109,7 +109,7 @@
                      <title xml:lang="he">ספר הנפש לחכם וירשור מפריש הולך על דרך השאלות</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName key="person_77">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle</persName>'s 'De anima'</title>
+                        <persName key="person_78775033">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle</persName>'s 'De anima'</title>
                      <colophon>Translator's colophon of f. 119r: <foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר' יוסף חביליו ז'ל ה'ה' ביום ששי בשלשה ועשרים יום לחדש טבת שנת רלג לפרט בכאן במונטאשון [...]</foreign> [i.e. <date calendar="#Julian">1472</date> ]</colophon>
                      <textLang mainLang="he"/>
                      <listBibl>
@@ -120,11 +120,11 @@
                   </msItem>
                   <msItem xml:id="MS_187-item4" n="4">
                      <locus from="119b" to="128b">119v-128v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_530">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
                      <editor role="translator">
-                        <persName type="standard" key="person_81">Habillo, Eli ben Joseph</persName>
-                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_81">Ḥabilyo, ʿEli ben Yosef</persName>
-                        <persName xml:lang="he" key="person_81">חביליו, עלי בן יוסף</persName>
+                        <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
+                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
+                        <persName xml:lang="he" key="person_7010">חביליו, עלי בן יוסף</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">Sefer ḥush u-muḥash la-ḥakham Ṿerśoryo</title>
@@ -132,7 +132,7 @@
                      <title xml:lang="he">ספר חוש ומוחש לחכם וירשוריו</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName key="person_77">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle</persName>'s 'De sensu et sensibilibus'</title>
+                        <persName key="person_78775033">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle</persName>'s 'De sensu et sensibilibus'</title>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -142,11 +142,11 @@
                   </msItem>
                   <msItem xml:id="MS_187-item5" n="5">
                      <locus from="128b" to="132b">128v-132v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_530">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
                      <editor role="translator">
-                        <persName type="standard" key="person_81">Habillo, Eli ben Joseph</persName>
-                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_81">Ḥabilyo, ʿEli ben Yosef</persName>
-                        <persName xml:lang="he" key="person_81">חביליו, עלי בן יוסף</persName>
+                        <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
+                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
+                        <persName xml:lang="he" key="person_7010">חביליו, עלי בן יוסף</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">Sefer zekhirah ṿe-hizdakrut la-ḥakham Ṿerśoryo u-mispar sheʾelotaṿ ḥamishah</title>
@@ -154,7 +154,7 @@
                      <title xml:lang="he">ספר זכירה והזדכרות לחכם וירשוריו ומספר שאלותיו חמשה</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName key="person_77">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle</persName>'s 'De memoria et reminiscentia'</title>
+                        <persName key="person_78775033">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle</persName>'s 'De memoria et reminiscentia'</title>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -164,11 +164,11 @@
                   </msItem>
                   <msItem xml:id="MS_187-item6" n="6">
                      <locus from="132b" to="136b">132v-136v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_530">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
                      <editor role="translator">
-                        <persName type="standard" key="person_81">Habillo, Eli ben Joseph</persName>
-                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_81">Ḥabilyo, ʿEli ben Yosef</persName>
-                        <persName xml:lang="he" key="person_81">חביליו, עלי בן יוסף</persName>
+                        <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
+                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
+                        <persName xml:lang="he" key="person_7010">חביליו, עלי בן יוסף</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">Sefer shenah ṿe-yeḳitsah la-ḥakham Ṿerśoryo u-mispar maʾamaraṿ sheloshah</title>
@@ -176,7 +176,7 @@
                      <title xml:lang="he">ספר שינה ויקיצה לחכם וירשוריו ומספר מאמריו ג'</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName key="person_77">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle</persName>'s 'De somno et vigilia'</title>
+                        <persName key="person_78775033">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle</persName>'s 'De somno et vigilia'</title>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
                         <bibl>
@@ -186,11 +186,11 @@
                   </msItem>
                   <msItem xml:id="MS_187-item7" n="7">
                      <locus from="136b" to="138a">136v-138r</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_530">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
                      <editor role="translator">
-                        <persName type="standard" key="person_81">Habillo, Eli ben Joseph</persName>
-                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_81">Ḥabilyo, ʿEli ben Yosef</persName>
-                        <persName xml:lang="he" key="person_81">חביליו, עלי בן יוסף</persName>
+                        <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
+                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
+                        <persName xml:lang="he" key="person_7010">חביליו, עלי בן יוסף</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">Sefer ʾorekh ha-ḥayim ṿe-ḳitsuram la-ḥakham Ṿerśoryo</title>
@@ -198,7 +198,7 @@
                      <title xml:lang="he">ספר אורך החיים וקצורם לחכם וירשוריו</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName key="person_77">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle</persName>'s 'De longitudine et brevitate vitae'</title>
+                        <persName key="person_78775033">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle</persName>'s 'De longitudine et brevitate vitae'</title>
                      <colophon>Translator's colophon on f. 138r: <foreign xml:lang="he">נשלמה העתקת המאמרים הטבעיים הקטנים הנק' בלעז פארווש נאטוראליש על ידי עלי בר' יוסף חביליו זלה''ה אור ליום ראשון בששה עשר יום לחדש אדר ראשון שנת ר'לג לפרט היצירה במונתשון [...]</foreign> [i.e. <date calendar="#Gregorian">1473</date> ]</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
@@ -209,11 +209,11 @@
                   </msItem>
                   <msItem xml:id="MS_187-item8" n="8">
                      <locus from="138a" to="150b">138r-150v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_530">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
                      <editor role="translator">
-                        <persName type="standard" key="person_81">Habillo, Eli ben Joseph</persName>
-                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_81">Ḥabilyo, ʿEli ben Yosef</persName>
-                        <persName xml:lang="he" key="person_81">חביליו, עלי בן יוסף</persName>
+                        <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
+                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
+                        <persName xml:lang="he" key="person_7010">חביליו, עלי בן יוסף</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">Sheʾelot maʾamar ba-nimtsaʾ ṿeha-mahut ʾasher ḥibro ha-ḥakham Ṭomaś de ʾAḳino meha-ḥakham Ṿerśoryo</title>
@@ -221,7 +221,7 @@
                      <title xml:lang="he">שאלות מאמר בנמצא והמהות אשר חברו החכם טומאש די אקינו מהחכם וירשוריו</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName key="person_77">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/264344179" key="person_79">Thomas Aquinas</persName>'s 'De ente et essentia'</title>
+                        <persName key="person_78775033">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/264344179" key="person_100910150">Thomas Aquinas</persName>'s 'De ente et essentia'</title>
                      <note>Incomplete; ends within question 13 (of 14).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                      <listBibl>
@@ -232,11 +232,11 @@
                   </msItem>
                   <msItem xml:id="MS_187-item9" n="9">
                      <locus from="151a" to="270b">151r-270v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_530">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485וירשוריווירשור</author>
                      <editor role="translator">
-                        <persName type="standard" key="person_81">Habillo, Eli ben Joseph</persName>
-                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_81">Ḥabilyo, ʿEli ben Yosef</persName>
-                        <persName xml:lang="he" key="person_81">חביליו, עלי בן יוסף</persName>
+                        <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
+                        <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
+                        <persName xml:lang="he" key="person_7010">חביליו, עלי בן יוסף</persName>
                         <persName xml:lang="he" type="alt"/>
                      </editor>
                      <title xml:lang="he-Latn-x-lc">[Sefer ha-shemaʿ ha-ṭivʿi la-ḥakham Ṿerśoryo]</title>
@@ -244,7 +244,7 @@
                      <title xml:lang="he">[ספר השמע הטבעי לחכם וירשוריו]</title>
                      <title xml:lang="he" type="alt"/>
                      <title xml:lang="en" type="desc">
-                        <persName key="person_77">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_78">Aristotle</persName>'s 'Physica'</title>
+                        <persName key="person_78775033">Johannes Versor</persName>'s quaestiones on <persName ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle</persName>'s 'Physica'</title>
                      <note>Beginning missing</note>
                      <note>At the end (f. 270v) a poem, beginning התוכל לבבי, with the translator's acrostic.</note>
                      <colophon>Translator's colophon on f. 270r: <foreign xml:lang="he">נשלמה העתקת הספר הזה על ידי עלי בר יוסף חביליו ז''ל ה''ה ביום חמשי בשבעה ועשרים יום לחדש שבט שנת חמשת אלפים ומאתים ושלשים ושנים למניננו במונתשון [...]</foreign> [i.e. 1472]</colophon>

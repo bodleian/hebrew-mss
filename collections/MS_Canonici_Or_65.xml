@@ -48,7 +48,7 @@
                   <summary>Ohev Mishpaṭ</summary>
                   <msItem xml:id="MS_Canonici_Or_65-item1" n="1">
                      <locus>ff. 1r-186v</locus>
-                     <author ref="http://viaf.org/viaf/37714446">Duran, Simeon ben Ẓemaḥ, 1361-1444 <persName key="person_20">דורן, שמעון בן צמח</persName>
+                     <author ref="http://viaf.org/viaf/37714446">Duran, Simeon ben Ẓemaḥ, 1361-1444 <persName key="person_37714446">דורן, שמעון בן צמח</persName>
                      </author>
                      <title>Ohev Mishpaṭ: commentary on the Book of Job <foreign xml:lang="he">אוהב משפט : פרוש איוב</foreign>
                      </title>
@@ -146,7 +146,7 @@
             </keywords>
             <keywords scheme="LCSH">
                <term>
-                  <persName ref="http://viaf.org/viaf/2384880" key="person_3">Canonici, Matteo Luigi, 1727-1805</persName>
+                  <persName ref="http://viaf.org/viaf/2384880" key="person_2384880">Canonici, Matteo Luigi, 1727-1805</persName>
                </term>
             </keywords>
          </textClass>
