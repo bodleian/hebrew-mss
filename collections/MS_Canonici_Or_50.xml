@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_50-item1" n="1">
                      <locus>ff. 2r-306v</locus>
                      <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
-                     <title>Canon (Books I, V) <foreign xml:lang="he">קאנון (ספר א’, ה’)</foreign>
-                     </title>
+                     <title>Canon (Books I, V) </title><title xml:lang="he">קאנון (ספר א’, ה’)</title>
+                     
                      <note>Nathan's translation.</note>
                      <colophon>Colophon by <persName key="person_39270602">Shimshon Kohen Modon</persName> on fol. 1r: <foreign xml:lang="he">... הצעיר שמשון כהן מודון יצ"ו שנת הקס"ב</foreign>
                      </colophon>

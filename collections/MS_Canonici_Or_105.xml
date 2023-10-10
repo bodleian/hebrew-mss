@@ -50,8 +50,8 @@
                      <locus>ff. 3r-284r</locus>
                      <title>Hebrew Bible: Pentateuch</title>
                      <title>
-                        <foreign xml:lang="he">תורה</foreign>
-                     </title>
+                        </title><title xml:lang="he">תורה</title>
+                     
                      <colophon>Colophon on fol. 284r: <foreign xml:lang="he">"ותכל מלאכת כתיבת הקדש בעצם היום יום ג בתשעה לחדש הוא חדש ואדר שנת חמשת אלפים ומאתים וששים ושלש לבריאת העולם פה אריין על ידי הצעיר משה ענו יזייא בכמר שמואל זל מרומיʹ אשר לעצמי כתבתיו לקיים מקרא דכתיב וכתב לו את משנה התורה הזאת וגו וכתיב והיתה עמו וקרא בו כל ימי חייו יהי רצון מלפני שוכן חביון לזכותי להגות בו ובכל שאר ספרי הקדש אני וזרעי וזרע זרעי אמן כיר"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

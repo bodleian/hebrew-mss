@@ -50,8 +50,8 @@
                      <locus>ff. 1r-407r</locus>
                      <title>Maḥzor for the Days of Awe and Sukkot, according to the Western Ashkenazi rite</title>
                      <title>
-                        <foreign xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים ולסוכות</foreign>
-                     </title>
+                        </title><title xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים ולסוכות</title>
+                     
                      <note>Many passages inked out (by censor?.)</note>
                      <note>The name, Yehudah is pointed out (e.g., fols. 27r, 240r).</note>
                      <textLang mainLang="he">Hebrew</textLang>

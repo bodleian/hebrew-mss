@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem xml:id="MS_Canonici_Or_38-item1" n="1">
                      <locus>ff. 1r-90v</locus>
-                     <title>Former Prophets <foreign xml:lang="he">נביאים ראשונים</foreign>
-                     </title>
+                     <title>Former Prophets </title><title xml:lang="he">נביאים ראשונים</title>
+                     
                      <note>Second volume of complete Tanakh. Other volumes: <ref target="MS_Can_Or_37">Can. Or. 37</ref>, <ref target="MS_Can_Or_39">MS Can. Or. 39</ref>, <ref target="MS_Can_Or_40">MS Can. Or. 40</ref>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>

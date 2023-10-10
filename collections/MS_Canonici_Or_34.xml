@@ -50,8 +50,8 @@
                   </summary>
                   <msItem xml:id="MS_Canonici_Or_34-item1" n="1">
                      <locus>ff. 1v-193v</locus>
-                     <title>Hebrew Bible: Pentateuch with masorah magna and parva <foreign xml:lang="he">תורה</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch with masorah magna and parva </title><title xml:lang="he">תורה</title>
+                     
                      <note>fol. 194 is parchment flyleaf added later, fol. 195 is paper flyleaf added later.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -50,8 +50,8 @@
                      <locus>ff. 1r-376v</locus>
                      <title>Sidur for the entire year according to minhag Carpentras</title>
                      <title>
-                        <foreign xml:lang="he">סדור מנהג קרפנטרס לכל השנה</foreign>
-                     </title>
+                        </title><title xml:lang="he">סדור מנהג קרפנטרס לכל השנה</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

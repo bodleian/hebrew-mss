@@ -50,8 +50,8 @@
                      <locus>ff. 1r-486r</locus>
                      <title>Hebrew Bible</title>
                      <title>
-                        <foreign xml:lang="he">תנ"ך</foreign>
-                     </title>
+                        </title><title xml:lang="he">תנ"ך</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

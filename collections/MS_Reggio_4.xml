@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/48229099" key="person_6164147270564535700002">Aaron ben Joseph, ha-Levi, approximately 1235-אהרן בן יוסף הקראי</author>
                      <title>Sefer ha-Mivḥar</title>
                      <title>
-                        <foreign xml:lang="he">ספר המבחר</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר המבחר</title>
+                     
                      <note>With commentaries mostly by <persName key="person_92">Mordekhai ben Nisan ha-ḳaṭan ha-Ṭurḳi</persName> (<foreign xml:lang="he">"מרדכי בע"ס מאמר מרדכי במאו’ כמוהר"ר ניסן הקטן הטרוקי"</foreign>
                      </note>
                      <note>The scribe was <persName key="person_7031">Yeshuʿah Yosef ben Mosheh ha-Melamed</persName>.</note>
@@ -63,8 +63,8 @@
                      <author ref="http://viaf.org/viaf/48229099" key="person_6164147270564535700002">Aaron ben Joseph, ha-Levi, approximately 1235-אהרן בן יוסף הקראי</author>
                      <title>Commentaries on the Former Prophets</title>
                      <title>
-                        <foreign xml:lang="he">פרוש נביאים ראשונים</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש נביאים ראשונים</title>
+                     
                      <note>With commentaries mostly by Mordekhai ben Nisan ha-ḳaṭan ha-Ṭurḳi (<foreign xml:lang="he">"מרדכי בע"ס מאמר מרדכי במאו’ כמוהר"ר ניסן הקטן הטרוקי"</foreign>
                      </note>
                      <colophon>Colophon of the scribe <persName key="person_7031">Yeshuʿah Yosef ben Mosheh ha-Melamed</persName> dated AM [5]586 on fol. <foreign xml:lang="he">"פה בקה"ק קוקיזוב סמוך לעיר לבוב, ותהי השלמת כתיבתי ... י"ז לר"ח מנחם בשנת תקפ"ו לפ"ק, הקט’ ישועה יוסף בלא"א ... משה המלמד"</foreign>

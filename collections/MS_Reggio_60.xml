@@ -50,8 +50,8 @@
                      <locus>f. 1</locus>
                      <title>Book of Deuteronomy 9:5-9</title>
                      <title>
-                        <foreign xml:lang="he">תורה (דברים ט:ה-ט:ט)</foreign>
-                     </title>
+                        </title><title xml:lang="he">תורה (דברים ט:ה-ט:ט)</title>
+                     
                      <note>With Targum Onkelos after each verse and the small masorah</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

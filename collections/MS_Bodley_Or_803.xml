@@ -48,8 +48,8 @@
                   <summary>Pentateuch (Lev. 3:1-)</summary>
                   <msItem xml:id="MS_Bodley_Or_803-item1" n="1">
                      <locus>ff. 98r-202v</locus>
-                     <title>Hebrew Bible: Pentateuch (Lev. 3:1-) <foreign xml:lang="he">תורה (ויקרא ג:א-דברים)</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch (Lev. 3:1-) </title><title xml:lang="he">תורה (ויקרא ג:א-דברים)</title>
+                     
                      <note>Second part of a three-volume Bible (<ref target="MS_Bodl_Or_802">Bodl. Or. 802</ref>, <ref target="MS_Bodl_Or_804">Bodl. Or. 804</ref>)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

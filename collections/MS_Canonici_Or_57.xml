@@ -50,8 +50,8 @@
                      <locus>ff. 1r-337v</locus>
                      <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037 <foreign xml:lang="he">אבן סינא, אלחסין בן עבדאללה, 980-1037</foreign>
                      </author>
-                     <title>Canon (Book III) <foreign xml:lang="he">קאנון (ספר ג’)</foreign>
-                     </title>
+                     <title>Canon (Book III) </title><title xml:lang="he">קאנון (ספר ג’)</title>
+                     
                      <note>Anonymous translation.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -52,8 +52,8 @@
                      <author key="person_73875381">לוצאטו, משה חיים</author>
                      <title>Sefer derekh tevunot</title>
                      <title>
-                        <foreign xml:lang="he">ספר דרך תבונות</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר דרך תבונות</title>
+                     
                      <note>Copied from <persName ref="http://viaf.org/viaf/11563454" key="person_11563454">Shmuel Gerondi</persName>'s printed edition of 1830 <foreign xml:lang="he">פה פאדובה בשנת התק"ץ בציווי כמוהר"ר מרדכי שמואל גירונדי</foreign>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>

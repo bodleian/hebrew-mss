@@ -51,8 +51,8 @@
                   <summary>Pentateuch with Hafṭarot and Five Scrolls</summary>
                   <msItem xml:id="MS_Canonici_Or_77-item1" n="1">
                      <locus>ff. 1v-225v</locus>
-                     <title>Hebrew Bible: Pentateuch with Hafṭarot and Five Scrolls <foreign xml:lang="he">תורה, הפטרות ומגלות</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch with Hafṭarot and Five Scrolls </title><title xml:lang="he">תורה, הפטרות ומגלות</title>
+                     
                      <note>Beginning with Gen. 23:8</note>
                      <colophon>Colophon on fol. : <foreign xml:lang="he">"אני עלי הסופר ב"ר יוסף מיגי ס"ט כתבתי ... ונקדתי אותו ונשלם בירח סיון ... שנת חמשת אלפים ומאתים וחמשה עשר ליצירה בכאן בבירלנגה".</foreign>
                      </colophon>

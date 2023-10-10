@@ -50,8 +50,8 @@
                      <locus>ff.1r-155v</locus>
                      <title>Maḥzor for the entire year according to the Western Ashkenazi rite</title>
                      <title>
-                        <foreign xml:lang="he">מחזור מנהג אשכנז המערבי לכל השנה ‬</foreign>
-                     </title>
+                        </title><title xml:lang="he">מחזור מנהג אשכנז המערבי לכל השנה ‬</title>
+                     
                      <note>Two-volume prayer book. This volume contains Hanukkah - Tishah be-Av, Volume 2 of the same maḥzor (<ref target="#MS_Can_Or_140_a">MS Can. Or. 140</ref>) contains Rosh ha-Shanah - Simhat Torah</note>
                      <note>In the margins, commentaries and notes about Eastern Ashkenazi rite.</note>
                      <textLang mainLang="he">Hebrew</textLang>

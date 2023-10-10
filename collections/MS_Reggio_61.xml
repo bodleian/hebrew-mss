@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/120777116" key="person_120777116">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340פניני, ידעיה בן אברהם הבדרשי</author>
                      <title>Beḥinat ʿolam (The Examination of the World)</title>
                      <title>
-                        <foreign xml:lang="he">בחינת עולם</foreign>
-                     </title>
+                        </title><title xml:lang="he">בחינת עולם</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_61-item2" n="2">
@@ -60,8 +60,8 @@
                      <author ref="http://viaf.org/viaf/89803764" key="person_89803764">Judah ben Jehiel, active 15th centuryיהודה בן יחיאל מסיר ליאון</author>
                      <title>Commentary on the Examination of the World by Jedaiah ha-Penini</title>
                      <title>
-                        <foreign xml:lang="he">פרוש בחינת עולם לידעיה הפניני</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש בחינת עולם לידעיה הפניני</title>
+                     
                      <note>The end is incomplete.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -87,8 +87,8 @@
                         <locus>ff. 1v-63v</locus>
                         <title>ha-Shaʿarim</title>
                         <title>
-                           <foreign xml:lang="he">השערים</foreign>
-                        </title>
+                           </title><title xml:lang="he">השערים</title>
+                        
                         <colophon>Colophon on fol. 63v: <foreign xml:lang="he">"וכתבתי זה השערים אני יחיא בר’ שלמה הידוע בן אלדהאן ס"ט"</foreign>
                         </colophon>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -142,8 +142,8 @@
                         <author ref="http://viaf.org/viaf/79260667" key="person_79260667">Moses ben Shem Tov, de Leon, 1250-1305(attributed to)ליאון, משה די</author>
                         <title>Sefer ha-Shem</title>
                         <title>
-                           <foreign xml:lang="he">ספר השם</foreign>
-                        </title>
+                           </title><title xml:lang="he">ספר השם</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>

@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/7352439" key="person_539">Salṭaro, Yehudah ben Mosheh(assumed author)סלטרו, יהודה בן משה (מחבר משוער)</author>
                      <title>Shaʿare Gan ʿeden</title>
                      <title>
-                        <foreign xml:lang="he">שערי גן עדן</foreign>
-                     </title>
+                        </title><title xml:lang="he">שערי גן עדן</title>
+                     
                      <note>Theological treatise on Paradise divided into four parts.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

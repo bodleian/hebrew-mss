@@ -48,8 +48,8 @@
                   <summary>Ḳitsur pisḳe ha-Rosh</summary>
                   <msItem xml:id="MS_Laud_Or_269-item1" n="1">
                      <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Yaaqov ben Asher, ca. 1270-1340יעקב בן אשר, ?1270-?1340</author>
-                     <title>Ḳitsur pisḳe ha-Rosh <foreign xml:lang="he">קצור פסקי הרא"ש</foreign>
-                     </title>
+                     <title>Ḳitsur pisḳe ha-Rosh </title><title xml:lang="he">קצור פסקי הרא"ש</title>
+                     
                      <note>With some glosses, ends with Nedarim.</note>
                      <note>Scribbles by various hands on fol. 2r, among them <quote xml:lang="he">... כתבתי זה בשנת יג</quote>
                      </note>

@@ -48,8 +48,8 @@
                   <summary>Zohar on Genesis-Exodus</summary>
                   <msItem xml:id="MS_Bodley_Or_574-item1" n="1">
                      <locus>ff. 1r-370v</locus>
-                     <title>Zohar on Genesis-Exodus <foreign xml:lang="he">זהר (ספר בראשית-שמות)</foreign>
-                     </title>
+                     <title>Zohar on Genesis-Exodus </title><title xml:lang="he">זהר (ספר בראשית-שמות)</title>
+                     
                      <note>With Midrash ha-neʿelam, Heikhalot, Tosefta, and sections for the Zohar Ḥadash.</note>
                      <textLang mainLang="he">Aramaic</textLang>
                   </msItem>

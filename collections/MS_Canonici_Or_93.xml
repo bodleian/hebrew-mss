@@ -50,8 +50,8 @@
                      <locus>ff. 1r-75r</locus>
                      <title>Hebrew Bible: Pentateuch (Exodus-Numbers)</title>
                      <title>
-                        <foreign xml:lang="he">תורה (שמות-במדבר)</foreign>
-                     </title>
+                        </title><title xml:lang="he">תורה (שמות-במדבר)</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/100391085" key="person_1163813">Shelomoh ben Yedidyah Aharon, ha-Ṭroḳi, approximately 1670-1745טרוקי, ידידיה שלמה בן אהרן</author>
                      <title>Apiryon ʿaśah lo (part 1: Reḥoboam ben Shlomoh)</title>
                      <title>
-                        <foreign xml:lang="he">אפריון עשה לו (החלק הראשון הנקרא "רחבעם בן שלמה")</foreign>
-                     </title>
+                        </title><title xml:lang="he">אפריון עשה לו (החלק הראשון הנקרא "רחבעם בן שלמה")</title>
+                     
                      <colophon>On fol. 1v: <foreign xml:lang="he">"ונשלמה מלאכת ההעתקה יום ג’ בעשרה לירח טבת שנת ו’פ’ק’ד’ת’ ... פה טארנאפאל במדינת גאליציא"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

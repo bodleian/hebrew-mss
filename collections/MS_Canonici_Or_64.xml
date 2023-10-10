@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_64-item1" n="1">
                      <locus>ff. 1r-168r</locus>
                      <author ref="http://viaf.org/viaf/90633023" key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164אבן עזרא, אברהם בן מאיר, 1089-1164</author>
-                     <title>Commentary on the Pentateuch <foreign xml:lang="he">פרוש התורה לראב"ע</foreign>
-                     </title>
+                     <title>Commentary on the Pentateuch </title><title xml:lang="he">פרוש התורה לראב"ע</title>
+                     
                      <note>Marginal notes.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

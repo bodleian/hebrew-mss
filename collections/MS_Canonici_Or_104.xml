@@ -52,8 +52,8 @@
                      </author>
                      <title>Beḥinat ʿolam (The Examination of the World)</title>
                      <title>
-                        <foreign xml:lang="he">בחינת עולם</foreign>
-                     </title>
+                        </title><title xml:lang="he">בחינת עולם</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item2" n="2">
@@ -62,8 +62,8 @@
                      </author>
                      <title>Ketav hitnatslut (Letter of Apology)</title>
                      <title>
-                        <foreign xml:lang="he">כתב התנצלות</foreign>
-                     </title>
+                        </title><title xml:lang="he">כתב התנצלות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item3" n="3">
@@ -72,8 +72,8 @@
                      </author>
                      <title>Baḳashat ha-memin</title>
                      <title>
-                        <foreign xml:lang="he">בקשת הממין</foreign>
-                     </title>
+                        </title><title xml:lang="he">בקשת הממין</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item4" n="4">
@@ -82,8 +82,8 @@
                      </author>
                      <title>Elohim elay atah ashaḥarekhah (O God, You are my God, I seek You, Ps. 63:2)</title>
                      <title>
-                        <foreign xml:lang="he">אלהים אלי אתה אשחרך</foreign>
-                     </title>
+                        </title><title xml:lang="he">אלהים אלי אתה אשחרך</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item5" n="5">
@@ -92,8 +92,8 @@
                      </author>
                      <title>Baḳashat ha-lamedin</title>
                      <title>
-                        <foreign xml:lang="he">בקשת הלמדין</foreign>
-                     </title>
+                        </title><title xml:lang="he">בקשת הלמדין</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item6" n="6">
@@ -102,8 +102,8 @@
                      </author>
                      <title>Aamir et Adoni</title>
                      <title>
-                        <foreign xml:lang="he">אאמיר את אדוני</foreign>
-                     </title>
+                        </title><title xml:lang="he">אאמיר את אדוני</title>
+                     
                      <note>Ḳinah by Joseph Sheshet.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -113,8 +113,8 @@
                      </author>
                      <title>Keʿarat kesef</title>
                      <title>
-                        <foreign xml:lang="he">קערת כסף</foreign>
-                     </title>
+                        </title><title xml:lang="he">קערת כסף</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_104-item8" n="8">
@@ -123,8 +123,8 @@
                      </author>
                      <title>Miḳdash meʿaṭ (Meʻon ha-shoʼalim)</title>
                      <title>
-                        <foreign xml:lang="he">מקדש מעט (מעון השואלים)</foreign>
-                     </title>
+                        </title><title xml:lang="he">מקדש מעט (מעון השואלים)</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

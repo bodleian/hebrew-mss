@@ -50,16 +50,16 @@
                      <locus>ff. 3r-44r</locus>
                      <title>Sefer shire tehilah</title>
                      <title>
-                        <foreign xml:lang="he">ספר שירי תהלה</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר שירי תהלה</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_62-item2" n="1">
                      <locus>ff. 45r-64r</locus>
                      <title>Sefer tokhahat megulah</title>
                      <title>
-                        <foreign xml:lang="he">ספר תוכחת מגולה</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר תוכחת מגולה</title>
+                     
                      <note>Fols. 64v and 65 are blank.</note>
                      <colophon>Colophon on fol. 63v: <foreign xml:lang="he">אני הכותב הצעיר יהוסף בʹ נסים דוד הכהן זʺל</foreign>
                      </colophon>

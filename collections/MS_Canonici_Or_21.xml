@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_21-item1" n="1">
                      <locus>ff. 1v-333r</locus>
                      <author ref="http://viaf.org/viaf/37096249" key="person_37096249">Ben Shem Tov, Joseph, approximately 1400-approximately 1460</author>
-                     <title>Commentary on Aristotle's Nicomachean Ethics (Perush Sefer ha-Midot, parts 1-5) <foreign xml:lang="he">פרוש ספר המדות של אריסטו (חלק א-ה)</foreign>
-                     </title>
+                     <title>Commentary on Aristotle's Nicomachean Ethics (Perush Sefer ha-Midot, parts 1-5) </title><title xml:lang="he">פרוש ספר המדות של אריסטו (חלק א-ה)</title>
+                     
                      <colophon>Author's colophon: <foreign xml:lang="he">והיתה השלמתו זה החלק בעיר שיגוביא בחמשה ימים לחדש שבט משנת חמשה אלפים ומאתים וחמש עשרה לחדושה עולם</foreign> (fol. 333r).</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

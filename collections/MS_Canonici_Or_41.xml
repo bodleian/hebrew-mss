@@ -48,8 +48,8 @@
                   <summary>Pentateuch with Hafṭarot</summary>
                   <msItem xml:id="MS_Canonici_Or_41-item1" n="1">
                      <locus>ff. 1v-291v</locus>
-                     <title>Hebrew Bible: Pentateuch with Hafṭarot <foreign xml:lang="he">תורה והפטרות</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch with Hafṭarot </title><title xml:lang="he">תורה והפטרות</title>
+                     
                      <note>At the end (fols. 292r-295r), division of readings for Sabbaths and festivals in Ashkenazi hand (simane parashiyot)</note>
                      <note>Erased note in the middle of fol. 295v; partially illegible note on the top of fol. 295v: <foreign xml:lang="he">... של אבי בין אחי[ו] ... יום ג כג תמוז שפו(?)</foreign>
                      </note>

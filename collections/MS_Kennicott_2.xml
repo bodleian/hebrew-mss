@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible</summary>
                   <msItem xml:id="MS_Kennicott_2-item1" n="1">
                      <locus>ff.1r-427v</locus>
-                     <title>Hebrew Bible <foreign xml:lang="he">תנ"ך</foreign>
-                     </title>
+                     <title>Hebrew Bible </title><title xml:lang="he">תנ"ך</title>
+                     
                      <note>Order of books: Isaiah before Jeremiah; Minor Prophets are followed by Ruth, Psalms, Job, Proverbs, Ecclesiastes, Canticles, Lamentations, Daniel, Esther, Ezra, Nehemiah without division, Chronicles</note>
                      <note>with both masorahs</note>
                      <colophon>זה ציירתי אני הקטן והצעיר יהושע בן אברהם אבן גאון משוריה כאשר למדתי מהחכם ר’ יצחק בר גרשום ריתב"ע ליקר הנכבד ... ר’ משה ן’ חביב נר"ו ... ומרוב אהבתי אצלו ... ציירתי לו ולבניו ... (fol.1v)</colophon>

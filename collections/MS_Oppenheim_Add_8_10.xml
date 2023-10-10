@@ -49,8 +49,8 @@
                      <locus>ff. 1r-120v</locus>
                      <title>Hebrew Bible: Book of Psalms ('Oxford Hispano-Portuguese Psalter')</title>
                      <title>
-                        <foreign xml:lang="he">כתובים (תהלים)</foreign>
-                     </title>
+                        </title><title xml:lang="he">כתובים (תהלים)</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

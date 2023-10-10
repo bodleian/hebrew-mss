@@ -50,8 +50,8 @@
                      <locus>ff. 1r-218r</locus>
                      <title>Sidur for the entire year according to the Italian rite</title>
                      <title>
-                        <foreign xml:lang="he">סדור מנהג רומה לכל השנה</foreign>
-                     </title>
+                        </title><title xml:lang="he">סדור מנהג רומה לכל השנה</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

@@ -51,8 +51,8 @@
                      <author key="person_24669073">Rieti, Moses ben Isaac da, 1388-1460?ריאיטי, משה בן יצחק</author>
                      <title>Miḳdash meʿaṭ</title>
                      <title>
-                        <foreign xml:lang="he">מקדש מעט</foreign>
-                     </title>
+                        </title><title xml:lang="he">מקדש מעט</title>
+                     
                      <colophon>Colophon on fol. 1r: <foreign xml:lang="he">"וליקוטים אחרים, נעתקו על ידי ... ברוך בכה"ר שלמה ז"ל כהן ז"ל פה אנגייארי ארץ טוסקאנה ... בחדש תמוז שנת יפתח ה’ לך את א’ו’צ’ר’ו’ ה’ט’ו’ב’ את השמים לאלף הששי"</foreign>. Italian translation of the colophon on fol. [v] verso.</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -61,8 +61,8 @@
                      <author key="person_24669073">Rieti, Moses ben Isaac da, 1388-1460?ריאיטי, משה בן יצחק</author>
                      <title>Igeret yaʿar ha-Levanon</title>
                      <title>
-                        <foreign xml:lang="he">אגרת יער הלבנון</foreign>
-                     </title>
+                        </title><title xml:lang="he">אגרת יער הלבנון</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item3" n="3">
@@ -70,32 +70,32 @@
                      <author key="person_24669073">Rieti, Moses ben Isaac da, 1388-1460?ריאיטי, משה בן יצחק</author>
                      <title>Ḳinah</title>
                      <title>
-                        <foreign xml:lang="he">קינה</foreign>
-                     </title>
+                        </title><title xml:lang="he">קינה</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item4" n="4">
                      <locus>ff. 61r-63v</locus>
                      <title>Alphabet of Ben Sira</title>
                      <title>
-                        <foreign xml:lang="he">אלפא ביתא דבן סירא</foreign>
-                     </title>
+                        </title><title xml:lang="he">אלפא ביתא דבן סירא</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item5" n="5">
                      <locus>ff. 64r-66r</locus>
                      <title>Extracts of grammatical texts</title>
                      <title>
-                        <foreign xml:lang="he">לקוטים בדקדוק</foreign>
-                     </title>
+                        </title><title xml:lang="he">לקוטים בדקדוק</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item6" n="6">
                      <locus>ff. 66v</locus>
                      <title>Ṭaʿame ha-mitsṿot</title>
                      <title>
-                        <foreign xml:lang="he">טעמי מצוות</foreign>
-                     </title>
+                        </title><title xml:lang="he">טעמי מצוות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item7" n="7">
@@ -103,16 +103,16 @@
                      <author key="person_577">Pontsibontsi, Shlomoh ben Eliyahפונציבונצי, שלמה בן אליה</author>
                      <title>Commentary on the Pentateuch (Genesis)</title>
                      <title>
-                        <foreign xml:lang="he">פרוש התורה (בראשית)</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש התורה (בראשית)</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item8" n="8">
                      <locus>ff. 69r-172v</locus>
                      <title>Ergon</title>
                      <title>
-                        <foreign xml:lang="he">אגרון</foreign>
-                     </title>
+                        </title><title xml:lang="he">אגרון</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

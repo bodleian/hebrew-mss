@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Bodley_Or_100-item1" n="1">
                      <locus>ff. 1r-76r</locus>
                      <author key="person_88025838">Judah, ha-Levi, active 12th centuryיהודה בן שמואל, הלוי</author>
-                     <title>Sefer ha-Kuzari <foreign xml:lang="he">ספר הכוזרי</foreign>
-                     </title>
+                     <title>Sefer ha-Kuzari </title><title xml:lang="he">ספר הכוזרי</title>
+                     
                      <note>Translated by <persName ref="http://viaf.org/viaf/49379706" key="person_49379706">Yehudah ibn Tibon</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -58,8 +58,8 @@
                   <msItem xml:id="MS_Bodley_Or_100-item2" n="2">
                      <locus>ff. 76v-99v</locus>
                      <author key="person_54152998">Ptolemy, active 2nd century (attributed to)פתולמאוס</author>
-                     <title>Sefer ha-Peri <foreign xml:lang="he">ספר הפרי</foreign>
-                     </title>
+                     <title>Sefer ha-Peri </title><title xml:lang="he">ספר הפרי</title>
+                     
                      <note>Attributed to Ptolemy, belived to be the Hebrew transation of his Centiloquium, but most probably written by <persName key="person_205">Ahmad b. Yusuf al-Misri</persName> (835-912), Egyptian mathematician (ch. Sela, <hi rend="italic">Abraham Ibn Ezra and the Rise of Medieval Hebrew Science</hi> [2003], 321-322).</note>
                      <colophon>Colophon of the translator Kalonymos on fol. 99r: <foreign xml:lang="he">"נשלם זה הספר לבטלמיוס ופירוש לאבוחמד בן גוסף בן אבי אבראהתים ... והעתקתיו אני קלונימוס ... ע"ד לפרט"</foreign>
                      </colophon>

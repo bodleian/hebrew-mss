@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem xml:id="MS_Canonici_Or_37-item1" n="1">
                      <locus>ff. 1v-101v</locus>
-                     <title>Hebrew Bible: Pentateuch <foreign xml:lang="he">תורה</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch </title><title xml:lang="he">תורה</title>
+                     
                      <note>First volume of complete Tanakh. Other volumes: <ref target="MS_Can_Or_38">Can. Or. 38</ref>, <ref target="MS_Can_Or_39">MS Can. Or. 39</ref>, <ref target="MS_Can_Or_40">MS Can. Or. 40</ref>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>

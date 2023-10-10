@@ -50,15 +50,15 @@
                      <locus>ff. 2v-6r</locus>
                      <author ref="http://viaf.org/viaf/100186412" key="person_100186412">Ibn Gabirol, active 11th centuryאבן גבירול, שלמה בן יהודה</author>
                      <title>
-                        <foreign xml:lang="he">כתר מלכות לרשב"ג</foreign>
-                     </title>
+                        </title><title xml:lang="he">כתר מלכות לרשב"ג</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Pococke_234-item2" n="2">
                      <locus>ff. 6v-240v</locus>
                      <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Dalalat al-hairin (Guide for the Perplexed) <foreign xml:lang="he">דלאלה אלחאירין</foreign>
-                     </title>
+                     <title>Dalalat al-hairin (Guide for the Perplexed) </title><title xml:lang="he">דלאלה אלחאירין</title>
+                     
                      <note>Fols. 6v-10r: index of the biblical verses cited in the book.</note>
                      <textLang mainLang="ar">Judeo-Arabic</textLang>
                   </msItem>

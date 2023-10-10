@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Laud_Or_273-item1" n="1">
                      <locus>ff.1-186</locus>
                      <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף, 1160-1235</author>
-                     <title>Perush Neviʾim le-Radaḳ (Yeshayah ṿe-Yeremiyah) <foreign xml:lang="he">פרוש נביאים לרד"ק (ישעיה וירמיה)</foreign>
-                     </title>
+                     <title>Perush Neviʾim le-Radaḳ (Yeshayah ṿe-Yeremiyah) </title><title xml:lang="he">פרוש נביאים לרד"ק (ישעיה וירמיה)</title>
+                     
                      <note>The scribe, Daṿid ben Yaʿaḳov b. Polia (?) copied the MS for himself.</note>
                      <colophon>
                         <foreign xml:lang="he">אני דוד בר’ יעקב ן’ פוליא ס"ט כתבתי זה הספר לעצמי וסיימתיו בכאן בביליא דיאגו ביום שלישי שמונה ימים לחדש ניסן שנת חמשת אלפים ומאה וארבעים ואחת ליצירה ...</foreign> (fol. XXX)</colophon>

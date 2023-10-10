@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Book of Psalms</summary>
                   <msItem xml:id="MS_Bodley_Or_6-item1" n="1">
                      <locus>ff. 1r-106v</locus>
-                     <title>Hebrew Bible: Book of Psalms <foreign xml:lang="he">כתובים (תהלים)</foreign>
-                     </title>
+                     <title>Hebrew Bible: Book of Psalms </title><title xml:lang="he">כתובים (תהלים)</title>
+                     
                      <note>Punctuated except fols. 75v-86v</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

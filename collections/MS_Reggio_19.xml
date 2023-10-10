@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/63592556" key="person_63592556">Luzzatto, Isaac, 1730-1803לוצטו, יצחק, 1730-1803</author>
                      <title>ʾEleh toldot Yitsḥaḳ (These are the Generations of Isaac)</title>
                      <title>
-                        <foreign xml:lang="he">אלה תולדות יצחק</foreign>
-                     </title>
+                        </title><title xml:lang="he">אלה תולדות יצחק</title>
+                     
                      <note>Title page on fol. 1r: <foreign xml:lang="he">אלה תולדות יצחק והוא ספר נחמד שירי החכם הרופא כמ"ר יצלק לוזאטו איש כפר סאנדניאל נעתק מכתב יד של המחבר עצמו בשנת התקפ"ג, מספרי יצחק ריגיו</foreign>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>

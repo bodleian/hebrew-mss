@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Writings</summary>
                   <msItem xml:id="MS_Canonici_Or_20-item1" n="1">
                      <locus>ff. 1r-170v</locus>
-                     <title>Hebrew Bible: Writings (Psalms, Job, Proverbs, Ruth, Song of Songs and Ecclesiastes) <foreign xml:lang="he">כתובים</foreign>
-                     </title>
+                     <title>Hebrew Bible: Writings (Psalms, Job, Proverbs, Ruth, Song of Songs and Ecclesiastes) </title><title xml:lang="he">כתובים</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

@@ -50,8 +50,8 @@
                      <locus>ff.1r-309v</locus>
                      <title>Hebrew Bible: Pentateuch and Hafṭarot</title>
                      <title>
-                        <foreign xml:lang="he">תנ"ך: תורה והפטרות. ‬</foreign>
-                     </title>
+                        </title><title xml:lang="he">תנ"ך: תורה והפטרות. ‬</title>
+                     
                      <note>Pentateuch and Hafṭarot</note>
                      <note>Pentateuch with Targum Onḳelos after each verse.</note>
                      <textLang mainLang="he">Hebrew and Aramaic</textLang>

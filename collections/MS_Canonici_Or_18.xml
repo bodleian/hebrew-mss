@@ -48,8 +48,8 @@
                   <summary>Maḥzor for the entire year, Italian rite</summary>
                   <msItem xml:id="MS_Canonici_Or_18-item1" n="1">
                      <locus>ff. 1r-482r</locus>
-                     <title>Maḥzor minhag Roma le-khol ha-shanah <foreign xml:lang="he">מחזור מנהג רומא לכל השנה</foreign>
-                     </title>
+                     <title>Maḥzor minhag Roma le-khol ha-shanah </title><title xml:lang="he">מחזור מנהג רומא לכל השנה</title>
+                     
                      <note>Additional texts: <list>
                            <item>fols. 1r-170r in the margins: <foreign xml:lang="he">ספר התניא</foreign>
                            </item>

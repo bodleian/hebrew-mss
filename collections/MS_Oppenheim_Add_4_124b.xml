@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/19572491" key="person_19572491">Adani, David ben Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
                      <title>Midrash ha-Gadol (Exodus)</title>
                      <title>
-                        <foreign xml:lang="he">מדרש הגדול (שמות)</foreign>
-                     </title>
+                        </title><title xml:lang="he">מדרש הגדול (שמות)</title>
+                     
                      <note>Part of a group of four MSS containing Midrash ha-Gadol; see also <ref target="#MS_Opp_Add_Qu_124a">MS. Opp. Add. 4° 124a</ref>, <ref target="#MS_Opp_Add_Qu_124c">MS. Opp. Add. 4° 124c</ref>, <ref target="#MS_Opp_Add_Qu_124d">MS. Opp. Add. 4° 124d</ref>
                      </note>
                      <note>Place name in colophon is perhaps Al Jawf.</note>

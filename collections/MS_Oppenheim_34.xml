@@ -52,8 +52,8 @@
                      <author key="person_100224138">לוריא, שלמה בן יחיאל</author>
                      <title>Amude Shlomoh</title>
                      <title>
-                        <foreign xml:lang="he">עמודי שלמה</foreign>
-                     </title>
+                        </title><title xml:lang="he">עמודי שלמה</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

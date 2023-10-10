@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/100909415" key="person_100909415">Almosnino, Moses ben Baruch, approximately 1515-approximately 1580אלמושנינו, משה בן ברוך, 1518-1579</author>
                      <title>Bet Elohim (The House of God)</title>
                      <title>
-                        <foreign xml:lang="he">בית אלהים</foreign>
-                     </title>
+                        </title><title xml:lang="he">בית אלהים</title>
+                     
                      <note>Commentary on the Sefer Kadur ha-ʿOlam (=Maʾareh ha-ʾOfanim), the Hebrew translation of Johannes Sacro Bosco's <hi rend="caps">Sphaera Mundi</hi>
                      </note>
                      <note>According to colophon it was written by the scribe for himself and finished on Rosh Hodesh Shvat 5324 (1574 CE). The name of the scribe is hardly legible, according to JNUL, it is <foreign xml:lang="he">חיים עמרם</foreign>

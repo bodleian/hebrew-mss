@@ -51,8 +51,8 @@
                      <author key="person_739">Elijah ben Josef of Nola (Nolano)נולנו, אליהו</author>
                      <title>Commentary on the Writings (Job)</title>
                      <title>
-                        <foreign xml:lang="he">‫ פרוש כתובים לאליהו נולנו (איוב) ‬</foreign>
-                     </title>
+                        </title><title xml:lang="he">‫ פרוש כתובים לאליהו נולנו (איוב) ‬</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Laud_Or_293-item1" n="1">
                      <locus>ff. 1-205</locus>
                      <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף, 1160-1235</author>
-                     <title>Mikhlol <foreign xml:lang="he">מכלול</foreign>
-                     </title>
+                     <title>Mikhlol </title><title xml:lang="he">מכלול</title>
+                     
                      <note>Grammar, with marginal notes in Latin. The MS has not the poem beginning <foreign xml:lang="he">לכל חכמה</foreign>; it ends with the words <foreign xml:lang="he">חכם שמושה מן וכבר זכרונוהו</foreign>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>

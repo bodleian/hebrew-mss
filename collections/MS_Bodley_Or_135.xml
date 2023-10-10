@@ -49,98 +49,98 @@
                   <msItem xml:id="MS_Bodley_Or_135-item1" n="1">
                      <locus>ff. 1r-6r</locus>
                      <author key="person_524">Avraham ha-Bavliאברהם הבבלי</author>
-                     <title>Sefer ha-Shorashim <foreign xml:lang="he">ספר השרשים</foreign>
-                     </title>
+                     <title>Sefer ha-Shorashim </title><title xml:lang="he">ספר השרשים</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item2" n="2">
                      <locus>ff. 6r-10v</locus>
-                     <title>List of homonyms found in the Moses ibn Ezra's Sefer ha-ʿAnaḳ <foreign xml:lang="he">רשימות המלים בעלות יותר ממשמעות אחת שבסופי השורות בס’ הענק למשה אבן עזרא</foreign>
-                     </title>
+                     <title>List of homonyms found in the Moses ibn Ezra's Sefer ha-ʿAnaḳ </title><title xml:lang="he">רשימות המלים בעלות יותר ממשמעות אחת שבסופי השורות בס’ הענק למשה אבן עזרא</title>
+                     
                      <note>Incomplete.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item3" n="3">
                      <locus>ff. 11r-230(ii)v</locus>
                      <author ref="http://viaf.org/viaf/90489505" key="person_90489505">Parḥon, Salomon ben Abraham ibn, active 12th centuryפרחון, שלמה בן אברהם</author>
-                     <title>Maḥberet ha-ʿArukh <foreign xml:lang="he">מחברת הערוך</foreign>
-                     </title>
+                     <title>Maḥberet ha-ʿArukh </title><title xml:lang="he">מחברת הערוך</title>
+                     
                      <note>The name Samuel is pointed out on fols. 33r, 62v, and 99v.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item4" n="4">
                      <locus>ff. 232r-237v</locus>
-                     <title>List of homonyms found in Moses ibn Ezra's Sefer ha-Tarshish <foreign xml:lang="he">רשימת המלים בעלי יותר ממשמעות אחת שבס’ התרשיש למשה אבן עזרא</foreign>
-                     </title>
+                     <title>List of homonyms found in Moses ibn Ezra's Sefer ha-Tarshish </title><title xml:lang="he">רשימת המלים בעלי יותר ממשמעות אחת שבס’ התרשיש למשה אבן עזרא</title>
+                     
                      <note>Sefer ha-Tarshish also known as Sefer ha-ʿAnaḳ.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item5" n="5">
                      <locus>ff. 237v-255r</locus>
-                     <title>Alphabet of Ben Sira <foreign xml:lang="he">אלפא ביתא דבן סירא</foreign>
-                     </title>
+                     <title>Alphabet of Ben Sira </title><title xml:lang="he">אלפא ביתא דבן סירא</title>
+                     
                      <textLang mainLang="he">Hebrew and Aramaic</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item6" n="6">
                      <locus>ff. 256r-290r</locus>
                      <author key="person_68022714">Berechiah ben Natronai, ha-Nakdan, active 12th century-13th centuryברכיה בן נטרונאי הנקדן</author>
-                     <title>Mishle shuʻalim <foreign xml:lang="he">משלי שועלים</foreign>
-                     </title>
+                     <title>Mishle shuʻalim </title><title xml:lang="he">משלי שועלים</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item7" n="7">
                      <locus>ff. 290v-291v</locus>
-                     <title>Aggadic legends <foreign xml:lang="he">מעשיות</foreign>
-                     </title>
+                     <title>Aggadic legends </title><title xml:lang="he">מעשיות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item8" n="8">
                      <locus>ff. 291v-300r</locus>
-                     <title>Mishle Sendebar <foreign xml:lang="he">משלי סנדבר</foreign>
-                     </title>
+                     <title>Mishle Sendebar </title><title xml:lang="he">משלי סנדבר</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item9" n="9">
                      <locus>ff. 300r-339v</locus>
-                     <title>Aggadic legends <foreign xml:lang="he">מעשיות</foreign>
-                     </title>
+                     <title>Aggadic legends </title><title xml:lang="he">מעשיות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item10" n="10">
                      <locus>ff. 340r-346v</locus>
-                     <title>Divre ha-yamim le-Mosheh Rabenu <foreign xml:lang="he">דברי הימים למשה רבינו</foreign>
-                     </title>
+                     <title>Divre ha-yamim le-Mosheh Rabenu </title><title xml:lang="he">דברי הימים למשה רבינו</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item11" n="11">
                      <locus>ff. 346v-352r</locus>
-                     <title>Midrash Aśeret ha-Dibrot (Midrash on the Ten Commandments) <foreign xml:lang="he">מדרש עשרת הדברות</foreign>
-                     </title>
+                     <title>Midrash Aśeret ha-Dibrot (Midrash on the Ten Commandments) </title><title xml:lang="he">מדרש עשרת הדברות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item12" n="12">
                      <locus>ff. 352r-356r</locus>
-                     <title>Midrash ṿa-Yoshaʿ <foreign xml:lang="he">מדרש ויושע</foreign>
-                     </title>
+                     <title>Midrash ṿa-Yoshaʿ </title><title xml:lang="he">מדרש ויושע</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item13" n="13">
                      <locus>ff. 356r-358v</locus>
-                     <title>Igerot shel Dibrot <foreign xml:lang="he">אגרות של דברות</foreign>
-                     </title>
+                     <title>Igerot shel Dibrot </title><title xml:lang="he">אגרות של דברות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item14" n="14">
                      <locus>ff. 358v-361r</locus>
-                     <title>Otot aśar milḥamot melekh ha-Mesiaḥ <foreign xml:lang="he">אותות עשר מלחמות מלך המשיח</foreign>
-                     </title>
+                     <title>Otot aśar milḥamot melekh ha-Mesiaḥ </title><title xml:lang="he">אותות עשר מלחמות מלך המשיח</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_135-item15" n="15">
                      <locus>ff. 361r-363v</locus>
                      <author key="person_499149066726965601917">Menaḥem ben Perets ha-Ḥebroniמנחם בן פרץ החברוני</author>
-                     <title>Masaʿ be-erets Yiśaʾel <foreign xml:lang="he">מסע בארץ ישראל</foreign>
-                     </title>
+                     <title>Masaʿ be-erets Yiśaʾel </title><title xml:lang="he">מסע בארץ ישראל</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

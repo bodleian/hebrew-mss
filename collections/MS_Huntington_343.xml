@@ -50,15 +50,15 @@
                      <locus>ff. 1r-2v</locus>
                      <title>Liturgical poems</title>
                      <title>
-                        <foreign xml:lang="he">פיוטים</foreign>
-                     </title>
+                        </title><title xml:lang="he">פיוטים</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Huntington_343-item2" n="2">
                      <locus>ff. 3r-278v</locus>
                      <author ref="http://viaf.org/viaf/66823723" key="person_66823723">Aḥa, of Shabḥa, 680-752אחאי, משבחא, גאון, 680-752</author>
-                     <title>Responsa <foreign xml:lang="he">שאילתות</foreign>
-                     </title>
+                     <title>Responsa </title><title xml:lang="he">שאילתות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

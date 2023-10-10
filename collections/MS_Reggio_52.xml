@@ -90,8 +90,8 @@
                         </author>
                         <title>Shir la-ḥatunat <persName key="person_477">Yitsḥaḳ ben Shabtai Marini</persName> (Poem for the wedding of <persName key="person_478">Isaac Marini</persName>)</title>
                         <title>
-                           <foreign xml:lang="he">שיר לחתונת יצחק בן שבתי מריני</foreign>
-                        </title>
+                           </title><title xml:lang="he">שיר לחתונת יצחק בן שבתי מריני</title>
+                        
                         <note>Copied by <persName ref="http://viaf.org/viaf/2075341" key="person_2075341">Yisroel Simcha Schorr</persName>
                         </note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -145,8 +145,8 @@
                         </author>
                         <title>Commentary on Tractate Rosh ha-Shanah</title>
                         <title>
-                           <foreign xml:lang="he">פירוש מסכת ראש השנה</foreign>
-                        </title>
+                           </title><title xml:lang="he">פירוש מסכת ראש השנה</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_52-part2-item2" n="3">
@@ -157,8 +157,8 @@
                         </author>
                         <title>ʿAśarah pirḳe Mishnah</title>
                         <title>
-                           <foreign xml:lang="he">עשרה פרקי משנה</foreign>
-                        </title>
+                           </title><title xml:lang="he">עשרה פרקי משנה</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_52-part2-item3" n="4">
@@ -169,16 +169,16 @@
                         </author>
                         <title>ʿEśrim ṿe-arbaʿah ḳushṭe kalah</title>
                         <title>
-                           <foreign xml:lang="he">עשרים וארבעה קשוטי כלה</foreign>
-                        </title>
+                           </title><title xml:lang="he">עשרים וארבעה קשוטי כלה</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_52-part2-item4" n="5">
                         <locus>ff.53r-54v</locus>
                         <title>Kaṿanat le-tefilot ʿerev shabat</title>
                         <title>
-                           <foreign xml:lang="he">כונות לתפלות ערב שבת</foreign>
-                        </title>
+                           </title><title xml:lang="he">כונות לתפלות ערב שבת</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>

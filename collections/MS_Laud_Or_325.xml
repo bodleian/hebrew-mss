@@ -50,8 +50,8 @@
                   </summary>
                   <msItem xml:id="MS_Laud_Or_325-item1" n="1">
                      <locus>ff. 1r-307v</locus>
-                     <title>Ketuvim <foreign xml:lang="he">כתובים</foreign>
-                     </title>
+                     <title>Ketuvim </title><title xml:lang="he">כתובים</title>
+                     
                      <note>Ezrah, Nehemiah, Tobit, Judith, Ester, Job, Psalms, Proverbs, Ecclesiastes, Song of Songs; the books of Wisdom and Ecclesiasticus in Hebrew, Greek, Latin and English. On the margin variations of the Greek text (modern hand)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

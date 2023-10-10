@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Bodley_Or_326-item1" n="1">
                      <locus>ff. 1r-271r</locus>
                      <author key="person_19684048">Rashi, 1040-1105שלמה בן יצחק (רש"י)</author>
-                     <title>Commentary on the Prophets <foreign xml:lang="he">פרוש נביאים לרש"י</foreign>
-                     </title>
+                     <title>Commentary on the Prophets </title><title xml:lang="he">פרוש נביאים לרש"י</title>
+                     
                      <note>Latin note about content on front flyleaf recto.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

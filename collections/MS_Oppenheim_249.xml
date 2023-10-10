@@ -50,8 +50,8 @@
                      <locus>ff. 1r-58v</locus>
                      <title>Talmud Bavli, Seder Neziḳin (Bava Batra 9-79)</title>
                      <title>
-                        <foreign xml:lang="he">תלמוד בבלי סדר נזיקין (בבא בתרא ט-עט)</foreign>
-                     </title>
+                        </title><title xml:lang="he">תלמוד בבלי סדר נזיקין (בבא בתרא ט-עט)</title>
+                     
                      <note>With the commentary of <persName ref="http://viaf.org/viaf/19684048" key="person_19684048">Rashi</persName> until the middle of chapter 3, rest is an anonymous commentary.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

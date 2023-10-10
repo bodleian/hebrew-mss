@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Reggio_5-item1" n="1">
                      <locus>ff. 1r-186v</locus>
                      <author ref="http://viaf.org/viaf/61220050" key="person_61220050">Levi ben Japhet, active 10th centuryלוי בן יפת, הלוי</author>
-                     <title>Sefer ha-Mitsṿot le-Leṿi ben Yafet <foreign xml:lang="he">ספר המצוות ללוי בן יפת</foreign>
-                     </title>
+                     <title>Sefer ha-Mitsṿot le-Leṿi ben Yafet </title><title xml:lang="he">ספר המצוות ללוי בן יפת</title>
+                     
                      <note>On fol. 109b and at the end notes by <persName key="person_22242243">Moritz Steinschneider</persName> on the order of the leaves.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

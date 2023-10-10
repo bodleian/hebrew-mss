@@ -51,8 +51,8 @@
                      <author key="person_734">שמואל (מאה ט"ו)</author>
                      <title>Sefer minhagim</title>
                      <title>
-                        <foreign xml:lang="he">ספר מנהגים</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר מנהגים</title>
+                     
                      <note>Based on <persName ref="http://viaf.org/viaf/65536268" key="person_305856430">Jacob Mollin</persName> and not on Sefer ha-Manhig.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -62,8 +62,8 @@
                      <author key="person_298789554">ויל, יעקב בן יהודה</author>
                      <title>Hilkhot sheḥiṭah</title>
                      <title>
-                        <foreign xml:lang="he">הלכות שחיטה</foreign>
-                     </title>
+                        </title><title xml:lang="he">הלכות שחיטה</title>
+                     
                      <note>Rules on ritual slaughter</note>
                      <colophon>Colophon is on fol. 83v: <foreign xml:lang="he">שנת הרנ"א היום יום ב כ"א לחדש טבת נשלם זה הספר מנהיג קצר עם דיני שחיטה ובדיקה בקוצר על ידי לי זעיר אישים איסקופא נדכסת לכל תלמדים והסופרים שלמה כהן העלוב בן לאדוני ומורי לנכ"ר שמואל כהן תנצב"ה וכתבתיהו לנכבד כ"ר סמטי כהן ... פה תיבץ"</foreign>
                      </colophon>
@@ -75,16 +75,16 @@
                      <author key="person_7032">יצחק בן יחיאל הלוי</author>
                      <title>Calendar</title>
                      <title>
-                        <foreign xml:lang="he">לוחות</foreign>
-                     </title>
+                        </title><title xml:lang="he">לוחות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_49-item4" n="4">
                      <locus>ff. 91r-98r</locus>
                      <title>Prayers for circumcision, betrothal, wedding and burial (Tsadoḳ ha-din)</title>
                      <title>
-                        <foreign xml:lang="he">תפלות לברית מילה, אירוסין, נישואין וסדר צדוק הדין</foreign>
-                     </title>
+                        </title><title xml:lang="he">תפלות לברית מילה, אירוסין, נישואין וסדר צדוק הדין</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

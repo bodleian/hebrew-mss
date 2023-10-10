@@ -81,16 +81,16 @@
                      <msItem xml:id="MS_Pococke_181-part1-item1" n="1">
                         <locus>ff. 1r-34v</locus>
                         <author ref="http://lccn.loc.gov/n83043340" key="person_9592162669514255500009">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or 1053-1127בטליוסי, אבו מחמד עבדאללה בן מחמד</author>
-                        <title>Kitab al-Hadaiq <foreign xml:lang="he">כתאב אלחאדאיק</foreign>
-                        </title>
+                        <title>Kitab al-Hadaiq </title><title xml:lang="he">כתאב אלחאדאיק</title>
+                        
                         <colophon>Colophon in on fol. 34v: <foreign xml:lang="he">"ואסתכתבה סעדיה אלאסראילי ולד אלחכים אליה אלמתטבב"</foreign>.</colophon>
                         <textLang mainLang="ar">Arabic in Hebrew characters</textLang>
                      </msItem>
                      <msItem xml:id="MS_Pococke_181-part1-item2" n="2">
                         <locus>ff. 36r-53v</locus>
                         <title>
-                           <foreign xml:lang="he">אל כלאם עלי אל מסאיל אלתלת’</foreign>
-                        </title>
+                           </title><title xml:lang="he">אל כלאם עלי אל מסאיל אלתלת’</title>
+                        
                         <textLang mainLang="ar">Hebrew ?????????????/</textLang>
                      </msItem>
                   </msContents>
@@ -129,8 +129,8 @@
                         <locus>ff. 54r-61v</locus>
                         <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
                         <title>
-                           <foreign xml:lang="he">רסאלה פי אקסאם לעלוס</foreign>
-                        </title>
+                           </title><title xml:lang="he">רסאלה פי אקסאם לעלוס</title>
+                        
                         <note>The fifth of Avicenna's nine letters.</note>
                         <textLang mainLang="ar">Arabic in Hebrew characters</textLang>
                      </msItem>
@@ -169,8 +169,8 @@
                      <msItem xml:id="MS_Pococke_181-part3-item1" n="4">
                         <locus>ff. 62v-154r</locus>
                         <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
-                        <title>al-Ḥikmah al-mashriqīyah <foreign xml:lang="he">אלחכמה אלמשרקיה</foreign>
-                        </title>
+                        <title>al-Ḥikmah al-mashriqīyah </title><title xml:lang="he">אלחכמה אלמשרקיה</title>
+                        
                          <note>See also <ref target="https://www.fihrist.org.uk/catalog/manuscript_1418">Fihrist catalogue.</ref>
                         </note>
                         <textLang mainLang="ar">Arabic in Hebrew characters</textLang>

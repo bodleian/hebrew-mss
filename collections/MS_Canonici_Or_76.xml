@@ -50,8 +50,8 @@
                      <locus>ff. 1r-357r</locus>
                      <title>Commentary on the Writings (Esther and Lamentations)</title>
                      <title>
-                        <foreign xml:lang="he">פרוש כתובים (אסתר ואיכה)</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש כתובים (אסתר ואיכה)</title>
+                     
                      <note>By different authors, most of which were active in 15th-16th-century Turkey,; among others: <foreign xml:lang="he">"שמריה האיקריטי זצ"ל" (דף 11א), "שמואל צרפתי ז"ל" (27ב), "ר"מ [משה] איסרליס ז"ל" (31א), "בנימין אשכנזי ן’ ה"ר מאיר הלוי" (55ב), "יצחק הכהן ז"ל" (82ב)</foreign>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>

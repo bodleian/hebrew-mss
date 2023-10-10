@@ -50,8 +50,8 @@
                      <locus>ff. 1r-143v</locus>
                      <title>Maḥzor for the Days of Awe and Sukkot, according to the Sephardi rite</title>
                      <title>
-                        <foreign xml:lang="he">מחזור מנהג ספרד לימים נוראים ולסוכות</foreign>
-                     </title>
+                        </title><title xml:lang="he">מחזור מנהג ספרד לימים נוראים ולסוכות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

@@ -50,8 +50,8 @@
                      <locus>ff. 1r-251r</locus>
                      <title>Supercommentary on Rashi and on Ramban on the Pentateuch</title>
                      <title>
-                        <foreign xml:lang="he">פרוש על פרוש התורה לרש"י ולרמב"ן</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש על פרוש התורה לרש"י ולרמב"ן</title>
+                     
                      <note>Compilation of various commentaries.</note>
                      <note>
                         <ref target="http://enriqueta.man.ac.uk/luna/servlet/detail/ManchesterDev~95~2~18408~111519:Exodus-commentary?sort=Reference_number%2CImage_sequence_numberamp;qvq=q:%3DA%2B487%2B;sort:Reference_number%2CImage_sequence_number;lc:ManchesterDev~95~2amp;mi=1amp;trs=10">Fragment A 487</ref> (Supercommentary on Nahmanides' Exodus commentary) in the Rylands Genizah contains almost the same text.</note>

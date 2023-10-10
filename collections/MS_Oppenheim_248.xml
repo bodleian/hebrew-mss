@@ -50,8 +50,8 @@
                      <locus>ff. 1r-391v</locus>
                      <title>Talmud Bavli, Seder Nashim (Yevamot and Ḳidushin)</title>
                      <title>
-                        <foreign xml:lang="he">תלמוד בבלי סדר נשים (יבמות וקדושין)</foreign>
-                     </title>
+                        </title><title xml:lang="he">תלמוד בבלי סדר נשים (יבמות וקדושין)</title>
+                     
                      <note>With Tosafot and extracts from the Mordekhai.</note>
                      <note>Fol. 1 is hardly legible; end of Yevamot is missing.</note>
                      <note>fols. 1r-254r: Masekhet Yevamot; fols. 255v-391v: Masekhet Ḳidushin</note>

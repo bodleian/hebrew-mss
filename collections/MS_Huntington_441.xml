@@ -51,8 +51,8 @@
                      <author key="person_97442121">Yosef Ḳasṭelקשטיל, יוסף</author>
                      <title>Responsa to the questions about kabbalah posed by R. Yehudah Ḥayṭ</title>
                      <title>
-                        <foreign xml:lang="he">תשובות לשאלות על דרך הקבלה ששאל ר’ יהודה חייט</foreign>
-                     </title>
+                        </title><title xml:lang="he">תשובות לשאלות על דרך הקבלה ששאל ר’ יהודה חייט</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Huntington_441-item2" n="2">
@@ -60,8 +60,8 @@
                      <author key="person_594">Yaʿaḳov ben Yaʿaḳov ha-Kohenיעקב בן יעקב הכהן</author>
                      <title>Perush merkhavat Yeḥezkiel</title>
                      <title>
-                        <foreign xml:lang="he">פרוש מרכבת יחזקאל</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש מרכבת יחזקאל</title>
+                     
                      <note>Commentary on the hafṭarah about Ezekiel's Vision (Ez. 1:1-28 and 3:12), the hafṭarah for the first day of Shavuot.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -70,8 +70,8 @@
                      <author ref="http://viaf.org/viaf/88057479" key="person_51777166">Gikatilla, Joseph ben Abraham, 1248-ג’קטילה, יוסף בן אברהם</author>
                      <title>Perush maʿaśeh merkhavah</title>
                      <title>
-                        <foreign xml:lang="he">פרוש מעשה מרכבה</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש מעשה מרכבה</title>
+                     
                      <note>Commentary on the hafṭarah about Ezekiel's Vision (Ez. 1:1-28 and 3:12), the hafṭarah for the first day of Shavuot.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -80,8 +80,8 @@
                      <author ref="http://viaf.org/viaf/79260667" key="person_79260667">Moses ben Shem Tov, de Leon, 1250-1305ליאון, משה די</author>
                      <title>Sefer ha-Shem</title>
                      <title>
-                        <foreign xml:lang="he">ספר השם</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר השם</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Huntington_441-item5" n="5">
@@ -89,8 +89,8 @@
                      <author ref="http://viaf.org/viaf/79260667" key="person_79260667">Moses ben Shem Tov, de Leon, 1250-1305ליאון, משה די</author>
                      <title>Mishkan ha-ʿedut</title>
                      <title>
-                        <foreign xml:lang="he">משכן העדות</foreign>
-                     </title>
+                        </title><title xml:lang="he">משכן העדות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Huntington_441-item6" n="6">
@@ -98,8 +98,8 @@
                      <author ref="http://viaf.org/viaf/44658675" key="person_229046142">Baḥya ben Asher ben Ḥlava, ?-1340בחיי בן אשר אבן חלאוה</author>
                      <title>Shulḥan shel ʾarbaʿ</title>
                      <title>
-                        <foreign xml:lang="he">שלחן של ארבע</foreign>
-                     </title>
+                        </title><title xml:lang="he">שלחן של ארבע</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

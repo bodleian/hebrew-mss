@@ -50,8 +50,8 @@
                      <locus>ff. 1r-463r</locus>
                      <title>Hebrew Bible</title>
                      <title>
-                        <foreign xml:lang="he">תנ"ך</foreign>
-                     </title>
+                        </title><title xml:lang="he">תנ"ך</title>
+                     
                      <note>According to the colophon, it was written for <persName key="person_7006">Binjamin ben Shmuel</persName>.</note>
                      <colophon>Colophon of the scribe <persName key="person_7030">Yeḳutiel ben Shlomoh</persName> on fol. : <foreign xml:lang="he">"כתבתי אני יקותיאל ... בכר’ שלמה זצ"ל לכבוד מורי ... בנימן ... בכ"ר שמואל ... פה בעיר ארימנו היושבת על שפת הים ועל נהרי אוויסא ומריקייא"</foreign>; followed by Italian translation of the colophon in Latin characters.</colophon>
                      <textLang mainLang="he">Hebrew</textLang>

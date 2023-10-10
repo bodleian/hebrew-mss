@@ -49,16 +49,16 @@
                   <msItem xml:id="MS_Laud_Or_316-item1" n="1">
                      <locus>ff. 1v-11v</locus>
                      <author ref="http://viaf.org/viaf/9742647" key="person_9742647">Dueren, Isaac ben Meir, active 13th centuryיצחק בן מאיר מדורא</author>
-                     <title>Hilkhot nidah <foreign xml:lang="he">הלכות נדה</foreign>
-                     </title>
+                     <title>Hilkhot nidah </title><title xml:lang="he">הלכות נדה</title>
+                     
                      <note>Name of the author mentioned on fol. 11v</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_316-item2" n="2">
                      <locus>ff. 12r-65v</locus>
                      <author ref="http://viaf.org/viaf/59118174" key="person_59118174">Levi ben Gershom, 1288-1344לוי בן גרשם, 1288-1344</author>
-                     <title>Shaʿare Dura <foreign xml:lang="he">שערי דורא</foreign>
-                     </title>
+                     <title>Shaʿare Dura </title><title xml:lang="he">שערי דורא</title>
+                     
                      <note>Numerous scribbles on fol. 1r.</note>
                      <colophon>At the end of the tractate on Niddah: " <foreign xml:lang="he">נשלם זה י"א בסיון קעח"ל</foreign> " (fol. 11v); " <foreign xml:lang="he">אני אנשל בן הנ"ר זוסלין מווירדא כתבתי ... ל... זוסמן ב"ר נחם הלוי וגמרתי אותו בע"ה קעח"ל</foreign> " (fol. 25v)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>

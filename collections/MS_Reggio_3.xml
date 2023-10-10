@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/30339950" key="person_30339950">Asher ben Jehiel, approximately 1250-1327(אשר בן יחיאל)</author>
                      <title>Ashre</title>
                      <title>
-                        <foreign xml:lang="he">אשרי</foreign>
-                     </title>
+                        </title><title xml:lang="he">אשרי</title>
+                     
                      <note>Decisions on Berakhot, Avodah Zarah, Hulin, Berkhorot and the small treatises with glosses (by <persName key="person_38145304748478610338">Israel of Kremz</persName> and others).</note>
                      <note>Written for <persName key="person_7013">Manoaḥ ben Avraham</persName>.</note>
                      <colophon>

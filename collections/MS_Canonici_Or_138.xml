@@ -50,8 +50,8 @@
                      <locus>ff.1r-351v</locus>
                      <title>Hebrew Bible: Pentateuch and Megilot</title>
                      <title>
-                        <foreign xml:lang="he">תנ"ך: תורה ומגלות</foreign>
-                     </title>
+                        </title><title xml:lang="he">תנ"ך: תורה ומגלות</title>
+                     
                      <note>Pentateuch and Five Scrolls with Masorahs</note>
                      <note>Pentateuch (Gen. 21:20-Deut. 33:29) with Targum Onḳelos after each verse.</note>
                      <colophon>Colophon on fol. 327r: <foreign xml:lang="he">"חומש מתרגום ומהפטרות[!] ומחמש מגילות לר’ אליהו דודי בן זקיני הנדיב רבי אהרן זצ"ל הצור יתן לו בנים להגות בו אמן אמן אמן סלח שנת ס"ד לפרט יום ראש חדש סיון"</foreign>

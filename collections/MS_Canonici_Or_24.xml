@@ -48,8 +48,8 @@
                   <summary>Sidur according to the Sephardi rite (Catalonia)</summary>
                   <msItem xml:id="MS_Canonici_Or_24-item1" n="1">
                      <locus>ff. 1v-184v</locus>
-                     <title>Sidur minhag Sefarad (Catalonia) <foreign xml:lang="he">סדור מנהג ספרד (קטלוניא)</foreign>
-                     </title>
+                     <title>Sidur minhag Sefarad (Catalonia) </title><title xml:lang="he">סדור מנהג ספרד (קטלוניא)</title>
+                     
                      <note>Prayers in memory of <persName key="person_7016">Michael Kohen di Lonil</persName> (<persName key="person_7016">
                            <foreign xml:lang="he">מיכאל כהן די לוניל</foreign>
                         </persName>) on fols. 137v-138v. Prayers in memory of <persName key="person_7014">Marat Binḳolina</persName> (<persName key="person_7014">

@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible Writings</summary>
                   <msItem xml:id="MS_Bodley_Or_46-item1" n="1">
                      <locus>ff. 1r-158v</locus>
-                     <title>Hebrew Bible: Writings <foreign xml:lang="he">תנ"ך: כתובים</foreign>
-                     </title>
+                     <title>Hebrew Bible: Writings </title><title xml:lang="he">תנ"ך: כתובים</title>
+                     
                      <note>Latin marginal notes.</note>
                      <colophon>
                         <foreign xml:lang="he"/>

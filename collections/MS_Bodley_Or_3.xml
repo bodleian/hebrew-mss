@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Book of Psalms</summary>
                   <msItem xml:id="MS_Bodley_Or_3-item1" n="1">
                      <locus>ff. 1r-75v</locus>
-                     <title>Hebrew Bible: Book of Psalms <foreign xml:lang="he">כתובים (תהלים)</foreign>
-                     </title>
+                     <title>Hebrew Bible: Book of Psalms </title><title xml:lang="he">כתובים (תהלים)</title>
+                     
                      <note>Erased Latin charm on fol. 72r, English gloss on fol. 73.</note>
                      <note>It contains several abecedaria (alphabets): Arabic and Cyrillic alphabets with the names of the letters spelled out above in vocalised Hebrew script on fols. 72v-73v. Greek and Hebrew alphabets with Latin notes on fols. 74v-75r.</note>
                      <note>Erased French note of the sum of the ecclesiastical taxation for the provincde of Canterbury from the early 14th century.</note>

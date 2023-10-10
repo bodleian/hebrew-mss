@@ -50,8 +50,8 @@
                      <locus>ff. 1r-318r</locus>
                      <title>Sidur for the entire year according to the Sephardi rite</title>
                      <title>
-                        <foreign xml:lang="he">סדור מנהג ספרד לכל השנה</foreign>
-                     </title>
+                        </title><title xml:lang="he">סדור מנהג ספרד לכל השנה</title>
+                     
                      <note>Calendar for the years 245-316 (1485-1556) on fol. 209r. דף 209א: לוח קביעיות לשנים רמ"ה-שי"ו ולאחריו לוח תקופות.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

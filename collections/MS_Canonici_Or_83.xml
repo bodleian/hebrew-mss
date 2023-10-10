@@ -51,8 +51,8 @@
                      <author key="person_663">Yaʿaḳov ben Shimshonיעקב בן שמשון</author>
                      <title>Commentary on the Mishnah (Tractate Avot)</title>
                      <title>
-                        <foreign xml:lang="he">פרוש המשנה (אבות) ‬</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש המשנה (אבות) ‬</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_83-item2" n="2">
@@ -60,8 +60,8 @@
                      <author ref="http://viaf.org/viaf/8698827" key="person_8698827">Samson ben Zadok, -1312שמשון בן צדוק</author>
                      <title>Tashbets</title>
                      <title>
-                        <foreign xml:lang="he">תשב"ץ</foreign>
-                     </title>
+                        </title><title xml:lang="he">תשב"ץ</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_83-item3" n="3">
@@ -69,8 +69,8 @@
                      <author key="person_665">Eliezer (13th-14th century)אליעזר (מאה י"ג-י"ד)</author>
                      <title>Liḳuṭe dinim</title>
                      <title>
-                        <foreign xml:lang="he">לקוטי דינים</foreign>
-                     </title>
+                        </title><title xml:lang="he">לקוטי דינים</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

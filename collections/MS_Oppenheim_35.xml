@@ -52,8 +52,8 @@
                      <author xml:lang="he" key="person_19684048">שלמה בן יצחק (רש"י)</author>
                      <title>Perush ha-Torah (Torah commentary)</title>
                      <title>
-                        <foreign xml:lang="he">פרוש התורה לרש"י</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש התורה לרש"י</title>
+                     
                      <note>Numerous marginal notes.</note>
                      <colophon>Colophon of the scribe Yitsḥaḳ bar Yehudah on fol. 106r: <foreign xml:lang="he">"ושלי הוא יצחק יהודה ב"ר וכתבתיהו וסיימתיהו בר"ח כסליו שנת חמשת אלפים ומאה וששים ותשע לבריאת עולם"</foreign>
                      </colophon>

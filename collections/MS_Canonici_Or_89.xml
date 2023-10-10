@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_89-item1" n="1">
                      <locus>ff. 1r-234v</locus>
                      <author ref="http://viaf.org/viaf/28447292" key="person_98318342">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
-                     <title>Pisḳe Rid <foreign xml:lang="he">פסקי רי"ד</foreign>
-                     </title>
+                     <title>Pisḳe Rid </title><title xml:lang="he">פסקי רי"ד</title>
+                     
                      <note>Second volume of a two-volume codex; volume 1 is <ref target="#MS_Can_Or_90">MS Can. 90</ref>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -58,8 +58,8 @@
                   <msItem xml:id="MS_Canonici_Or_89-item2" n="2">
                      <locus>ff. 236v-257r</locus>
                      <author ref="http://viaf.org/viaf/28447292" key="person_98318342">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
-                     <title>Sefer ha-Makriaʿ <foreign xml:lang="he">ספר המכריע</foreign>
-                     </title>
+                     <title>Sefer ha-Makriaʿ </title><title xml:lang="he">ספר המכריע</title>
+                     
                      <note>Written for Rabbi Menaḥem ben Binjamin.</note>
                      <colophon>Colophon of the scribe <persName key="person_290">Paola Abraham ben Yoav</persName> on fol. 257r: "תהלות יי’ ... אשר רחמני אותי פולה בת ר’ אברהם הסופר בי"ר יואב צי"ע ... ר’ מנחם בי"ר בנימן הצדיק ... קרובי ... והפצירני ... לכתוב לו הספר ... ונגמרה ... יום רביעי שני ימים לחודש הראשון שנת חמשת אלפים וחמשים ושלשה לבריאת עולם"</colophon>
                      <textLang mainLang="he">Hebrew</textLang>

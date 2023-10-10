@@ -50,8 +50,8 @@
                      <locus>ff. 1r-90r</locus>
                      <title>Sidur minhag Ashkenaz le-khol ha-shanah</title>
                      <title>
-                        <foreign xml:lang="he">סדור מנהג אשכנז לכל השנה</foreign>
-                     </title>
+                        </title><title xml:lang="he">סדור מנהג אשכנז לכל השנה</title>
+                     
                      <note>Contains of common prayers and six chapters of Pirḳe Avot (fols. 51r-64v) and Hoshanot (fols. 79v-90r)</note>
                      <colophon>Colophon on fol. : <foreign xml:lang="he">"סימתי זאת התפילה באחד לחודש הרביעי רל"א לפרט באלף הששי שנה לייי אני אשר בר’ יצחק השוא[ל]"</foreign>
                      </colophon>

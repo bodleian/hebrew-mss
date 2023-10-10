@@ -114,8 +114,8 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part1-item1" n="1">
                         <locus>ff. 1r-26r</locus>
-                        <title>Maʾamarim u-feshuṭim shel pesuḳim ṿe-derushim <foreign xml:lang="he">מאמרים ופשטים של פסוקים ודרושים</foreign>
-                        </title>
+                        <title>Maʾamarim u-feshuṭim shel pesuḳim ṿe-derushim </title><title xml:lang="he">מאמרים ופשטים של פסוקים ודרושים</title>
+                        
                         <note>Expositions of passages and legends in the Talmud, mostly by means of question and answer. Includes some novellae and homilies by Eleazar Kohen (fols. 36v, 40v). Includes some homilies by the Mahariḳ (=Israel Koriel).</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -130,8 +130,8 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part2-item1" n="2">
                         <locus>ff. 28r-40v</locus>
-                        <title>Beʾur sugyiot ba-Talmud ṿe-agadot Ḥazal <foreign xml:lang="he">באור סוגיות בתלמוד ואגדות חז"ל</foreign>
-                        </title>
+                        <title>Beʾur sugyiot ba-Talmud ṿe-agadot Ḥazal </title><title xml:lang="he">באור סוגיות בתלמוד ואגדות חז"ל</title>
+                        
                         <note>Various homilies and expositions in different hands</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -205,8 +205,8 @@
                      <msItem xml:id="MS_Laud_Or_220-part7-item1" n="7">
                         <locus>ff. 273r-278r</locus>
                         <author key="person_689">Yeshayah ben Yosef ha-Yaṿaniישעיה בן יוסף היוני</author>
-                        <title>Ets Ḥayim <foreign xml:lang="he">עץ חיים</foreign>
-                        </title>
+                        <title>Ets Ḥayim </title><title xml:lang="he">עץ חיים</title>
+                        
                         <note>Philosophico-cabbalistical treatise on the ten Sefirot, on the planets, and on the Ten Commandments. Was written for R. Eliyah ha-Leṿi ben R. Ḥananel ha-Dayan.</note>
                         <note>
                            <quote xml:lang="he">"נאום ישעיה המכונה בשם רב בן הרב רבינו יוסף ז"ל ... אליהו הלוי בן הרב הקדש מרʹ ורב חננל הדיין"</quote>
@@ -216,8 +216,8 @@
                      <msItem xml:id="MS_Laud_Or_220-part7-item2" n="8">
                         <locus>ff. 278r-285v</locus>
                         <author key="person_219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן</author>
-                        <title>Shaʿare ha-Tsedeḳ = Igeret ha-ḳodesh <foreign xml:lang="he">שערי הצדק = אגדת הקודש</foreign>
-                        </title>
+                        <title>Shaʿare ha-Tsedeḳ = Igeret ha-ḳodesh </title><title xml:lang="he">שערי הצדק = אגדת הקודש</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
@@ -232,8 +232,8 @@
                      <msItem xml:id="MS_Laud_Or_220-part8-item1" n="8">
                         <locus>ff. 288r-298r</locus>
                         <author key="person_690">Yosef ben Shlomoh Ṭiṭtsiḳ (Riṭ)יוסף בן שלמה טיטצק</author>
-                        <title>Perush Tehilim <foreign xml:lang="he">פירוש תהילים להרי"ט</foreign>
-                        </title>
+                        <title>Perush Tehilim </title><title xml:lang="he">פירוש תהילים להרי"ט</title>
+                        
                         <note>Commentary on Psalms 1-20.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -248,8 +248,8 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part9-item1" n="9">
                         <locus>ff. 303r-313v</locus>
-                        <title type="supplied">Commentary on Lamentations <foreign xml:lang="he">פרוש כתובים (איכה)</foreign>
-                        </title>
+                        <title type="supplied">Commentary on Lamentations </title><title xml:lang="he">פרוש כתובים (איכה)</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>

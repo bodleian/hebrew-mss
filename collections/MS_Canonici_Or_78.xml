@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_78-item1" n="1">
                      <locus>ff. 1v-429r</locus>
                      <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Mishneh Torah <foreign xml:lang="he">משנה תורה</foreign>
-                     </title>
+                     <title>Mishneh Torah </title><title xml:lang="he">משנה תורה</title>
+                     
                      <note>Deletions by <persName key="person_400">Marchion</persName> (e.g. fol. 15r, 16v, 429r).</note>
                      <note>Numerous marginal notes.</note>
                      <colophon>Colophon on fol. 429v: <foreign xml:lang="he">וכתבים כלם היחיוני ביד אלהיו הטובה עליו סימם בט"ו יום לחדש טבת שנת תתקמ"ה לאלף החמישי ברוך הותן ליעף כח ולאין אונים עמצה ירבה"</foreign>. The date in the colophon was originally <foreign xml:lang="he">תתרמ"ה</foreign> (1045) that is 1284. A later hand modified the letter 'resh' to 'ḳuf' (cf. Malachi Beit-Arie, Tarbiz 51 (1971/2).</colophon>

@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_68-item1" n="1">
                      <locus>ff. 2r-136r</locus>
                      <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
-                     <title>Commentary on the Writings (Psalms) <foreign xml:lang="he">פרוש כתובים לרד"ק (תהלים)</foreign>
-                     </title>
+                     <title>Commentary on the Writings (Psalms) </title><title xml:lang="he">פרוש כתובים לרד"ק (תהלים)</title>
+                     
                      <note>Erasures by censors (e.g. fols. 5r, 23r, 45v, 69v, 109r)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

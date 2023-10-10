@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Writings</summary>
                   <msItem xml:id="MS_Canonici_Or_56-item1" n="1">
                      <locus>ff. 1r-147v</locus>
-                     <title>Hebrew Bible: Writings <foreign xml:lang="he">נביאים אחרונים</foreign>
-                     </title>
+                     <title>Hebrew Bible: Writings </title><title xml:lang="he">נביאים אחרונים</title>
+                     
                      <note>Continuation of <ref target="MS_Can_Or_69">MS Can. Or. 69</ref>. The beginning of the MS (Pentateuch, Former Prophets and the beginning of Jeremiah) can be found in Parma (MSS. Parm. 2946–2947——De Rossi 604)</note>
                      <note>This volume contains the books of Ruth, Psalms, Job, Proverbs, Ecclesiastes, Song of Songs, Lamentations, Daniel, Esther, Ezra (Nehemiah) and Chronicles.</note>
                      <colophon>Concluding formula: <foreign xml:lang="he">בנימין הלבלר חזק ולעולם לא יזק נצח ועד</foreign> (fol. 147v).</colophon>

@@ -50,8 +50,8 @@
                      <locus>ff. 1r-299r</locus>
                      <title>Pentateuch and Hafṭarot</title>
                      <title>
-                        <foreign xml:lang="he">תורה והפטרות</foreign>
-                     </title>
+                        </title><title xml:lang="he">תורה והפטרות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

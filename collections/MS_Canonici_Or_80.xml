@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
                      <title>Sefer ha-Shorashim</title>
                      <title>
-                        <foreign xml:lang="he">ספר השרשים</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר השרשים</title>
+                     
                      <note>Incomplete.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

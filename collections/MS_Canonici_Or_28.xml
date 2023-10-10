@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem xml:id="MS_Canonici_Or_28-item1" n="1">
                      <locus>ff. 1r-179v</locus>
-                     <title>Hebrew Bible: Pentateuch <foreign xml:lang="he">תורה</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch </title><title xml:lang="he">תורה</title>
+                     
                      <note>Blank leaves in the place of Ex. 28:42 to 36:37. At the end of the MS a poem with the acrostic 'Aharon' (perhaps the copyist).</note>
                      <note>Unfinished: marginal text is often missing, only ruling. Initial words are not finished, sometimes only their outlines are drawn (fols. 48r, 84r), sometimes they have been erased (fols. 1v, 147v)</note>
                      <textLang mainLang="he">Hebrew</textLang>

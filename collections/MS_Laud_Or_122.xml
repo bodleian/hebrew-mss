@@ -88,30 +88,30 @@
                      <msItem xml:id="MS_Laud_Or_122-part1-item1" n="1">
                         <locus>ff. 1r-113v</locus>
                         <author ref="http://viaf.org/viaf/97282190" key="person_97282190">Ibn Shem Tov, Shem Tov ben Joseph ben Shem Tov, active 15th centuryשם טוב בן שם טוב</author>
-                        <title>Sefer ha-Emunot <foreign xml:lang="he">ספר האמונות</foreign>
-                        </title>
+                        <title>Sefer ha-Emunot </title><title xml:lang="he">ספר האמונות</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_122-part1-item2" n="2">
                         <locus>ff. 114r-114v</locus>
                         <author ref="http://viaf.org/viaf/44187421" key="person_44187421">Gerondi, Jacob ben Sheshet, active 13th centuryיעקב בן ששת גירונדי</author>
-                        <title>Meshiv devarim nekhoḥim <foreign xml:lang="he">משיב דברים נכוחים</foreign>
-                        </title>
+                        <title>Meshiv devarim nekhoḥim </title><title xml:lang="he">משיב דברים נכוחים</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_122-part1-item3" n="3">
                         <locus>ff. 114v-137r</locus>
                         <author ref="http://viaf.org/viaf/219072992" key="person_219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן, 1194-1270</author>
-                        <title>Liḳuṭe ḳabalah <foreign xml:lang="he">לקוטי קבלה</foreign>
-                        </title>
+                        <title>Liḳuṭe ḳabalah </title><title xml:lang="he">לקוטי קבלה</title>
+                        
                         <note>Fols. 114v-115r: Exctract on his commentary on 1 Genesis; fols. 115r-116v: On Creationm the rainbowm abd phylacteries; fol. 116v: On prayer according to Jacob ha-Nazir and Abraham ben David</note>
                         <note>Fols. 117v-124v are blank.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_122-part1-item4" n="4">
                         <locus>ff. 138r-140v</locus>
-                        <title>Perushim le-agadot ha-Talmud <foreign xml:lang="he">פרושים לאגדות התלמוד</foreign>
-                        </title>
+                        <title>Perushim le-agadot ha-Talmud </title><title xml:lang="he">פרושים לאגדות התלמוד</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
@@ -162,8 +162,8 @@
                      <msItem xml:id="MS_Laud_Or_122-part2-item1" n="1">
                         <locus>ff. 144r-183r</locus>
                         <author ref="http://viaf.org/viaf/89532689" key="person_5306159613660141030003">Shats, Hirtsטריביש, נפתלי הירץ</author>
-                        <title>Naftule Elohim niftalti <foreign xml:lang="he">נפתולי אלהים נפתלתי</foreign>
-                        </title>
+                        <title>Naftule Elohim niftalti </title><title xml:lang="he">נפתולי אלהים נפתלתי</title>
+                        
                         <note>Printed edition of 1556 Ferrara</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -185,22 +185,22 @@
                      <msItem xml:id="MS_Laud_Or_122-part3-item1" n="1">
                         <locus>ff. 184r-186r</locus>
                         <author ref="http://viaf.org/viaf/88057479" key="person_51777166">Gikatilla, Joseph ben Abraham, 1248-ג’קטילה, יוסף בן אברהם</author>
-                        <title>Sod bat Shevaʿ <foreign xml:lang="he">סוד בת שבע</foreign>
-                        </title>
+                        <title>Sod bat Shevaʿ </title><title xml:lang="he">סוד בת שבע</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_122-part3-item2" n="2">
                         <locus>ff. 186r-198r</locus>
                         <author ref="http://viaf.org/viaf/79260667" key="person_79260667">Moses ben Shem Tov, de Leon, 1250-1305ליאון, משה די</author>
-                        <title>Ḥibur ba-ḳabalah (extracts) <foreign xml:lang="he">חבור בקבלה (קטע)</foreign>
-                        </title>
+                        <title>Ḥibur ba-ḳabalah (extracts) </title><title xml:lang="he">חבור בקבלה (קטע)</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_122-part3-item3" n="3">
                         <locus>ff. 198v-206r</locus>
                         <author ref="http://viaf.org/viaf/79054878" key="person_79054878">Abulafia, Abraham ben Samuel, 1240-approximately 1292אבולעפיה, אברהם בן שמואל</author>
-                        <title>Ḥaye ha-ʿolam ha-ba (extracts) <foreign xml:lang="he">חיי העולם הבא (קטע)</foreign>
-                        </title>
+                        <title>Ḥaye ha-ʿolam ha-ba (extracts) </title><title xml:lang="he">חיי העולם הבא (קטע)</title>
+                        
                         <note>Fols. 206v-210v are blank.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>

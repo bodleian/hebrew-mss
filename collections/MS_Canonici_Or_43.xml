@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_43-item1" n="1">
                      <locus>ff. 1r-205v</locus>
                      <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה,980-1037</author>
-                     <title>Canon (Book I) <foreign xml:lang="he">קאנון (ספר א’)</foreign>
-                     </title>
+                     <title>Canon (Book I) </title><title xml:lang="he">קאנון (ספר א’)</title>
+                     
                      <note>Nathan's translation, with marginal notes, containing omissions, various readings and commentaries.</note>
                      <note>Written by Yosef <foreign xml:lang="he">מרצולי</foreign> bar Ḥayim on 28 Siṿan 5181.</note>
                      <note>The same scribe Yosef copied MS. Cambridge UL Add. 65611 in Barletta (South Italy) in 1455).</note>

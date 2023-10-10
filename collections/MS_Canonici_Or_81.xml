@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_81-item1" n="1">
                      <locus>ff. 1r-191r</locus>
                      <author ref="http://viaf.org/viaf/19684048" key="person_19684048">Rashi, 1040-1105שלמה בן יצחק (רש"י), 1040-1105</author>
-                     <title>Commentary on the Pentateuch <foreign xml:lang="he">פרוש התורה לרש"י</foreign>
-                     </title>
+                     <title>Commentary on the Pentateuch </title><title xml:lang="he">פרוש התורה לרש"י</title>
+                     
                      <colophon>Colophon on fol. <foreign xml:lang="he">"אני מאיר בכמ"ר שמואל מפרוינצא כתבתי בהר פישאה ... אל הנעלה ר’ דניאל יזי"י בכמ"ר שמואל הרופא דיין והשלמתיו יום ג’ י"ז אלול של שנת קנ"ו"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

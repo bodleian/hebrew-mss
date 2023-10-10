@@ -50,8 +50,8 @@
                      <locus>ff. 1r-186v</locus>
                      <author ref="http://viaf.org/viaf/37714446">Duran, Simeon ben Ẓemaḥ, 1361-1444 <persName key="person_37714446">דורן, שמעון בן צמח</persName>
                      </author>
-                     <title>Ohev Mishpaṭ: commentary on the Book of Job <foreign xml:lang="he">אוהב משפט : פרוש איוב</foreign>
-                     </title>
+                     <title>Ohev Mishpaṭ: commentary on the Book of Job </title><title xml:lang="he">אוהב משפט : פרוש איוב</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

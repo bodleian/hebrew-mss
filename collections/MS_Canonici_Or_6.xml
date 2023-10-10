@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_6-item1" n="1">
                      <locus>ff. 5r-196v</locus>
                      <author ref="http://viaf.org/viaf/71386455" key="person_71386455">Ariosto, Lodovico, 1474-1533אריוסטו, לודוביקו</author>
-                     <title>Orlando furioso <foreign xml:lang="he">אורלאנדו פורייוזו</foreign>
-                     </title>
+                     <title>Orlando furioso </title><title xml:lang="he">אורלאנדו פורייוזו</title>
+                     
                      <textLang mainLang="it">Italian written in Hebrew characters.</textLang>
                      <note>At end some poetical pieces in Spanish, and a Hebrew epitaph of the year <date calendar="#AM">5360</date> = <date calendar="#Gregorian">1600</date>
                      </note>

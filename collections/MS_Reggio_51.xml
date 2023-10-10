@@ -52,8 +52,8 @@
                      <author key="person_95159227">סעדיה בן יוסף, אלפיומי, (מיוחס לו) ‬</author>
                      <title>Sidur Rasag</title>
                      <title>
-                        <foreign xml:lang="he">סדור רס"ג</foreign>
-                     </title>
+                        </title><title xml:lang="he">סדור רס"ג</title>
+                     
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor. According to Ś. Assaf (1941), it is not by Saʿadia gaon.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -61,8 +61,8 @@
                      <locus>ff. 8r-19v</locus>
                      <title>Sefer Yetsirah</title>
                      <title>
-                        <foreign xml:lang="he">ספר יצירה</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר יצירה</title>
+                     
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor.</note>
                      <note>Sefer Yetsirah (ff. 9r-10r) followed by the commentary attributed to <persName ref="http://viaf.org/viaf/211875786" key="person_298760665">Abu-Sahl Dunash ben Tamim</persName> (ff. 11r-19v).</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -74,8 +74,8 @@
                      <author key="person_219072992">משה בן נחמן, 1194-1270</author>
                      <title>Derashot ha-Ramban (Sermons by Nahmanides)</title>
                      <title>
-                        <foreign xml:lang="he">דרשות הרמב"ן</foreign>
-                     </title>
+                        </title><title xml:lang="he">דרשות הרמב"ן</title>
+                     
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -85,8 +85,8 @@
                      <author key="person_100185495">משה בן מימון</author>
                      <title>Perush ha-Mishnah le-Rambam (Pereḳ ḥeleḳ)</title>
                      <title>
-                        <foreign xml:lang="he">פרוש המשנה לרמב"ם (פרק חלק)</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש המשנה לרמב"ם (פרק חלק)</title>
+                     
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -94,8 +94,8 @@
                      <locus>ff. 39r-41r</locus>
                      <title>ʿOlam ḳaṭan</title>
                      <title>
-                        <foreign xml:lang="he">עולם קטן</foreign>
-                     </title>
+                        </title><title xml:lang="he">עולם קטן</title>
+                     
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor.</note>
                      <incipit>
                         <foreign xml:lang="he">"האדם עולם קטן כיצד כל מה שברא הקב"ה בעולמו ברא באדם, רקיע כנגד ראשו של אדם"</foreign>
@@ -108,7 +108,7 @@
                      <author key="person_293459163">נרבוני, משה בן יהושע</author>
                      <title>Igeret ʿal shiʿur ḳomah</title>
                      <title>
-                        <foreign xml:lang="he"/> אגרת על שעור קומה</title>
+                        </title><title xml:lang="he"/> אגרת על שעור קומה
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_51-item7" n="7">
@@ -116,8 +116,8 @@
                      <author/>
                      <title>Seder tanaʾim</title>
                      <title>
-                        <foreign xml:lang="he">סדר התנאים</foreign>
-                     </title>
+                        </title><title xml:lang="he">סדר התנאים</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

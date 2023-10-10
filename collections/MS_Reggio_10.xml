@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/15568196" key="person_15568196">Jagel, Abraham ben Hananiah dei Galicchi, active 16th century-17th centuryיגל, אברהם בן חנניה, 1553-1622</author>
                      <title>Bet yaʻar ha-Levanon IV</title>
                      <title>
-                        <foreign xml:lang="he">בית יער הלבנון (ד)</foreign>
-                     </title>
+                        </title><title xml:lang="he">בית יער הלבנון (ד)</title>
+                     
                      <note>Table of content on fol.iv recto. Colophon of the author on fol. 260r dated <date calendar="#AM-abbreviated">377</date> (<date calendar="#Gregorian">1617</date>)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

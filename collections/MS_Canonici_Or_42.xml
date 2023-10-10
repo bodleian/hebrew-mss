@@ -48,8 +48,8 @@
                   <summary>Pentateuch with Hafṭarot and Five Scrolls.</summary>
                   <msItem xml:id="MS_Canonici_Or_42-item1" n="1">
                      <locus>ff. 1r-427v</locus>
-                     <title>Hebrew Bible: Pentateuch with Hafṭarot and Five Scrolls <foreign xml:lang="he">תורה, הפטרות ומגלות</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch with Hafṭarot and Five Scrolls </title><title xml:lang="he">תורה, הפטרות ומגלות</title>
+                     
                      <note>Patron's name is partially erased in colophon, and added by later hand 'Mosheh'</note>
                      <colophon>Colophon on fol. 427v: <foreign xml:lang="he">"אני שמואל בר’ אברהם אלטירס נ"ע כתבתי ונקדתי זה החומש וההפטרות וחמש מגלות והמסורת ... ליקר ... ר’ יצחק בן ... [גבאי] וסיימתי אותו ביום ראשון י"ד ימים לחדש תשרי שנת הר"ל ואחד לבריאת עולם במוארה"</foreign>
                      </colophon>

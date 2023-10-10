@@ -50,8 +50,8 @@
                      <locus>ff. 1r-63r</locus>
                      <title>Hafṭarot for the entire year</title>
                      <title>
-                        <foreign xml:lang="he">הפטרות לכל השנה</foreign>
-                     </title>
+                        </title><title xml:lang="he">הפטרות לכל השנה</title>
+                     
                      <note>The scribe stated in the colophon that the volume contained the Pentateuch and Hafṭarot , but the line <foreign xml:lang="he">חמשה חומשי תורה</foreign> has been erased. In fact, the codex starts with a fragment of a quire, which verifies the conclusion that the original codex has been divided into two books: a Pentateuch and the present Hafṭarot .</note>
                      <colophon>Colophon on fol. 63v: <foreign xml:lang="he">"אני משה בן כבוד הישיש רʹ יצחק ס"ט אמאריליה הסופר בתורת אלהים בן כבוד הישיש משה נ"ע כתבתי ונקדתי ומסרתי והגהתי זה הספר שישבו [חמשה חומשי תורה] הפטרות ליקר המעולה דון דוד הכהן ס"ט בן הישיש היקר המעולה החסיד ר’ יוסף הכהן נ"ע וסיימתיו בכאן בואדאלחגרה יום רביעי ... שנת ה’ א’ו’ר’ ל’י’ לפרט האלף הששי"</foreign>
                      </colophon>

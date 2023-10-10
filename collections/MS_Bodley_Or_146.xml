@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Bodley_Or_146-item1" n="1">
                      <locus>ff. 1r-68v</locus>
                      <author key="person_297957890">Parnas, Moshehמשה, פרנס, מרוטנבורג</author>
-                     <title>Sefer ha-Parnas <foreign xml:lang="he">ספר הפרנס</foreign>
-                     </title>
+                     <title>Sefer ha-Parnas </title><title xml:lang="he">ספר הפרנס</title>
+                     
                      <note>212 ritual decisions by Meir of Rothenburg collected by one of his pupils.</note>
                      <note>According to colophon, it was written for Mosheh ben <foreign xml:lang="he">יסעדיה</foreign> ha-Kohen.</note>
                      <colophon>Colophon of the scribe Shlomoh ben Eliyah, dated 5 Elul [5]102 (=1342 CE): <foreign xml:lang="he">"חזק ונתחזק הסופר לא יזק לא היום ולא לעולם עד שיעלה חמר בסלם סיימתי זה הספר לר’ משה בר’ יסעדיה הכהן משנת מאה ושתים לפר’ ביום ה’ בירח אלול חמשה ימים ... אני הסופר שלמה בר’ אליה זצ"ל"</foreign> (fol. 75v)</colophon>
@@ -58,8 +58,8 @@
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_146-item2" n="2">
                      <locus>ff. 69r-70r</locus>
-                     <title>Abstracts from the Sefer Ḥasidim <foreign xml:lang="he">לקוטים מספר חסידים</foreign>
-                     </title>
+                     <title>Abstracts from the Sefer Ḥasidim </title><title xml:lang="he">לקוטים מספר חסידים</title>
+                     
                      <note>The text is identical to MS. Opp. 614 both in content and appearance.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -49,16 +49,16 @@
                   <msItem xml:id="MS_Canonici_Or_5-item1" n="1">
                      <locus>ff. 1r-75v</locus>
                      <author key="person_659">Segal, Yaʿaḳov ben Ḳalonymosסגל, יעקב בן קלונימוס</author>
-                     <title>Naḥalat Yaʿaḳov <foreign xml:lang="he">נחלת יעקב</foreign>
-                     </title>
+                     <title>Naḥalat Yaʿaḳov </title><title xml:lang="he">נחלת יעקב</title>
+                     
                      <note>Kabbalistical miscellanea</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item2" n="2">
                      <locus>ff. 76r-91v</locus>
                      <author key="person_659">Segal, Yaʿaḳov ben Ḳalonymosסגל, יעקב בן קלונימוס</author>
-                     <title>Magen le-holkhe Tom ṿe-yosher <foreign xml:lang="he">מגן להולכי תום ויושר</foreign>
-                     </title>
+                     <title>Magen le-holkhe Tom ṿe-yosher </title><title xml:lang="he">מגן להולכי תום ויושר</title>
+                     
                      <note>A chapter on the defence of the truth of the Zohar</note>
                      <colophon>
                         <foreign xml:lang="he">"אני הצעיר...שלמה בן לא"א אברהם בן נון...העתקתי זה הספר לתשוקת אברהם בן...רפאל ן’ יקר נר"ו פה ויניציאה ביום ז"ך לחדש אדר ראשון שנת ה’י’ש’ו’ע’ה’ [=שצ"ו] לפ"ק"</foreign> (fol. 91v)</colophon>
@@ -67,16 +67,16 @@
                   <msItem xml:id="MS_Canonici_Or_5-item3" n="3">
                      <locus>ff. 92r-269r</locus>
                      <author ref="http://viaf.org/viaf/12317536" key="person_12317536">Cordovero, Moses ben Jacob, 1522-1570קורדוברו, משה</author>
-                     <title>ʾOr yaḳar <foreign xml:lang="he">אור יקר (פרוש סבא דמשפטים)</foreign>
-                     </title>
+                     <title>ʾOr yaḳar </title><title xml:lang="he">אור יקר (פרוש סבא דמשפטים)</title>
+                     
                      <note>Commentary on passages of the Zohar.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item4" n="4">
                      <locus>ff. 270r-273v</locus>
                      <author ref="http://viaf.org/viaf/12317536" key="person_12317536">Cordovero, Moses ben Jacob, 1522-1570קורדוברו, משה</author>
-                     <title>Shemonah be-inyan ha-gilgul <foreign xml:lang="he">שמועה בענין הגלגול</foreign>
-                     </title>
+                     <title>Shemonah be-inyan ha-gilgul </title><title xml:lang="he">שמועה בענין הגלגול</title>
+                     
                      <colophon>
                         <foreign xml:lang="he">"אני הצעיר שלמה...בן לא"א אברהם בן נון...העתקתי זה הספר לתשוקת...אברהם בן...רפאל ן’ יקר נר"ו, פה ויניצייה היום יום א’ ג’ תמוז שנת לה’ ה’י’ש’ו’ע’ה’" [=שצ"ו]</foreign> (fol. 273v)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -84,8 +84,8 @@
                   <msItem xml:id="MS_Canonici_Or_5-item5" n="5">
                      <locus>ff. 283r-311r</locus>
                      <author ref="http://viaf.org/viaf/51941634" key="person_51941634">Najara, Israel ben Moses, 1555?-1625?נג'רה, ישראל בן משה</author>
-                     <title>Kanfe Yonah (ḥeleḳ 1, 1-40) <foreign xml:lang="he">כנפי יונה (חלק א, א-מ)</foreign>
-                     </title>
+                     <title>Kanfe Yonah (ḥeleḳ 1, 1-40) </title><title xml:lang="he">כנפי יונה (חלק א, א-מ)</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

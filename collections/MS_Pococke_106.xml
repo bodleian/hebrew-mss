@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Pococke_106-item1" n="1">
                      <locus>ff. 1r-134r</locus>
                      <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Mishneh Torah (Sefer Shofṭim) <foreign xml:lang="he">משנה תורה בערבית (ספר שופטים)</foreign>
-                     </title>
+                     <title>Mishneh Torah (Sefer Shofṭim) </title><title xml:lang="he">משנה תורה בערבית (ספר שופטים)</title>
+                     
                      <note>Volume 2 of a 2-volume set, for volume 1 see <ref target="MS_Poc_98">MS. Poc. 98</ref>. Colophon at the end of volume one.</note>
                      <note>End is incomplete.</note>
                      <textLang mainLang="ar">Arabic</textLang>

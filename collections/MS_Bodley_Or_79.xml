@@ -48,8 +48,8 @@
                   <summary>Hebrew-Arabic dictionary to the Bible and the Mishnah</summary>
                   <msItem xml:id="MS_Bodley_Or_79-item1" n="1">
                      <locus>ff. 1r-54v</locus>
-                     <title>Hebrew-Arabic dictionary to the Bible and the Mishnah <foreign xml:lang="he">מלון עברי-ערבי למקרא ולמשנה</foreign>
-                     </title>
+                     <title>Hebrew-Arabic dictionary to the Bible and the Mishnah </title><title xml:lang="he">מלון עברי-ערבי למקרא ולמשנה</title>
+                     
                      <note>Incomplete.</note>
                      <textLang mainLang="he">Hebrew and Arabic</textLang>
                   </msItem>

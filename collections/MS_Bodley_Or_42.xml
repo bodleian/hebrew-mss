@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Bodley_Or_42-item1" n="1">
                      <locus>ff. 1r-36r</locus>
                      <author ref="http://viaf.org/viaf/31996761" key="person_31996761">Ghazzālī, 1058-1111אלע’זאלי, מחמד בן מחמד</author>
-                     <title>Ḳaṿanot ha-Filozofim (Intentions of the Philosophers) (part I) <foreign xml:lang="he">כונות הפילוסופים (חלק א)</foreign>
-                     </title>
+                     <title>Ḳaṿanot ha-Filozofim (Intentions of the Philosophers) (part I) </title><title xml:lang="he">כונות הפילוסופים (חלק א)</title>
+                     
                      <note>Hebrew translation of Maqâsid al-falâsifa</note>
                      <note>Beginning is incomplete.</note>
                      <note>With <persName ref="http://viaf.org/viaf/97252872" key="person_293459163">Moses of Narbonne</persName>'s commentary.</note>

@@ -51,8 +51,8 @@
                   <summary>Sidur according to the Ashkenazi rite (Würzburg Siddur)</summary>
                   <msItem xml:id="MS_Canonici_Or_1-item1" n="1">
                      <locus>ff. 1v-133v</locus>
-                     <title>Sidur minhag Ashkenaz ha-maʿaravi le-kol ha-shanah (Würzburg Siddur) <foreign xml:lang="he">סדור מנהג אשכנז המערבי לכל השנה</foreign>
-                     </title>
+                     <title>Sidur minhag Ashkenaz ha-maʿaravi le-kol ha-shanah (Würzburg Siddur) </title><title xml:lang="he">סדור מנהג אשכנז המערבי לכל השנה</title>
+                     
                      <note>Commentaries in the margins</note>
                      <note>The name <persName key="person_458">Aaron</persName> is pointed out on fol. 41r, the word naḳdan is added in the margin probably by the vocalizer with a very thin quill.</note>
                      <note>On fols. 91v-92v the scribe copied (with many errors due to misreading) a calendar starting with the year [50]64, being the sixth year of the cycle 264 (should be the tenth year of cycle 267) and concluding with the last year of the cycle.</note>

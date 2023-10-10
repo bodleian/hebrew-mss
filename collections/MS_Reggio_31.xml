@@ -50,8 +50,8 @@
                      <author ref="http://viaf.org/viaf/73875381" key="person_73875381">Luzzatto, Moshe Ḥayyim, 1707-1747לוצאטו, משה חיים, 1707-1747</author>
                      <title>Tiḳunim ḥadashim</title>
                      <title>
-                        <foreign xml:lang="he">תקונים חדשים</foreign>
-                     </title>
+                        </title><title xml:lang="he">תקונים חדשים</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_31-item2" n="2">

@@ -50,8 +50,8 @@
                      <locus>ff. 1r-152r</locus>
                      <title>Tefilah sidurim ṿe-maḥzorim according to the Western Ashkenazi rite</title>
                      <title>
-                        <foreign xml:lang="he">תפלה סדורים ומחזורים מנהג אשכנז המערבי</foreign>
-                     </title>
+                        </title><title xml:lang="he">תפלה סדורים ומחזורים מנהג אשכנז המערבי</title>
+                     
                      <colophon>Colophon on fol. CHECK: <foreign xml:lang="he">"נשלם התפילה מכל השנה...וכתבתיה לגבירתי...מר’ ציפרלן אשת גברי הקצין כמר’ שלמה בכמהר"ר אורי כץ י"ץ...הסופר שמעון וסיימתיה פה רוברי דטרינט שי"ן יו"ד לפ"ק"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

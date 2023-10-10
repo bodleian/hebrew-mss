@@ -48,40 +48,40 @@
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Canonici_Or_109-item1" n="1">
                      <locus>ff. 2r-102v</locus>
-                     <title>Book of Psalms <foreign xml:lang="he">תהלים</foreign>
-                     </title>
+                     <title>Book of Psalms </title><title xml:lang="he">תהלים</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_109-item2" n="2">
                      <locus>ff. 103r-123r</locus>
                      <author key="person_100186412">Ibn Gabirol, active 11th century <foreign xml:lang="he">גבירול, שלמה בן יהודה אבן</foreign>
                      </author>
-                     <title>Keter Malkhut <foreign xml:lang="he">כתר מלכות</foreign>
-                     </title>
+                     <title>Keter Malkhut </title><title xml:lang="he">כתר מלכות</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_109-item3" n="3">
                      <locus>ff. 123v-163r</locus>
                      <author key="person_120777116">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 <foreign xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</foreign>
                      </author>
-                     <title>Beḥinat ʿolam (The Examination of the World) <foreign xml:lang="he">בחינת עולם</foreign>
-                     </title>
+                     <title>Beḥinat ʿolam (The Examination of the World) </title><title xml:lang="he">בחינת עולם</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_109-item4" n="4">
                      <locus>ff. 163v-173v</locus>
                      <author key="person_23309685">Ezobi, Jehoseph ben Hanan ben Nathan, active 13th century <foreign xml:lang="he">אזובי, יוסם בן חנן</foreign>
                      </author>
-                     <title>Ḳeʿarat ha-kesef <foreign xml:lang="he">קערת הכסף</foreign>
-                     </title>
+                     <title>Ḳeʿarat ha-kesef </title><title xml:lang="he">קערת הכסף</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_109-item5" n="5">
                      <locus>ff. 174r-185v</locus>
                      <author key="person_24669073">Rieti, Moses ben Isaac da, 1388-1460? <foreign xml:lang="he">ריאיטי, משה</foreign>
                      </author>
-                     <title>Miḳdash meʿaṭ (Meʻon ha-shoʼalim) <foreign xml:lang="he">מקדש מעט (מעון השואלים)</foreign>
-                     </title>
+                     <title>Miḳdash meʿaṭ (Meʻon ha-shoʼalim) </title><title xml:lang="he">מקדש מעט (מעון השואלים)</title>
+                     
                   </msItem>
                </msContents>
                <physDesc>

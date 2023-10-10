@@ -50,8 +50,8 @@
                      <locus>ff. 3v-239v</locus>
                      <title>Hebrew Bible: Pentateuch, Hafṭarot , Five Scrolls and Megilat Antiochus ('Abravanel Pentateuch')</title>
                      <title>
-                        <foreign xml:lang="he">תורה, הפטרות ומגלות</foreign>
-                     </title>
+                        </title><title xml:lang="he">תורה, הפטרות ומגלות</title>
+                     
                      <colophon>Colophon of the scribe <persName key="person_7021">Mosheh ben Yaʿaḳov Kalef</persName> is on fol. 239v: <foreign xml:lang="he">"אני משה הסופר בר’ יעקב ס"ט בן ... משה כאלף ... כתבתי ... וסיימתיהו ... אלול שנת חמשת אלפים ומאתים וארבעים"</foreign>. The date Tuesday 20 Elul 5240 given in the colophon is erroneous since 20 Elul never falls on Tuesday. Colophon of the scribe of the masorah in the micrographic pattern framing the colophon of the main scribe: <foreign xml:lang="he">"אני שמואל הסופר בן ... יהושע פרונתירנו[?] מסר אלו חמשת חומשי תורה והפטרות וחמש מגילות"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

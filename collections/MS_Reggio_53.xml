@@ -50,8 +50,8 @@
                      <locus>ff. 1r-82r</locus>
                      <title>Alfe Mishnah</title>
                      <title>
-                        <foreign xml:lang="he">אלפי משנה</foreign>
-                     </title>
+                        </title><title xml:lang="he">אלפי משנה</title>
+                     
                      <note>An alphabetical list of proverb occuring in the Talmud, the Midrash Rabah and Tanhuma, and the Zohar. With the commentary of R. <persName key="person_434">Abraham Marpurgo</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>

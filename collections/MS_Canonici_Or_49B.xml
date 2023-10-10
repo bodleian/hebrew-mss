@@ -48,8 +48,8 @@
                   <summary>Maḥzor for the entire year, Italian rite</summary>
                   <msItem xml:id="MS_Canonici_Or_49B-item1" n="1">
                      <locus>ff. 2v-221(1)r</locus>
-                     <title>Festival prayer book for the entire year according to the Italian rite <foreign xml:lang="he">‫ מחזור מנהג רומה לכל השנה</foreign>
-                     </title>
+                     <title>Festival prayer book for the entire year according to the Italian rite </title><title xml:lang="he">‫ מחזור מנהג רומה לכל השנה</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

@@ -48,8 +48,8 @@
                   <summary>Maḥzor for the Days of Awe and Sukkot, Western Ashkenazi rite</summary>
                   <msItem xml:id="MS_Canonici_Or_3-item1" n="1">
                      <locus>ff. 1r-147v</locus>
-                     <title>Maḥzor for the Days of Awe and Sukkot according to the Western Ashkenazi rite <foreign xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים ולסוכות</foreign>
-                     </title>
+                     <title>Maḥzor for the Days of Awe and Sukkot according to the Western Ashkenazi rite </title><title xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים ולסוכות</title>
+                     
                      <note>Western Ashkenazi rite, used by D. Goldschmidt in his edition of the High Holiday and Sukkor services (Jerusalem 1970-1981).</note>
                      <note>Marginal notes containing grammatical observations and minhagim in Yiddish (Judeo-German)</note>
                      <note>Marginal notes refer to the east European rite.</note>

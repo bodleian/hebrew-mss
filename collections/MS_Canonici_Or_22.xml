@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem xml:id="MS_Canonici_Or_22-item1" n="1">
                      <locus>ff. 11r-125r</locus>
-                     <title>Hebrew Bible: Pentateuch <foreign xml:lang="he">תורה</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch </title><title xml:lang="he">תורה</title>
+                     
                      <note>Written by <persName key="person_7025">Rafaʾel Tsarfati ha-Naḳdan ben Levi</persName>, and finished on Monday 5 Adar 5228 (=1468) for <persName key="person_7009">Daṿid ben Yoʾab</persName>. The copyist was paid by R. Yehosuha manhig ḥanut ba-Ḳasṭilo.</note>
                      <note>Fols. 1-10 and 126-130 are blank.</note>
                      <colophon>Colophon of the naḳdan ('punctuator' or 'vocaliser'), <persName key="person_7025">Rafaʾel Tsarfati</persName> on fol. 125r: <foreign xml:lang="he">לסיים מלאכת הנקוד ביום חמשי לירח אדר שני שנת חמשת אלפים ובר"ך את עמך ... רפאל צרפתי הנקדן ב"כ מהר"ר לוי ... ‬ ‫ והיה שכרי חמשה פרחי’ רחבים קבלתים מכמ"ר דוד יזי"י בכ"ר יואב בעל הספר הזה, היינו קבלתים ממנו על יד כמ"ר יהושע מנהיג חנות בקסטיילו</foreign>.</colophon>

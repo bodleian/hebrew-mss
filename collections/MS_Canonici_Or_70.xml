@@ -48,8 +48,8 @@
                   <summary>Sidur, Western Ashkenazi rite</summary>
                   <msItem xml:id="MS_Canonici_Or_70-item1" n="1">
                      <locus>ff. 1r-152r</locus>
-                     <title>Sidur according to the Western Ashkenazi rite <foreign xml:lang="he">סדור מנהג אשכנז המערבי</foreign>
-                     </title>
+                     <title>Sidur according to the Western Ashkenazi rite </title><title xml:lang="he">סדור מנהג אשכנז המערבי</title>
+                     
                      <colophon>Scribal formula with the name of the scribe: <foreign xml:lang="he">חזק ונתחזק מתתיה ברבי יעקב הסופר</foreign> (fol. 104v)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -48,8 +48,8 @@
                   <summary>Tefilah sidurim ṿe-maḥzorim according to the Sephardi rite</summary>
                   <msItem xml:id="MS_Bodley_Or_9-item1" n="1">
                      <locus>ff. 1r-154v</locus>
-                     <title>Tefilah sidurim ṿe-maḥzorim according to the Sephardi rite <foreign xml:lang="he">תפלה סדורים ומחזורים מנהג ספרד</foreign>
-                     </title>
+                     <title>Tefilah sidurim ṿe-maḥzorim according to the Sephardi rite </title><title xml:lang="he">תפלה סדורים ומחזורים מנהג ספרד</title>
+                     
                      <textLang mainLang="he">Hebrew with interlinear Catalan translation</textLang>
                   </msItem>
                </msContents>

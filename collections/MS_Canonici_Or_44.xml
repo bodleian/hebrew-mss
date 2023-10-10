@@ -48,8 +48,8 @@
                   <summary>Sidur for the entire year, Western Ashkenazi rite</summary>
                   <msItem xml:id="MS_Canonici_Or_44-item1" n="1">
                      <locus>ff. 2r-109v</locus>
-                     <title>Sidur for the entire year according to the Western Ashkenazi rite <foreign xml:lang="he">סדור מנהג אשכנז המערבי לכל השנה</foreign>
-                     </title>
+                     <title>Sidur for the entire year according to the Western Ashkenazi rite </title><title xml:lang="he">סדור מנהג אשכנז המערבי לכל השנה</title>
+                     
                      <note>Daily prayer book beginning with Chapter III of Pirḳe Avot.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

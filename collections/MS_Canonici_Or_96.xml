@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/226497544" key="person_226497544">Bernard, de Gordon, approximately 1260-approximately 1318ברנרד דה גורדון</author>
                      <title>Shoshan ha-Refuʾah (Lilium medicinae)</title>
                      <title>
-                        <foreign xml:lang="he">שושן הרפואה (ד-ז)</foreign>
-                     </title>
+                        </title><title xml:lang="he">שושן הרפואה (ד-ז)</title>
+                     
                      <note>Hebrew translation by <persName key="person_7030">Yekutiel ben Solomon of Narbonne</persName>
                      </note>
                      <note>Incomplete at the beginning.</note>

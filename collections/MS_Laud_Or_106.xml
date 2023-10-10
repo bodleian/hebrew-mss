@@ -50,8 +50,8 @@
                      <locus>ff. 1r-93v</locus>
                      <author ref="http://lccn.loc.gov/n80001062" key="person_100186412">Ibn Gabirol, active 11th century</author>
                      <author key="person_100186412">אבן גבירול, שלמה</author>
-                     <title>Azharot le-Shavuʿot <foreign xml:lang="he">אזהרות לשבועות</foreign>
-                     </title>
+                     <title>Azharot le-Shavuʿot </title><title xml:lang="he">אזהרות לשבועות</title>
+                     
                      <colophon>" <foreign xml:lang="he">ונשלם פי’ המצות ביום ששי כ’ יום לחדש סיון במתא מכנאסה שנת הרס"ט ליצירה</foreign> " (<locus>fol. 93v</locus>)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -59,8 +59,8 @@
                      <locus>ff. 94r-142r</locus>
                      <author ref="http://lccn.loc.gov/no97004332" key="person_46361922">ProbablyAsher ben Shelomyah</author>
                      <author key="person_46361922">אשר בן שלמיה, מלוניל</author>
-                     <title>The Abbreviated Duties of the Heart <foreign xml:lang="he">קצור ספר חובות הלבבות</foreign>
-                     </title>
+                     <title>The Abbreviated Duties of the Heart </title><title xml:lang="he">קצור ספר חובות הלבבות</title>
+                     
                      <colophon>
                         <foreign xml:lang="he">"ונשלם זה הספר על ידי יוסף ביבי בן ... ר’ שמואל ביבי ... והיתה השלמתו ביום שלישי י"ד יום לחדש אב שנת הרס"ט לפרט היצירה במתא במנאסה"</foreign> (<locus>fol. 142r</locus>)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -72,8 +72,8 @@
                      <locus>ff. 143r-159r</locus>
                      <author ref="http://lccn.loc.gov/n88622071" key="person_25683756">Jonah ben Abraham Gerondi, approximately 1200-1263</author>
                      <author key="person_25683756">גירונדי, יונה בן אברהם</author>
-                     <title>Sefer ha-yirʼah <foreign xml:lang="he">ספר היראה</foreign>
-                     </title>
+                     <title>Sefer ha-yirʼah </title><title xml:lang="he">ספר היראה</title>
+                     
                      <colophon>
                         <foreign xml:lang="he">"ונשלם במתא מכנאסה ביום שלישי כ"א יום לחדש אב שנת הרס"ט לפרט היצירה"</foreign> (<locus>fol. 159r</locus>)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -82,8 +82,8 @@
                      <locus>ff. 160-165v</locus>
                      <author ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle(attributed to)</author>
                      <author key="person_7524651">אריסטו</author>
-                     <title>Sefer ha-Patuaḥ <foreign xml:lang="he">ספר התפוח</foreign>
-                     </title>
+                     <title>Sefer ha-Patuaḥ </title><title xml:lang="he">ספר התפוח</title>
+                     
                      <colophon>" <foreign xml:lang="he">ונשלם ביום רביעי טו ימים לחדש אב במתא בכנאסה שנת הרס"ט ליצירה</foreign> " (<locus>fol. 165v</locus>)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -50,8 +50,8 @@
                      <locus>ff. 1r-189r</locus>
                      <title>Midrash Tanḥuma</title>
                      <title>
-                        <foreign xml:lang="he">מדרש תנחומא</foreign>
-                     </title>
+                        </title><title xml:lang="he">מדרש תנחומא</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

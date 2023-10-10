@@ -49,34 +49,34 @@
                   <msItem xml:id="MS_Canonici_Or_48-item1" n="1">
                      <locus>ff. 1r-40r</locus>
                      <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד</author>
-                     <title>Averroës' intermediate commentary on Aristotle's De Anima <foreign xml:lang="he">באור אמצעי על ספר הנפש של אריסטו</foreign>
-                     </title>
+                     <title>Averroës' intermediate commentary on Aristotle's De Anima </title><title xml:lang="he">באור אמצעי על ספר הנפש של אריסטו</title>
+                     
                      <note>Translated by Mosheh ibn Tibbon</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_48-item2" n="2">
                      <locus>ff. 41r-60r</locus>
                      <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד</author>
-                     <title>Paraphrase on Aristotle's De Coelo et Mundo <foreign xml:lang="he">כללי ספר השמים והעולם של אריסטו</foreign>
-                     </title>
+                     <title>Paraphrase on Aristotle's De Coelo et Mundo </title><title xml:lang="he">כללי ספר השמים והעולם של אריסטו</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_48-item3" n="3">
                      <locus>ff. 61r-69r</locus>
                      <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד</author>
-                     <title>Paraphrase on Aristotle's De Generatione et Corruptione <foreign xml:lang="he"/> כללי ספר ההויה וההפסד של אריסטו</title>
+                     <title>Paraphrase on Aristotle's De Generatione et Corruptione </title><title xml:lang="he"/> כללי ספר ההויה וההפסד של אריסטו
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_48-item4" n="4">
                      <locus>ff. 70r-87v</locus>
                      <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד</author>
-                     <title>Paraphrase on Aristotle's De Sensu et Sensibili <foreign xml:lang="he"/> קצור ספר החוש והמוחש של אריסטו</title>
+                     <title>Paraphrase on Aristotle's De Sensu et Sensibili </title><title xml:lang="he"/> קצור ספר החוש והמוחש של אריסטו
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_48-item5" n="5">
                      <locus>ff. 92r-119r</locus>
                      <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד</author>
-                     <title>Paraphrase on Aristotle's Meteorologica <foreign xml:lang="he"/> כללי ספר אותות עליונות של אריסטו</title>
+                     <title>Paraphrase on Aristotle's Meteorologica </title><title xml:lang="he"/> כללי ספר אותות עליונות של אריסטו
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

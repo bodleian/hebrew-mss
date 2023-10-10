@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Pococke_307-item1" n="1">
                      <locus>ff. 1r-342v</locus>
                      <author ref="http://lccn.loc.gov/n83043340" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Mishneh Torah (Books I-V) <foreign xml:lang="he">משנה תורה (ספר מדע-קדושה)</foreign>
-                     </title>
+                     <title>Mishneh Torah (Books I-V) </title><title xml:lang="he">משנה תורה (ספר מדע-קדושה)</title>
+                     
                      <note>Marginal notes.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

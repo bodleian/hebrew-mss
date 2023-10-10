@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Pococke_262-item1" n="1">
                      <locus>ff. 1r-270r</locus>
                      <author key="person_3146462673027772241">Shelomoh ben Natan, av bet din min ha-ʻir Sig'ilmasah, active 12th centuryשלמה בן נתן‏</author>
-                     <title>Sidur of R. Shlomoh Sig'ilmasah <foreign xml:lang="he">סדור ר’ שלמה סג’למסה</foreign>
-                     </title>
+                     <title>Sidur of R. Shlomoh Sig'ilmasah </title><title xml:lang="he">סדור ר’ שלמה סג’למסה</title>
+                     
                      <note>Minhagim in Arabic, containing 30 chapters.</note>
                      <colophon>Colophon on fol. XXX 223v?? by Saadiah bar Yehudah bar Evyatar at Kaleah Barka for his son, Amraan; dated 1514 SE (1203 CE)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>

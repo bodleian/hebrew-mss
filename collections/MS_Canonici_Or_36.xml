@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem xml:id="MS_Canonici_Or_36-item1" n="1">
                      <locus>ff. 1r-85r</locus>
-                     <title>Hebrew Bible: Pentateuch <foreign xml:lang="he">תורה</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch </title><title xml:lang="he">תורה</title>
+                     
                      <note>With a few Masoretic notes.</note>
                      <note>Numerous notes and scribbles on fol. 230v.</note>
                      <textLang mainLang="he">Hebrew</textLang>

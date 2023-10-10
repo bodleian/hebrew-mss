@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_14-item1" n="1">
                      <locus>ff. 1r-206r</locus>
                      <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Perush ha-Mishnah le-Rambam (Ḳodashim) <foreign xml:lang="he">פרוש המשנה לרמב"ם (קדשים)</foreign>
-                     </title>
+                     <title>Perush ha-Mishnah le-Rambam (Ḳodashim) </title><title xml:lang="he">פרוש המשנה לרמב"ם (קדשים)</title>
+                     
                      <note>Translated from Arabic to Hebrew by <persName key="person_27152199294714282865">Nathanel Almali</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -58,8 +58,8 @@
                   <msItem xml:id="MS_Canonici_Or_14-item2" n="2">
                      <locus>ff. 213r-249r</locus>
                      <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Perush ha-Mishnah le-Rambam (Berakhot) <foreign xml:lang="he">פרוש המשנה לרמב"ם (ברכות)</foreign>
-                     </title>
+                     <title>Perush ha-Mishnah le-Rambam (Berakhot) </title><title xml:lang="he">פרוש המשנה לרמב"ם (ברכות)</title>
+                     
                      <note>Translated from Arabic to Hebrew by <persName key="person_154">el-Harizi</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -67,15 +67,15 @@
                   <msItem xml:id="MS_Canonici_Or_14-item3" n="3">
                      <locus>ff. 250r-282r</locus>
                      <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Perush ha-Mishnah le-Rambam (Nidah) <foreign xml:lang="he">פרוש המשנה לרמב"ם (נדה)</foreign>
-                     </title>
+                     <title>Perush ha-Mishnah le-Rambam (Nidah) </title><title xml:lang="he">פרוש המשנה לרמב"ם (נדה)</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_14-item4" n="4">
                      <locus>ff. 285-313</locus>
                      <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Perush ha-Mishnah le-Rambam (Avot) <foreign xml:lang="he">פרוש המשנה לרמב"ם (אבות)</foreign>
-                     </title>
+                     <title>Perush ha-Mishnah le-Rambam (Avot) </title><title xml:lang="he">פרוש המשנה לרמב"ם (אבות)</title>
+                     
                      <note>Translated from Arabic to Hebrew by <persName key="person_97166726">Shmuel ibn Tibbon</persName>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>

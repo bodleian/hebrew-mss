@@ -48,16 +48,16 @@
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Bodley_Or_18-item1" n="1">
                      <locus>ff. 1r-130v</locus>
-                     <title>Book of Psalms <foreign xml:lang="he">תהלים</foreign>
-                     </title>
+                     <title>Book of Psalms </title><title xml:lang="he">תהלים</title>
+                     
                      <note>Divided into 169 sections. Lated hand added latin incipits and chapter numbers.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_18-item2" n="2">
                      <locus>ff. 131r-162r</locus>
                      <author ref="http://viaf.org/viaf/100224138"/>
-                     <title>Shir ha-Yiḥud and Shir ha-kavod <foreign xml:lang="he">שיר היחוד ושיר הכבוד</foreign>
-                     </title>
+                     <title>Shir ha-Yiḥud and Shir ha-kavod </title><title xml:lang="he">שיר היחוד ושיר הכבוד</title>
+                     
                      <note>Attirbuted in the MS to Rabbi Yehudah he-Ḥasid (fol. 162v)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

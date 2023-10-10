@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_67-item1" n="1">
                      <locus>ff. 1r-233r</locus>
                      <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
-                     <title>Sefer ha-Shorashim <foreign xml:lang="he">ספר השורשים</foreign>
-                     </title>
+                     <title>Sefer ha-Shorashim </title><title xml:lang="he">ספר השורשים</title>
+                     
                      <note>On the margins at the beginning and on some leaves in the middle of the MS there are omissions and biblical referenes by an Italian hand. Glosses written in an Italian mid-late 15th-century hand.</note>
                      <note>The document on fol. 234v dated 1417 (in Portuguese) might be by the scribe's grandson.</note>
                      <colophon>Colophon on fol. 231r: <foreign xml:lang="he">יצחק בן יוסף זרקו כתב בלישבואה שנת ל"ח</foreign>. The script seems to be of a later period. Perhaps the hundreds were omitted in the colophon and the date should be 5[1]38= <date calendar="#Gregorian">1378</date>?</colophon>

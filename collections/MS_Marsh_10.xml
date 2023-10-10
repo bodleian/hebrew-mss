@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem xml:id="MS_Marsh_10-item1" n="1">
                      <locus>ff. 1r-229v</locus>
-                     <title>Hebrew Bible: Pentateuch <foreign xml:lang="he">תורה</foreign>
-                     </title>
+                     <title>Hebrew Bible: Pentateuch </title><title xml:lang="he">תורה</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

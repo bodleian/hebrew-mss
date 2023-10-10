@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_16-item1" n="1">
                      <locus>ff. 2r-65v</locus>
                      <author ref="http://viaf.org/viaf/29887312" key="person_29887312">Sforno, Obadiah ben Jacob, approximately 1470-approximately 1550ספורנו, עובדיה בן יעקב‬</author>
-                     <title>Zeh sefer ʾor ʿamim <foreign xml:lang="he">זה ספר אור עמים</foreign>
-                     </title>
+                     <title>Zeh sefer ʾor ʿamim </title><title xml:lang="he">זה ספר אור עמים</title>
+                     
                      <note>Printed, Bologna, 1587 (see, Ṿinograd, Bologna 8).</note>
                      <note>Hebrew inscriptions on fols. 1r and 2r</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -58,8 +58,8 @@
                   <msItem xml:id="MS_Canonici_Or_16-item2" n="2">
                      <locus>ff. 68r-238r</locus>
                      <author ref="http://viaf.org/viaf/29887312" key="person_29887312">Sforno, Obadiah ben Jacob, approximately 1470-approximately 1550ספורנו, עובדיה בן יעקב</author>
-                     <title>Commentary on the Pentateuch by Obadiah Sforno <foreign xml:lang="he">פרוש התורה לספורנו</foreign>
-                     </title>
+                     <title>Commentary on the Pentateuch by Obadiah Sforno </title><title xml:lang="he">פרוש התורה לספורנו</title>
+                     
                      <note>Fols. 66-67 and 224-228 are blank.</note>
                      <note>Edition with variants from this and other MSS by W. Gottlieb (Jerusalem, 1980)</note>
                      <note>Hebrew inscription on fol. 237v</note>

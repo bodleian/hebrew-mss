@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Ezekiel</summary>
                   <msItem xml:id="MS_Bodley_Or_62-item1" n="1">
                      <locus>ff. 3v-130v</locus>
-                     <title>Hebrew Bible: Ezekiel <foreign xml:lang="he">נביאים (יחזקאל)</foreign>
-                     </title>
+                     <title>Hebrew Bible: Ezekiel </title><title xml:lang="he">נביאים (יחזקאל)</title>
+                     
                      <note>Punctuated. With interlinear Latin translation, and another Latin translation on the outer margins.</note>
                      <note>The MS begins with a chronology from Adam till the first captivity, in Hebrew and Latin (fols. 1v-2v). Pater noster in Hebrew on fol. 3r.</note>
                      <textLang mainLang="he">Hebrew</textLang>

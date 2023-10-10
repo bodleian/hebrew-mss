@@ -51,8 +51,8 @@
                   <msItem xml:id="MS_Canonici_Or_15-item1" n="1">
                      <locus>ff. 1r-223v</locus>
                      <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
-                     <title>Arbaʿah Ṭurim (Yoreh Deʿah) <foreign xml:lang="he">טור (יורה דעה)</foreign>
-                     </title>
+                     <title>Arbaʿah Ṭurim (Yoreh Deʿah) </title><title xml:lang="he">טור (יורה דעה)</title>
+                     
                      <note>Last leaf transposed.</note>
                      <colophon>
                         <foreign xml:lang="he">"אני אליעזר בר’ דוד הלוי ז"ל אדילקינט כתבתי ... להחבר [שלמה] בר’ [יחי]אל סגל שליט, והיה השלמתו היום יום ג’ חמשה ימים לחדש סיון שנת חמשת אלפים ומאתים ... ושלים ותשעה לבריאת עולם ... כאן בעיר פייזינצא"</foreign>

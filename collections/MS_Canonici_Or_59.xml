@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_59-item1" n="1">
                      <locus>ff. 51r-57r (folios are not in order, see collation)</locus>
                      <author ref="http://viaf.org/viaf/78820242" key="person_78820242">Sahula, Isaac ben Solomon, active 13th century</author>
-                     <title>Meshal ha-Ḳadmoni (Parable of the Ancient) <foreign xml:lang="he">משל הקדמוני</foreign>
-                     </title>
+                     <title>Meshal ha-Ḳadmoni (Parable of the Ancient) </title><title xml:lang="he">משל הקדמוני</title>
+                     
                      <note>The beginning of the introduction is missing, Latin and Hebrew notes on fol. 57v</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -47,8 +47,8 @@
                <msContents>
                   <msItem xml:id="MS_Bodley_Or_804-item1" n="1">
                      <locus>ff. 1r-150v</locus>
-                     <title>Hebrew Bible: Prophets and Writings <foreign xml:lang="he">תנ"ך: נביאים וכתובים</foreign>
-                     </title>
+                     <title>Hebrew Bible: Prophets and Writings </title><title xml:lang="he">תנ"ך: נביאים וכתובים</title>
+                     
                      <note>Jeremiah, Ezekiel and part of Chronicles are missing.</note>
                      <note>Last part of a three-volume Bible (<ref target="MS_Bodl_Or_802">Bodl. Or. 802</ref>, <ref target="MS_Bodl_Or_803">Bodl. Or. 803</ref>)</note>
                      <colophon>Scribal formula with the scribe's name on fol. 40v: <foreign xml:lang="he">חזק ונתחזק פסח הסופר לא יוזק לא היום ולא לעולם עד שיעלה חמור בסולם</foreign>

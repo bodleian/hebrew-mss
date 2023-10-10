@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_23-item1" n="1">
                      <locus>ff. 1r-179r</locus>
                      <author ref="http://viaf.org/viaf/88479839" key="person_628">Yaʻaḳov ben Shabtai, active 12th century-13th centuryיעקב בן שבתי</author>
-                     <title>Commentary on the Pentateuch <foreign xml:lang="he">פרוש התורה ליעקב בן שבתי</foreign>
-                     </title>
+                     <title>Commentary on the Pentateuch </title><title xml:lang="he">פרוש התורה ליעקב בן שבתי</title>
+                     
                      <note>Chiefly on Rashi's commentary on the Pentateuch.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

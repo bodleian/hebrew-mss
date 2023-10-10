@@ -50,8 +50,8 @@
                      <locus>ff. 1r-199v</locus>
                      <title>Sidur for the entire year according to the Italian rite</title>
                      <title>
-                        <foreign xml:lang="he">סדור מנהג רומה לכל השנה</foreign>
-                     </title>
+                        </title><title xml:lang="he">סדור מנהג רומה לכל השנה</title>
+                     
                      <note>Divided into two: first part (fols. 1r-113v): selihot for the entire year; second part (fols. 114r-199v): yotserot for the entire year.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

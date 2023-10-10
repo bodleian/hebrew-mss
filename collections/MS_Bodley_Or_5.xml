@@ -48,8 +48,8 @@
                   <summary>Maḥzor according to the Sephardi rite</summary>
                   <msItem xml:id="MS_Bodley_Or_5-item1" n="1">
                      <locus>ff. 2r-84v</locus>
-                     <title>Maḥzor according to the Sephardi rite (Aragon) for Yom Kipur <foreign xml:lang="he">מחזור מנהג ספרד (אראגון) ליום כפור</foreign>
-                     </title>
+                     <title>Maḥzor according to the Sephardi rite (Aragon) for Yom Kipur </title><title xml:lang="he">מחזור מנהג ספרד (אראגון) ליום כפור</title>
+                     
                      <colophon>Colophon on fol. 84v erased, Neubauer reads: <foreign xml:lang="he">"אני שמואל הכותב בר יום טוב(?) ן’ אלצאיג ז"ל כתבתי זה המחזור להבחור הנחמד יצחק נחמיא[ש]"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

@@ -48,8 +48,8 @@
                   <summary>Hebrew translation of Aristotle's works</summary>
                   <msItem xml:id="MS_Canonici_Or_9-item1" n="1">
                      <locus>ff. 1r-28r</locus>
-                     <title>Luaḥ me-Sefer ha-Midot shel Arisṭo <foreign xml:lang="he">לוח מספר המדות של אריסטו</foreign>
-                     </title>
+                     <title>Luaḥ me-Sefer ha-Midot shel Arisṭo </title><title xml:lang="he">לוח מספר המדות של אריסטו</title>
+                     
                      <note>Fols. 28v is blank.</note>
                      <note>A detailed index to Aristotle's Ethics.</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -64,8 +64,8 @@
                   <msItem xml:id="MS_Canonici_Or_9-item3" n="3">
                      <locus>ff. 36r-129r</locus>
                      <author ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotleאריסטו</author>
-                     <title>Aristotle's Hebrew translation of Ethics <foreign xml:lang="he">ספר המדות</foreign>
-                     </title>
+                     <title>Aristotle's Hebrew translation of Ethics </title><title xml:lang="he">ספר המדות</title>
+                     
                      <note>Fols. 34-35 are blank.</note>
                      <note>Translation by <persName key="person_19208002">Meir ben Solomon Alguadez</persName>
                      </note>

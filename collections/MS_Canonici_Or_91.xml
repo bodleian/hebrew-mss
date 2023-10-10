@@ -50,8 +50,8 @@
                      <locus>ff. 3r-307r</locus>
                      <title>Pentateuch, Hafṭarot and Five Scrolls</title>
                      <title>
-                        <foreign xml:lang="he">תורה, הפטרות ומגלות</foreign>
-                     </title>
+                        </title><title xml:lang="he">תורה, הפטרות ומגלות</title>
+                     
                      <colophon>Colophon of the scribe on fol. 307r: <foreign xml:lang="he">"אני יהודה בר’ מנחם הסופר סיימתי ... לר’ גרשום בר’ אליעזר ביום ג’ ... ארבע ימים בתוך ירח אב שנת חמשת אלפים וששים וארבע לבריאת העולם"</foreign>; colophon of the punctuator (naḳdan) on fol. 307r (in the masorah) : <foreign xml:lang="he">"אני אליעזר בר’ ישעיה הנקדן נקדתי ומסרתי ... שנת חמשת אלפים וששים וחמשה"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

@@ -48,8 +48,8 @@
                   <summary>Maḥzor for the whole year, Italian rite</summary>
                   <msItem xml:id="MS_Canonici_Or_27-item1" n="1">
                      <locus>ff. 7r-323v</locus>
-                     <title>Maḥzor for the whole year according to the Italian rite <foreign xml:lang="he">מחזור מנהג רומה לכל השנה</foreign>
-                     </title>
+                     <title>Maḥzor for the whole year according to the Italian rite </title><title xml:lang="he">מחזור מנהג רומה לכל השנה</title>
+                     
                      <note>End is incomplete, some pages have been completed with different hand.</note>
                      <note>Notes of different nature by various hands on fol. 3r-6v</note>
                      <note>Written and vocalized by Yeshʿayah ben Yaʿaḳov me-Masran ben Yeshʿayah me-Yarona for Shlomoh Yedidyah ben Yiśraʾel me-i[r] Sobreno, finished Thursday 19 Shvat <date calendar="#AM">5241</date> (= <date calendar="#Gregorian">1481</date>) at Mantova.</note>

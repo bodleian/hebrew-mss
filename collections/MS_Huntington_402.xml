@@ -48,14 +48,14 @@
                   <msItem xml:id="MS_Huntington_402-item1" n="1">
                      <locus>ff.</locus>
                      <author key="person_596">Eleʿazar ben Eliʿezerאלעזר בן אליעזר</author>
-                     <title>Tafsir al-ashar al kalimāt <foreign xml:lang="he">תפסיר אלעשר אל כלמאת</foreign>
-                     </title>
+                     <title>Tafsir al-ashar al kalimāt </title><title xml:lang="he">תפסיר אלעשר אל כלמאת</title>
+                     
                      <textLang mainLang="ar">Arabic</textLang>
                   </msItem>
                   <msItem xml:id="MS_Huntington_402-item2" n="2">
                      <locus>ff. 216r-221v</locus>
-                     <title>Ḥibur ʿal ṭaʿame ha-Miḳra <foreign xml:lang="he">חבור על טעמי המקרא</foreign>
-                     </title>
+                     <title>Ḥibur ʿal ṭaʿame ha-Miḳra </title><title xml:lang="he">חבור על טעמי המקרא</title>
+                     
                   </msItem>
                </msContents>
                <physDesc>

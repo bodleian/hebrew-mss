@@ -50,8 +50,8 @@
                      <locus>ff. 1r-216r</locus>
                      <title>Ketuvim (Writings)</title>
                      <title>
-                        <foreign xml:lang="he">כתובים ‬</foreign>
-                     </title>
+                        </title><title xml:lang="he">כתובים ‬</title>
+                     
                      <note>Books of Ruth, Psalms, Proverbs, Job, Ecclesiastes, Song of Songs, Lamentations, Daniel, Esther, Ezra (Nehemiah), and Chronicles.</note>
                      <colophon>Colophon "נשלם ... בירח אלול שנת הס"ה יצחק בר’ אפרים הכהן ס"ט בן אלשונה"</colophon>
                      <textLang mainLang="he">Hebrew</textLang>

@@ -48,8 +48,8 @@
                   <summary>Mishneh Torah (Sefer Madaʿ - Zeraʿim)</summary>
                   <msItem xml:id="MS_Laud_Or_160-item1" n="1">
                      <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Mishneh Torah (Sefer Madaʿ - Zeraʿim) <foreign xml:lang="he">משנה תורה (ספר מדע-זרעים) ‬</foreign>
-                     </title>
+                     <title>Mishneh Torah (Sefer Madaʿ - Zeraʿim) </title><title xml:lang="he">משנה תורה (ספר מדע-זרעים) ‬</title>
+                     
                      <colophon>
                         <foreign xml:lang="he">"חזק ונתחזק גרשם הסופר לא יזק"</foreign> (fol. 14r)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>

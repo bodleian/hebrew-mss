@@ -48,8 +48,8 @@
                   <summary>Lamentations for the Ninth of Av</summary>
                   <msItem xml:id="MS_Canonici_Or_55-item1" n="1">
                      <locus>ff. 1r-118v</locus>
-                     <title>Ḳinot (lamentations) for the Ninth of Av according to the Western Ashkenazi rite <foreign xml:lang="he">קינות לתשעה באב מנהג אשכנז המערבי</foreign>
-                     </title>
+                     <title>Ḳinot (lamentations) for the Ninth of Av according to the Western Ashkenazi rite </title><title xml:lang="he">קינות לתשעה באב מנהג אשכנז המערבי</title>
+                     
                      <note>Before the ḳinot the Book of Lamentations; after the ḳinot the Book of Job and the Book of Jeremiah (until 32:22).</note>
                      <note>Used by D. Goldschmidt in his edition (Jerusalem, 1968).</note>
                      <note>Numerous marginal notes, corrections in Hebrew, and one marginal note in Italian (fol. 3r).</note>

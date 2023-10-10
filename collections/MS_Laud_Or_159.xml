@@ -48,8 +48,8 @@
                   <summary>Mishneh Torah (Sefer Ṭohorah, Ḳinyan, Shofṭim, Nashim)</summary>
                   <msItem xml:id="MS_Laud_Or_159-item1" n="1">
                      <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Mishneh Torah (Sefer Ṭohorah, Ḳinyan, Shofṭim, Nashim) <foreign xml:lang="he">משנה תורה (ספר טהרה, קנין-שופטים, נשים)</foreign>
-                     </title>
+                     <title>Mishneh Torah (Sefer Ṭohorah, Ḳinyan, Shofṭim, Nashim) </title><title xml:lang="he">משנה תורה (ספר טהרה, קנין-שופטים, נשים)</title>
+                     
                      <note>Starts with Sefer Ṭohorah 1:11</note>
                      <note>At the end of a poem of four lines, with the acrostic Elyaḳim Ḥayim Yoets, the copyist (<foreign xml:lang="he">אליקים חיים יועץ</foreign>)</note>
                      <colophon>

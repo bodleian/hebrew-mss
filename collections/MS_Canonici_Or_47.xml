@@ -50,8 +50,8 @@
                      <locus>ff. 2r-163v</locus>
                      <title>Yiddish translation of festival prayerbook for the Days of Awe according to the Ashkenazi rite</title>
                      <title>
-                        <foreign xml:lang="he">תרגום מחזור לימים נוראים, מנהג אשכנז ליידיש</foreign>
-                     </title>
+                        </title><title xml:lang="he">תרגום מחזור לימים נוראים, מנהג אשכנז ליידיש</title>
+                     
                      <note>Without seliḥot</note>
                      <note>Notes, scribles on fols. 1r, 164r and 164v.</note>
                      <textLang mainLang="yi">Yiddish</textLang>

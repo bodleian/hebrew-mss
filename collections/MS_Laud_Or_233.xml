@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Laud_Or_233-item1" n="1">
                      <locus>ff. 2r-175v</locus>
                      <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
-                     <title>Ṭur (Yoreh Deʿah) <foreign xml:lang="he">טור (יורה דעה)</foreign>
-                     </title>
+                     <title>Ṭur (Yoreh Deʿah) </title><title xml:lang="he">טור (יורה דעה)</title>
+                     
                      <note>Written by Yamin [=Benyamin] ben Mosheh, called Wolf Ḳarnakh on Friday, 5 Adar Sheni 223 [1463]. According to M. Beit-Arie, the scribe's name must have been Benyamin (Zeʾev).</note>
                      <note>Numerous marginal notes.</note>
                      <colophon>

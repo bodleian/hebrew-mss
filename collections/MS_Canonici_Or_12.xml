@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_12-item1" n="1">
                      <locus>ff. 1r-90r</locus>
                      <author ref="http://viaf.org/viaf/305856430" key="person_305856430">Molin, Yaacov, -1427מולן, יעקב בן משה, הלוי</author>
-                     <title>Minhagim ba-Yidish <foreign xml:lang="he">מנהגים ביידיש</foreign>
-                     </title>
+                     <title>Minhagim ba-Yidish </title><title xml:lang="he">מנהגים ביידיש</title>
+                     
                      <note>Yiddish translation of a minhagim collection attributed to the <persName ref="http://viaf.org/viaf/305856430" key="person_335">Maharil</persName> (<persName ref="http://viaf.org/viaf/305856430" key="person_305856430">Jacob Möllin</persName>)</note>
                      <colophon>
                         <foreign xml:lang="he">"תם ונשלם ... נאם הסופר קלונימוס בר אדו’ א"מ כמ"ר שמעון יזיי"א וסיימתיו חצי טבת שנת שי"ד לפ"ק פה ויניזייה הבירה"</foreign> (fol. 90r)</colophon>
@@ -65,26 +65,26 @@
                   <msItem xml:id="MS_Canonici_Or_12-item3" n="3">
                      <locus>ff. 110r-116r</locus>
                      <author ref="http://viaf.org/viaf/98048540" key="person_33403361">Meir ben Isaac Sheliʼaḥ Ẓibbur, -approximately 1096מאיר בן יצחק, ש"ץ</author>
-                     <title>Aḳdamut milin <foreign xml:lang="he">אקדמות מילין</foreign>
-                     </title>
+                     <title>Aḳdamut milin </title><title xml:lang="he">אקדמות מילין</title>
+                     
                      <textLang mainLang="he">Hebrew with Yiddish translation</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item4" n="4">
                      <locus>ff. 116v-181v</locus>
-                     <title>Yiddish translation of the Five Scrolls <foreign xml:lang="he">תרגום יידיש לכתובים (חמש מגלות)</foreign> ‬</title>
+                     <title>Yiddish translation of the Five Scrolls </title><title xml:lang="he">תרגום יידיש לכתובים (חמש מגלות)</title> ‬
                      <textLang mainLang="yi">Yiddish</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item5" n="5">
                      <locus>ff. 182r-202r</locus>
-                     <title>Yiddish translation of piyyutim and seliḥot for Yamim Noraim <foreign xml:lang="he">תרגום פיוטים וסליחות לימים נוראים ליידיש</foreign>
-                     </title>
+                     <title>Yiddish translation of piyyutim and seliḥot for Yamim Noraim </title><title xml:lang="he">תרגום פיוטים וסליחות לימים נוראים ליידיש</title>
+                     
                      <textLang mainLang="yi">Yiddish</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item6" n="6">
                      <locus>ff. 203r-207r</locus>
                      <author ref="http://viaf.org/viaf/61782655" key="person_61782655">Levita, Elijah, 1468 or 1469-1549אליהו בן אשר, הלוי, אשכנז</author>
-                     <title>ha-Mavdil ben ḳodesh le-ḥol <foreign xml:lang="he">המבדיל בין קדש לחול</foreign>
-                     </title>
+                     <title>ha-Mavdil ben ḳodesh le-ḥol </title><title xml:lang="he">המבדיל בין קדש לחול</title>
+                     
                      <colophon>
                         <note>Colophon of items 1-6 on fol. 207r: <foreign xml:lang="he">"תם ונשלם המנבגי’ אונ’ דיני חלה אונ’ הדלקת הנר אונ’ חמש מגילות אונ’חידושי בין שבת אונ’ איצה בחור ציד אונ’ אקדמות אונ’ רענט[...] נאם הסופר קלונימוס בר אדו’ א"מ כמ"ר שמעון יזיי"א וסיימתיו חצי טבת שנת שי"ד לפ"ק פה ויניזייה הבירה"</foreign>
                         </note>
@@ -93,8 +93,8 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item7" n="7">
                      <locus>ff. 207v-213v</locus>
-                     <title>Poems in Yiddish <foreign xml:lang="he">שירים ביידיש</foreign>
-                     </title>
+                     <title>Poems in Yiddish </title><title xml:lang="he">שירים ביידיש</title>
+                     
                      <note>
                         <foreign xml:lang="he">שני שירים. הראשון שיר לעג של ליצן שתחילתו: "וואלט איר הערל איין נויש גריכט"; השני שיר על תקופות בחיי האדם עם תרגום לאיטלקית אחרי כל בית ותחילתו: "די מענש גיגלכן צו איינם מלך צו איינר חזיר"</foreign>
                      </note>
@@ -102,28 +102,28 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item8" n="8">
                      <locus>ff. 214r-215r</locus>
-                     <title>Riddles in Yiddish <foreign xml:lang="he">חידות ופתרונן : ביידיש</foreign>
-                     </title>
+                     <title>Riddles in Yiddish </title><title xml:lang="he">חידות ופתרונן : ביידיש</title>
+                     
                      <textLang mainLang="yi">Yiddish</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item9" n="9">
                      <locus>ff. 216r-241r</locus>
-                     <title>Yiddish translation of Pirḳe Avot <foreign xml:lang="he">תרגום פרקי אבות ליידיש</foreign>
-                     </title>
+                     <title>Yiddish translation of Pirḳe Avot </title><title xml:lang="he">תרגום פרקי אבות ליידיש</title>
+                     
                      <colophon>
                         <foreign xml:lang="he">"אלו הפרקי’ התחלתי ליל א שלמחר היה יו’ ב כה, וסיימתי’ יו’ ד כ"ז דיצימר [1553], דהינו בזמן שלשה ימי’".</foreign> (fol. 241r)</colophon>
                      <textLang mainLang="yi">Yiddish</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item10" n="10">
                      <locus>ff. 241v-258r</locus>
-                     <title>Maaśiyot ba-Yidish <foreign xml:lang="he">מעשיות ביידיש</foreign>
-                     </title>
+                     <title>Maaśiyot ba-Yidish </title><title xml:lang="he">מעשיות ביידיש</title>
+                     
                      <textLang mainLang="yi">Yiddish</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item11" n="11">
                      <locus>ff. 258r-266v</locus>
-                     <title>Poems in Yiddish <foreign xml:lang="he">שירים ביידיש</foreign>
-                     </title>
+                     <title>Poems in Yiddish </title><title xml:lang="he">שירים ביידיש</title>
+                     
                      <note>
                         <foreign xml:lang="he">שני שירים, הראשון ביידיש (258א-261ב): "דז ליד הוט אליה בחור גמכט אויף די שריפה בין ווניציג (בויניציאה), תחילתו: "נון וויל איך איין ווינציג זינגן"; ‬ ‫ השני (הועתק פעמיים 262א-266ב) ויכוח על עדיפות בין מים ויין מאת זלמן סופר, תחילתו: "זרע הגפן אני נקרא" עם תרגום ליידיש אחרי כל בית</foreign>
                      </note>
@@ -131,14 +131,14 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item12" n="12">
                      <locus>ff. 266v-269r</locus>
-                     <title>Maʾaśeh ben Sabar in Yiddish <foreign xml:lang="he">מעשה בן סבר :ביידיש</foreign>
-                     </title>
+                     <title>Maʾaśeh ben Sabar in Yiddish </title><title xml:lang="he">מעשה בן סבר :ביידיש</title>
+                     
                      <textLang mainLang="yi">Yiddish</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item13" n="13">
                      <locus>ff. 269v-274r</locus>
-                     <title>Yiddish translation of the 72 pasuḳim <foreign xml:lang="he">תרגום שבעים ושנים פסוקים ע"ד שם של שבעים ושנים ליידיש</foreign>
-                     </title>
+                     <title>Yiddish translation of the 72 pasuḳim </title><title xml:lang="he">תרגום שבעים ושנים פסוקים ע"ד שם של שבעים ושנים ליידיש</title>
+                     
                      <textLang mainLang="yi">Yiddish</textLang>
                   </msItem>
                </msContents>

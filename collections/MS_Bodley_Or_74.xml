@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Bodley_Or_74-item1" n="1">
                      <locus>ff. 3r-275r</locus>
                      <author key="person_51777166">Gikatilla, Joseph ben Abraham, 1248-ג’יקטיליה, יוסף בן אברהם</author>
-                     <title>Shaʿare Orah <foreign xml:lang="he">שערי אורה</foreign>
-                     </title>
+                     <title>Shaʿare Orah </title><title xml:lang="he">שערי אורה</title>
+                     
                      <note>On the flyleaf, there are three lines of poetry.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

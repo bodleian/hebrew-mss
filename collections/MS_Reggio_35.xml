@@ -50,8 +50,8 @@
                      <locus>ff. 1r-68v</locus>
                      <title>Index to the Zohar</title>
                      <title>
-                        <foreign xml:lang="he">מפתח לזהר</foreign>
-                     </title>
+                        </title><title xml:lang="he">מפתח לזהר</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

@@ -86,8 +86,8 @@
                      <msItem xml:id="MS_Laud_Or_117-part1-item1" n="1">
                         <locus>ff.1r-6r</locus>
                         <author ref="http://viaf.org/viaf/46652374" key="person_23309685">Ezobi, Jehoseph ben Hanan ben Nathan, active 13th centuryהאזובי, יוסף בן חנן</author>
-                        <title>Ḳeʿarat Kesef <foreign xml:lang="he">קערת כסף</foreign>
-                        </title>
+                        <title>Ḳeʿarat Kesef </title><title xml:lang="he">קערת כסף</title>
+                        
                         <colophon>Colophon on fol. XXX: <foreign xml:lang="he">"ברביעי בשבת בשנת חמשת אלפים ומאתיים ועשרים וארבעה יום ליצירה ששה ימים לירח תמוז חזק קנטוא"</foreign>
                         </colophon>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -134,8 +134,8 @@
                      <msItem xml:id="MS_Laud_Or_117-part2-item1" n="2">
                         <locus>ff.9r-146v</locus>
                         <author ref="http://viaf.org/viaf/142650436" key="person_51578591">Anav, Jehiel ben Jekuthiel ben Benjamin, active 13th centuryיחיאל בן יקותיאל, הרופא</author>
-                        <title>Maʿalot ha-Midot <foreign xml:lang="he">מעלות המדות</foreign>
-                        </title>
+                        <title>Maʿalot ha-Midot </title><title xml:lang="he">מעלות המדות</title>
+                        
                         <note>7 unfoliated leaves at the end, six are blank, the seventh has Hebrew notes on its verso side.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>

@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_51-item1" n="1">
                      <locus>ff. 2r-258r</locus>
                      <author ref="http://viaf.org/viaf/78823237" key="person_7357235">Ḥayyun, Joseph ben Abraham, -1497חיון, יוסף בן אברהם</author>
-                     <title>Commentary on the Book of Psalms <foreign xml:lang="he">פרוש כתובים ליוסף חיון (תהלים)</foreign>
-                     </title>
+                     <title>Commentary on the Book of Psalms </title><title xml:lang="he">פרוש כתובים ליוסף חיון (תהלים)</title>
+                     
                      <note>Fols. 159-164 are blank.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -50,8 +50,8 @@
                      <locus>ff. 1r-32r</locus>
                      <title>Anonymous grammatical work</title>
                      <title>
-                        <foreign xml:lang="he">מחברת התיג’אן</foreign>
-                     </title>
+                        </title><title xml:lang="he">מחברת התיג’אן</title>
+                     
                      <note>Published from this MS by Derenbourg (1870).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -59,8 +59,8 @@
                      <locus>ff. 32v-316r</locus>
                      <title>Hebrew Bible: Pentateuch</title>
                      <title>
-                        <foreign xml:lang="he">תורה</foreign>
-                     </title>
+                        </title><title xml:lang="he">תורה</title>
+                     
                      <note>Written for Saʿadiah ben Yeshuʿah ben Daṿid. Date given in colophon is Marḥeshṿan 1790 AS (anno Seleuci, Seleucid era) (=1478 CE).</note>
                      <colophon>Colophon by the scribe Yosef ben Baniyah on fol. 315v: <foreign xml:lang="he">"נכתבה ... על שם אלופי ומיודעי סעדיה שץ בירב ישועה זצ"ל בירב דוד רי"ת ... נשלמה חדש מרחשון שנת א’תש"צ ... והכותב הקל והנקל יוסף בן בניה שץ בן סעדיה רי"ת"</foreign>
                      </colophon>

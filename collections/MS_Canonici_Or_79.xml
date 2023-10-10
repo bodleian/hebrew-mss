@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_79-item1" n="1">
                      <locus>ff. 1r-453r</locus>
                      <author ref="http://viaf.org/viaf/314808179" key="person_301582237">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר</author>
-                     <title>Arbaʾah ṭurim (Even ha-ʾezer, Ḥoshen mishpaṭ)‏ <foreign xml:lang="he">טור (אבן העזר, חשן משפט)</foreign>
-                     </title>
+                     <title>Arbaʾah ṭurim (Even ha-ʾezer, Ḥoshen mishpaṭ)‏ </title><title xml:lang="he">טור (אבן העזר, חשן משפט)</title>
+                     
                      <colophon>Colophon (fol. ): <foreign xml:lang="he">"אני משה ממשפחת בית אל מפרווינצה מעיר אויניון כתבתי זה הספר ... אל ... ... והיתה התחלתו ראש חדש כסליו משנת קצ"ח ליצירה" והיתה השלמתו ראש חדש ניסן מהשנה ההיא" ‬</foreign>. The name of the patron has been erased. The scribe is Mosheh Beit El of Avignon started the codex at the beginning of Kislev [5]198 (Nov 1437) and finished it at the beginning of Nisan [5]198 (April 1438)</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

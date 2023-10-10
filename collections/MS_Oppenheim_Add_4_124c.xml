@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/19572491" key="person_19572491">Adani, David ben Amram, active 13th century-14th centuryהעדני, דוד בן עמרם</author>
                      <title>Midrash ha-Gadol (Leviticus)</title>
                      <title>
-                        <foreign xml:lang="he">מדרש הגדול (ויקרא)</foreign>
-                     </title>
+                        </title><title xml:lang="he">מדרש הגדול (ויקרא)</title>
+                     
                      <note>Part of a group of four MSS containing Midrash ha-Gadol; see also <ref target="#MS_Opp_Add_Qu_124a">MS. Opp. Add. 4° 124a</ref>, <ref target="#MS_Opp_Add_Qu_124b">MS. Opp. Add. 4° 124b</ref>, <ref target="#MS_Opp_Add_Qu_124d">MS. Opp. Add. 4°124d</ref>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -62,8 +62,8 @@
                      <author ref="http://viaf.org/viaf/83474670" key="person_2429152">Alts'ahri, Yiḥya ben Seʻadyah, approximately 1505-approximately 1583אלצ’אהרי, זכריה</author>
                      <title>Sefer Tsedah la-derekh</title>
                      <title>
-                        <foreign xml:lang="he">ספר צדה לדרך</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר צדה לדרך</title>
+                     
                      <note>Runs in the margins.</note>
                      <note>Philosophico-kabbalistic commentary on the first two books of the Pentateuch.</note>
                      <textLang mainLang="he">Hebrew</textLang>

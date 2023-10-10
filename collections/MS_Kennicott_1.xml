@@ -49,8 +49,8 @@
                   <summary>Bible with D. Kimhi's Sefer Mikhlol</summary>
                   <msItem xml:id="MS_Kennicott_1-item1" n="1">
                      <locus>ff. 10r-438v</locus>
-                     <title>Hebrew Bible <foreign xml:lang="he">תנ"ך</foreign>
-                     </title>
+                     <title>Hebrew Bible </title><title xml:lang="he">תנ"ך</title>
+                     
                      <note>With both masorahs; Isaiah before Jeremiah; the Prophets are followed by Chronicles, next come the Psalms, Proverbs, Job, Ruth, Song of Song, Ecclesiastes, Lamentations, Esther, Daniel, Ezra and Nehemiah, the latter without division.</note>
                      <note>The copist is probably indentical with <persName ref="http://viaf.org/viaf/96079760" key="person_26737345">Moses ibn Zabara</persName>
                         <persName xml:lang="he" key="person_26737345">(משה בר’ יעקב ן’ זברה)</persName>, the author of Malakhat ha-Sefer, who emigrated to Morocco where he was held in great esteem.</note>
@@ -60,8 +60,8 @@
                   <msItem xml:id="MS_Kennicott_1-item2" n="2">
                      <locus>ff.1-9 and ff. 438v-453</locus>
                      <author key="person_100213323">Kimhi, David, approximately 1160-approximately 1235</author>
-                     <title>Sefer ha-Mikhlol <foreign xml:lang="he">ספר המכלול</foreign>
-                     </title>
+                     <title>Sefer ha-Mikhlol </title><title xml:lang="he">ספר המכלול</title>
+                     
                   </msItem>
                </msContents>
                <physDesc>

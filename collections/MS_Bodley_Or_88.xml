@@ -48,8 +48,8 @@
                   <summary>Jewish-Christian polemical treatise</summary>
                   <msItem xml:id="MS_Bodley_Or_88-item1" n="1">
                      <locus>ff. 3r-51v</locus>
-                     <title>Jewish-Christian polemical treatise <foreign xml:lang="he">וכוח יהודי-נוצרי</foreign>
-                     </title>
+                     <title>Jewish-Christian polemical treatise </title><title xml:lang="he">וכוח יהודי-נוצרי</title>
+                     
                      <note>Table of contents on fols. 53r-53v.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

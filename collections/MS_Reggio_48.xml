@@ -52,8 +52,8 @@
                      <author key="person_68983534">פיקולומיני, אליסנדרו</author>
                      <title>ha-Hegiyon (L'instrumento de la filosofia)</title>
                      <title>
-                        <foreign xml:lang="he">ההגיון</foreign>
-                     </title>
+                        </title><title xml:lang="he">ההגיון</title>
+                     
                      <note>Anonym Hebrew translation that must have been written after <date calendar="#AM-abbreviated">349</date> (<date calendar="#Gregorian">1589</date>)since it cites <persName ref="http://viaf.org/viaf/28713524" key="person_28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -63,8 +63,8 @@
                      <author key="person_68983534">פיקולומיני, אליסנדרו</author>
                      <title>ha-Filosofiyah ṭiviʿit(La filosofia naturale)</title>
                      <title>
-                        <foreign xml:lang="he">פילוסופיה טבעית</foreign>
-                     </title>
+                        </title><title xml:lang="he">פילוסופיה טבעית</title>
+                     
                      <note>Anonym Hebrew translation that must have been written after <date calendar="#AM-abbreviated">349</date> (<date calendar="#Gregorian">1589</date>)since it cites <persName ref="http://viaf.org/viaf/28713524" key="person_28713524">Judah Moscato</persName>'s Nefutsot Yehudah.</note>
                      <note>Fols. 107v-109v are blank.</note>
                      <textLang mainLang="he">Hebrew</textLang>

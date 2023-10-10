@@ -50,8 +50,8 @@
                      <locus>ff.1r-271v</locus>
                      <title>Maḥzor for the Days of Awe according to the Western Ashkenazi rite</title>
                      <title>
-                        <foreign xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים ‬</foreign>
-                     </title>
+                        </title><title xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים ‬</title>
+                     
                      <note>Incomplete at the beginning</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

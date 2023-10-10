@@ -50,8 +50,8 @@
                      <locus>ff. 1r-83r</locus>
                      <title>Piyuṭim</title>
                      <title>
-                        <foreign xml:lang="he">פיוטים ‬</foreign>
-                     </title>
+                        </title><title xml:lang="he">פיוטים ‬</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

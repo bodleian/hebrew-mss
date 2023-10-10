@@ -50,8 +50,8 @@
                      <locus>ff.1v-189v</locus>
                      <title>Sidur for the entire year according to the Ashkenaz rite</title>
                      <title>
-                        <foreign xml:lang="he">סדור מנהג אשכנז לכל השנה</foreign>
-                     </title>
+                        </title><title xml:lang="he">סדור מנהג אשכנז לכל השנה</title>
+                     
                      <colophon>Colophon on fol. 189v: <foreign xml:lang="he">"[אני אלי]עזר בר’ דוד הלוי ז"ל אדילקינט [כתבתי] זה התפילה להנעלה ה"ר יוסף בר’ [שלמה] ז"ל וסיימתיו היום יו’ ה’ י"א אדר הראשון שנת רנ"ב לפ"ק לאלף הששי הסופר לא יוזק לא היום ולא לעולם עד שיעלה חמור בסלם"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

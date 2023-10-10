@@ -48,8 +48,8 @@
                   <summary>Hafṭarot, Roman rite</summary>
                   <msItem xml:id="MS_Canonici_Or_75-item1" n="1">
                      <locus>ff. 1r-88r</locus>
-                     <title>Hafṭarot according to the Roman rite <foreign xml:lang="he">הפטרות מנהג איטליה</foreign>
-                     </title>
+                     <title>Hafṭarot according to the Roman rite </title><title xml:lang="he">הפטרות מנהג איטליה</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

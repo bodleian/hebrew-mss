@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Canonici_Or_13-item1" n="1">
                      <locus>ff. 1r-154r</locus>
                      <author ref="http://viaf.org/viaf/305405832" key="person_305405832">Abraham ben Nathan, ha-Yarḥi, approximately 1155-1215אברהם בן נתן, הירחי</author>
-                     <title>Sefer ha-Manhig <foreign xml:lang="he">ספר המנהיג</foreign>
-                     </title>
+                     <title>Sefer ha-Manhig </title><title xml:lang="he">ספר המנהיג</title>
+                     
                      <note>The name or acrostic of Moses is often pointed out (e.g. fols. 8v, 98v-twice, 113v)</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -50,8 +50,8 @@
                      <locus>ff. 1v-293r</locus>
                      <title>Mahzor according to the Western Ashkenazi rite for the High Holidays (Rosh ha-Shanah and Yom Kipur)</title>
                      <title>
-                        <foreign xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים</foreign>
-                     </title>
+                        </title><title xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים</title>
+                     
                      <note>The codex is the third volume of a three-volume prayer book; the first volume is kept in Budapest (<ref target="http://kaufmann.mtak.hu/en/ms384/ms384-coll1.htm">Library of the Hungarian Academy of Sciences, Kaufmann Collection MS A384</ref>, and the second volume is in kept in London (<ref target="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=19240">British Library MS Add. 22413</ref>). Originally the prayer book constituted a two-volume codex.</note>
                      <note>False colophon on fol. 293r: <foreign xml:lang="he">אני מרדכי גימפיל מקראקא כתבתי המחזור הזה שנת מʹחʹזʹוʹר לפʺק</foreign> (I <persName key="person_7017">Mordekhai Gimpil of Cracow</persName> wrote this mahzor [in the] year 5261) (=1501)</note>
                      <note>Deletions by censor? (e.g. fols. 37r, 85r)</note>

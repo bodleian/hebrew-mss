@@ -51,8 +51,8 @@
                   <msItem xml:id="MS_Laud_Or_322-item1" n="1">
                      <locus>ff. 1r-343v</locus>
                      <author ref="http://viaf.org/viaf/293743688" key="person_100648641">Isaiah ben Elijah, di Trani, -approximately 1280טרני, ישעיה בן אליהו די</author>
-                     <title>Pisḳe Riaz <foreign xml:lang="he">פסקי ריא"ז</foreign>
-                     </title>
+                     <title>Pisḳe Riaz </title><title xml:lang="he">פסקי ריא"ז</title>
+                     
                      <note>Undoubtedly copied by Benjamin who frequently pointed out the acrostics of this name (e.g., fols. 92v, 166v, 305v).</note>
                      <note>Marginal notes containing omission and by a later Italian hand containing remarks.</note>
                      <textLang mainLang="he">Hebrew</textLang>

@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/98265139" key="person_98265139">Ṭoviyahu ben Eliʻezer, active 11th centuryטוביה בן אליעזר</author>
                      <title>Midrash of R. Tobiah bar Eliezer on Ecclesiastes</title>
                      <title>
-                        <foreign xml:lang="he">פסקתא זוטרתא</foreign>
-                     </title>
+                        </title><title xml:lang="he">פסקתא זוטרתא</title>
+                     
                      <note>On fol.1r: <foreign xml:lang="he">"פסיקתא זוטרתא דקהלת מר’ טוביה בר’ אליעזר" ‬</foreign>
                      </note>
                      <note>Scribbles on front and back pastedown</note>

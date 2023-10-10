@@ -89,21 +89,21 @@
                      <msItem xml:id="MS_Canonici_Or_26-part1-item1" n="1">
                         <locus>ff.1r-12v</locus>
                         <author ref="http://viaf.org/viaf/90074237" key="person_27313450/">Ibn al-Jazarī, Muḥammad ibn Muḥammad, 1350-1429ג’זאר, אחמד בן אבראהים אבן</author>
-                        <title>Yaʾir nativ <foreign xml:lang="he">יאיר נתיב</foreign>
-                        </title>
+                        <title>Yaʾir nativ </title><title xml:lang="he">יאיר נתיב</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Canonici_Or_26-part1-item2" n="2">
                         <locus>ff. 27v-63r</locus>
                         <author ref="http://viaf.org/viaf/42197041" key="person_42197041">Nicolaus, Salernitanus, active 12th centuryניקולאוס פריפוזיטוס</author>
-                        <title>Antidotarium <foreign xml:lang="he">אנטידוטריום</foreign>
-                        </title>
+                        <title>Antidotarium </title><title xml:lang="he">אנטידוטריום</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Canonici_Or_26-part1-item3" n="3">
                         <locus>ff. 63r-89r</locus>
-                        <title>Śar ha-mashḳim <foreign xml:lang="he">שר המשקים</foreign>
-                        </title>
+                        <title>Śar ha-mashḳim </title><title xml:lang="he">שר המשקים</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Canonici_Or_26-part1-item4" n="4">
@@ -135,8 +135,8 @@
                               <persName key="person_97172178">איוב, שלמה בן יוסף אבן</persName>
                            </foreign>
                         </author>
-                        <title>Śar ha-mashḳim <foreign xml:lang="he">שר המשקים</foreign>
-                        </title>
+                        <title>Śar ha-mashḳim </title><title xml:lang="he">שר המשקים</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Canonici_Or_26-part1-item9" n="9">
@@ -186,8 +186,8 @@
                   <msContents>
                      <msItem xml:id="MS_Canonici_Or_26-part2-item1" n="10">
                         <locus>ff. 13r-27r</locus>
-                        <title>Śar ha-mashḳim <foreign xml:lang="he">שר המשקים</foreign>
-                        </title>
+                        <title>Śar ha-mashḳim </title><title xml:lang="he">שר המשקים</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>

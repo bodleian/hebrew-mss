@@ -48,8 +48,8 @@
                   <summary>Sidur for the entire year, French rite</summary>
                   <msItem xml:id="MS_Bodley_Or_24-item1" n="1">
                      <locus>ff. 1r-208v</locus>
-                     <title>Sidur for the entire year according to the French rite <foreign xml:lang="he">סדור מנהג צרפת לכל השנה</foreign>
-                     </title>
+                     <title>Sidur for the entire year according to the French rite </title><title xml:lang="he">סדור מנהג צרפת לכל השנה</title>
+                     
                      <note>The name Isaac is pointed out on fols. 35v and 61r.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

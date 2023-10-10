@@ -50,8 +50,8 @@
                      <author ref="http://viaf.org/viaf/97210444" key="person_21765128">Yitsḥaḳ ben Yosef, active 13th-14th centuryהישראלי, יצחק בן יוסף</author>
                      <title>Sefer Yesod ʿolam</title>
                      <title>
-                        <foreign xml:lang="he">ספר יסוד עולם</foreign>
-                     </title>
+                        </title><title xml:lang="he">ספר יסוד עולם</title>
+                     
                      <note>The scribe <persName key="person_7026">Shalom ben Solomon Yerushalmi</persName> copied the MS in Syracuse together with at least one more MS of astronomical content (<ref target="http://digi.vatlib.it/view/MSS_Vat.ebr.379">Vatican,BAV, cod. ebr. 379</ref>, copied in 1482). He also ordered the copy of another MS in 1489 (<ref target="http://digi.vatlib.it/view/MSS_Vat.ebr.91">Vatican, BAV, cod. ebr. 91</ref>). He is the author of Shabat shalom (<ref target="MS_Poc_183">Oxford, Bodleian Library, MS Poc. 183</ref>)</note>
                      <colophon>Colophon on fol. 222v: <foreign xml:lang="he">נשלם זה הספר שהוא יסוד עולם בשנת חמשת אלפים ומאתים וארבעים וארבע לבריאת עולם במתא סרקוסה דבאי סקאלייא דעל ספר ימא מותבה והיתה השלמתי בחדש אייר בי"ח בו וכתבתי אותו אני שמואל בכ"ר ראובן המכונה מרצאוי וכתבתי אותו ל ... שלום בכ"ר שלמה המכונה ירושלמי</foreign>
                      </colophon>

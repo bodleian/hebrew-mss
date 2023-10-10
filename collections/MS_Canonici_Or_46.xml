@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Writings</summary>
                   <msItem xml:id="MS_Canonici_Or_46-item1" n="1">
                      <locus>ff. 2r-311r</locus>
-                     <title>Ketuvim (Writings) <foreign xml:lang="he">כתובים</foreign>
-                     </title>
+                     <title>Ketuvim (Writings) </title><title xml:lang="he">כתובים</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

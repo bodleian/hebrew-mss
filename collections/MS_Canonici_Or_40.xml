@@ -48,16 +48,16 @@
                   <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem xml:id="MS_Canonici_Or_40-item1" n="1">
                      <locus>ff. 1r-116v</locus>
-                     <title>Latter Prophets <foreign xml:lang="he">כתובים</foreign>
-                     </title>
+                     <title>Latter Prophets </title><title xml:lang="he">כתובים</title>
+                     
                      <note>Second volume of complete Tanakh. Other volumes: <ref target="MS_Can_Or_37">Can. Or. 37</ref>, <ref target="MS_Can_Or_38">MS Can. Or. 38</ref>, <ref target="MS_Can_Or_39">MS Can. Or. 39</ref>
                      </note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_40-item2" n="2">
                      <locus>ff. 114r-116v</locus>
-                     <title>Lists of Hafṭarot and Psalms <foreign xml:lang="he">סימני ההפטרות וסימני תהלים</foreign>
-                     </title>
+                     <title>Lists of Hafṭarot and Psalms </title><title xml:lang="he">סימני ההפטרות וסימני תהלים</title>
+                     
                      <note>Later, ca. mid-15th century addition.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

@@ -50,8 +50,8 @@
                      <locus>ff. 1v-130r</locus>
                      <author ref="http://viaf.org/viaf/219072992">Naḥmanides, approximately 1195-approximately 1270 <persName key="person_219072992">משה בן נחמן, 1194-1270</persName>
                      </author>
-                     <title>Torat ha-Adam <foreign xml:lang="he">תורת האדם</foreign>
-                     </title>
+                     <title>Torat ha-Adam </title><title xml:lang="he">תורת האדם</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

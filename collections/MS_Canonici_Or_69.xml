@@ -48,8 +48,8 @@
                   <summary>Hebrew Bible: Writings</summary>
                   <msItem xml:id="MS_Canonici_Or_69-item1" n="1">
                      <locus>ff. 1r-95v</locus>
-                     <title>Hebrew Bible: Writings <foreign xml:lang="he">כתובים</foreign>
-                     </title>
+                     <title>Hebrew Bible: Writings </title><title xml:lang="he">כתובים</title>
+                     
                      <note>The beginning of the MS (Pentateuch, Former Prophets and the beginning of Jeremiah) can be found in Parma (MSS. Parm. 2946–2947——De Rossi 604). The continuation of the MS is <ref target="MS_Can_Or_56">MS Can. Or. 56</ref>.</note>
                      <note>This volume contains the books of Jeremiah (from 33:21), Isaiah, Ezekiel and Minor Prophets, with both masorah.</note>
                      <textLang mainLang="he">Hebrew</textLang>

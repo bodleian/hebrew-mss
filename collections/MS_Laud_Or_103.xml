@@ -88,8 +88,8 @@
                      <msItem xml:id="MS_Laud_Or_103-part1-item1" n="1">
                         <locus>ff. 1r-14r</locus>
                         <author ref="http://viaf.org/viaf/219072992" key="person_219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן</author>
-                        <title>Commentary on the Sefer Yetsirah <foreign xml:lang="he">פרוש ספר יצירה</foreign>
-                        </title>
+                        <title>Commentary on the Sefer Yetsirah </title><title xml:lang="he">פרוש ספר יצירה</title>
+                        
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>

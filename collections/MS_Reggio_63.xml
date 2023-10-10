@@ -48,8 +48,8 @@
                   <summary>Maḥzor according to the Sephardi rite with additional texts in the margins</summary>
                   <msItem xml:id="MS_Reggio_63-item1" n="1">
                      <locus>ff. 1r-430v</locus>
-                     <title>Maḥzor according to the Sephardi rite (Aragon) <foreign xml:lang="he">מחזור מנהג ספרד (אראגון) לכל השנה</foreign>
-                     </title>
+                     <title>Maḥzor according to the Sephardi rite (Aragon) </title><title xml:lang="he">מחזור מנהג ספרד (אראגון) לכל השנה</title>
+                     
                      <note>A. Neubauer incorrectly categorized the mahzor as according to the Greek (Corfu) and Calabrian rite. D. Goldschmidt (<hi rend="italic">Sefunot</hi>, 1964, p. 200) corrected Neubauer's mistake but referred to the MS with the wrong catalogue number (1080 instead of 1081). N. Vider (in <hi rend="italic">Sinai</hi> 76 [1975], p. 9) returned to Neubauer's mistake. ‫</note>
                      <note>The beginning of the codex is incomplete, later completion on paper (fols. III-VII).</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -57,21 +57,21 @@
                   <msItem xml:id="MS_Reggio_63-item2" n="2">
                      <locus>ff. 1r-338r</locus>
                      <author key="person_297308748">ha-Yiśraʾeli, Yiśraʾel ben Yosefהישראלי, ישראל בן יוסף, מטולידו</author>
-                     <title>Mitsṿot Zemanit <foreign xml:lang="he">מצוות זמניות ‬</foreign>
-                     </title>
+                     <title>Mitsṿot Zemanit </title><title xml:lang="he">מצוות זמניות ‬</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_63-item3" n="3">
                      <locus>ff. 341r-373r</locus>
-                     <title>Perush Seder Avodah <foreign xml:lang="he">פרוש סדר עבודה</foreign>
-                     </title>
+                     <title>Perush Seder Avodah </title><title xml:lang="he">פרוש סדר עבודה</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_63-item4" n="4">
                      <locus>ff. 374v-430v</locus>
                      <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
-                     <title>Ṭur (Oraḥ Ḥayim, Hilkhot Taʿanit tsibur) <foreign xml:lang="he">טור (ארח חיים, הלכות תענית צבור) ‬</foreign>
-                     </title>
+                     <title>Ṭur (Oraḥ Ḥayim, Hilkhot Taʿanit tsibur) </title><title xml:lang="he">טור (ארח חיים, הלכות תענית צבור) ‬</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

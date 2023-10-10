@@ -52,8 +52,8 @@
                      <author key="person_19684048">שלמה בן יצחק (רש"י), 1040-1105</author>
                      <title>Perush ha-Torah le-Rashi (Torah commentary)</title>
                      <title>
-                        <foreign xml:lang="he">פרוש התורה לרש"י</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש התורה לרש"י</title>
+                     
                      <colophon>Colophon on fol. 141v: <foreign xml:lang="he">"אני מאיר בר’ משה ז"ל כתבתי פירוש התורה זה מרבי שלמה ז"ל לנכבד מורי ר’ בנימין בכ"ר יצחק והעתקתיו בביתו ובהיותי סומך על שלחנו ומשכורתי היה ארבעה פרחי’ לבד ההוצאה וקהלתיה מידו לידי וסיימתיו בירח שבט שנת חמשת אלפים ומאה וחמשים ותשע לבריאת עולם ... נכתב פה קמרינו בזמן הנז’ לעיל"</foreign>
                      </colophon>
                      <textLang mainLang="he">Hebrew</textLang>

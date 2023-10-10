@@ -49,15 +49,15 @@
                   <msItem xml:id="MS_Huntington_312-item1" n="1">
                      <locus>ff. 1r-215v</locus>
                      <author key="person_521">Saadia al-Dhamariאלדמארי, סעדיה בן דוד</author>
-                     <title>Midrash ha-Beʾur <foreign xml:lang="he">מדרש הבאור</foreign>
-                     </title>
+                     <title>Midrash ha-Beʾur </title><title xml:lang="he">מדרש הבאור</title>
+                     
                      <note>Written by Saadia al-Dhamari. Copied by Saadia ben David ha-Temani, who called it Tsafnat Paneʿaḥ and claimed authorship.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Huntington_312-item2" n="2">
                      <locus>ff. 216r-221v</locus>
-                     <title>Ḥibur ʿal ṭaʿame ha-Miḳra <foreign xml:lang="he">חבור על טעמי המקרא</foreign>
-                     </title>
+                     <title>Ḥibur ʿal ṭaʿame ha-Miḳra </title><title xml:lang="he">חבור על טעמי המקרא</title>
+                     
                   </msItem>
                </msContents>
                <physDesc>

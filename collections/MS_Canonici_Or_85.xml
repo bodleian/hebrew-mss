@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/101087390" key="person_101087390">Recanati, Menahem ben Benjamin, active 13th century-14th centuryרקנטי, מנחם בן בנימין‬</author>
                      <title>Commentary on the Pentateuch</title>
                      <title>
-                        <foreign xml:lang="he">פרוש התורה לרקנטי</foreign>
-                     </title>
+                        </title><title xml:lang="he">פרוש התורה לרקנטי</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

@@ -49,15 +49,15 @@
                   <msItem xml:id="MS_Laud_Or_98-item1" n="1">
                      <locus>ff.1r-36r</locus>
                      <author ref="http://viaf.org/viaf/31996761" key="person_31996761">Ghazzālī, 1058-1111אלע’זאלי, מחמד בן מחמד</author>
-                     <title>Kaṿanot ha-filosofim (Doctrines of the Philosophers, Maḳâṣid al-falâsifat), part I <foreign xml:lang="he">כונות הפילוספים (חלק א)</foreign>
-                     </title>
+                     <title>Kaṿanot ha-filosofim (Doctrines of the Philosophers, Maḳâṣid al-falâsifat), part I </title><title xml:lang="he">כונות הפילוספים (חלק א)</title>
+                     
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_98-item2" n="2">
                      <locus>ff. 37r-52r</locus>
                      <author ref="http://lccn.loc.gov/nr90017257" key="person_261805337">Alcalá, Pedro de (Petrus Hispanus)</author>
-                     <title>Compendium of a logical treatise <foreign xml:lang="he">קצור ההגיון של פטרוס היספנוס</foreign>
-                     </title>
+                     <title>Compendium of a logical treatise </title><title xml:lang="he">קצור ההגיון של פטרוס היספנוס</title>
+                     
                      <note>According to Steinschneider's Prospectus begins as in Wolf iv, p. 826, ends .ועל זה הוקשו הכלב והזאב כמו שאמרנו</note>
                      <note>Other translations are entitled טרטאט or טרקטאץ; cf. M. Steinschneider, HÜ, 473.</note>
                      <listBibl>
@@ -68,21 +68,21 @@
                   <msItem xml:id="MS_Laud_Or_98-item3" n="3">
                      <locus>ff. 53r-71v</locus>
                      <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Milot ha-Higayon (Treatise on Logical Terminology) <foreign xml:lang="he">מלות ההגיון</foreign>
-                     </title>
+                     <title>Milot ha-Higayon (Treatise on Logical Terminology) </title><title xml:lang="he">מלות ההגיון</title>
+                     
                      <note>Mosheh Ibn Tibbon's translation, finished Kislev 5015=1254. Next comes an appendix headed: סבת הסתירה או ההפך הנמצא בספר מן הספרים</note>
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_98-item4" n="4">
                      <locus>ff. 72r-94v</locus>
-                     <title>Sefer ha-Higayon <foreign xml:lang="he">ספר ההגיון</foreign>
-                     </title>
+                     <title>Sefer ha-Higayon </title><title xml:lang="he">ספר ההגיון</title>
+                     
                      <note>Appendix to it at the end headed: חידושין לספר מאמרות מן קטאגוריאש</note>
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_98-item5" n="5">
                      <locus>ff. 95r-188v</locus>
                      <author ref="http://viaf.org/viaf/31996761" key="person_31996761">Ghazzālī, 1058-1111אלע’זאלי, מחמד בן מחמד</author>
-                     <title>Kaṿanot ha-filosofim (Doctrines of the Philosophers, Maḳâṣid al-falâsifat), parts II-III <foreign xml:lang="he">כונות הפילוספים (חלק ב-ג)</foreign>
-                     </title>
+                     <title>Kaṿanot ha-filosofim (Doctrines of the Philosophers, Maḳâṣid al-falâsifat), parts II-III </title><title xml:lang="he">כונות הפילוספים (חלק ב-ג)</title>
+                     
                      <note>Translator of Part II (incomplete) is anonym, part III was translated by Yitshak Albalag.</note>
                   </msItem>
                </msContents>

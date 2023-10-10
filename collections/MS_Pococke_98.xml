@@ -49,8 +49,8 @@
                   <msItem xml:id="MS_Pococke_98-item1" n="1">
                      <locus>ff. 1r-183v</locus>
                      <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
-                     <title>Mishneh Torah (Sefer Nashim) <foreign xml:lang="he">משנה תורה בערבית (ספר נשים)</foreign>
-                     </title>
+                     <title>Mishneh Torah (Sefer Nashim) </title><title xml:lang="he">משנה תורה בערבית (ספר נשים)</title>
+                     
                      <note>Volume 1 of a 2-volume set, for volume 2 see <ref target="MS_Poc_106">MS. Poc. 106</ref>.</note>
                      <colophon>Colophon at the end of volume one, on fol. 183v: <foreign xml:lang="he">"נג’זת הדה אלנסכה ... שהר טבת שנת א’תרמ"ד לשטרות ... כאתבה ... עבד אלעזיז ב"ר תאבח אלמעלם"</foreign>.</colophon>
                      <textLang mainLang="ar">Arabic</textLang>

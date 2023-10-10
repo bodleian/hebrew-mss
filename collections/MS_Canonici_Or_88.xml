@@ -51,8 +51,8 @@
                      <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה, 980-1037</author>
                      <title>Canon (Books 1-5)</title>
                      <title>
-                        <foreign xml:lang="he">קאנון (ספר א’-ה’) ‬</foreign>
-                     </title>
+                        </title><title xml:lang="he">קאנון (ספר א’-ה’) ‬</title>
+                     
                      <note>Book 1 is in the translation of Yosef Lorki, Books 2-5 are in the translation of Nathan ha-Amiti.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
