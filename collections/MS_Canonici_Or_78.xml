@@ -48,7 +48,7 @@
                   <summary>Mishneh Torah</summary>
                   <msItem xml:id="MS_Canonici_Or_78-item1" n="1">
                      <locus>ff. 1v-429r</locus>
-                     <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204 משה בן מימון</author>
                      <title>Mishneh Torah </title><title xml:lang="he">משנה תורה</title>
                      
                      <note>Deletions by <persName key="person_400">Marchion</persName> (e.g. fol. 15r, 16v, 429r).</note>

@@ -204,7 +204,7 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part7-item1" n="7">
                         <locus>ff. 273r-278r</locus>
-                        <author key="person_689">Yeshayah ben Yosef ha-Yaṿaniישעיה בן יוסף היוני</author>
+                        <author key="person_689">Yeshayah ben Yosef ha-Yaṿani ישעיה בן יוסף היוני</author>
                         <title>Ets Ḥayim </title><title xml:lang="he">עץ חיים</title>
                         
                         <note>Philosophico-cabbalistical treatise on the ten Sefirot, on the planets, and on the Ten Commandments. Was written for R. Eliyah ha-Leṿi ben R. Ḥananel ha-Dayan.</note>
@@ -215,7 +215,7 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_220-part7-item2" n="8">
                         <locus>ff. 278r-285v</locus>
-                        <author key="person_219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן</author>
+                        <author key="person_219072992">Naḥmanides, approximately 1195-approximately 1270 משה בן נחמן</author>
                         <title>Shaʿare ha-Tsedeḳ = Igeret ha-ḳodesh </title><title xml:lang="he">שערי הצדק = אגדת הקודש</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
@@ -231,7 +231,7 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_220-part8-item1" n="8">
                         <locus>ff. 288r-298r</locus>
-                        <author key="person_690">Yosef ben Shlomoh Ṭiṭtsiḳ (Riṭ)יוסף בן שלמה טיטצק</author>
+                        <author key="person_690">Yosef ben Shlomoh Ṭiṭtsiḳ (Riṭ) יוסף בן שלמה טיטצק</author>
                         <title>Perush Tehilim </title><title xml:lang="he">פירוש תהילים להרי"ט</title>
                         
                         <note>Commentary on Psalms 1-20.</note>

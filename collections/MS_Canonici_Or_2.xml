@@ -48,7 +48,7 @@
                   <summary>ʿArukh</summary>
                   <msItem xml:id="MS_Canonici_Or_2-item1" n="1">
                      <locus>ff. 1r-393r</locus>
-                     <author ref="http://viaf.org/viaf/88359528" key="person_17211098">Nathan ben Jehiel, of Rome, 1035-approximately 1110נתן בן יחיאל, מרומה</author>
+                     <author ref="http://viaf.org/viaf/88359528" key="person_17211098">Nathan ben Jehiel, of Rome, 1035-approximately 1110 נתן בן יחיאל, מרומה</author>
                      <title>ʿArukh </title><title xml:lang="he">ערוך</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>

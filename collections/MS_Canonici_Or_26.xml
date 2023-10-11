@@ -88,14 +88,14 @@
                   <msContents>
                      <msItem xml:id="MS_Canonici_Or_26-part1-item1" n="1">
                         <locus>ff.1r-12v</locus>
-                        <author ref="http://viaf.org/viaf/90074237" key="person_27313450/">Ibn al-Jazarī, Muḥammad ibn Muḥammad, 1350-1429ג’זאר, אחמד בן אבראהים אבן</author>
+                        <author ref="http://viaf.org/viaf/90074237" key="person_27313450/">Ibn al-Jazarī, Muḥammad ibn Muḥammad, 1350-1429 ג’זאר, אחמד בן אבראהים אבן</author>
                         <title>Yaʾir nativ </title><title xml:lang="he">יאיר נתיב</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Canonici_Or_26-part1-item2" n="2">
                         <locus>ff. 27v-63r</locus>
-                        <author ref="http://viaf.org/viaf/42197041" key="person_42197041">Nicolaus, Salernitanus, active 12th centuryניקולאוס פריפוזיטוס</author>
+                        <author ref="http://viaf.org/viaf/42197041" key="person_42197041">Nicolaus, Salernitanus, active 12th century ניקולאוס פריפוזיטוס</author>
                         <title>Antidotarium </title><title xml:lang="he">אנטידוטריום</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
@@ -108,7 +108,7 @@
                      </msItem>
                      <msItem xml:id="MS_Canonici_Or_26-part1-item4" n="4">
                         <locus>ff. 89v-91v</locus>
-                        <author ref="http://viaf.org/viaf/42197041" key="person_42197041">Nicolaus, Salernitanus, active 12th centuryניקולאוס פריפוזיטוס</author>
+                        <author ref="http://viaf.org/viaf/42197041" key="person_42197041">Nicolaus, Salernitanus, active 12th century ניקולאוס פריפוזיטוס</author>
                         <title>Antidotary</title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -125,7 +125,7 @@
                      </msItem>
                      <msItem xml:id="MS_Canonici_Or_26-part1-item7" n="7">
                         <locus>ff. 174r-208v</locus>
-                        <author ref="http://viaf.org/viaf/12694347" key="person_12694347">Bernardus Provincialisברנרדוס פרובינצלוס</author>
+                        <author ref="http://viaf.org/viaf/12694347" key="person_12694347">Bernardus Provincialis ברנרדוס פרובינצלוס</author>
                         <title>Commentary on the Tabulae of Salernus</title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>

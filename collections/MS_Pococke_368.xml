@@ -48,7 +48,7 @@
                   <summary>Collection of astronomical texts</summary>
                   <msItem xml:id="MS_Pococke_368-item1" n="1">
                      <locus>ff.1r-194r, 199r-199v, 203r-217v</locus>
-                     <author key="person_21765128">Yitsḥaḳ ben Yosef, active 13th-14th centuryישראלי, יצחק בן יוסף</author>
+                     <author key="person_21765128">Yitsḥaḳ ben Yosef, active 13th-14th century ישראלי, יצחק בן יוסף</author>
                      <title>Yesod Olam </title><title xml:lang="he">יסוד עולם</title>
                      
                      <note>At the beginning and end of the tables are astronomical notes (by a later hand in Oriental cursive script) signed דעת ר´ יאודה, דעת ר´א´ם´ ן´ בסן (?) and R. Yitsḥaḳ אלחדב, there occurs the date of <date calendar="#AM">5265</date> (<date calendar="#Gregorian">1505</date>). On fol. 56r the name of the first scribe, Abraham is marked. He copied fols. 1v-94r.</note>
@@ -60,7 +60,7 @@
                   </msItem>
                   <msItem xml:id="MS_Pococke_368-item3" n="3">
                      <locus>ff. 218r-218v</locus>
-                     <author ref="http://viaf.org/viaf/61397975" key="person_187455576">Al-Aḥdab, Iṣḥak ben Shlomo, 1396-1429?יצחק בן שלמה בן צדיק אלחדב ספרדי</author>
+                     <author ref="http://viaf.org/viaf/61397975" key="person_187455576">Al-Aḥdab, Iṣḥak ben Shlomo, 1396-1429? יצחק בן שלמה בן צדיק אלחדב ספרדי</author>
                      <title>Notes on the calendar </title><title xml:lang="he">מאמרים על הלוח</title>
                      
                      <incipit>
@@ -70,7 +70,7 @@
                   </msItem>
                   <msItem xml:id="MS_Pococke_368-item4" n="4">
                      <locus>ff. 219v-221v</locus>
-                     <author key="person_679">Isaac ben Elijah ben Aaron ha-Kohen of Syracuseיצחק בן אליהו הכהן</author>
+                     <author key="person_679">Isaac ben Elijah ben Aaron ha-Kohen of Syracuse יצחק בן אליהו הכהן</author>
                      <title>Treatise on the calendar </title><title xml:lang="he">חבור על הלוח</title>
                      
                      <note>At the end a note by <persName key="person_439">Shabtai ben Ovadyah</persName> (the scribe?) on the use of calendars.</note>

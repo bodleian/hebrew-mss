@@ -86,7 +86,7 @@
                   <msContents>
                      <msItem xml:id="MS_Canonici_Or_8-part1-item1" n="1">
                         <locus>ff. 1r-162v</locus>
-                        <author ref="http://viaf.org/viaf/89245664" key="person_293459163">Moses, of Narbonne, -1362נרבוני, משה בן יהושע</author>
+                        <author ref="http://viaf.org/viaf/89245664" key="person_293459163">Moses, of Narbonne, -1362 נרבוני, משה בן יהושע</author>
                         <title>Perush kaṿanot ha-filosofim le-Gazali </title><title xml:lang="he">פרוש כונות הפילוסופים לגזאלי</title>
                         
                         <note>Fols. 163-167 are blank.</note>
@@ -132,7 +132,7 @@
                   <msContents>
                      <msItem xml:id="MS_Canonici_Or_8-part2-item1" n="2">
                         <locus>ff. 168r-244v</locus>
-                        <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198אבן רשד, מחמד</author>
+                        <author ref="http://viaf.org/viaf/19688718" key="person_19688718">Averroës, 1126-1198 אבן רשד, מחמד</author>
                         <title>Beʾur ʾemtsai ʿal Sefer ha-Higayon shel Arisṭo </title><title xml:lang="he">באור אמצעי על ספר ההגיון של אריסטו</title>
                         
                         <note>Yaakov Anatoli's translation.</note>

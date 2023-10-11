@@ -48,7 +48,7 @@
                   <summary>Commentary on Isaiah by David Kimhi</summary>
                   <msItem xml:id="MS_Canonici_Or_53-item1" n="1">
                      <locus>ff. 1r-121r</locus>
-                     <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235קמחי, דוד בן יוסף</author>
+                     <author ref="http://viaf.org/viaf/100213323" key="person_100213323">Kimhi, David, approximately 1160-approximately 1235 קמחי, דוד בן יוסף</author>
                      <title>Commentary on Isaiah </title><title xml:lang="he">פרוש נביאים לרד"ק (ישעיה)</title>
                      
                      <note>Written by <persName key="person_125">Yiśraʾel Ashkenazi ben ʿAzaryah ben Mosheh</persName>, finished on Tuesday 22 Heshṿan <date calendar="#AM">5211</date> (<date calendar="#Gregorian">1450</date>). Yiśraʾel sold it to <persName key="person_126">Shlomoh ben Yitsḥaḳ Naḥum</persName> in <date calendar="#AM">5237</date> (<date calendar="#Gregorian">1477</date>). Later it belonged to <persName key="person_287468117">Eliahu Naḥum</persName>, the son of the latter.</note>

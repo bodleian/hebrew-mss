@@ -48,7 +48,7 @@
                   <summary>Canon (Books I, V) by Avicenna</summary>
                   <msItem xml:id="MS_Canonici_Or_50-item1" n="1">
                      <locus>ff. 2r-306v</locus>
-                     <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
+                     <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037 אבן סינא, אלחסין בן עבדאללה</author>
                      <title>Canon (Books I, V) </title><title xml:lang="he">קאנון (ספר א’, ה’)</title>
                      
                      <note>Nathan's translation.</note>

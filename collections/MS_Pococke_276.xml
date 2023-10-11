@@ -48,7 +48,7 @@
                   <summary>Miscellany of philosophical texts</summary>
                   <msItem xml:id="MS_Pococke_276-item1" n="1">
                      <locus>ff. 1r-39v</locus>
-                     <author ref="http://lccn.loc.gov/n83043340" key="person_9592162669514255500009">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or 1053-1127בטליוסי, אבו מחמד עבדאללה בן מחמד</author>
+                     <author ref="http://lccn.loc.gov/n83043340" key="person_9592162669514255500009">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or 1053-1127 בטליוסי, אבו מחמד עבדאללה בן מחמד</author>
                      <title>Sefer ʿagolot raʿeynyot </title><title xml:lang="he">ספר עגולות רעיוניות</title>
                      
                      <note>Moses Ibn Tibon's translation.</note>
@@ -58,7 +58,7 @@
                   </msItem>
                   <msItem xml:id="MS_Pococke_276-item2" n="2">
                      <locus>ff. 41r-59r</locus>
-                     <author ref="http://viaf.org/viaf/64172358" key="person_64172358">Ibn Tibon, Mosheh, active 13th centuryתבון, משה בן שמואל אבן</author>
+                     <author ref="http://viaf.org/viaf/64172358" key="person_64172358">Ibn Tibon, Mosheh, active 13th century תבון, משה בן שמואל אבן</author>
                      <title>ʿOlam ḳaṭan </title><title xml:lang="he">עולם קטן</title>
                      
                      <colophon>Colophon of the scribe Tanḥum ben Mosheh on fol. 55v: <foreign xml:lang="he">"תכל מלאכת עבודת הקבוץ הזה בראשון בשלשי בחתשי בשביעי לשנת חמשת אלפים ושמונים וחמש לבריאת עולם ... פה קשטילו וכתבתיו אני תמחום ב"ר משה זלה"ה למה"ר שלמה בכ"ר יהושע ז"ל והם ששה ספרים"</foreign>

@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_63-item2" n="2">
                      <locus>ff. 1r-338r</locus>
-                     <author key="person_297308748">ha-Yiśraʾeli, Yiśraʾel ben Yosefהישראלי, ישראל בן יוסף, מטולידו</author>
+                     <author key="person_297308748">ha-Yiśraʾeli, Yiśraʾel ben Yosef הישראלי, ישראל בן יוסף, מטולידו</author>
                      <title>Mitsṿot Zemanit </title><title xml:lang="he">מצוות זמניות ‬</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
@@ -69,7 +69,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_63-item4" n="4">
                      <locus>ff. 374v-430v</locus>
-                     <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Jacob ben Asher, approximately 1269-approximately 1340יעקב בן אשר, ?1270-?1340</author>
+                     <author ref="http://viaf.org/viaf/73882588" key="person_301582237">Jacob ben Asher, approximately 1269-approximately 1340 יעקב בן אשר, ?1270-?1340</author>
                      <title>Ṭur (Oraḥ Ḥayim, Hilkhot Taʿanit tsibur) </title><title xml:lang="he">טור (ארח חיים, הלכות תענית צבור) ‬</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>

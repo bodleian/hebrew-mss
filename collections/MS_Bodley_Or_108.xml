@@ -83,21 +83,21 @@
                   <msContents>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item1" n="1">
                         <locus>fols. 1r-4r</locus>
-                        <author key="person_22309743">Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
+                        <author key="person_22309743">Ibn Danán, Saadia, active 15th century דנן, סעדיה בן מימון אבן</author>
                         <title>Tsurat ha-otiyot </title><title xml:lang="he">צורת האותיות</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item2" n="2">
                         <locus>fols. 4v-7v</locus>
-                        <author key="person_22309743">Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
+                        <author key="person_22309743">Ibn Danán, Saadia, active 15th century דנן, סעדיה בן מימון אבן</author>
                         <title>Commentary on Jesaiah 52-53 </title><title xml:lang="he">פרוש הנה ישכיל עבדי</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item3" n="3">
                         <locus>fols. 7v-9r</locus>
-                        <author key="person_22309743">Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
+                        <author key="person_22309743">Ibn Danán, Saadia, active 15th century דנן, סעדיה בן מימון אבן</author>
                         <title>Maʾamar al ha-Nevuʾah ṿe-al ha-dorot ha-rishonot sheba-Miḳra </title><title xml:lang="he">מאמר על הנבואה ועל הדורות הראשונים שבמקרא</title>
                         
                         <note>Treatise on prophecy and the first generations of the Bible.</note>
@@ -105,34 +105,34 @@
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item4" n="4">
                         <locus>fol. 9r</locus>
-                        <author key="person_22309743">Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
+                        <author key="person_22309743">Ibn Danán, Saadia, active 15th century דנן, סעדיה בן מימון אבן</author>
                         <title>Commentary on the Talmud (Ḳidushin 28) </title><title xml:lang="he">פרוש התלמוד לדנן (קדושין כח)</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item5" n="5">
                         <locus>fol. 9v</locus>
-                        <author key="person_22309743">Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
+                        <author key="person_22309743">Ibn Danán, Saadia, active 15th century דנן, סעדיה בן מימון אבן</author>
                         <title>Grammatical notes on the word meyaledet in Ex.1:15</title>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item6" n="6">
                         <locus>fols. 10r-12v</locus>
-                        <author key="person_22309743">Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
+                        <author key="person_22309743">Ibn Danán, Saadia, active 15th century דנן, סעדיה בן מימון אבן</author>
                         <title>Commentary on the Mishnah (Kelim 3:1) </title><title xml:lang="he">פרוש המשנה לדנן (כלאים ג:א)</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item7" n="7">
                         <locus>fols. 12v-14r</locus>
-                        <author key="person_22309743">Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
+                        <author key="person_22309743">Ibn Danán, Saadia, active 15th century דנן, סעדיה בן מימון אבן</author>
                         <title>Ḥibur ʿal ha-lulav </title><title xml:lang="he">חבור על הלולב</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item8" n="8">
                         <locus>fols. 14r-18v</locus>
-                        <author key="person_22309743">Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
+                        <author key="person_22309743">Ibn Danán, Saadia, active 15th century דנן, סעדיה בן מימון אבן</author>
                         <title>Seder ha-dorot </title><title xml:lang="he">סדר הדורות</title>
                         
                         <note>Chronological work.</note>
@@ -140,7 +140,7 @@
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part1-item9" n="9">
                         <locus>fols. 19r-21v</locus>
-                        <author key="person_22309743">Ibn Danán, Saadia, active 15th centuryדנן, סעדיה בן מימון אבן</author>
+                        <author key="person_22309743">Ibn Danán, Saadia, active 15th century דנן, סעדיה בן מימון אבן</author>
                         <title>Tshuvah al ha-anusim </title><title xml:lang="he">תשובה על האנוסים</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
@@ -182,7 +182,7 @@
                   <msContents>
                      <msItem xml:id="MS_Bodley_Or_108-part2-item1" n="10">
                         <locus>fols. 22r-23v</locus>
-                        <author key="person_63993515">Hai, ben Sherira, 939-1038 (attributed to him)האי בן שרירא גאון (מיוחס לו)</author>
+                        <author key="person_63993515">Hai, ben Sherira, 939-1038 (attributed to him) האי בן שרירא גאון (מיוחס לו)</author>
                         <title>Musar ha-Śekhel </title><title xml:lang="he">מוסר השכל</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
@@ -291,14 +291,14 @@
                   <msContents>
                      <msItem xml:id="MS_Bodley_Or_108-part4-item1" n="16">
                         <locus>fols. 75r-84v</locus>
-                        <author key="person_97442121">Joseph of Castileקשטיל, יוסף</author>
+                        <author key="person_97442121">Joseph of Castile קשטיל, יוסף</author>
                         <title>Teshuvot le-sheʾelot ʿal derekh ha-Kabalah </title><title xml:lang="he">תשובות לשאלות על דרך הקבלה</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Bodley_Or_108-part4-item2" n="17">
                         <locus>fols. 84v-86r</locus>
-                        <author key="person_63993515">Hai, ben Sherira, 939-1038 (attributed to him)האי בן שרירא גאון (מיוחס לו)</author>
+                        <author key="person_63993515">Hai, ben Sherira, 939-1038 (attributed to him) האי בן שרירא גאון (מיוחס לו)</author>
                         <title>Responsa on the Kabbalah </title><title xml:lang="he">שאלות ותשובות בקבלה</title>
                         
                         <colophon>Colophon of Shmuel ben Meir Saragosai (the scribe who copied fols. 84v-86r) on fol. 86r: <foreign xml:lang="he">"... אני הכותב לי לעצמי לגופי ולנשמתי שמואל בן ... מאיר סארגוסי יצ"ו"</foreign>

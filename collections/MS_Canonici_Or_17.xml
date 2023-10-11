@@ -48,7 +48,7 @@
                   <summary>Collection of philosophical texts</summary>
                   <msItem xml:id="MS_Canonici_Or_17-item1" n="1">
                      <locus>ff. 1r-126r</locus>
-                     <author ref="http://viaf.org/viaf/31996761" key="person_31996761">Ghazzālī, 1058-1111גזאלי, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/31996761" key="person_31996761">Ghazzālī, 1058-1111 גזאלי, מחמד בן מחמד</author>
                      <title>Kaṿanot ha-filosofim (Intentions of the Philosophers) </title><title xml:lang="he">כוונות הפילוסופים</title>
                      
                      <note>Hebrew translation of the Intentions of the Philosophers (Maqâsid al-falâsifa) by Isaac Albalag, called Tiḳun ha-Deʿot</note>
@@ -57,7 +57,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_17-item2" n="2">
                      <locus>ff. 129v-153v</locus>
-                     <author ref="http://viaf.org/viaf/89245664" key="person_293459163">Moses, of Narbonne, -1362נרבוני, משה בן יהושע</author>
+                     <author ref="http://viaf.org/viaf/89245664" key="person_293459163">Moses, of Narbonne, -1362 נרבוני, משה בן יהושע</author>
                      <title>Perush Kaṿanot ha-filosofim </title><title xml:lang="he">רוש כונות הפילוסופים לגזאלי</title>
                      
                      <note>Commentary on Ghazzali's Intentions of the Philosophers (Maqâsid al-falâsifa)</note>
@@ -65,7 +65,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_17-item3" n="3">
                      <locus>ff. 161v-183v</locus>
-                     <author ref="http://viaf.org/viaf/89245664" key="person_105133145">Fārābīפראבי, מחמד בן מחמד</author>
+                     <author ref="http://viaf.org/viaf/89245664" key="person_105133145">Fārābī פראבי, מחמד בן מחמד</author>
                      <title>Hatḥalot ha-nimtsaʾot (The Book of Principles) </title><title xml:lang="he">ההתחלות הנמצאות</title>
                      
                      <note>Commentary on Ghazzali's Intentions of the Philosophers (Maqâsid al-falâsifa)</note>

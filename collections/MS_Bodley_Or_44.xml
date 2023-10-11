@@ -48,7 +48,7 @@
                   <summary>Collection of works by Judah ben Samuel ibn ʿAbbas</summary>
                   <msItem xml:id="MS_Bodley_Or_44-item1" n="1">
                      <locus>ff. 1r-77(ii)v</locus>
-                     <author ref="http://viaf.org/viaf/235732271" key="person_592">Judah ben Samuel ibn ʿAbbasעבאס, יהודה בן שמואל</author>
+                     <author ref="http://viaf.org/viaf/235732271" key="person_592">Judah ben Samuel ibn ʿAbbas עבאס, יהודה בן שמואל</author>
                      <title>Yair nativ </title><title xml:lang="he">יאיר נתיב</title>
                      
                      <note>Theological treatise divided into 15 parts</note>
@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Bodley_Or_44-item2" n="2">
                      <locus>ff. 78r-86r</locus>
-                     <author ref="http://viaf.org/viaf/235732271" key="person_592">Judah ben Samuel ibn ʿAbbasעבאס, יהודה בן שמואל</author>
+                     <author ref="http://viaf.org/viaf/235732271" key="person_592">Judah ben Samuel ibn ʿAbbas עבאס, יהודה בן שמואל</author>
                      <title>Minḥat Yehudah </title><title xml:lang="he">מנחת יהודה</title>
                      
                      <note>Judeo-Arabic (?) note on fol. 87r, Latin notes on fol. 88v.</note>

@@ -48,7 +48,7 @@
                   <summary>Collection of Yiddish and Hebrew texts</summary>
                   <msItem xml:id="MS_Canonici_Or_12-item1" n="1">
                      <locus>ff. 1r-90r</locus>
-                     <author ref="http://viaf.org/viaf/305856430" key="person_305856430">Molin, Yaacov, -1427מולן, יעקב בן משה, הלוי</author>
+                     <author ref="http://viaf.org/viaf/305856430" key="person_305856430">Molin, Yaacov, -1427 מולן, יעקב בן משה, הלוי</author>
                      <title>Minhagim ba-Yidish </title><title xml:lang="he">מנהגים ביידיש</title>
                      
                      <note>Yiddish translation of a minhagim collection attributed to the <persName ref="http://viaf.org/viaf/305856430" key="person_335">Maharil</persName> (<persName ref="http://viaf.org/viaf/305856430" key="person_305856430">Jacob Möllin</persName>)</note>
@@ -64,7 +64,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item3" n="3">
                      <locus>ff. 110r-116r</locus>
-                     <author ref="http://viaf.org/viaf/98048540" key="person_33403361">Meir ben Isaac Sheliʼaḥ Ẓibbur, -approximately 1096מאיר בן יצחק, ש"ץ</author>
+                     <author ref="http://viaf.org/viaf/98048540" key="person_33403361">Meir ben Isaac Sheliʼaḥ Ẓibbur, -approximately 1096 מאיר בן יצחק, ש"ץ</author>
                      <title>Aḳdamut milin </title><title xml:lang="he">אקדמות מילין</title>
                      
                      <textLang mainLang="he">Hebrew with Yiddish translation</textLang>
@@ -82,7 +82,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_12-item6" n="6">
                      <locus>ff. 203r-207r</locus>
-                     <author ref="http://viaf.org/viaf/61782655" key="person_61782655">Levita, Elijah, 1468 or 1469-1549אליהו בן אשר, הלוי, אשכנז</author>
+                     <author ref="http://viaf.org/viaf/61782655" key="person_61782655">Levita, Elijah, 1468 or 1469-1549 אליהו בן אשר, הלוי, אשכנז</author>
                      <title>ha-Mavdil ben ḳodesh le-ḥol </title><title xml:lang="he">המבדיל בין קדש לחול</title>
                      
                      <colophon>

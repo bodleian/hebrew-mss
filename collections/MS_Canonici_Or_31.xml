@@ -48,7 +48,7 @@
                   <summary>Sefer baʿale ha-nefesh</summary>
                   <msItem xml:id="MS_Canonici_Or_31-item1" n="1">
                      <locus>ff. 1v-69r</locus>
-                     <author ref="http://viaf.org/viaf/8687273" key="person_8687273">Abraham ben David, of Posquières, approximately 1125-1198אברהם בן דוד, מפוסקיר</author>
+                     <author ref="http://viaf.org/viaf/8687273" key="person_8687273">Abraham ben David, of Posquières, approximately 1125-1198 אברהם בן דוד, מפוסקיר</author>
                      <title>Sefer baʿale ha-nefesh </title><title xml:lang="he">ספר בעלי הנפש</title>
                      
                      <colophon>Colophon of <persName key="person_432">Barukh ben Daṿid of Narbonne</persName> for <persName key="person_433">R. Yitsḥaḳ ben R. Shlomoh</persName> (fol. 52v) <foreign xml:lang="he">"אני ברוך בר דויד ז"ל ממדינת נרבונה כתבתי זה ספר בעלי הנפש ליקר ... ר’ יצחק בן כבוד ... ר’ שלמה".</foreign>

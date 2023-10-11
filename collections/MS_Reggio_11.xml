@@ -91,7 +91,7 @@
                   <msContents>
                      <msItem xml:id="MS_Reggio_11-part1-item1" n="1">
                         <locus>fols. 2r-85v</locus>
-                        <author ref="http://viaf.org/viaf/15568196" key="person_15568196">Jagel, Abraham ben Hananiah dei Galicchi, active 16th century-17th centuryיגל, אברהם בן חנניה, 1553-1622</author>
+                        <author ref="http://viaf.org/viaf/15568196" key="person_15568196">Jagel, Abraham ben Hananiah dei Galicchi, active 16th century-17th century יגל, אברהם בן חנניה, 1553-1622</author>
                         <title>Beʾer Shevaʿ </title><title xml:lang="he">באר שבע</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
@@ -140,14 +140,14 @@
                   <msContents>
                      <msItem xml:id="MS_Reggio_11-part2-item1" n="2">
                         <locus>fols. 87r-97r</locus>
-                        <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037אבן סינא, אלחסין בן עבדאללה</author>
+                        <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037 אבן סינא, אלחסין בן עבדאללה</author>
                         <title>ha-Shamayim ṿeha-ʿolam (On heavens and earth) </title><title xml:lang="he">השמים והעולם</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_11-part2-item2" n="3">
                         <locus>fols. 97r-112v</locus>
-                        <author ref="http://viaf.org/viaf/59118174" key="person_59118174">Levi ben Gershom, 1288-1344לוי בן גרשום</author>
+                        <author ref="http://viaf.org/viaf/59118174" key="person_59118174">Levi ben Gershom, 1288-1344 לוי בן גרשום</author>
                         <title>Supracommentary on <persName key="person_19688718">Averroës</persName>' short commentary on <persName key="person_7524651">Aristotle</persName>'s De Generatione et Corruptione </title><title xml:lang="he">פרוש על קצור אבן רשד לספר ההויה וההפסד של אריסטו</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
@@ -197,7 +197,7 @@
                      <summary>Milḥamot HaShem le-Ramḥal</summary>
                      <msItem xml:id="MS_Reggio_11-part3-item1" n="1">
                         <locus>fols. 113r-142v</locus>
-                        <author ref="http://viaf.org/viaf/73875381" key="person_73875381">Luzzatto, Moshe Ḥayyim, 1707-1747לוצאטו, משה חיים</author>
+                        <author ref="http://viaf.org/viaf/73875381" key="person_73875381">Luzzatto, Moshe Ḥayyim, 1707-1747 לוצאטו, משה חיים</author>
                         <title>Milḥamot HaShem le-Ramḥal (The Wars of God) </title><title xml:lang="he">מלחמות השם לרמח"ל</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>

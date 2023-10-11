@@ -48,7 +48,7 @@
                   <summary>Commentary on the Mishnah by Maimonides (Sanhedrin 10 [Ḥeleḳ Pereḳ], Avot)</summary>
                   <msItem xml:id="MS_Pococke_68-item1" n="1">
                      <locus>ff. 1v-10v</locus>
-                     <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204 משה בן מימון</author>
                      <title>Commentary on the Mishnah, Sanhedrin, chapter 10 (Ḥeleḳ Pereḳ) </title><title xml:lang="he">פרוש המשנה לרמב"ם (סנהדרין, חלק פלק)</title>
                      
                      <note>At the beginning of the MS on fol. 1r the end of the Moreh Nevukhim in Arabic and the colophon of the same scribe.</note>
@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Pococke_68-item2" n="2">
                      <locus>ff. 10v-50v</locus>
-                     <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204 משה בן מימון</author>
                      <title>Commentary on the Mishnah (Avot) </title><title xml:lang="he">פרוש המשנה לרמב"ם (אבות)</title>
                      
                      <colophon>Colophon on fol .50v: <foreign xml:lang="he">"נשלמה מסכת אבות בעזרת שדי בתרין בשבא דהוא שנים ועשרים בחדש שבט שנת הרמ"ח ליצירה דהיא שנת אתשצט לשרות וכתב העבד הצעיר מכל אשר בעיר יוסף בר ידיד המכונה גראוי נב"ע בר יצחק בר משה בר יוסף יהי מבורך עליו ועל כל הקורא בו אוי"ר"</foreign>

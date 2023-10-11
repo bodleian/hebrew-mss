@@ -56,14 +56,14 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_9-item2" n="2">
                      <locus>ff. 29r-33v</locus>
-                     <author ref="http://viaf.org/viaf/19208002" key="person_19208002">Alguadez, Meir ben Solomon, active 1390-1410אלגואדיש, מאיר בן</author>
+                     <author ref="http://viaf.org/viaf/19208002" key="person_19208002">Alguadez, Meir ben Solomon, active 1390-1410 אלגואדיש, מאיר בן</author>
                      <title>Introduction to Aristotle's Hebrew translation of Ethics.</title>
                      <note>Fols. 34-35 are blank.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_9-item3" n="3">
                      <locus>ff. 36r-129r</locus>
-                     <author ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotleאריסטו</author>
+                     <author ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle אריסטו</author>
                      <title>Aristotle's Hebrew translation of Ethics </title><title xml:lang="he">ספר המדות</title>
                      
                      <note>Fols. 34-35 are blank.</note>

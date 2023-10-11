@@ -47,7 +47,7 @@
                   <summary>Moses Ibn Tibbon's Hebrew translation of Abu Bakr Muḥammad al-Ḥaṣṣar's treatise on arithmetic</summary>
                   <msItem xml:id="MS_189-item1" n="1">
                      <locus>Ff. 1r-34r</locus>
-                     <author key="person_52147662852360550043">al-Ḥaṣṣar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbasal-Ḥatsar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbasאבו בכר מחמד בן עבד אללה בן עבאס בן אלחצאר</author>
+                     <author key="person_52147662852360550043">al-Ḥaṣṣar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbasal-Ḥatsar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbas אבו בכר מחמד בן עבד אללה בן עבאס בן אלחצאר</author>
                      <editor role="translator">
                         <persName type="standard" ref="http://viaf.org/viaf/64172358" key="person_64172358">Ibn Tibon, Mosheh, active 13th century</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt"/>

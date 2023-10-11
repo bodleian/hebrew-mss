@@ -47,7 +47,7 @@
                <msContents>
                   <msItem xml:id="MS_Pococke_192-item1" n="1">
                      <locus>ff. 1r-189r</locus>
-                     <author ref="http://viaf.org/viaf/88896884" key="person_297241688">Harizi, Judah ben Solomon, active 12th century-13th centuryחריזי, יהודה בן שלמה</author>
+                     <author ref="http://viaf.org/viaf/88896884" key="person_297241688">Harizi, Judah ben Solomon, active 12th century-13th century חריזי, יהודה בן שלמה</author>
                      <title>Taḥkemoni </title><title xml:lang="he">תחכמוני</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>

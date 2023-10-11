@@ -48,7 +48,7 @@
                   <summary>Collection of astronomical and astrological texts</summary>
                   <msItem xml:id="MS_Reggio_46-item1" n="1">
                      <locus>ff. 1v-7v</locus>
-                     <author ref="http://viaf.org/viaf/88961846" key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164עזרא, אברהם בן מאיר אבן</author>
+                     <author ref="http://viaf.org/viaf/88961846" key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164 עזרא, אברהם בן מאיר אבן</author>
                      <title>Sefer ha-ibur (The Book of Intercalation)</title>
                      <title>
                         </title><title xml:lang="he">ספר העבור</title>
@@ -57,7 +57,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_46-item2" n="2">
                      <locus>ff. 14v-18r</locus>
-                     <author ref="http://viaf.org/viaf/187455576" key="person_654">Ḥadab, Isaac ben Salomonחדב, יצחק בן שלמה (מחבר משוער)</author>
+                     <author ref="http://viaf.org/viaf/187455576" key="person_654">Ḥadab, Isaac ben Salomon חדב, יצחק בן שלמה (מחבר משוער)</author>
                      <title>Mapah asṭrologit</title>
                      <title>
                         </title><title xml:lang="he">מפה אסטרולוגית</title>
@@ -66,7 +66,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_46-item3" n="3">
                      <locus>ff. 24v-31v</locus>
-                     <author key="person_80591625">Ibn al-Ṣaffār, Aḥmad ibn ʿAbd Allâh 09..-1035אלצפאר, אחמד אבן</author>
+                     <author key="person_80591625">Ibn al-Ṣaffār, Aḥmad ibn ʿAbd Allâh 09..-1035 אלצפאר, אחמד אבן</author>
                      <title>Manual on the Astrolabe</title>
                      <title>
                         </title><title xml:lang="he">פרוש האצטרולב</title>

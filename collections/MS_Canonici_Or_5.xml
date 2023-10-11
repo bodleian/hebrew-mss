@@ -48,7 +48,7 @@
                   <summary>Collection of cabbalistic texts</summary>
                   <msItem xml:id="MS_Canonici_Or_5-item1" n="1">
                      <locus>ff. 1r-75v</locus>
-                     <author key="person_659">Segal, Yaʿaḳov ben Ḳalonymosסגל, יעקב בן קלונימוס</author>
+                     <author key="person_659">Segal, Yaʿaḳov ben Ḳalonymos סגל, יעקב בן קלונימוס</author>
                      <title>Naḥalat Yaʿaḳov </title><title xml:lang="he">נחלת יעקב</title>
                      
                      <note>Kabbalistical miscellanea</note>
@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item2" n="2">
                      <locus>ff. 76r-91v</locus>
-                     <author key="person_659">Segal, Yaʿaḳov ben Ḳalonymosסגל, יעקב בן קלונימוס</author>
+                     <author key="person_659">Segal, Yaʿaḳov ben Ḳalonymos סגל, יעקב בן קלונימוס</author>
                      <title>Magen le-holkhe Tom ṿe-yosher </title><title xml:lang="he">מגן להולכי תום ויושר</title>
                      
                      <note>A chapter on the defence of the truth of the Zohar</note>
@@ -66,7 +66,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item3" n="3">
                      <locus>ff. 92r-269r</locus>
-                     <author ref="http://viaf.org/viaf/12317536" key="person_12317536">Cordovero, Moses ben Jacob, 1522-1570קורדוברו, משה</author>
+                     <author ref="http://viaf.org/viaf/12317536" key="person_12317536">Cordovero, Moses ben Jacob, 1522-1570 קורדוברו, משה</author>
                      <title>ʾOr yaḳar </title><title xml:lang="he">אור יקר (פרוש סבא דמשפטים)</title>
                      
                      <note>Commentary on passages of the Zohar.</note>
@@ -74,7 +74,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item4" n="4">
                      <locus>ff. 270r-273v</locus>
-                     <author ref="http://viaf.org/viaf/12317536" key="person_12317536">Cordovero, Moses ben Jacob, 1522-1570קורדוברו, משה</author>
+                     <author ref="http://viaf.org/viaf/12317536" key="person_12317536">Cordovero, Moses ben Jacob, 1522-1570 קורדוברו, משה</author>
                      <title>Shemonah be-inyan ha-gilgul </title><title xml:lang="he">שמועה בענין הגלגול</title>
                      
                      <colophon>
@@ -83,7 +83,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_5-item5" n="5">
                      <locus>ff. 283r-311r</locus>
-                     <author ref="http://viaf.org/viaf/51941634" key="person_51941634">Najara, Israel ben Moses, 1555?-1625?נג'רה, ישראל בן משה</author>
+                     <author ref="http://viaf.org/viaf/51941634" key="person_51941634">Najara, Israel ben Moses, 1555?-1625? נג'רה, ישראל בן משה</author>
                      <title>Kanfe Yonah (ḥeleḳ 1, 1-40) </title><title xml:lang="he">כנפי יונה (חלק א, א-מ)</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>

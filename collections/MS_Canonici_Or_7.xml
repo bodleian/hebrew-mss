@@ -48,7 +48,7 @@
                   <summary>David ben Shmuel ibn Shushan's Hebrew translation of Thomas Bricot's compendium of Aristotle's works</summary>
                   <msItem xml:id="MS_Canonici_Or_7-item1" n="1">
                      <locus>ff. 4v-</locus>
-                     <author ref="http://viaf.org/viaf/92769057" key="person_199611504">Bricot, Thomas, -1516בריקוט, תומס</author>
+                     <author ref="http://viaf.org/viaf/92769057" key="person_199611504">Bricot, Thomas, -1516 בריקוט, תומס</author>
                      <title>
                         <persName key="person_266">David ben Shmuel ibn Shushan</persName>'s Hebrew translation of <persName key="person_199611504">Thomas Bricot</persName>'s compendium of <persName key="person_7524651">Aristotle</persName>'s works </title><title xml:lang="he">אותות עליונות (קצור: תומס בריקוט)</title>
                      

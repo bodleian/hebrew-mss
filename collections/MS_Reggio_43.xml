@@ -84,7 +84,7 @@
                      <summary>Collection of astrological and astronomical texts</summary>
                      <msItem xml:id="MS_Reggio_43-part1-item1" n="1">
                         <locus>ff. 1r-41v</locus>
-                        <author ref="http://viaf.org/viaf/13522985" key="person_37714446">Duran, Profiat, approximately 1350-approximately 1415דורן, שמעון בן צמח, 1361-1444</author>
+                        <author ref="http://viaf.org/viaf/13522985" key="person_37714446">Duran, Profiat, approximately 1350-approximately 1415 דורן, שמעון בן צמח, 1361-1444</author>
                         <title>Heshev ha-ʾefod</title>
                         <title xml:lang="he">חשב האפד</title>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -139,7 +139,7 @@
                   <msContents>
                      <msItem xml:id="MS_Reggio_43-part2-item1" n="1">
                         <locus>ff. 42r-48v</locus>
-                        <author ref="http://viaf.org/viaf/13522985" key="person_13522985">Duran, Profiat, approximately 1350-approximately 1415דורן, יצחק בן משה</author>
+                        <author ref="http://viaf.org/viaf/13522985" key="person_13522985">Duran, Profiat, approximately 1350-approximately 1415 דורן, יצחק בן משה</author>
                         <title>Heshev ha-ʾefod</title>
                         <note>Completition of previous by <persName ref="http://viaf.org/viaf/88978405" key="person_88978405">Baer Goldberg</persName>. Note at the beginning: 'Suppl. ad Cod. Reggio 43'</note>
                         <textLang mainLang="he">Hebrew</textLang>
@@ -188,7 +188,7 @@
                   <msContents>
                      <msItem xml:id="MS_Reggio_43-part3-item1" n="3">
                         <locus>ff. 50v-64v</locus>
-                        <author ref="http://viaf.org/viaf/56636061" key="person_56636061">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013?זהראוי, כ’לף בן אלעבאס</author>
+                        <author ref="http://viaf.org/viaf/56636061" key="person_56636061">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013? זהראוי, כ’לף בן אלעבאס</author>
                         <title>Sefer ha-ḥefets ha-shalem (Book 2)</title>
                         <title xml:lang="he">החפץ השלם (ספר ב)</title>
                         <note>Translated from the Arabic by <persName key="person_7015">Meshullam ben Yonah</persName>
@@ -240,7 +240,7 @@
                   <msContents>
                      <msItem xml:id="MS_Reggio_43-part4-item1" n="4">
                         <locus>ff. 65r-68r</locus>
-                        <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון, 1138-1204</author>
+                        <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204 משה בן מימון, 1138-1204</author>
                         <title>Guide for the Perplexed (Moreh Nevukhim, 3:27-29)</title>
                         <title xml:lang="he">מורה נבוכים (חלק ג פרק כז-כט) ‬</title>
                         <note>End is incomplete, scribal note in the lower margin of fol. 68r: <foreign xml:lang="he">אין יותר בהעתק</foreign>
@@ -257,7 +257,7 @@
                      </msItem>
                      <msItem xml:id="MS_Reggio_43-part4-item3" n="5">
                         <locus>ff. 69v-73v</locus>
-                        <author key="person_105133145">Fārābīפראבי, מחמד בן מחמד אבו נצר</author>
+                        <author key="person_105133145">Fārābī פראבי, מחמד בן מחמד אבו נצר</author>
                         <title>Treatise on the soul (Maʾamar be-mahut ha-nefesh)</title>
                         <title xml:lang="he">מאמר במהות הנפש</title>
                         <note>Translated from the Arabic by <persName ref="http://viaf.org/viaf/298816042" key="person_47564933">Zerahiah ben Isaac ben Shealtiel</persName>.</note>
@@ -308,7 +308,7 @@
                   <msContents>
                      <msItem xml:id="MS_Reggio_43-part5-item1" n="7">
                         <locus>ff. 74v-103r</locus>
-                        <author key="person_685">Judah ben Moses ben Ḥayim ha-Sefaradiיהודה בן משה בן חיים הספרדי ‬</author>
+                        <author key="person_685">Judah ben Moses ben Ḥayim ha-Sefaradi יהודה בן משה בן חיים הספרדי ‬</author>
                         <title>Treatise on the sciences</title>
                         <title xml:lang="he">חבור על המדעים</title>
                         <textLang mainLang="he">Hebrew</textLang>

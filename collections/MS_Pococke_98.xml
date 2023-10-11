@@ -48,7 +48,7 @@
                   <summary>Mishneh Torah (Sefer Nashim) by Maimonides</summary>
                   <msItem xml:id="MS_Pococke_98-item1" n="1">
                      <locus>ff. 1r-183v</locus>
-                     <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204משה בן מימון</author>
+                     <author ref="http://viaf.org/viaf/100185495/" key="person_100185495">Maimonides, Moses, 1135-1204 משה בן מימון</author>
                      <title>Mishneh Torah (Sefer Nashim) </title><title xml:lang="he">משנה תורה בערבית (ספר נשים)</title>
                      
                      <note>Volume 1 of a 2-volume set, for volume 2 see <ref target="MS_Poc_106">MS. Poc. 106</ref>.</note>

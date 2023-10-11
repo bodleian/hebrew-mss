@@ -48,7 +48,7 @@
                   <summary>Legal decisions of Isaiah di Trani the Elder</summary>
                   <msItem xml:id="MS_Canonici_Or_89-item1" n="1">
                      <locus>ff. 1r-234v</locus>
-                     <author ref="http://viaf.org/viaf/28447292" key="person_98318342">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
+                     <author ref="http://viaf.org/viaf/28447292" key="person_98318342">Isaiah ben Mali, di Trani, approximately 1200- טרני, ישעיה בן אליהו די</author>
                      <title>Pisḳe Rid </title><title xml:lang="he">פסקי רי"ד</title>
                      
                      <note>Second volume of a two-volume codex; volume 1 is <ref target="#MS_Can_Or_90">MS Can. 90</ref>
@@ -57,7 +57,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_89-item2" n="2">
                      <locus>ff. 236v-257r</locus>
-                     <author ref="http://viaf.org/viaf/28447292" key="person_98318342">Isaiah ben Mali, di Trani, approximately 1200-טרני, ישעיה בן אליהו די</author>
+                     <author ref="http://viaf.org/viaf/28447292" key="person_98318342">Isaiah ben Mali, di Trani, approximately 1200- טרני, ישעיה בן אליהו די</author>
                      <title>Sefer ha-Makriaʿ </title><title xml:lang="he">ספר המכריע</title>
                      
                      <note>Written for Rabbi Menaḥem ben Binjamin.</note>

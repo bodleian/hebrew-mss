@@ -56,7 +56,7 @@
                   </msItem>
                   <msItem xml:id="MS_Huntington_343-item2" n="2">
                      <locus>ff. 3r-278v</locus>
-                     <author ref="http://viaf.org/viaf/66823723" key="person_66823723">Aḥa, of Shabḥa, 680-752אחאי, משבחא, גאון, 680-752</author>
+                     <author ref="http://viaf.org/viaf/66823723" key="person_66823723">Aḥa, of Shabḥa, 680-752 אחאי, משבחא, גאון, 680-752</author>
                      <title>Responsa </title><title xml:lang="he">שאילתות</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>

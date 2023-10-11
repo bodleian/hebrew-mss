@@ -48,7 +48,7 @@
                   <summary>Miscellany of rabbinic texts</summary>
                   <msItem xml:id="MS_Canonici_Or_83-item1" n="1">
                      <locus>ff. 1r-18v</locus>
-                     <author key="person_663">Yaʿaḳov ben Shimshonיעקב בן שמשון</author>
+                     <author key="person_663">Yaʿaḳov ben Shimshon יעקב בן שמשון</author>
                      <title>Commentary on the Mishnah (Tractate Avot)</title>
                      <title>
                         </title><title xml:lang="he">פרוש המשנה (אבות) ‬</title>
@@ -57,7 +57,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_83-item2" n="2">
                      <locus>ff. 19r-42v</locus>
-                     <author ref="http://viaf.org/viaf/8698827" key="person_8698827">Samson ben Zadok, -1312שמשון בן צדוק</author>
+                     <author ref="http://viaf.org/viaf/8698827" key="person_8698827">Samson ben Zadok, -1312 שמשון בן צדוק</author>
                      <title>Tashbets</title>
                      <title>
                         </title><title xml:lang="he">תשב"ץ</title>
@@ -66,7 +66,7 @@
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_83-item3" n="3">
                      <locus>ff. 43r-48r</locus>
-                     <author key="person_665">Eliezer (13th-14th century)אליעזר (מאה י"ג-י"ד)</author>
+                     <author key="person_665">Eliezer (13th-14th century) אליעזר (מאה י"ג-י"ד)</author>
                      <title>Liḳuṭe dinim</title>
                      <title>
                         </title><title xml:lang="he">לקוטי דינים</title>

@@ -48,7 +48,7 @@
                   <summary>Orlando furioso</summary>
                   <msItem xml:id="MS_Canonici_Or_6-item1" n="1">
                      <locus>ff. 5r-196v</locus>
-                     <author ref="http://viaf.org/viaf/71386455" key="person_71386455">Ariosto, Lodovico, 1474-1533אריוסטו, לודוביקו</author>
+                     <author ref="http://viaf.org/viaf/71386455" key="person_71386455">Ariosto, Lodovico, 1474-1533 אריוסטו, לודוביקו</author>
                      <title>Orlando furioso </title><title xml:lang="he">אורלאנדו פורייוזו</title>
                      
                      <textLang mainLang="it">Italian written in Hebrew characters.</textLang>

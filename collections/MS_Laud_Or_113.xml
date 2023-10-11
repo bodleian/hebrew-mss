@@ -136,7 +136,7 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_113-part1-item8" n="8">
                         <locus>ff.62v-64v</locus>
-                        <author ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotleאריסטו(מיוחס לו)</author>
+                        <author ref="http://viaf.org/viaf/7524651" key="person_7524651">Aristotle אריסטו(מיוחס לו)</author>
                         <title>Sod ha-sodot</title>
                         <title xml:lang="he">סוד הסודות</title>
                         <textLang mainLang="he">Hebrew</textLang>

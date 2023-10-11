@@ -48,7 +48,7 @@
                   <summary>Collection of astronomical texts</summary>
                   <msItem xml:id="MS_Reggio_14-item1" n="1">
                      <locus>ff. 1v-9r</locus>
-                     <author ref="http://viaf.org/viaf/90633023" key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164אבן עזרא, אברהם בן מאיר, 1089-1164</author>
+                     <author ref="http://viaf.org/viaf/90633023" key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164 אבן עזרא, אברהם בן מאיר, 1089-1164</author>
                      <title>Keli ha-Nehoshet</title>
                      <title>
                         </title><title xml:lang="he">כלי הנחשת</title>
@@ -58,7 +58,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_14-item2" n="2">
                      <locus>ff. 17v-30r</locus>
-                     <author ref="http://viaf.org/viaf/79269165" key="person_79269165">Ibn Tibbon, Jacob ben Machir, approximately 1236-יעקב בן מכיר</author>
+                     <author ref="http://viaf.org/viaf/79269165" key="person_79269165">Ibn Tibbon, Jacob ben Machir, approximately 1236- יעקב בן מכיר</author>
                      <title>Rovaʿ Yiśraʾel (Quadrant of Israel)</title>
                      <title>
                         </title><title xml:lang="he">רובע ישראל</title>
@@ -67,7 +67,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_14-item3" n="3">
                      <locus>ff. 44r-46v</locus>
-                     <author key="person_501">Mosheh Boṭaril Faritsolפריצול, בוטריל משה</author>
+                     <author key="person_501">Mosheh Boṭaril Faritsol פריצול, בוטריל משה</author>
                      <title>Perush luḥot Paras</title>
                      <title>
                         </title><title xml:lang="he">פרוש לוחות פריס</title>
@@ -77,7 +77,7 @@
                   </msItem>
                   <msItem xml:id="MS_Reggio_14-item4" n="4">
                      <locus>ff. 47r-56r</locus>
-                     <author key="person_501">Mosheh Boṭaril Faritsolפריצול, בוטריל משה</author>
+                     <author key="person_501">Mosheh Boṭaril Faritsol פריצול, בוטריל משה</author>
                      <title>Perush luḥot</title>
                      <title>
                         </title><title xml:lang="he">פרוש לוחות</title>

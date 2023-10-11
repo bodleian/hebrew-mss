@@ -86,14 +86,14 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_115-part1-item1" n="1">
                         <locus>ff. 1r-71r</locus>
-                        <author ref="http://viaf.org/viaf/219072992" key="person_219072992">Naḥmanides, approximately 1195-approximately 1270משה בן נחמן</author>
+                        <author ref="http://viaf.org/viaf/219072992" key="person_219072992">Naḥmanides, approximately 1195-approximately 1270 משה בן נחמן</author>
                         <title>Commentary on the Book of Job </title><title xml:lang="he">פרוש כתובים לרמב"ן (איוב)</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_115-part1-item2" n="2">
                         <locus>ff.73r-138r</locus>
-                        <author ref="http://viaf.org/viaf/59118174" key="person_59118174">Levi ben Gershom, 1288-1344לוי בן גרשום</author>
+                        <author ref="http://viaf.org/viaf/59118174" key="person_59118174">Levi ben Gershom, 1288-1344 לוי בן גרשום</author>
                         <title>Commentary on Proverbs </title><title xml:lang="he">פרוש כתובים לרלב"ג (משלי)</title>
                         
                         <colophon>
@@ -141,14 +141,14 @@
                   <msContents>
                      <msItem xml:id="MS_Laud_Or_115-part2-item1" n="3">
                         <locus>ff.139r-141v</locus>
-                        <author ref="http://viaf.org/viaf/88127746" key="person_88127746">Abulafia, Meir, approximately 1180-1244אבולעפיה מאיר בן טודרוס הלוי</author>
+                        <author ref="http://viaf.org/viaf/88127746" key="person_88127746">Abulafia, Meir, approximately 1180-1244 אבולעפיה מאיר בן טודרוס הלוי</author>
                         <title>Poems </title><title xml:lang="he">שירים</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_115-part2-item2" n="4">
                         <locus>ff.141v-143v</locus>
-                        <author ref="http://viaf.org/viaf/88127746" key="person_88127746">Abulafia, Meir, approximately 1180-1244אבולעפיה מאיר בן טודרוס הלוי</author>
+                        <author ref="http://viaf.org/viaf/88127746" key="person_88127746">Abulafia, Meir, approximately 1180-1244 אבולעפיה מאיר בן טודרוס הלוי</author>
                         <title>Poems </title><title xml:lang="he">שירים</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
@@ -161,7 +161,7 @@
                      </msItem>
                      <msItem xml:id="MS_Laud_Or_115-part2-item4" n="6">
                         <locus>ff.161v-166v</locus>
-                        <author key="person_496">Eliyah ben Yitsḥaḳ ibn Yiśraʾel (?)אליה בן יצחק אבן ישראל(?)</author>
+                        <author key="person_496">Eliyah ben Yitsḥaḳ ibn Yiśraʾel (?) אליה בן יצחק אבן ישראל(?)</author>
                         <title>Gevir shevaʿ ṿe-nasi beyn atsilim: Laws of Shekhitah in rhymes </title><title xml:lang="he">גביר שוע ונשיא בין אצילים : הלכות שחיטה בחרוזים</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
