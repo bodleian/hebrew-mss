@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
-                  <idno>MS. Pococke 192</idno>
+                  <idno>MS. Pococke 192</idno><idno type="ieArk">ark:29072/x08k71nh77fr</idno><idno type="crArk">ark:29072/x08g84mm944w</idno>
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Pococke_192-item1" n="1">

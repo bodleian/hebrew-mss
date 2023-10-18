@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
-                  <idno>MS. Pococke 181</idno>
+                  <idno>MS. Pococke 181</idno><idno type="ieArk">ark:29072/x08c97kr10tv</idno><idno type="crArk">ark:29072/x08910jv27hn</idno>
                </msIdentifier>
                <msContents>
                   <summary>Collection of philosophical texts</summary>
