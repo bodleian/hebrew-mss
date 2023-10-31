@@ -49,7 +49,7 @@
                   </summary>
                   <msItem xml:id="MS_187-item1" n="1">
                      <locus from="1a" to="39b">ff. 1r-39v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485 וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033"><persName>Versor, Johannes, -approximately 1485 </persName><persName xml:lang="he">וירשוריו</persName></author>
                      <editor role="translator">
                         <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
@@ -74,7 +74,7 @@
                   </msItem>
                   <msItem xml:id="MS_187-item2" n="2">
                      <locus from="39b" to="68a">ff. 39v-68r</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485 וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033"><persName>Versor, Johannes, -approximately 1485 </persName><persName xml:lang="he">וירשוריו</persName></author>
                      <editor role="translator">
                         <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
@@ -97,7 +97,7 @@
                   </msItem>
                   <msItem xml:id="MS_187-item3" n="3">
                      <locus from="68a" to="119a">68r-119r</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485 וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033"><persName>Versor, Johannes, -approximately 1485 </persName><persName xml:lang="he">וירשוריו</persName></author>
                      <editor role="translator">
                         <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
@@ -120,7 +120,7 @@
                   </msItem>
                   <msItem xml:id="MS_187-item4" n="4">
                      <locus from="119b" to="128b">119v-128v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485 וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033"><persName>Versor, Johannes, -approximately 1485 </persName><persName xml:lang="he">וירשוריו</persName></author>
                      <editor role="translator">
                         <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
@@ -142,7 +142,7 @@
                   </msItem>
                   <msItem xml:id="MS_187-item5" n="5">
                      <locus from="128b" to="132b">128v-132v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485 וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033"><persName>Versor, Johannes, -approximately 1485 </persName><persName xml:lang="he">וירשוריו</persName></author>
                      <editor role="translator">
                         <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
@@ -164,7 +164,7 @@
                   </msItem>
                   <msItem xml:id="MS_187-item6" n="6">
                      <locus from="132b" to="136b">132v-136v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485 וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033"><persName>Versor, Johannes, -approximately 1485 </persName><persName xml:lang="he">וירשוריו</persName></author>
                      <editor role="translator">
                         <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
@@ -186,7 +186,7 @@
                   </msItem>
                   <msItem xml:id="MS_187-item7" n="7">
                      <locus from="136b" to="138a">136v-138r</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485 וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033"><persName>Versor, Johannes, -approximately 1485 </persName><persName xml:lang="he">וירשוריו</persName></author>
                      <editor role="translator">
                         <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
@@ -209,7 +209,7 @@
                   </msItem>
                   <msItem xml:id="MS_187-item8" n="8">
                      <locus from="138a" to="150b">138r-150v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485 וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033"><persName>Versor, Johannes, -approximately 1485 </persName><persName xml:lang="he">וירשוריו</persName></author>
                      <editor role="translator">
                         <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
@@ -232,7 +232,7 @@
                   </msItem>
                   <msItem xml:id="MS_187-item9" n="9">
                      <locus from="151a" to="270b">151r-270v</locus>
-                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033">Versor, Johannes, -approximately 1485 וירשוריווירשור</author>
+                     <author ref="http://viaf.org/viaf/78775033" key="person_78775033"><persName>Versor, Johannes, -approximately 1485 </persName><persName xml:lang="he">וירשוריו</persName></author>
                      <editor role="translator">
                         <persName type="standard" key="person_7010">Habillo, Eli ben Joseph</persName>
                         <persName xml:lang="he-Latn-x-lc" type="alt" key="person_7010">Ḥabilyo, ʿEli ben Yosef</persName>
