@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim Add. 4° 97a</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1505</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Pentateuch preceded by anonymous grammatical work</summary>
                   <msItem xml:id="MS_Oppenheim_Add_4_97a-item1" n="1">

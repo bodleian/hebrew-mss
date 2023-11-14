@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Huntington Collection</collection>
                   <idno>MS. Huntington 312</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 294</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Midrash ha-Beʾur by Saadia al-Dhamari</summary>
                   <msItem xml:id="MS_Huntington_312-item1" n="1">

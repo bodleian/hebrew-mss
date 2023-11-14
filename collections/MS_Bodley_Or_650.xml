@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 650</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 405</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Mishnah (Tractate Ḳodashim) by Maimonides</summary>
                   <msItem xml:id="MS_Bodley_Or_650-item1" n="1">

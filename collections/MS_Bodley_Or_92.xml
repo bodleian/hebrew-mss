@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 92</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2131</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Tsori ha-guf by Nathan ben Joel Falaquera</summary>
                   <msItem xml:id="MS_Bodley_Or_92-item1" n="1">

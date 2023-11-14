@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 58</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 163</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Midrash of R. Tobiah bar Eliezer on Ecclesiastes</summary>
                   <msItem xml:id="MS_Reggio_58-item1" n="1">

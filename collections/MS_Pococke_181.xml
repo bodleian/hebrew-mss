@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
                   <idno>MS. Pococke 181</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1334</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of philosophical texts</summary>
                </msContents>

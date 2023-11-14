@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 47</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1215</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Maḥzor in Yiddish for the Days of Awe Ashkenazi rite</summary>
                   <msItem xml:id="MS_Canonici_Or_47-item1" n="1">

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 2</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1513</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>ʿArukh</summary>
                   <msItem xml:id="MS_Canonici_Or_2-item1" n="1">

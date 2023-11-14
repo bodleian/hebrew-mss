@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 316</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 689</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of halakhical texts</summary>
                   <msItem xml:id="MS_Laud_Or_316-item1" n="1">

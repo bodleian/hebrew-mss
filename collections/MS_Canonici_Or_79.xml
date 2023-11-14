@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 79</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 711</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Arbaʾah Ṭurim (Even ha-ʾezer, Ḥoshen mishpaṭ)‏</summary>
                   <msItem xml:id="MS_Canonici_Or_79-item1" n="1">

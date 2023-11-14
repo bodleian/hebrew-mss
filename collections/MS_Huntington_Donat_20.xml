@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Huntington Collection</collection>
                   <idno>MS. Huntington Donat. 20</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 153</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Midrash Tanḥuma</summary>
                   <msItem xml:id="MS_Huntington_Donat_20-item1" n="1">

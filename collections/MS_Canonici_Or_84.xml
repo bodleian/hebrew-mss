@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 84</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 94</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Writings</summary>
                   <msItem xml:id="MS_Canonici_Or_84-item1" n="1">

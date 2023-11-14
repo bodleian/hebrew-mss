@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 110</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1124</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sidur for the entire year, Ashkenazi rite</summary>
                   <msItem xml:id="MS_Canonici_Or_110-item1" n="1">

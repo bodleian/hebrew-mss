@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 60</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 64</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Fragment: Deuteronomy 9:5-9</summary>
                   <msItem xml:id="MS_Reggio_60-item1" n="1">

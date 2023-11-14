@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 49A</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1083</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Miscellany</summary>
                </msContents>

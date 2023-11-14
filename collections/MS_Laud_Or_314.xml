@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 314</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1174</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Haggadah shel Pesaḥ ke-minhag Aleppo (Aram Tsuvah)</summary>
                   <msItem xml:id="MS_Laud_Or_314-item1" n="1">

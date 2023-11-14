@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 58</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2147</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Milḥamot ha-Shem by Yaʿaḳov ben Reʾuven</summary>
                   <msItem xml:id="MS_Bodley_Or_58-item1" n="1">

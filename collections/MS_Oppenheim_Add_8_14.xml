@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim Add. 8° 14</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1142</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sidur for the entire year, minhag Carpentras</summary>
                   <msItem xml:id="MS_Oppenheim_Add_8_14-item1" n="1">

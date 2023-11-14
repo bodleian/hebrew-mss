@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 803</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 3</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Pentateuch (Lev. 3:1-)</summary>
                   <msItem xml:id="MS_Bodley_Or_803-item1" n="1">

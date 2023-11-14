@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 30</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 886</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sefer Mitsṿot Ḳaṭan</summary>
                   <msItem xml:id="MS_Canonici_Or_30-item1" n="1">

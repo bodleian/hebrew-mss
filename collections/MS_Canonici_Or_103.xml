@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 103</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1165</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sidur for the entire year, Italian rite</summary>
                   <msItem xml:id="MS_Canonici_Or_103-item1" n="1">

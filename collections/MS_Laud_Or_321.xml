@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 321</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2373</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Maḥzor accoring to the Western Ashkenazi rite</summary>
                   <msItem xml:id="MS_Laud_Or_321-item1" n="1">

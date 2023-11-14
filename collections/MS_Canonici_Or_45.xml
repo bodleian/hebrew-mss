@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 45</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 216</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Pentateuch by Abraham ibn Ezra</summary>
                   <msItem xml:id="MS_Canonici_Or_45-item1" n="1">

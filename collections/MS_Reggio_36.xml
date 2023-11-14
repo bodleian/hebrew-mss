@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 36</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 891</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Apiryon ʿaśah lo (part 1: Reḥoboam ben Shlomoh)</summary>
                   <msItem xml:id="MS_Reggio_36-item1" n="1">

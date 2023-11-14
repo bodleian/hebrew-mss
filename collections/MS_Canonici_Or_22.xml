@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 22</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 47</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem xml:id="MS_Canonici_Or_22-item1" n="1">

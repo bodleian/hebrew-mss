@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
                   <idno>MS. Kennicott 4</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2326.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Pentateuch Five Scrolls and Hafṭarot</summary>
                   <msItem xml:id="MS_Kennicott_4-item1" n="1">

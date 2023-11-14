@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
                   <idno>MS. Pococke 307</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 574</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mishneh Torah (Books I-V)</summary>
                   <msItem xml:id="MS_Pococke_307-item1" n="1">

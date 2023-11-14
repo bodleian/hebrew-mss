@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 271</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1206</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Perush ha-Tefilot</summary>
                   <msItem xml:id="MS_Laud_Or_271-item1" n="1">

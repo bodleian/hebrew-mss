@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 32</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 311</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Prophets by David Kimhi</summary>
                   <msItem xml:id="MS_Canonici_Or_32-item1" n="1">

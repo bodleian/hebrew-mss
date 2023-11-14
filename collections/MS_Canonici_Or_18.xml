@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 18</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1062</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Maḥzor for the entire year, Italian rite</summary>
                   <msItem xml:id="MS_Canonici_Or_18-item1" n="1">

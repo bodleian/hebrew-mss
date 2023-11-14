@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Huntington Collection</collection>
                   <idno>MS. Huntington 402</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 294</idno></altIdentifier></msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Huntington_402-item1" n="1">
                      <locus>ff.</locus>

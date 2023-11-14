@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
                   <idno>MS. Kennicott 5</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2329.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Former Prophets with Targum and various commentaries</summary>
                   <msItem xml:id="MS_Kennicott_5-item1" n="1">

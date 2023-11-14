@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 71</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1252</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Moreh Nevukhim with additional texts by Shmuel ibn Tibbon</summary>
                </msContents>

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 108</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2233</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of texts on medicine</summary>
                </msContents>

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 96</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 345</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>
                      <title>Perush ketuvim le-Ralbag (Iob)</title>

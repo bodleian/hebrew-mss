@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Marsh Collection</collection>
                   <idno>MS. Marsh 382</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 587</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Miscellany</summary>
                </msContents>

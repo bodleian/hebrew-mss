@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 24</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1122</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sidur for the entire year, French rite</summary>
                   <msItem xml:id="MS_Bodley_Or_24-item1" n="1">

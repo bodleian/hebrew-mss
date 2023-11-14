@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Huntington Collection</collection>
                   <idno>MS. Huntington 98</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2038</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Bet Elohim by Moses Almosnino</summary>
                   <msItem xml:id="MS_Huntington_98-item1" n="1">

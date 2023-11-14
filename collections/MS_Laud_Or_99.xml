@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 99</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 663.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sefer ha-Bayit ha-Ḳatsir (The Short Law of the House)</summary>
                   <msItem xml:id="MS_Laud_Or_99-item1" n="1">

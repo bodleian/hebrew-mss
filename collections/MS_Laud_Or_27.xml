@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 27</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1134.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Siddur, Sephardi rite</summary>
                   <msItem xml:id="MS_Laud_Or_27-item1" n="1">

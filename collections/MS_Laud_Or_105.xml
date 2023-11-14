@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 105</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1468</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Abraham ibn Ezra: Tsaḥut ba-diḳduḳ</summary>
                   <msItem xml:id="MS_Laud_Or_105-item1" n="1">

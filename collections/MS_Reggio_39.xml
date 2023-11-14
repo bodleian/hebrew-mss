@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 39</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1307</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Shaʿare Gan ʿeden</summary>
                   <msItem xml:id="MS_Reggio_39-item1" n="1">

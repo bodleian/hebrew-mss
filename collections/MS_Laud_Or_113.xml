@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 113</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2142</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Miscellaneous notes on medicine</summary>
                </msContents>

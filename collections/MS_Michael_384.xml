@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Michael Collection</collection>
                   <idno>MS. Michael 384</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 187</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Rashi's Torah commentary</summary>
                   <msItem xml:id="MS_Michael_384-item1" n="1">

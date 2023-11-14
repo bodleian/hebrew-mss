@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 30</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1902</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>138 pitḥe ḥokhmah By Moshe Ḥayyim Luzzatto</summary>
                   <msItem xml:id="MS_Reggio_30-item1" n="1">

@@ -46,7 +46,7 @@
                   <altIdentifier>
                      <idno type="sum_cat_no">20354</idno>
                   </altIdentifier>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1104</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sidur according to the Ashkenazi rite (Würzburg Siddur)</summary>
                   <msItem xml:id="MS_Canonici_Or_1-item1" n="1">

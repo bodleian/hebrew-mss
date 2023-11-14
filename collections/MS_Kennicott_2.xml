@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
                   <idno>MS. Kennicott 2</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2323.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible</summary>
                   <msItem xml:id="MS_Kennicott_2-item1" n="1">

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 41</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 33</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Pentateuch with Hafṭarot</summary>
                   <msItem xml:id="MS_Canonici_Or_41-item1" n="1">

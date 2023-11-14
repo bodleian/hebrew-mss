@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 50</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2480</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Risposta al Libro che fu dato alle stampa del Padre Pinamonti intitolato la sinagoga disingamnato</summary>
                   <msItem xml:id="MS_Reggio_50-item1" n="1">

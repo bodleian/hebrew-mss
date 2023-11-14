@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 65</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 127</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Ohev Mishpaṭ</summary>
                   <msItem xml:id="MS_Canonici_Or_65-item1" n="1">

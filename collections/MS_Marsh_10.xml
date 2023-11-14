@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Marsh Collection</collection>
                   <idno>MS. Marsh 10</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 53</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem xml:id="MS_Marsh_10-item1" n="1">

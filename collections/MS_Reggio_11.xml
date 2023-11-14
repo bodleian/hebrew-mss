@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 11</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1306</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of philosophical texts</summary>
                </msContents>

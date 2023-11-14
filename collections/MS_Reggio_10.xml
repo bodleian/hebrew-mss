@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 10</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1305</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Bet yaʻar ha-Levanon IV</summary>
                   <msItem xml:id="MS_Reggio_10-item1" n="1">

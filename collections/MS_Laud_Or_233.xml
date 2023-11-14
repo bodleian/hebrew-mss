@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 233</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 709</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Arbaʿah Ṭurim (Yoreh Deʿah)</summary>
                   <msItem xml:id="MS_Laud_Or_233-item1" n="1">

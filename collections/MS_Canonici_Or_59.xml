@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 59</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1406</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Meshal ha-Ḳadmoni</summary>
                   <msItem xml:id="MS_Canonici_Or_59-item1" n="1">

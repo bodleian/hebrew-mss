@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 43</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2047</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <p>ff. 103</p>
                   <bindingDesc>

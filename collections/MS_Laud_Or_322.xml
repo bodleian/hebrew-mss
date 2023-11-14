@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 322</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 643</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>
                      <title>Isaiah Trani, Pisḳe Riaz</title>

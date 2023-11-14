@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 72</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 652</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Torat ha-Adam</summary>
                   <msItem xml:id="MS_Canonici_Or_72-item1" n="1">

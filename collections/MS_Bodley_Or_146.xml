@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 146</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 782</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sefer ha-Parnas by Mosheh Parnas</summary>
                   <msItem xml:id="MS_Bodley_Or_146-item1" n="1">

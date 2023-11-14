@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Huntington Collection</collection>
                   <idno>MS. Huntington 343</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 540</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Responsa by Aḥa, gaon of of Shabḥa</summary>
                   <msItem xml:id="MS_Huntington_343-item1" n="1">

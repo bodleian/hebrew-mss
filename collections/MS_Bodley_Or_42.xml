@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 42</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1348</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Ḳaṿanot ha-Filozofim (Part 1) by Ghazzālī</summary>
                   <msItem xml:id="MS_Bodley_Or_42-item1" n="1">

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 4</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 245</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Aaron ben Joseph's commentaries on the Bible</summary>
                   <msItem xml:id="MS_Reggio_4-item1" n="1">

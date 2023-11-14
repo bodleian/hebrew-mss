@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 48</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1393</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Alessandro Piccolomini's philosophical works</summary>
                   <msItem xml:id="MS_Reggio_48-item1" n="1">

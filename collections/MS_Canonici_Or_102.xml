@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 102</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1120</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Prayer book, Western Ashkenazi rite</summary>
                   <msItem xml:id="MS_Canonici_Or_102-item1" n="1">

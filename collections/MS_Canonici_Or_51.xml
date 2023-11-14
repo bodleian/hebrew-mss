@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 51</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 327</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Book of Psalms by Joseph Ḥayyun</summary>
                   <msItem xml:id="MS_Canonici_Or_51-item1" n="1">

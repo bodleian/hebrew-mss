@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Collection</collection>
                   <idno>MS. Canonici Or. 89</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 635</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Legal decisions of Isaiah di Trani the Elder</summary>
                   <msItem xml:id="MS_Canonici_Or_89-item1" n="1">

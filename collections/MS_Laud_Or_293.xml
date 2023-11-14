@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 293</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1469</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mikhlol by David Kimhi</summary>
                   <msItem xml:id="MS_Laud_Or_293-item1" n="1">

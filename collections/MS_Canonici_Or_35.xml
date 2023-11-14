@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 35</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 192</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Pentateuch by Rashi</summary>
                   <msItem xml:id="MS_Canonici_Or_35-item1" n="1">

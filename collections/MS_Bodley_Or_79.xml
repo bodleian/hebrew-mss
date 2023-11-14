@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 79</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1504</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew-Arabic dictionary to the Bible and the Mishnah</summary>
                   <msItem xml:id="MS_Bodley_Or_79-item1" n="1">

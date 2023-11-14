@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 43</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2098</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Avicenna: Canon (Book I)</summary>
                   <msItem xml:id="MS_Canonici_Or_43-item1" n="1">

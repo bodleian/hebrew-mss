@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 249</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 369</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Talmud Bavli, Seder Neziḳin (Bava Batra 9-79)</summary>
                   <msItem xml:id="MS_Oppenheim_249-item1" n="1">

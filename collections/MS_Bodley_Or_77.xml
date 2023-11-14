@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 77</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1359</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Ḳitsur mi-kol melekhet ha-higayon by Averroës</summary>
                   <msItem xml:id="MS_Bodley_Or_77-item1" n="1">

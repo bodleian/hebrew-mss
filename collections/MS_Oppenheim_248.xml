@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 248</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 367</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Talmud Bavli, Seder Nashim (Yevamot and Ḳidushin)</summary>
                   <msItem xml:id="MS_Oppenheim_248-item1" n="1">

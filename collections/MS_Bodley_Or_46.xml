@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 46</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 101</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible Writings</summary>
                   <msItem xml:id="MS_Bodley_Or_46-item1" n="1">

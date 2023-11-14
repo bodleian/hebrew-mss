@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 61</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1200</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Shir ha-yiḥud&gt;</summary>
                   <msItem xml:id="MS_Canonici_Or_61-item1" n="1">

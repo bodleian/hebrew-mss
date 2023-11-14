@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 8</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1347</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of philosophical works</summary>
                </msContents>

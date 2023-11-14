@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 282</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2067</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Libro di Magiḳah ḳi ḳonpos</summary>
                   <msItem xml:id="MS_Laud_Or_282-item1" n="1">

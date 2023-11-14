@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 574</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1564</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Zohar on Genesis-Exodus</summary>
                   <msItem xml:id="MS_Bodley_Or_574-item1" n="1">

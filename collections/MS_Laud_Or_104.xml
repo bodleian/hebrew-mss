@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 104</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2053</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Abraham Farissol: Igeret orḥot olam</summary>
                   <msItem xml:id="MS_Laud_Or_104-item1" n="1">

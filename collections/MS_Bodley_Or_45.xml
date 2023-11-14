@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 45</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1292</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Ahavah ba-Taʿanugim by Mosheh ben Yehudah</summary>
                   <msItem xml:id="MS_Bodley_Or_45-item1" n="1">

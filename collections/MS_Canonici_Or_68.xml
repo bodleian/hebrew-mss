@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 68</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 324</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Book of Psalms by David Kimhi</summary>
                   <msItem xml:id="MS_Canonici_Or_68-item1" n="1">

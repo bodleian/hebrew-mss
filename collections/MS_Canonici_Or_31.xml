@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 31</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 555</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sefer baʿale ha-nefesh</summary>
                   <msItem xml:id="MS_Canonici_Or_31-item1" n="1">

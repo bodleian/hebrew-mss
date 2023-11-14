@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 114</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1011</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sermons</summary>
                   <msItem xml:id="MS_Laud_Or_114-item1" n="1">

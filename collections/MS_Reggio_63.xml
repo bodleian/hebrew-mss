@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 63</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1081</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Maḥzor according to the Sephardi rite with additional texts in the margins</summary>
                   <msItem xml:id="MS_Reggio_63-item1" n="1">

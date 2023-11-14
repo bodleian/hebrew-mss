@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 100</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1093</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Maḥzor for the Days of Awe and Sukkot, Sephardi rite</summary>
                   <msItem xml:id="MS_Canonici_Or_100-item1" n="1">

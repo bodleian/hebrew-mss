@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 234</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1250</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Moreh Nevukhim</summary>
                   <msItem xml:id="MS_Laud_Or_234-item1" n="1">

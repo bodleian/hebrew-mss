@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim Add. 4° 124c</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2338</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Midrash ha-Gadol (Leviticus)</summary>
                   <msItem xml:id="MS_Oppenheim_Add_4_124c-item1" n="1">

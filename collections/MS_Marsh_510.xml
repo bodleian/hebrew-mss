@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Marsh Collection</collection>
                   <idno>MS. Marsh 510</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 600</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mishneh Torah (Sefer Zeraʿim)</summary>
                   <msItem xml:id="MS_Marsh_510-item1" n="1">

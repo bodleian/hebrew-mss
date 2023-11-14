@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 78</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 568</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mishneh Torah</summary>
                   <msItem xml:id="MS_Canonici_Or_78-item1" n="1">

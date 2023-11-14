@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
                   <idno>MS. Kennicott 9</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2341.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Various readings from the Targum</summary>
                   <msItem xml:id="MS_Kennicott_9-item1" n="1">

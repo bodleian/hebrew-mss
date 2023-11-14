@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 23</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2234</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Extracts from philosophical and kabbalistic works and novellae</summary>
                   <msItem xml:id="MS_Reggio_23-item1" n="1">

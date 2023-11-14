@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
                   <idno>MS. Pococke 68</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 407</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Mishnah by Maimonides (Sanhedrin 10 [Ḥeleḳ Pereḳ], Avot)</summary>
                   <msItem xml:id="MS_Pococke_68-item1" n="1">

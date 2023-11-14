@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 85</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1611</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Pentateuch by Menahem Recanati</summary>
                   <msItem xml:id="MS_Canonici_Or_85-item1" n="1">

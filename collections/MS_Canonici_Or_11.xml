@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 11</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 169</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Italian translation of the Pentateuch</summary>
                   <msItem xml:id="MS_Canonici_Or_11-item1" n="1">

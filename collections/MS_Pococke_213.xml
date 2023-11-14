@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
                   <idno>MS. Pococke 213</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 323</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Pococke_213-item1" n="1">

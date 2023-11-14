@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 6</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 113</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Book of Psalms</summary>
                   <msItem xml:id="MS_Bodley_Or_6-item1" n="1">

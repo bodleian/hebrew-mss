@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 126</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 299</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Prophets (Isaiah-Jeremiah)</summary>
                   <msItem xml:id="MS_Laud_Or_126-item1" n="1">

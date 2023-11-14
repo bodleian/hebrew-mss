@@ -46,7 +46,7 @@
                   <altIdentifier>
                      <idno type="sum_cat_no">20431</idno>
                   </altIdentifier>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 51</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Pentateuch with Hafṭarot and Five Scrolls</summary>
                   <msItem xml:id="MS_Canonici_Or_77-item1" n="1">

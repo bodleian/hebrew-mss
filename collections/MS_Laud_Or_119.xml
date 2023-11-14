@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 119</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1627</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Haskamat ha-filosofim ṿeha-itsṭagninim ṿeha-meḳubalim</summary>
                   <msItem xml:id="MS_Laud_Or_119-item1" n="1">

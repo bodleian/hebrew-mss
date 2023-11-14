@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 118</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 111</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Book of Psalms</summary>
                   <msItem xml:id="MS_Laud_Or_118-item1" n="1">

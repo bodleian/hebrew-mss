@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 87</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2166</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Ṿikuaḥ ha-dat (Magen Faritsol) by Abraham Farissol</summary>
                   <msItem xml:id="MS_Bodley_Or_87-item1" n="1">

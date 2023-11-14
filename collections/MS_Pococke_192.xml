@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
                   <idno>MS. Pococke 192</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1977</idno></altIdentifier></msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Pococke_192-item1" n="1">
                      <locus>ff. 1r-189r</locus>

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 19</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 704</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Arbaʿah Ṭurim (Oraḥ ḥayim)</summary>
                   <msItem xml:id="MS_Canonici_Or_19-item1" n="1">

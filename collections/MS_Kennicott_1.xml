@@ -44,7 +44,7 @@
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
                   <idno>MS. Kennicott 1</idno>
                   <msName>Kennicott Bible</msName>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2322</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Bible with D. Kimhi's Sefer Mikhlol</summary>
                   <msItem xml:id="MS_Kennicott_1-item1" n="1">

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim Add. 4° 124a</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2338</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Midrash ha-Gadol (Genesis)</summary>
                   <msItem xml:id="MS_Oppenheim_Add_4_124a-item1" n="1">

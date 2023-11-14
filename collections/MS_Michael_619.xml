@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Michael Collection</collection>
                   <idno>MS. Michael 619</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2374</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Tripartite Mahzor, volume 3</summary>
                   <msItem xml:id="MS_Michael_619-item1" n="1">

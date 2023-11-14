@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 174</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 117</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Ketuvim (Tehilim)</summary>
                   <msItem xml:id="MS_Laud_Or_174-item1" n="1">

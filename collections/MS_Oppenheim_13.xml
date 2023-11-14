@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 13</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 23</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>entateuch with Targum Onkelos, Hafṭarot and Five Scrolls</summary>
                   <msItem xml:id="MS_Oppenheim_13-item1" n="1">

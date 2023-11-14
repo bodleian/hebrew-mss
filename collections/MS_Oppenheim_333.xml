@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 333</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 869</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Amude Shlomoh</summary>
                   <msItem xml:id="MS_Oppenheim_333-item1" n="1">

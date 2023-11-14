@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 14</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 409</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mishnah Commentary by Maimonides</summary>
                   <msItem xml:id="MS_Canonici_Or_14-item1" n="1">

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
                   <idno>MS. Pococke 295</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 404.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on Mishnah Nezikin and Kodashim</summary>
                   <msItem xml:id="MS_Pococke_295-item1" n="1">

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 103</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1535</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Miscellany</summary>
                </msContents>

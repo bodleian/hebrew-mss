@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 101</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 65</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hafṭarot for the entire year</summary>
                   <msItem xml:id="MS_Canonici_Or_101-item1" n="1">

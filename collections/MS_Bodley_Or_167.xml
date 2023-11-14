@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 167</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1036</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Maḥzor for the Days of Awe and Sukkot, Western Ashkenazi rite</summary>
                   <msItem xml:id="MS_Bodley_Or_167-item1" n="1">

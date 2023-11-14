@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
                   <idno>MS. Kennicott 8</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2332.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Books of Psalms, Job and Proverbs</summary>
                   <msItem xml:id="MS_Kennicott_8-item1" n="1">

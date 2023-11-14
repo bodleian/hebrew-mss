@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 100</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 604</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mishneh Torah, Book Ten (Sefer Ṭohorah)</summary>
                   <msItem xml:id="MS_Laud_Or_100-item1" n="1">

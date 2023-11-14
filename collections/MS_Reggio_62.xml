@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 62</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1182</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sefer shire tehilah</summary>
                   <msItem xml:id="MS_Reggio_62-item1" n="1">

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 98</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1341.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of philosophical texts</summary>
                   <msItem xml:id="MS_Laud_Or_98-item1" n="1">

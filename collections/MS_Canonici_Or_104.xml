@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 104</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1403</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Miscellany</summary>
                   <msItem xml:id="MS_Canonici_Or_104-item1" n="1">

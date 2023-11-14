@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 101</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 240</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of biblical commentaries</summary>
                </msContents>

@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
                   <idno>MS. Pococke 368</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2044.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of astronomical texts</summary>
                   <msItem xml:id="MS_Pococke_368-item1" n="1">

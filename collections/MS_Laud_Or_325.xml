@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 325</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 95</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>
                      <title>Ketuvim</title>

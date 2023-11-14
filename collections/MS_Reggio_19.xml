@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 19</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1994</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>ʾEleh toldot Yitsḥaḳ</summary>
                   <msItem xml:id="MS_Reggio_19-item1" n="1">

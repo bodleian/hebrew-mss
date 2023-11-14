@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
                   <idno>MS. Pococke 106</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 615</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mishneh Torah (Sefer Nashim) by Maimonides</summary>
                   <msItem xml:id="MS_Pococke_106-item1" n="1">

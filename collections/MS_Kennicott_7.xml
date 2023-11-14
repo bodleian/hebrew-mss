@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
                   <idno>MS. Kennicott 7</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2331.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Fragments of the Latter Prophets</summary>
                   <msItem xml:id="MS_Kennicott_7-item1" n="1">

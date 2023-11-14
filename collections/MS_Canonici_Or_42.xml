@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 42</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 31</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Pentateuch with Hafṭarot and Five Scrolls.</summary>
                   <msItem xml:id="MS_Canonici_Or_42-item1" n="1">

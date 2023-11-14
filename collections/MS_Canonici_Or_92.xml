@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 92</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2131</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Tsori ha-guf</summary>
                   <msItem xml:id="MS_Canonici_Or_92-item1" n="1">

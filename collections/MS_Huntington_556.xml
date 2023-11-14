@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Huntington Collection</collection>
                   <idno>MS. Huntington 556</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 241</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Supercommentary on Rashi and on Ramban on the Pentateuch</summary>
                   <msItem xml:id="MS_Huntington_556-item1" n="1">

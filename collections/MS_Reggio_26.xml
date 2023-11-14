@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
                   <idno>MS. Reggio 26</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 2396</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <p>ff. 136</p>
                   <bindingDesc>

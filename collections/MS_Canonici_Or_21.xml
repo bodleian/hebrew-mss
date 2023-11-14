@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
                   <idno>MS. Canonici Or. 21</idno>
-               </msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 1434</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on Aristotle's Nicomachean Ethics by Ben Shem Tov</summary>
                   <msItem xml:id="MS_Canonici_Or_21-item1" n="1">
