@@ -152,8 +152,7 @@
                     <persName type="display">Modena, Leone, 1571-1648</persName>
                     <persName type="display" xml:lang="he">מודינא, יהודה אריה</persName>
                     <persName type="variant">Modena, Leone</persName>
-                    <persName type="variant" xml:lang="he">1571-1648 מודנה, יהודה אריה בן
-                        יצחק</persName>
+                    <persName type="variant" xml:lang="he">1571-1648 מודנה, יהודה אריה בן                        יצחק</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -538,7 +537,7 @@
                 </person>
                 <person xml:id="person_19208002">
                     <persName type="display">Alguadez, Meir ben Solomon, active 1390-1410</persName>
-                    <persName type="display" xml:lang="he">אלגואדיש, מאיר בן</persName>
+                    <persName type="display" xml:lang="he">אלגואדיש, מאיר בן שלמה</persName>
                     <persName type="variant">Alguadez, Meir ben Solomon</persName>
                     <note type="links">
                         <list type="links">
@@ -786,7 +785,9 @@
                     </note>
                 </person>
                 <person xml:id="person_24178631">
-                    <persName type="display">Yosef Ḥamits</persName>
+                    <persName type="display">Ḥamiẓ, Joseph ben Judah -approximately 1676</persName>
+                    <persName type="display" xml:lang="he">חמיץ, יוסף בן יהודה</persName>
+                    <persName type="variant">Yosef Ḥamits</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -806,7 +807,6 @@
                     <persName type="display">Rieti, Moses ben Isaac da, 1388-1460?</persName>
                     <persName type="display" xml:lang="he">ריאיטי, משה בן יצחק</persName>
                     <persName type="variant" xml:lang="he">ריאיטי, משה</persName>
-                    <persName type="variant">Rieti, Moses ben Isaac da, 1388-1460?</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -887,6 +887,7 @@
                     <persName type="display">Ibn al-Jazzār</persName>
                     <persName type="display" xml:lang="he">ג’זאר, אחמד בן אבראהים אבן</persName>
                     <persName type="variant">Aḥmad Ibn-Ibrāhīm Ibn-al-Ǧazzār</persName>
+                    <persName type="variant" xml:lang="ar">ابن الجزار</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -924,6 +925,7 @@
                 <person xml:id="person_28713524">
                     <persName type="display">Moscato, Judah ben Joseph, approximately
                         1530-approximately 1593</persName>
+                    <persName type="display" xml:lang="he">מוסקטו, יהודה בן יוסף</persName>
                     <persName type="variant">Judah Moscato</persName>
                     <note type="links">
                         <list type="links">
@@ -942,6 +944,7 @@
                 </person>
                 <person xml:id="person_29110411">
                     <persName type="display">Albalag, Isaac, active 13th century</persName>
+                    <persName type="display" xml:lang="he">אלבלג, יצחק</persName>
                     <persName type="variant">Albalag, Isaac</persName>
                     <note type="links">
                         <list type="links">
@@ -1057,9 +1060,10 @@
                     </note>
                 </person>
                 <person xml:id="person_31996761">
-                    <persName type="display">Ghazzālī, 1058-1111</persName>
+                    <persName type="display">Ġhazzālī , 1058-1111</persName>
                     <persName type="display" xml:lang="he">אלע’זאלי, מחמד בן מחמד</persName>
-                    <persName type="variant" xml:lang="he">אלע’זאלי, מחמד בן מחמד</persName>
+                    <persName type="variant">Ghazzali</persName>
+                    <persName type="variant" xml:lang="ar">الغزالي، محمد بن محمد، 1058-1111</persName>
                     <persName type="variant" xml:lang="he">גזאלי, מחמד בן מחמד</persName>
                     <note type="links">
                         <list type="links">
@@ -1127,6 +1131,7 @@
                     <persName type="display">Qusṭā ibn Lūqā, approximately 820-approximately
                         912</persName>
                     <persName type="display" xml:lang="he">קוסטה בן לוקה</persName>
+                    <persName type="variant" xml:lang="ar">قسطا بن لوقا</persName>
                     <persName type="variant">Qosta ben Luqa</persName>
                     <note type="links">
                         <list type="links">
@@ -1232,8 +1237,7 @@
                 </person>
                 <person xml:id="person_39270602">
                     <persName type="display">Modon, Shimshon Kohen, 1679-1727</persName>
-                    <persName type="display" xml:lang="he">מודון, שמשון בן יעקב שמשון,
-                        הכהן</persName>
+                    <persName type="display" xml:lang="he">מודון, שמשון בן יעקב שמשון,                        הכהן</persName>
                     <persName type="variant">Shimshon Cohen Modon</persName>
                     <persName type="variant">Shimshon Kohen Modon</persName>
                     <note type="links">
@@ -1252,8 +1256,7 @@
                     </note>
                 </person>
                 <person xml:id="person_39323094">
-                    <persName type="display" xml:lang="he">ענו, בנימין בן אברהם,
-                        1210-1285?</persName>
+                    <persName type="display" xml:lang="he">ענו, בנימין בן אברהם,           1210-1285?</persName>
                     <persName type="variant">Benjamin ben Abraham Anav</persName>
                     <note type="links">
                         <list type="links">
@@ -1289,9 +1292,9 @@
                     </note>
                 </person>
                 <person xml:id="person_41966898">
-                    <persName type="display">Kimḥi, Joseph, approximately 1105-approximately
-                        1170</persName>
-                    <persName type="display" xml:lang="he">יוסף קמחי</persName>
+                    <persName type="display">Kimḥi, Joseph, approximately 1105-approximately 1170</persName>
+                    <persName type="display" xml:lang="he">קמחי, יוסף בן יצחק</persName>
+                    <persName type="variant" xml:lang="he">יוסף קמחי</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1421,8 +1424,7 @@
                         century</persName>
                     <persName type="display" xml:lang="he">זרחיה בן יצחק בן שאלתיאל</persName>
                     <persName type="variant">Zerahiah ben Isaac ben Shealtiel</persName>
-                    <persName type="variant">Gracian, Zerahiah ben Isaac ben Shealtiel, 13th
-                        cent.</persName>
+                    <persName type="variant">Gracian, Zerahiah ben Isaac ben Shealtiel, 13th cent.</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1439,8 +1441,8 @@
                     </note>
                 </person>
                 <person xml:id="person_49101168">
+                    <persName type="display">Nieto, Isaac, 1702-1774</persName>
                     <persName type="display" xml:lang="he">ניטו, יצחק בן דוד</persName>
-                    <persName type="variant">Isaac ben David Noti</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1474,8 +1476,7 @@
                     <persName type="display">Parker, Matthew, 1504-1575</persName>
                     <persName type="display" xml:lang="he">פרקר, מתיו, בישוף מקנטבורי</persName>
                     <persName type="variant">Parker, Matthew</persName>
-                    <persName type="variant" xml:lang="he">פרקר, מתיו, בישוף מקנטבורי
-                        (בעלים)</persName>
+                    <persName type="variant" xml:lang="he">פרקר, מתיו, בישוף מקנטבורי                        (בעלים)</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1512,8 +1513,7 @@
                     </note>
                 </person>
                 <person xml:id="person_51578591">
-                    <persName type="display">Anav, Jehiel ben Jekuthiel ben Benjamin, active 13th
-                        century</persName>
+                    <persName type="display">Anav, Jehiel ben Jekuthiel ben Benjamin, active 13th century</persName>
                     <persName type="display" xml:lang="he">יחיאל בן יקותיאל, הרופא</persName>
                     <persName type="variant">Anav, Jehiel ben Jekuthiel ben Benjamin</persName>
                     <note type="links">
@@ -1623,11 +1623,11 @@
                     </note>
                 </person>
                 <person xml:id="person_56636061">
-                    <persName type="display">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī,
-                        -1013?</persName>
-                    <persName type="display" xml:lang="he">זהראוי, כ’לף בן אלעבאס</persName>
-                    <persName type="variant">Abū al-Qāsim Khalaf ibn ʻAbbās
-                        al-Zahrāwī</persName>
+                    <persName type="display">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013?</persName>
+                    <persName type="display" xml:lang="he">אל-זהראוי, ח'לף בן עבאס</persName>
+                    <persName type="variant" xml:lang="he">זהראוי, כ’לף בן אלעבאס</persName>
+                    <persName type="variant" xml:lang="he">أبو القاسم خلف بن عباس الزهراوي، توفي 1013</persName>
+                    <persName type="variant">Abū al-Qāsim Khalaf ibn ʻAbbās   al-Zahrāwī</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1667,10 +1667,10 @@
                     </note>
                 </person>
                 <person xml:id="person_59118174">
-                    <persName type="display">Levi ben Gershom</persName>
-                    <persName type="display" xml:lang="he">לוי בן גרשם</persName>
-                    <persName type="variant">Levi ben Gershom, 1288-1344</persName>
-                    <persName type="variant" xml:lang="he">לוי בן גרשם, 1288-1344</persName>
+                    <persName type="display">Levi ben Gershom, 1288-1344</persName>
+                    <persName type="display" xml:lang="he">לוי בן גרשם, 1288-1344</persName>
+                    <persName type="variant" xml:lang="he">לוי בן גרשם</persName>
+                    <persName type="variant">Levi ben Gershom</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1724,10 +1724,9 @@
                     </note>
                 </person>
                 <person xml:id="person_61782655">
-                    <persName type="display">Levita, Elijah</persName>
-                    <persName type="display" xml:lang="he">אליהו בן אשר, הלוי, אשכנז</persName>
-                    <persName type="variant" xml:lang="he">1469-1549אליהו בן אשר, הלוי,
-                        אשכנז</persName>
+                    <persName type="display">Levita, Elijah, 1468 or 1469-1549</persName>
+                    <persName type="display" xml:lang="he">אליהו בן אשר, הלוי, אשכנזי, 1469-1549</persName>
+                    <persName type="variant" xml:lang="he">אליהו בן אשר, הלוי, אשכנזי</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1744,8 +1743,7 @@
                     </note>
                 </person>
                 <person xml:id="person_61799914">
-                    <persName type="display">Falaquera, Nathan ben Joel, active 13th
-                        century</persName>
+                    <persName type="display">Falaquera, Nathan ben Joel, active 13th century</persName>
                     <persName type="display" xml:lang="he">פלקירה, נתן בן יואל</persName>
                     <note type="links">
                         <list type="links">
@@ -1764,8 +1762,8 @@
                 </person>
                 <person xml:id="person_63592556">
                     <persName type="display">Luzzatto, Isaac, 1730-1803</persName>
-                    <persName type="display" xml:lang="he">לוצטו, יצחק</persName>
-                    <persName type="variant" xml:lang="he">לוצטו, יצחק, 1730-1803</persName>
+                    <persName type="display" xml:lang="he">לוצטו, יצחק, 1730-1803</persName>
+                    <persName type="variant" xml:lang="he">לוצטו, יצחק</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1804,7 +1802,8 @@
                 </person>
                 <person xml:id="person_64172358">
                     <persName type="display">Ibn Tibon, Mosheh, active 13th century</persName>
-                    <persName type="display" xml:lang="he">תבון, משה בן שמואל אבן</persName>
+                    <persName type="display" xml:lang="he">אבן תבון, משה בן שמואל, המאה ה-13</persName>
+                    <persName type="variant" xml:lang="he">תבון, משה בן שמואל אבן</persName>
                     <persName type="variant">Moses ben Samuel ibn Tibbon</persName>
                     <note type="links">
                         <list type="links">
@@ -1865,7 +1864,8 @@
                 </person>
                 <person xml:id="person_66823723">
                     <persName type="display">Aḥa, of Shabḥa, 680-752</persName>
-                    <persName type="display" xml:lang="he">אחאי, משבחא, גאון</persName>
+                    <persName type="display" xml:lang="he">אחאי, משבחא, גאון, 680-752</persName>
+                    <persName type="variant" xml:lang="he">אחאי, משבחא, גאון</persName>
                     <persName type="variant">Aḥa, of Shabḥa</persName>
                     <note type="links">
                         <list type="links">
@@ -1884,6 +1884,7 @@
                 </person>
                 <person xml:id="person_67197037">
                     <persName type="display">Reggio, Isaacus, 1784-1855</persName>
+                    <persName type="display" xml:lang="he">רג'יו, יצחק שמואל, 1784-1855</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1900,8 +1901,7 @@
                     </note>
                 </person>
                 <person xml:id="person_68022714">
-                    <persName type="display">Berechiah ben Natronai, ha-Nakdan, active 12th
-                        century-13th century</persName>
+                    <persName type="display">Berechiah ben Natronai, ha-Nakdan, active 12th century-13th century</persName>
                     <persName type="display" xml:lang="he">ברכיה בן נטרונאי הנקדן</persName>
                     <persName type="variant">Berechiah ben Natronai, ha-Nakdan</persName>
                     <note type="links">
@@ -1958,8 +1958,8 @@
                 </person>
                 <person xml:id="person_69350064">
                     <persName type="display">Schorr, Osias</persName>
-                    <persName type="display" xml:lang="he">שור, יהושע השל</persName>
-                    <persName type="variant" xml:lang="he">שור, יהושע השל, 1818-1895</persName>
+                    <persName type="display" xml:lang="he">שור, יהושע השל, 1818-1895</persName>
+                    <persName type="variant" xml:lang="he">שור, יהושע השל</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -1994,8 +1994,7 @@
                     </note>
                 </person>
                 <person xml:id="person_71428967">
-                    <persName type="display">Falaquera, Shem Tov ben Joseph, approximately
-                        1225-approximately 1295</persName>
+                    <persName type="display">Falaquera, Shem Tov ben Joseph, approximately 1225-approximately 1295</persName>
                     <persName type="display" xml:lang="he">פלקירא, שם טוב בן יוסף אבן</persName>
                     <note type="links">
                         <list type="links">
@@ -2014,6 +2013,7 @@
                 </person>
                 <person xml:id="person_73875381">
                     <persName type="display">Luzzatto, Moshe Ḥayyim, 1707-1747</persName>
+                    <persName type="display" xml:lang="he">לוצאטו, משה חיים, 1707-1747</persName>
                     <persName type="display" xml:lang="he">לוצאטו, משה חיים</persName>
                     <persName type="variant">Luzzatto, Moshe Ḥayyim</persName>
                     <note type="links">
@@ -2055,7 +2055,7 @@
                     <persName type="display">Versor, Johannes, -approximately 1485</persName>
                     <persName type="display" xml:lang="he">וירשוריו</persName>
                     <persName type="variant">Johannes Versor</persName>
-                    <persName type="variant" xml:lang="he">וירשוריווירשור</persName>
+                    <persName type="variant" xml:lang="he">וירשוריו וירשור</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2072,8 +2072,8 @@
                     </note>
                 </person>
                 <person xml:id="person_78820242">
-                    <persName type="display">Sahula, Isaac ben Solomon, active 13th
-                        century</persName>
+                    <persName type="display">Sahula, Isaac ben Solomon, active 13th century</persName>
+                    <persName type="display" xml:lang="he">סהולה, יצחק בן שלמה אבן</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2091,6 +2091,7 @@
                 </person>
                 <person xml:id="person_78950824">
                     <persName type="display">Avigdor, Solomon ben Abraham, 1384-</persName>
+                    <persName type="display" xml:lang="he">שלמה בן אברהם אביגדור</persName>
                     <persName type="variant">Solomon ben Abraham Avigdor</persName>
                     <note type="links">
                         <list type="links">
@@ -2109,7 +2110,8 @@
                 </person>
                 <person xml:id="person_79050497">
                     <persName type="display">Zarqālī, Ibrāhīm ibn Yaḥyá, -1100</persName>
-                    <persName type="display" xml:lang="he">זרקאלה, אברהים בן יחיא אבן</persName>
+                    <persName type="display" xml:lang="he">אלזרקאלה, אבראהים בן יחיא</persName>
+                    <persName type="variant" xml:lang="he">זרקאלה, אברהים בן יחיא אבן</persName>
                     <persName type="variant">Zarqālī, Ibrāhīm ibn Yaḥyá</persName>
                     <note type="links">
                         <list type="links">
@@ -2165,8 +2167,8 @@
                     </note>
                 </person>
                 <person xml:id="person_79259912">
-                    <persName type="display">Anatoli, Jacob ben Abba Mari ben Samson, active 13th
-                        century</persName>
+                    <persName type="display">Anatoli, Jacob ben Abba Mari ben Samson, active 13th century</persName>
+                    <persName type="display" xml:lang="he">יעקב בן אבא מארי אנטולי, 1197-1256</persName>
                     <persName type="variant">Anatoli, Jacob ben Abba Mari ben Samson</persName>
                     <note type="links">
                         <list type="links">
@@ -2205,8 +2207,7 @@
                     </note>
                 </person>
                 <person xml:id="person_79269165">
-                    <persName type="display">Ibn Tibbon, Jacob ben Machir, approximately
-                        1236</persName>
+                    <persName type="display">Ibn Tibbon, Jacob ben Machir, approximately 1236</persName>
                     <persName type="display" xml:lang="he">יעקב בן מכיר</persName>
                     <persName type="variant">Jacob ben Machir ibn Tibbon</persName>
                     <note type="links">
@@ -2225,9 +2226,10 @@
                     </note>
                 </person>
                 <person xml:id="person_80591625">
-                    <persName type="display">Ibn al-Ṣaffār, Aḥmad ibn ʿAbd Allâh
-                        09..-1035</persName>
-                    <persName type="display" xml:lang="he">אלצפאר, אחמד אבן</persName>
+                    <persName type="display">Ibn al-Ṣaffār, Aḥmad ibn ʿAbd Allâh 09..-1035</persName>
+                    <persName type="display" xml:lang="he">אבן אלצפאר, אלקאסם אחמד בן עבד אללה</persName>
+                    <persName type="variant" xml:lang="ar">ابن الصفار</persName>
+                    <persName type="variant" xml:lang="he">אלצפאר, אחמד אבן</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2239,8 +2241,9 @@
                     </note>
                 </person>
                 <person xml:id="person_86836195">
-                    <persName type="display">Ibn Ezra, Moses, approximately 1060-approximately
-                        1139</persName>
+                    <persName type="display">Ibn Ezra, Moses, approximately 1060-approximately 1139</persName>
+                    <persName type="display" xml:lang="he">אבן עזרא, משה בן יעקב, 1055-1140</persName>
+                    <persName type="variant" xml:lang="ar">ابن عزرى، موشه</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2258,6 +2261,8 @@
                 </person>
                 <person xml:id="person_88025838">
                     <persName type="display">Judah, ha-Levi, active 12th century</persName>
+                    <persName type="display">יהודה, הלוי, 1075 בערך-1141</persName>
+                    <persName type="variant" xml:lang="ar">يهودا اللاوي، 1075؟-1141</persName>
                     <persName type="display" xml:lang="he">יהודה בן שמואל, הלוי</persName>
                     <note type="links">
                         <list type="links">
@@ -2276,7 +2281,8 @@
                 </person>
                 <person xml:id="person_88127746">
                     <persName type="display">Abulafia, Meir, approximately 1180-1244</persName>
-                    <persName type="display" xml:lang="he">אבולעפיה מאיר בן טודרוס הלוי</persName>
+                    <persName type="display">אבולעפיה, מאיר בן טודרוס, הלוי, 1170-1244</persName>
+                    <persName type="variant" xml:lang="he">אבולעפיה מאיר בן טודרוס הלוי</persName>
                     <persName type="variant">Abulafia, Meir</persName>
                     <note type="links">
                         <list type="links">
@@ -2294,8 +2300,8 @@
                     </note>
                 </person>
                 <person xml:id="person_88978405">
-                    <persName type="display">Goldberg, Baer ben Alexander, approximately
-                        1800-1884</persName>
+                    <persName type="display">Goldberg, Baer ben Alexander, approximately 1800-1884</persName>
+                    <persName type="display" xml:lang="he">גולדברג, בר, 1800-1884</persName>
                     <persName type="variant">Baer Goldberg</persName>
                     <note type="links">
                         <list type="links">
@@ -2313,8 +2319,7 @@
                     </note>
                 </person>
                 <person xml:id="person_89011847">
-                    <persName type="display">Farissol, Abraham ben Mordecai, approximately
-                        1451-approximately 1525</persName>
+                    <persName type="display">Farissol, Abraham ben Mordecai, approximately 1451-approximately 1525</persName>
                     <persName type="display" xml:lang="he">פריצול, אברהם בן מרדכי</persName>
                     <persName type="variant">Farissol, Abraham ben Mordecai</persName>
                     <note type="links">
@@ -2334,7 +2339,9 @@
                 </person>
                 <person xml:id="person_89770781">
                     <persName type="display">Avicenna, 980-1037</persName>
-                    <persName type="display" xml:lang="he">אבן סינא, אלחסין בן עבדאללה</persName>
+                    <persName type="display" xml:lang="he">אבן סינא, אלחסין בן עבדאללה, 980-1037</persName>
+                    <persName type="variant" xml:lang="ar">ابن سينا، الحسين بن عبد الله، 980-1037</persName>
+                    <persName type="variant" xml:lang="he">אבן סינא, אלחסין בן עבדאללה</persName>
                     <persName type="variant">Avicenna</persName>
                     <persName type="variant">Avicenna, 980?-1037</persName>
                     <note type="links">
@@ -2365,7 +2372,8 @@
                 </person>
                 <person xml:id="person_89803764">
                     <persName type="display">Judah ben Jehiel, active 15th century</persName>
-                    <persName type="display" xml:lang="he">יהודה בן יחיאל מסיר ליאון</persName>
+                    <persName type="display" xml:lang="he">יהודה בן יחיאל, מסר לאון</persName>
+                    <persName type="variant" xml:lang="he">יהודה בן יחיאל מסיר ליאון</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2382,8 +2390,7 @@
                     </note>
                 </person>
                 <person xml:id="person_90489505">
-                    <persName type="display">Parḥon, Salomon ben Abraham ibn, active 12th
-                        century</persName>
+                    <persName type="display">Parḥon, Salomon ben Abraham ibn, active 12th century</persName>
                     <persName type="display" xml:lang="he">פרחון, שלמה בן אברהם</persName>
                     <note type="links">
                         <list type="links">
@@ -2402,7 +2409,9 @@
                 </person>
                 <person xml:id="person_90633023">
                     <persName type="display">Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
-                    <persName type="display" xml:lang="he">עזרא, אברהם בן מאיר אבן</persName>
+                    <persName type="display" xml:lang="he">אבן עזרא, אברהם בן מאיר, 1089-1164</persName>
+                    <persName type="variant" xml:lang="ar">ابن عزرا، ابراهيم بن مئير، 1089-1164</persName>
+                    <persName type="variant" xml:lang="he">עזרא, אברהם בן מאיר אבן</persName>
                     <persName type="variant">Ibn Ezra, Abraham ben Meïr</persName>
                     <persName type="variant">Abraham ibn Ezra</persName>
                     <persName type="variant" xml:lang="he">אבן עזרא, אברהם בן מאיר</persName>
@@ -2428,9 +2437,9 @@
                     </note>
                 </person>
                 <person xml:id="person_95154093">
-                    <persName type="display">Rāzī, Abū Bakr Muḥammad ibn Zakarīyā,
-                        865?-925?</persName>
+                    <persName type="display">Rāzī, Abū Bakr Muḥammad ibn Zakarīyā,865?-925?</persName>
                     <persName type="display" xml:lang="he">ראזי, מחמד בן זכריה</persName>
+                    <persName type="variant" xml:lang="ar">الرازي، محمد بن زكرياء، 865-923</persName>
                     <persName type="variant">Rāzī, Abū Bakr Muḥammad ibn Zakarīyā</persName>
                     <note type="links">
                         <list type="links">
@@ -2454,14 +2463,13 @@
                 </person>
                 <person xml:id="person_95159227">
                     <persName type="display">Saʻadia ben Joseph, 882-942</persName>
-                    <persName type="display" xml:lang="he">סעדיה בן יוסף, אלפיומי</persName>
+                    <persName type="display" xml:lang="he">סעדיה בן יוסף, אלפיומי, 882-942</persName>
+                    <persName type="variant" xml:lang="he">סעדיה בן יוסף, אלפיומי</persName>
+                    <persName type="variant" xml:lang="ar">سعيد بن يوسف الفيومى، 882-942</persName>
                     <persName type="variant">Saʻadia ben Joseph</persName>
-                    <persName type="variant">Saʻadia ben Joseph, 882-942 (attributed to in the
-                        printed edition)</persName>
-                    <persName type="variant">Saʿadia ben Joseph, 882-942(debated
-                        authorship)</persName>
-                    <persName type="variant" xml:lang="he">סעדיה בן יוסף, אלפיומי, (מיוחס לו)
-                        ‬</persName>
+                    <persName type="variant">Saʻadia ben Joseph, 882-942 (attributed to in the printed edition)</persName>
+                    <persName type="variant">Saʿadia ben Joseph, 882-942(debated authorship)</persName>
+                    <persName type="variant" xml:lang="he">סעדיה בן יוסף, אלפיומי, (מיוחס לו)                        ‬</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2478,12 +2486,10 @@
                     </note>
                 </person>
                 <person xml:id="person_97166726">
-                    <persName type="display">Ibn Tibbon, Shmuel, active 12th century-13th
-                        century</persName>
-                    <persName type="display" xml:lang="he">אבן תבון, שמואל בן יהודה</persName>
+                    <persName type="display">Ibn Tibbon, Shmuel, active 12th century-13th century</persName>
+                    <persName type="display" xml:lang="he">אבן תבון, שמואל בן יהודה, 1150-1230</persName>
+                    <persName type="variant" xml:lang="he">אבן תבון, שמואל בן יהודה</persName>
                     <persName type="variant">Ibn Tibbon, Shmuel</persName>
-                    <persName type="variant" xml:lang="he">אבן תבון, שמואל בן יהודה,
-                        1150-1230</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2513,8 +2519,7 @@
                     </note>
                 </person>
                 <person xml:id="person_97282190">
-                    <persName type="display">Ibn Shem Tov, Shem Tov ben Joseph ben Shem Tov, active
-                        15th century</persName>
+                    <persName type="display">Ibn Shem Tov, Shem Tov ben Joseph ben Shem Tov, active 15th century</persName>
                     <persName type="display" xml:lang="he">שם טוב בן שם טוב</persName>
                     <note type="links">
                         <list type="links">
@@ -2533,6 +2538,7 @@
                 </person>
                 <person xml:id="person_97285544">
                     <persName type="display">Abraham, ben Isaac ha-Levi Tamakh, -1393</persName>
+                    <persName type="display" xml:lang="he">תמך, אברהם בן יצחק, הלוי</persName>
                     <persName type="variant">Abraham ben Isaac ha-Levi Tamakh</persName>
                     <note type="links">
                         <list type="links">
@@ -2572,8 +2578,7 @@
                 <person xml:id="person_97562381">
                     <persName type="display">ʻAdani, Seʻadyah ben Daṿid, 1420?-1486</persName>
                     <persName type="display" xml:lang="he">אלעדני, סעדיה בן דוד, 1420?-1486 </persName>
-                    <persName type="variant" xml:lang="he">אלעדני, סעדיה בן דוד, 1420?-1486
-                        (מעתיק)</persName>
+                    <persName type="variant" xml:lang="he">אלעדני, סעדיה בן דוד, 1420?-1486                        (מעתיק)</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2585,8 +2590,7 @@
                     </note>
                 </person>
                 <person xml:id="person_97760497">
-                    <persName type="display">Leon, Messer David ben Judah, approximately
-                        1470-1526?</persName>
+                    <persName type="display">Leon, Messer David ben Judah, approximately 1470-1526?</persName>
                     <persName type="display" xml:lang="he">דוד בן יהודה, מסר לאון</persName>
                     <note type="links">
                         <list type="links">
@@ -2641,11 +2645,9 @@
                     </note>
                 </person>
                 <person xml:id="person_98318342">
-                    <persName type="display">Isaiah ben Mali, di Trani, approximately
-                        1200-</persName>
-                    <persName type="display" xml:lang="he">טרני, ישעיה בן מלי, הזקן די</persName>
-                    <persName type="variant">Isaiah ben Mali, di Trani, approximately
-                        1200-</persName>
+                    <persName type="display">Isaiah ben Mali, di Trani, approximately 1200-</persName>
+                    <persName type="display" xml:lang="he">טרני, ישעיה בן מלי, הזקן די, 1180?-1250</persName>
+                    <persName type="variant" xml:lang="he">טרני, ישעיה בן מלי, הזקן די</persName>
                     <persName type="variant">Isaiah di Trani ben Mali (the Elder)</persName>
                     <note type="links">
                         <list type="links">
@@ -2664,7 +2666,9 @@
                 </person>
                 <person xml:id="person_100185495">
                     <persName type="display">Maimonides, Moses, 1135-1204</persName>
-                    <persName type="display" xml:lang="he">משה בן מימון</persName>
+                    <persName type="display" xml:lang="he">משה בן מימון, 1138-1204</persName>
+                    <persName type="variant" xml:lang="he">משה בן מימון</persName>
+                    <persName type="variant" xml:lang="ar">موسى بن ميمون، 1138-1204</persName>
                     <persName type="variant">Maimonides, Moses</persName>
                     <persName type="variant">Maimonides</persName>
                     <persName type="variant">Rambam</persName>
@@ -2697,7 +2701,9 @@
                 </person>
                 <person xml:id="person_100186412">
                     <persName type="display">Ibn Gabirol, active 11th century</persName>
-                    <persName type="display" xml:lang="he">גבירול, שלמה בן יהודה אבן</persName>
+                    <persName type="display" xml:lang="he">אבן גבירול, שלמה בן יהודה, 1021-1058</persName>
+                    <persName type="variant" xml:lang="he">גבירול, שלמה בן יהודה אבן</persName>
+                    <persName type="variant" xml:lang="ar">ابن جبيرول، سليمان</persName>
                     <persName type="variant">Ibn Gabirol</persName>
                     <persName type="variant" xml:lang="he">אבן גבירול, שלמה</persName>
                     <note type="links">
@@ -2722,7 +2728,8 @@
                 </person>
                 <person xml:id="person_100189814">
                     <persName type="display">Arnaldus, de Villanova, -1311</persName>
-                    <persName type="display" xml:lang="he">ארנלדוס מוילהנובה</persName>
+                    <persName type="display" xml:lang="he">ארנלדו, דה וילנובה, נפטר 1311</persName>
+                    <persName type="variant" xml:lang="he">ארנלדוס מוילהנובה</persName>
                     <persName type="variant">Arnaldus, de Villanova</persName>
                     <persName type="variant">Arnaldus de Villanueva</persName>
                     <note type="links">
@@ -2764,9 +2771,9 @@
                     </note>
                 </person>
                 <person xml:id="person_100213323">
-                    <persName type="display">Kimhi, David, approximately 1160-approximately
-                        1235</persName>
-                    <persName type="display" xml:lang="he">קמחי, דוד בן יוסף</persName>
+                    <persName type="display">Kimhi, David, approximately 1160-approximately 1235</persName>
+                    <persName type="display" xml:lang="he">קמחי, דוד בן יוסף, 1160-1235</persName>
+                    <persName type="variant" xml:lang="he">קמחי, דוד בן יוסף</persName>
                     <persName type="variant">Kimhi, David</persName>
                     <persName type="variant">Qimḥi, Daṿid</persName>
                     <persName type="variant" xml:lang="he">1235קמחי, דוד בן יוסף</persName>
@@ -2795,6 +2802,7 @@
                 <person xml:id="person_100219934">
                     <persName type="display">Themistius</persName>
                     <persName type="display" xml:lang="he">תמיסטיוס</persName>
+                    <persName type="variant" xml:lang="ar">ثامسطيوس</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2817,9 +2825,9 @@
                     </note>
                 </person>
                 <person xml:id="person_100224138">
-                    <persName type="display">Luria, Solomon ben Jehiel, 1510?-1573 or
-                        1574</persName>
-                    <persName type="display" xml:lang="he">לוריא, שלמה בן יחיאל</persName>
+                    <persName type="display">Luria, Solomon ben Jehiel, 1510?-1573 or 1574</persName>
+                    <persName type="display" xml:lang="he">לוריא, שלמה בן יחיאל, 1510?-1573?</persName>
+                    <persName type="variant" xml:lang="he">לוריא, שלמה בן יחיאל</persName>
                     <persName type="variant">Luria, Solomon ben Jehiel</persName>
                     <note type="links">
                         <list type="links">
@@ -2837,8 +2845,7 @@
                     </note>
                 </person>
                 <person xml:id="person_100648641">
-                    <persName type="display">Isaiah ben Elijah, di Trani, -approximately
-                        1280</persName>
+                    <persName type="display">Isaiah ben Elijah, di Trani, -approximately 1280</persName>
                     <persName type="display" xml:lang="he">טרני, ישעיה בן אליהו די</persName>
                     <note type="links">
                         <list type="links">
@@ -2856,12 +2863,11 @@
                     </note>
                 </person>
                 <person xml:id="person_100909415">
-                    <persName type="display">Almosnino, Moses ben Baruch, approximately
-                        1515-approximately 1580</persName>
-                    <persName type="display" xml:lang="he">אלמושנינו, משה בן ברוך</persName>
+                    <persName type="display">Almosnino, Moses ben Baruch, approximately 1515-approximately 1580</persName>
+                    <persName type="display" xml:lang="he">אלמושנינו, משה בן ברוך, 1518-1579</persName>
+                    <persName type="variant" xml:lang="he">אלמושנינו, משה בן ברוך</persName>
                     <persName type="variant">Almosnino, Moses ben Baruch, 1518-1579</persName>
-                    <persName type="variant" xml:lang="he">אלמושנינו, משה בן ברוך,approximately
-                        1515-approximately 1580</persName>
+                    <persName type="variant" xml:lang="he">אלמושנינו, משה בן ברוך,approximately                        1515-approximately 1580</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2878,7 +2884,8 @@
                     </note>
                 </person>
                 <person xml:id="person_100910150">
-                    <persName type="display">Thomas Aquinas</persName>
+                    <persName type="display">Thomas, Aquinas, Saint, 1225?-1274</persName>
+                    <persName type="variant">Thomas Aquinas</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2901,8 +2908,7 @@
                     </note>
                 </person>
                 <person xml:id="person_101087390">
-                    <persName type="display">Recanati, Menahem ben Benjamin, active 13th
-                        century-14th century</persName>
+                    <persName type="display">Recanati, Menahem ben Benjamin, active 13th century-14th century</persName>
                     <persName type="display" xml:lang="he">ריקנטי, מנחם בן בנימין</persName>
                     <persName type="variant">Recanati, Menahem ben Benjamin</persName>
                     <persName type="variant" xml:lang="he">מנחם בן בנימין (בעלים)</persName>
@@ -2923,7 +2929,9 @@
                 </person>
                 <person xml:id="person_105133145">
                     <persName type="display">Fārābī</persName>
-                    <persName type="display" xml:lang="he">פראבי, מחמד בן מחמד אבו נצר</persName>
+                    <persName type="display" xml:lang="he">אלפאראבי, 950-874</persName>
+                    <persName type="variant" xml:lang="he">פראבי, מחמד בן מחמד אבו נצר</persName>
+                    <persName type="variant" xml:lang="ar">الفارابي، 874-950</persName>
                     <persName type="variant">Fārābī, Muḥammed ben Muḥammed</persName>
                     <persName type="variant" xml:lang="he">פראבי, מחמד בן מחמד</persName>
                     <note type="links">
@@ -2948,7 +2956,8 @@
                 </person>
                 <person xml:id="person_120695024">
                     <persName type="display">Abraham, ben Moses ben Maimon, 1186-1237</persName>
-                    <persName type="display" xml:lang="he">אברהם בן משה מימון</persName>
+                    <persName type="display" xml:lang="he">אברהם בן משה (מימון), 1186-1237</persName>
+                    <persName type="variant" xml:lang="he">אברהם בן משה מימון</persName>
                     <persName type="variant">Abraham, ben Moses ben Maimon</persName>
                     <note type="links">
                         <list type="links">
@@ -2966,8 +2975,7 @@
                     </note>
                 </person>
                 <person xml:id="person_120777116">
-                    <persName type="display">Jedaiah ben Abraham Bedersi, approximately
-                        1270-approximately 1340 </persName>
+                    <persName type="display">Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340 </persName>
                     <persName type="display" xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</persName>
                     <persName type="variant">Jedaiah ben Abraham Bedersi</persName>
                     <note type="links">
@@ -3006,8 +3014,8 @@
                 </person>
                 <person xml:id="person_187455576">
                     <persName type="display">Al-Aḥdab, Iṣḥak ben Shlomo, 1396-1429?</persName>
-                    <persName type="display" xml:lang="he">יצחק בן שלמה בן צדיק אלחדב
-                        ספרדי</persName>
+                    <persName type="display" xml:lang="he">יצחק בן שלמה בן צדיק אלאחדב</persName>
+                    <persName type="variant" xml:lang="he">יצחק בן שלמה בן צדיק אלחדב                       ספרדי</persName>
                     <persName type="variant">Al-Aḥdab, Iṣḥak ben Shlomo</persName>
                     <note type="links">
                         <list type="links">
@@ -3044,6 +3052,7 @@
                     </note>
                 </person>
                 <person xml:id="person_203187311">
+                    <persName type="display">Azriel, of Gerona, active 13th century</persName>
                     <persName type="display" xml:lang="he">עזריאל בן שלמה, מגרונה </persName>
                     <persName type="variant">Azariel ben Solomon of Girona</persName>
                     <persName type="variant" xml:lang="he">עזריאל בן שלמה, מגרונה (ממנו)</persName>
@@ -3063,9 +3072,9 @@
                     </note>
                 </person>
                 <person xml:id="person_219072992">
-                    <persName type="display">Naḥmanides, approximately 1195-approximately
-                        1270</persName>
-                    <persName type="display" xml:lang="he">משה בן נחמן</persName>
+                    <persName type="display">Naḥmanides, approximately 1195-approximately 1270</persName>
+                    <persName type="display" xml:lang="he">משה בן נחמן, 1194-1270</persName>
+                    <persName type="variant" xml:lang="he">משה בן נחמן</persName>
                     <persName type="variant">Naḥmanides</persName>
                     <persName type="variant">Moshe ben Naḥman</persName>
                     <persName type="variant">Ramban</persName>
@@ -3086,9 +3095,9 @@
                     </note>
                 </person>
                 <person xml:id="person_226497544">
-                    <persName type="display">Bernard, de Gordon, approximately 1260-approximately
-                        1318</persName>
-                    <persName type="display" xml:lang="he">ברנרד דה גורדון</persName>
+                    <persName type="display">Bernard, de Gordon, approximately 1260-approximately 1318</persName>
+                    <persName type="display" xml:lang="he">ברנרד, דה גורדון, 1260 בערך-1318 בערך</persName>
+                    <persName type="variant" xml:lang="he">ברנרד דה גורדון</persName>
                     <persName type="variant">Bernard, de Gordon</persName>
                     <persName type="variant">Bernard, de Gordon, c.1260-c.1318</persName>
                     <note type="links">
@@ -3150,6 +3159,7 @@
                 </person>
                 <person xml:id="person_261805337">
                     <persName type="display">Alcalá, Pedro de </persName>
+                    <persName type="display" xml:lang="he">פטרוס, היספנוס (לקסוגרף)</persName>
                     <persName type="variant">Petrus Hispanus</persName>
                     <note type="links">
                         <list type="links">
@@ -3167,8 +3177,7 @@
                     </note>
                 </person>
                 <person xml:id="person_264872870">
-                    <persName type="display">Robert, King of Naples, approximately
-                        1275-1343</persName>
+                    <persName type="display">Robert, King of Naples, approximately 1275-1343</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3184,19 +3193,12 @@
                         </list>
                     </note>
                 </person>
-                <person xml:id="person_287468117">
+                <person xml:id="person_7034">
                     <persName type="display">Eliahu Naḥum</persName>
                     <persName type="display" xml:lang="he">‫ נחום, אליהו בן שלמה </persName>
                     <persName type="variant">Eliahu ben Shlomoh Naḥum</persName>
                     <persName type="variant" xml:lang="he">‫ נחום, אליהו בן שלמה (בעלים)</persName>
                     <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="http://viaf.org/viaf/287468117">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
                     </note>
                 </person>
                 <person xml:id="person_287984736">
@@ -3214,8 +3216,7 @@
                     </note>
                 </person>
                 <person xml:id="person_292205904">
-                    <persName type="display">Isaac ben Joseph, of Corbeil, active 13th
-                        century</persName>
+                    <persName type="display">Isaac ben Joseph, of Corbeil, active 13th century</persName>
                     <persName type="display" xml:lang="he">יצחק בן יוסף מקורביל</persName>
                     <persName type="variant">Isaac ben Joseph, of Corbeil</persName>
                     <note type="links">
@@ -3235,7 +3236,8 @@
                 </person>
                 <person xml:id="person_293459163">
                     <persName type="display">Moses, of Narbonne, -1362</persName>
-                    <persName type="display" xml:lang="he">נרבוני, משה בן יהושע</persName>
+                    <persName type="display" xml:lang="he">נרבוני, משה בן יהושע, 1300-1368</persName>
+                    <persName type="variant" xml:lang="he">נרבוני, משה בן יהושע</persName>
                     <persName type="variant">Moses of Narbonne</persName>
                     <note type="links">
                         <list type="links">
@@ -3272,9 +3274,9 @@
                     </note>
                 </person>
                 <person xml:id="person_297241688">
-                    <persName type="display">Harizi, Judah ben Solomon, active 12th century-13th
-                        century</persName>
-                    <persName type="display" xml:lang="he">חריזי, יהודה בן שלמה</persName>
+                    <persName type="display">Harizi, Judah ben Solomon, active 12th century-13th century. | Taḥkemoni</persName>
+                    <persName type="display" xml:lang="he">אלחריזי, יהודה בן שלמה, 1170-1235. | תחכמוני</persName>
+                    <persName type="variant" xml:lang="he">חריזי, יהודה בן שלמה</persName>
                     <persName type="variant">Harizi, Judah ben Solomon</persName>
                     <note type="links">
                         <list type="links">
@@ -3292,9 +3294,9 @@
                     </note>
                 </person>
                 <person xml:id="person_297308748">
-                    <persName type="display">ha-Yiśraʾeli, Yiśraʾel ben Yosef</persName>
-                    <persName type="display" xml:lang="he">הישראלי, ישראל בן יוסף,
-                        מטולידו</persName>
+                    <persName type="display">ha-Yiśreʼeli, Yiśraʼel ben Yosef, mi-Ṭoledo</persName>
+                    <persName type="display" xml:lang="he">הישראלי, ישראל בן יוסף,                 מטולידו</persName>
+                    <persName type="variant">ha-Yiśraʾeli, Yiśraʾel ben Yosef</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3325,8 +3327,7 @@
                     </note>
                 </person>
                 <person xml:id="person_298302586">
-                    <persName type="display">Yitsḥaḳ ben Shimshon, ha-Naḳdan, active 12th
-                        century-13th century</persName>
+                    <persName type="display">Yitsḥaḳ ben Shimshon, ha-Naḳdan, active 12th century-13th century</persName>
                     <persName type="display" xml:lang="he">יצחק בן שמשון, הנקדן</persName>
                     <note type="links">
                         <list type="links">
@@ -3345,6 +3346,7 @@
                 </person>
                 <person xml:id="person_298760665">
                     <persName type="display">Dunash ibn Tamim, active 10th century</persName>
+                    <persName type="display" xml:lang="he">דונש בן תמים, המאה ה-10</persName>
                     <persName type="variant">Abu-Sahl Dunash ben Tamim</persName>
                     <note type="links">
                         <list type="links">
@@ -3358,7 +3360,8 @@
                 </person>
                 <person xml:id="person_298789554">
                     <persName type="display">Weil, Jacob ben Judah, active 15th century</persName>
-                    <persName type="display" xml:lang="he">ויל, יעקב בן יהודה</persName>
+                    <persName type="display" xml:lang="he">ווייל, יעקב בן יהודה, 1390-1453</persName>
+                    <persName type="variant" xml:lang="he">ויל, יעקב בן יהודה</persName>
                     <persName type="variant">Weil, Jacob ben Judah</persName>
                     <note type="links">
                         <list type="links">
@@ -3376,12 +3379,11 @@
                     </note>
                 </person>
                 <person xml:id="person_301582237">
-                    <persName type="display">Jacob ben Asher, approximately 1269-approximately
-                        1340</persName>
-                    <persName type="display" xml:lang="he">יעקב בן אשר</persName>
+                    <persName type="display">Jacob ben Asher, approximately 1269-approximately 1340</persName>
+                    <persName type="display" xml:lang="he">יעקב בן אשר, ?1270-?1340</persName>
+                    <persName type="variant" xml:lang="he">יעקב בן אשר</persName>
                     <persName type="variant">Jacob ben Asher</persName>
                     <persName type="variant">Yaaqov ben Asher, ca. 1270-1340</persName>
-                    <persName type="variant" xml:lang="he">יעקב בן אשר, ?1270-?1340</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3398,10 +3400,9 @@
                     </note>
                 </person>
                 <person xml:id="person_301948260">
-                    <persName type="display">Eleazar ben Judah, of Worms, approximately
-                        1176-1238</persName>
-                    <persName type="display" xml:lang="he">אלעזר בן יהודה, מגרמיזה,
-                        1176?-1238</persName>
+                    <persName type="display">Eleazar ben Judah, of Worms, approximately 1176-1238</persName>
+                    <persName type="display" xml:lang="he">אלעזר בן יהודה, מגרמייזא, 1176 בערך-1238</persName>
+                    <persName type="variant" xml:lang="he">אלעזר בן יהודה, מגרמיזה,              1176?-1238</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3418,9 +3419,9 @@
                     </note>
                 </person>
                 <person xml:id="person_305405832">
-                    <persName type="display">Abraham ben Nathan, ha-Yarḥi, approximately
-                        1155-1215</persName>
-                    <persName type="display" xml:lang="he">אברהם בן נתן, הירחי</persName>
+                    <persName type="display">Abraham ben Nathan, ha-Yarḥi, approximately 1155-1215</persName>
+                    <persName type="display" xml:lang="he">אברהם בן נתן, הירחי, 1155-1215</persName>
+                    <persName type="variant" xml:lang="he">אברהם בן נתן, הירחי</persName>
                     <persName type="variant">Abraham ben Nathan, ha-Yarḥi</persName>
                     <note type="links">
                         <list type="links">
@@ -3458,10 +3459,9 @@
                     </note>
                 </person>
                 <person xml:id="person_307289072">
-                    <persName type="display">Lattes, Isaak ben Jakob</persName>
+                    <persName type="variant">Lattes, Isaak ben Jakob ca. 2. H. 14. Jh.</persName>
                     <persName type="display" xml:lang="he">לטיש, יצחק בן יעקב</persName>
                     <persName type="variant">Lattes, Isaak ben Jakob</persName>
-                    <persName type="variant">Lattes, Isaak ben Jakob ca. 2. H. 14. Jh.</persName>
                     <persName type="variant">Lattes, Isaac ben Jacob</persName>
                     <note type="links">
                         <list type="links">
@@ -3474,10 +3474,8 @@
                     </note>
                 </person>
                 <person xml:id="person_308274269">
-                    <persName type="display">Graziano, Abraham Joseph Salomon, approximately
-                        1620-approximately 1683</persName>
-                    <persName type="display" xml:lang="he">גרציאנו, אברהם יוסף שלמה בן
-                        מרדכי</persName>
+                    <persName type="display">Graziano, Abraham Joseph Salomon, approximately 1620-approximately 1683</persName>
+                    <persName type="display" xml:lang="he">גרציאנו, אברהם יוסף שלמה בן                        מרדכי</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3494,8 +3492,7 @@
                     </note>
                 </person>
                 <person xml:id="person_308282396">
-                    <persName type="display">Ibn Waqār, Joseph ben Abraham, active 14th
-                        century</persName>
+                    <persName type="display">Ibn Waqār, Joseph ben Abraham, active 14th century</persName>
                     <persName type="display" xml:lang="he">וקאר, יוסף בן אברהם</persName>
                     <persName type="variant">Ibn Waqār, Joseph ben Abraham</persName>
                     <note type="links">
@@ -3514,9 +3511,9 @@
                     </note>
                 </person>
                 <person xml:id="person_308697194">
-                    <persName type="display">Judah ben Isaac ibn Shabbetai, active 13th
-                        century</persName>
-                    <persName type="display" xml:lang="he">שבתי, יהודה בן יצחק הלוי אבן</persName>
+                    <persName type="display">Judah ben Isaac ibn Shabbetai, active 13th century</persName>
+                    <persName type="display" xml:lang="he">שבתי, יהודה בן יצחק אבן, 1168-1225</persName>
+                    <persName type="variant" xml:lang="he">שבתי, יהודה בן יצחק הלוי אבן</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3549,8 +3546,7 @@
                 <person xml:id="person_317133627">
                     <persName type="display">Ibn Gaon, Joshua ben Abraham, of Soria</persName>
                     <persName type="display" xml:lang="he">אבן גאון, יהושע בן אברהם </persName>
-                    <persName type="variant" xml:lang="he">אבן גאון, יהושע בן אברהם
-                        (מעתיק)</persName>
+                    <persName type="variant" xml:lang="he">אבן גאון, יהושע בן אברהם                        (מעתיק)</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3562,7 +3558,8 @@
                     </note>
                 </person>
                 <person xml:id="person_1162606507849532216">
-                    <persName type="display">Guidus Menotius</persName>
+                    <persName type="display">Menotius, Guidus, f. 1555</persName>
+                    <persName type="variant">Guidus Menotius</persName>
                     <persName type="variant">Guido Menotius (censor)</persName>
                     <note type="links">
                         <list type="links">
@@ -3575,8 +3572,7 @@
                     </note>
                 </person>
                 <person xml:id="person_3146462673027772241">
-                    <persName type="display">Shelomoh ben Natan, av bet din min ha-ʻir Sig'ilmasah,
-                        active 12th century</persName>
+                    <persName type="display">Shelomoh ben Natan, av bet din min ha-ʻir Sig'ilmasah, active 12th century</persName>
                     <persName type="display" xml:lang="he">שלמה בן נתן‏</persName>
                     <note type="links">
                         <list type="links">
@@ -3613,6 +3609,7 @@
                     </note>
                 </person>
                 <person xml:id="person_10144782697085397387">
+                    <persName type="display">Joseph Lorki</persName>
                     <persName type="display" xml:lang="he">לורקי, יוסף בן יהושע</persName>
                     <persName type="variant">Joseph ben Joshua Lorki</persName>
                     <note type="links">
@@ -3644,7 +3641,8 @@
                     </note>
                 </person>
                 <person xml:id="person_14162178752907851019">
-                    <persName type="display">Giovanni Domenico Vistorini</persName>
+                    <persName type="display">Vistorini, Giovanni Domenico</persName>
+                    <persName type="variant">Giovanni Domenico Vistorini</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3657,7 +3655,8 @@
                 </person>
                 <person xml:id="person_15146522312132391609">
                     <persName type="display">Afendopolo, Caleb ben Elijah, 1464?-1525</persName>
-                    <persName type="display" xml:lang="he">אפנדופולו, כלב בן אליהו </persName>
+                    <persName type="display" xml:lang="he">אפנדופולו, כלב בן אליהו, 1464-1525</persName>
+                    <persName type="variant" xml:lang="he">אפנדופולו, כלב בן אליהו </persName>
                     <persName type="variant">Afendopolo, Caleb ben Elijah</persName>
                     <note type="links">
                         <list type="links">
@@ -3688,6 +3687,7 @@
                     </note>
                 </person>
                 <person xml:id="person_23156219478104742585">
+                    <persName type="display">Katz, B. M.</persName>
                     <persName type="display" xml:lang="he">כץ, ברוך בן מנחם</persName>
                     <persName type="variant">Baruk ben Menahem Katz</persName>
                     <note type="links">
@@ -3701,7 +3701,9 @@
                     </note>
                 </person>
                 <person xml:id="person_27152199294714282865">
-                    <persName type="display">Nathanel Almali</persName>
+                    <persName type="display">Ibn, Almoli, Nathaniel ben Joseph, active 13th century</persName>
+                    <persName type="display" xml:lang="he">אלמולי, נתנאל בן יוסף</persName>
+                    <persName type="variant">Nathanel Almali</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3713,6 +3715,7 @@
                     </note>
                 </person>
                 <person xml:id="person_33169072682364721494">
+                    <persName type="display">Caslari, Israel Ben Joseph</persName>
                     <persName type="display" xml:lang="he">קשלרי, ישראל בן יוסף </persName>
                     <persName type="variant">Israel ben Joseph Kashlery</persName>
                     <persName type="variant" xml:lang="he">קשלרי, ישראל בן יוסף (ממנו)</persName>
@@ -3727,7 +3730,7 @@
                     </note>
                 </person>
                 <person xml:id="person_38145304748478610338">
-                    <persName type="display">Israel of Kremz</persName>
+                    <persName type="display">Yiśraʼel, mi-Ḳremz</persName>
                     <persName type="display" xml:lang="he">ישראל, מקרמז</persName>
                     <persName type="variant">Israel of Kremz</persName>
                     <note type="links">
@@ -3756,10 +3759,8 @@
                 </person>
                 <person xml:id="person_52147662852360550043">
                     <persName type="display">Abū Bakr al-Ḥaṣṣār, active 12th century</persName>
-                    <persName type="display" xml:lang="he">אבו בכר מחמד בן עבד אללה בן עבאס בן
-                        אלחצאר</persName>
-                    <persName type="variant">al-Ḥaṣṣar, Abu Bakr Muḥammad b. ʿAbd-Allah b.
-                        ʿAbbasal-Ḥatsar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbas</persName>
+                    <persName type="display" xml:lang="he">אבו בכר מחמד בן עבד אללה בן עבאס בן                        אלחצאר</persName>
+                    <persName type="variant">al-Ḥaṣṣar, Abu Bakr Muḥammad b. ʿAbd-Allah b.ʿAbbasal-Ḥatsar, Abu Bakr Muḥammad b. ʿAbd-Allah b. ʿAbbas</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3776,9 +3777,9 @@
                     </note>
                 </person>
                 <person xml:id="person_55151897225024072807">
-                    <persName type="display">Ibn Abī al-Rijāl, ʻAlī, 1015 or 1016-1062 or
-                        1063</persName>
+                    <persName type="display">Ibn Abī al-Rijāl, ʻAlī, 1015 or 1016-1062 or 1063</persName>
                     <persName type="display" xml:lang="he">אבן רג’אל, עלי</persName>
+                    <persName type="variant" xml:lang="ar">ابن أبي الرجال، علي، 1015 أو 1016-1062 أو 1063</persName>
                     <persName type="variant">Ibn Rigal, Ali</persName>
                     <persName type="variant">Ibn Abī al-Rijāl, ʻAlī</persName>
                     <note type="links">
@@ -3802,7 +3803,8 @@
                     </note>
                 </person>
                 <person xml:id="person_99167803127217771345">
-                    <persName type="display">Eliyahu ben Asher ha-Leṿi</persName>
+                    <persName type="display">Ashkenazi, Eliyahu ben Asher, ha-Levi, 1468/9-1549</persName>
+                    <persName type="variant">Eliyahu ben Asher ha-Leṿi</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3839,9 +3841,9 @@
                     </note>
                 </person>
                 <person xml:id="person_375144782725559249781">
-                    <persName type="display">Baṣīr, Joseph ben Abraham, ha-Kohen ha-Ro'eh al-,
-                        active 11th century</persName>
-                    <persName type="display" xml:lang="he">יוסף אלבציר</persName>
+                    <persName type="display">Baṣīr, Joseph ben Abraham, ha-Kohen ha-Ro'eh al-,active 11th century</persName>
+                    <persName type="display" xml:lang="he">יוסף בן אברהם, הרואה</persName>
+                    <persName type="variant" xml:lang="he">יוסף אלבציר</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3858,7 +3860,8 @@
                     </note>
                 </person>
                 <person xml:id="person_431159474324327662713">
-                    <persName type="display">Renato da Modena</persName>
+                    <persName type="display">Renato da Modena, O.F.M.Cap., f. 1611-1628</persName>
+                    <persName type="variant">Renato da Modena</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3896,8 +3899,9 @@
                     </note>
                 </person>
                 <person xml:id="person_1186164479583526210004">
+                    <persName type="display">ha-Me'ati, Nathan, active 13th century</persName>
                     <persName type="display" xml:lang="he">נתן, המאתי</persName>
-                    <persName type="variant">Natah ha-Matti</persName>
+                    <persName type="variant">Natah(?) ha-Matti</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3914,10 +3918,9 @@
                     </note>
                 </person>
                 <person xml:id="person_2606156677155533770002">
-                    <persName type="display">Fra. Luigi </persName>
+                    <persName type="display">Luigi da Bologna</persName>
                     <persName type="variant">Fra. Luigi </persName>
                     <persName type="variant">Fra. Luigi [da Bologna]</persName>
-                    <persName type="variant">Luigi da Bologna</persName>
                     <persName type="variant">Luigi da Bologna (censor)</persName>
                     <note type="links">
                         <list type="links">
@@ -3930,8 +3933,7 @@
                     </note>
                 </person>
                 <person xml:id="person_3525157527314127300004">
-                    <persName type="display">Gershom ben Judah, Meʼor ha-Golah, active 10th
-                        century-11th century</persName>
+                    <persName type="display">Gershom ben Judah, Meʼor ha-Golah, active 10th century-11th century</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3948,8 +3950,7 @@
                     </note>
                 </person>
                 <person xml:id="person_3799159478165027990002">
-                    <persName type="display">Jean, de Saint-Amand, active 13th century-14th
-                        century</persName>
+                    <persName type="display">Jean, de Saint-Amand, active 13th century-14th century</persName>
                     <persName type="display" xml:lang="he">יוהנס מסנט אמנד</persName>
                     <persName type="variant">Jean, de Saint-Amand</persName>
                     <note type="links">
@@ -3968,8 +3969,9 @@
                     </note>
                 </person>
                 <person xml:id="person_5306159613660141030003">
-                    <persName type="display">Shats, Hirts</persName>
+                    <persName type="display">Naftali Hirts, active 16th century</persName>
                     <persName type="display" xml:lang="he">טריביש, נפתלי הירץ</persName>
+                    <persName type="variant">Shats, Hirts</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3986,8 +3988,7 @@
                     </note>
                 </person>
                 <person xml:id="person_6164147270564535700002">
-                    <persName type="display">Aaron ben Joseph, ha-Levi, approximately
-                        1235-</persName>
+                    <persName type="display">Aaron ben Joseph, ha-Levi, approximately 1235-</persName>
                     <persName type="display" xml:lang="he">אהרן בן יוסף הקראי</persName>
                     <persName type="variant">Aaron ben Joseph, ha-Levi</persName>
                     <note type="links">
@@ -4049,10 +4050,8 @@
                     </note>
                 </person>
                 <person xml:id="person_9592162669514255500009">
-                    <persName type="display">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or
-                        1053-1127</persName>
-                    <persName type="display" xml:lang="he">בטליוסי, אבו מחמד עבדאללה בן
-                        מחמד</persName>
+                    <persName type="display">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or 1053-1127</persName>
+                    <persName type="display" xml:lang="he">בטליוסי, אבו מחמד עבדאללה בן                        מחמד</persName>
                     <persName type="variant">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad</persName>
                     <note type="links">
                         <list type="links">
@@ -4072,7 +4071,7 @@
             </listPerson>
             <listPerson type="local">
                 <person xml:id="person_1">
-                    <persName type="display">Giovanni Perissinotti0</persName>
+                    <persName type="display">Giovanni Perissinotti</persName>
                 </person>
                 <person xml:id="person_2">
                     <persName type="display">Girolamo Cardina</persName>
