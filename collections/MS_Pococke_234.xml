@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
-                  <idno>MS. Pococke 234</idno>
+                  <idno>MS. Pococke 234</idno><idno type="ieArk">ark:29072/x09019s310p5</idno><idno type="crArk">ark:29072/x08w32r627cf</idno>
                </msIdentifier>
                <msContents>
                   <summary>Guide for the Perplexed by Maimonides</summary>

@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
-                  <idno>MS. Reggio 13</idno>
+                  <idno>MS. Reggio 13</idno><idno type="ieArk">ark:29072/x0cj82k776rp</idno><idno type="crArk">ark:29072/x0cf95jb93ft</idno>
                </msIdentifier>
                <msContents>
                   <summary>Collection of astrological and astronomical texts</summary>

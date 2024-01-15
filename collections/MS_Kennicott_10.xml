@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
-                  <idno>MS. Kennicott 10</idno>
+                  <idno>MS. Kennicott 10</idno><idno type="ieArk">ark:29072/x0wd375v738k</idno><idno type="crArk">ark:29072/x0w9504z89zm</idno>
                </msIdentifier>
                <msContents>
                   <summary>Hebrew Bible</summary>

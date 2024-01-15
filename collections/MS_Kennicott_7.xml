@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
-                  <idno>MS. Kennicott 7</idno>
+                  <idno>MS. Kennicott 7</idno><idno type="ieArk">ark:29072/x0xk81jj7304</idno><idno type="crArk">ark:29072/x0xg94hn89p2</idno>
                </msIdentifier>
                <msContents>
                   <summary>Fragments of the Latter Prophets</summary>

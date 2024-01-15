@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
-                  <idno>MS. Reggio 31</idno>
+                  <idno>MS. Reggio 31</idno><idno type="ieArk">ark:29072/x0fj236242z0</idno><idno type="crArk">ark:29072/x0ff365559n8</idno>
                </msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Reggio_31-item1" n="1">
