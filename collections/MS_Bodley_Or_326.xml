@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
-                  <idno>MS. Bodley Or. 326</idno>
+                  <idno>MS. Bodley Or. 326</idno><idno type="ieArk">ark:29072/x08g84mm943h</idno><idno type="crArk">ark:29072/x08c97kr10sg</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 297</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Commentary on the Prophets by Rashi</summary>

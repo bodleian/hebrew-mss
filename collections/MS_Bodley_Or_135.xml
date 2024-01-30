@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
-                  <idno>MS. Bodley Or. 135</idno>
+                  <idno>MS. Bodley Or. 135</idno><idno type="ieArk">ark:29072/x07d278t77pt</idno><idno type="crArk">ark:29072/x079407x94c2</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 1466</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Miscellany</summary>

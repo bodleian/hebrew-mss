@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Huntington Collection</collection>
-                  <idno>MS. Huntington 299</idno>
+                  <idno>MS. Huntington 299</idno><idno type="ieArk">ark:29072/x0tm70mt73pv</idno><idno type="crArk">ark:29072/x0th83kx90c0</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 2043</idno></altIdentifier></msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Huntington_299-item1" n="1">

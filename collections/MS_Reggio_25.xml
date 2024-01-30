@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
-                  <idno>MS. Reggio 25</idno>
+                  <idno>MS. Reggio 25</idno><idno type="ieArk">ark:29072/x0dr26xx76g9</idno><idno type="crArk">ark:29072/x0dn39x1935p</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 1557</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of kabbalistic works</summary>

@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
-                  <idno>MS. Canonici Or. 12</idno>
+                  <idno>MS. Canonici Or. 12</idno><idno type="ieArk">ark:29072/x0r494vj68t9</idno><idno type="crArk">ark:29072/x0gf06g292qs</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 1217</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of Yiddish and Hebrew texts</summary>

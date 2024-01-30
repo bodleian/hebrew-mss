@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Pococke Collection</collection>
-                  <idno>MS. Pococke 368</idno>
+                  <idno>MS. Pococke 368</idno><idno type="ieArk">ark:29072/x0b5644s10dp</idno><idno type="crArk">ark:29072/x0b2773w273z</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 2044.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of astronomical texts</summary>

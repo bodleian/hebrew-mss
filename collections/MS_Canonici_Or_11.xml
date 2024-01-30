@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
-                  <idno>MS. Canonici Or. 11</idno>
+                  <idno>MS. Canonici Or. 11</idno><idno type="ieArk">ark:29072/x0n870zq52vg</idno><idno type="crArk">ark:29072/x0g732d9263g</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 169</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Italian translation of the Pentateuch</summary>

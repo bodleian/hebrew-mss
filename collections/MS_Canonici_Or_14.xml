@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
-                  <idno>MS. Canonici Or. 14</idno>
+                  <idno>MS. Canonici Or. 14</idno><idno type="ieArk">ark:29072/x01544bq072m</idno><idno type="crArk">ark:29072/x0h128nd92kf</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 409</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mishnah Commentary by Maimonides</summary>

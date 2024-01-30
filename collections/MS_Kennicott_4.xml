@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
-                  <idno>MS. Kennicott 4</idno>
+                  <idno>MS. Kennicott 4</idno><idno type="ieArk">ark:29072/x0x059c6734g</idno><idno type="crArk">ark:29072/x0ww72b989td</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 2326.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Pentateuch Five Scrolls and Hafṭarot</summary>

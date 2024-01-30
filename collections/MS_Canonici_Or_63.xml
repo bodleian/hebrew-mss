@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
-                  <idno>MS. Canonici Or. 63</idno>
+                  <idno>MS. Canonici Or. 63</idno><idno type="ieArk">ark:29072/x00c483k40m8</idno><idno type="crArk">ark:29072/x0pn89d64181</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 1377</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of philosophical texts</summary>

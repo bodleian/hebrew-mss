@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
-                  <idno>MS. Bodley Or. 60</idno>
+                  <idno>MS. Bodley Or. 60</idno><idno type="ieArk">ark:29072/x0bn999726x1</idno><idno type="crArk">ark:29072/x0bk128b43mp</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 1013</idno></altIdentifier></msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Bodley_Or_60-item1" n="1">

@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
-                  <idno>MS. Laud Or. 117</idno>
+                  <idno>MS. Laud Or. 117</idno><idno type="ieArk">ark:29072/x02v23vv23nb</idno><idno type="crArk">ark:29072/x002870x12rt</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 1981</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Miscellany</summary>

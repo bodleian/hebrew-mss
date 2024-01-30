@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
-                  <idno>MS. Reggio 47</idno>
+                  <idno>MS. Reggio 47</idno><idno type="ieArk">ark:29072/x0hh63sw095x</idno><idno type="crArk">ark:29072/x0hd76s025vz</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 2080</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <p>ff. 34</p>

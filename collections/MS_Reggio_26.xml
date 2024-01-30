@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
-                  <idno>MS. Reggio 26</idno>
+                  <idno>MS. Reggio 26</idno><idno type="ieArk">ark:29072/x0dz010q433f</idno><idno type="crArk">ark:29072/x0dv13zt59s5</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 2396</idno></altIdentifier></msIdentifier>
                <physDesc>
                   <p>ff. 136</p>

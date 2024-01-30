@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
-                  <idno>MS. Oppenheim 13</idno>
+                  <idno>MS. Oppenheim 13</idno><idno type="ieArk">ark:29072/x04t64gp11n8</idno><idno type="crArk">ark:29072/x04q77fs28bj</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 23</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>entateuch with Targum Onkelos, Hafṭarot and Five Scrolls</summary>

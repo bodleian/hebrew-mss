@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Reggio Collection</collection>
-                  <idno>MS. Reggio 2</idno>
+                  <idno>MS. Reggio 2</idno><idno type="ieArk">ark:29072/x0db78tc4375</idno><idno type="crArk">ark:29072/x0d791sg59x6</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 1024</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mahzor according to the Western Ashkenazi rite</summary>

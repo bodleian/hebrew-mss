@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Marsh Collection</collection>
-                  <idno>MS. Marsh 10</idno>
+                  <idno>MS. Marsh 10</idno><idno type="ieArk">ark:29072/x03t945r78j6</idno><idno type="crArk">ark:29072/x03r074v957r</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 53</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Pentateuch</summary>

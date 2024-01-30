@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
-                  <idno>MS. Bodley Or. 79</idno>
+                  <idno>MS. Bodley Or. 79</idno><idno type="ieArk">ark:29072/x0k3569422x1</idno><idno type="crArk">ark:29072/x0cj82k776q9</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 1504</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew-Arabic dictionary to the Bible and the Mishnah</summary>

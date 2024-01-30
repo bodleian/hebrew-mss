@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
-                  <idno>MS. Canonici Or. 136</idno>
+                  <idno>MS. Canonici Or. 136</idno><idno type="ieArk">ark:29072/x02j62s573dg</idno><idno type="crArk">ark:29072/x0gm80hv59b6</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 18</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible</summary>

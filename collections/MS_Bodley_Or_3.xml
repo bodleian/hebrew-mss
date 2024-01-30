@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
-                  <idno>MS. Bodley Or. 3</idno>
+                  <idno>MS. Bodley Or. 3</idno><idno type="ieArk">ark:29072/x08910jv27g8</idno><idno type="crArk">ark:29072/x08623hz445d</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 114</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Book of Psalms</summary>

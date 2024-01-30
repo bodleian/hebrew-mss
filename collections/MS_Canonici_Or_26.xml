@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
-                  <idno>MS. Canonici Or. 26</idno>
+                  <idno>MS. Canonici Or. 26</idno><idno type="ieArk">ark:29072/x03b591939t6</idno><idno type="crArk">ark:29072/x0jh343s427n</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 2143</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of texts on medicine</summary>

@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
-                  <idno>MS. Laud Or. 113</idno>
+                  <idno>MS. Laud Or. 113</idno><idno type="ieArk">ark:29072/x0z603qw511s</idno><idno type="crArk">ark:29072/x0zs25x772qn</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 2142</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Miscellaneous notes on medicine</summary>

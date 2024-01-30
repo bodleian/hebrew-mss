@@ -42,7 +42,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Canonici Oriental Collection</collection>
-                  <idno>MS. Canonici Or. 105</idno>
+                  <idno>MS. Canonici Or. 105</idno><idno type="ieArk">ark:29072/x005741s740s</idno><idno type="crArk">ark:29072/x0fq977v09jx</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 45</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Hebrew Bible: Pentateuch</summary>
