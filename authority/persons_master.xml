@@ -5330,6 +5330,589 @@
                 <person xml:id="person_7037">
                     <persName type="display">Rafael Galiḳo</persName>
                 </person>
+                <person xml:id="person_100195377">
+                    <persName type="display">Ibn Ṭufayl, Muḥammad ibn ʻAbd al-Malik -1185</persName>
+                    <persName type="display" xml:lang="he">טפיל, מחמד בן עבד אלמלך אבן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/100195377"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n82164728"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_100212052">
+                    <persName type="display">Zacuto, Moses ben Mordecai, approximately
+                        1620-1697</persName>
+                    <persName type="display" xml:lang="he">זכות, משה בן מרדכי</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/100212052"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n86062002"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_100650178">
+                    <persName type="display">Yom-Tob ben Abraham Ishbili, approximately
+                        1270-approximately 1342</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/100650178"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n80013272"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_138999790">
+                    <persName type="display">Marshall, Thomas, 1621-1685</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/138999790"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n85055892"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_14145304738878610490">
+                    <persName type="display">Shemuʼel, me-Ulma</persName>
+                    <persName type="display" xml:lang="he">שמואל, מאולמא</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/14145304738878610490"
+                                        ><title>VIAF</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_1589145857147722922960">
+                    <persName type="display">Shabtai ben Daniel Rafael</persName>
+                    <persName type="display" xml:lang="he">רפאל, שבתי בן דניאל</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/1589145857147722922960"
+                                        ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nb2009010751"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_1670603">
+                    <persName type="display">Comtino, Mordecai ben Eliezer, active 15th
+                        century</persName>
+                    <persName type="display" xml:lang="he">כומטיאנו, מרדכי בן אליעזר</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/1670603"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n92099358"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_17127610">
+                    <persName type="display">Susan, Issachar ben Mordecai, approximately
+                        1510-</persName>
+                    <persName type="display" xml:lang="he">סוסאן, יששכר בן מרדכי </persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/17127610"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr97007983"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_19632017">
+                    <persName type="display">Latif, Isaac ben Abraham ibn, approximately
+                        1220-approximately 1290</persName>
+                    <persName type="display" xml:lang="he">לטיף, יצחק בן אברהם אבן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/19632017"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr2004036118"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_19690624">
+                    <persName type="display">Ḥunayn ibn Isḥāq al-ʻIbādī, 809?-873</persName>
+                    <persName type="display" xml:lang="he">חנין בן אסחאק</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/19690624"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n80145641"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_198149106169068491350">
+                    <persName type="display">Narcissus Marsh</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/198149106169068491350"
+                                        ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n80146681"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_20145304381978571579">
+                    <persName type="display">Yaaqov ben Sha'ul, ha-nazir</persName>
+                    <persName type="display" xml:lang="he">יעקב בן שאול הנזיר</persName>
+                    <persName type="variant" xml:lang="he">יעקב בן שאול הנזיר (ממנו)</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/20145304381978571579"
+                                        ><title>VIAF</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_21145304384378571610">
+                    <persName type="display">Karasani, Yehudah ben Yosef</persName>
+                    <persName type="display" xml:lang="he">כרסני, יהודה בן יוסף</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/21145304384378571610"
+                                        ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n2023016313"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_22294645">
+                    <persName type="display">Gershon ben Solomon, of Arles, active 13th
+                        century</persName>
+                    <persName type="display" xml:lang="he">גרשון בן שלמה</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/22294645"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr2006032953"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_22494859">
+                    <persName type="display">Solo, Geraldus de</persName>
+                    <persName type="display" xml:lang="he">גררדוס דה סולו</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/22494859"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/no2016107746"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_24612190">
+                    <persName type="display">Algazy, Joseph, 1938-</persName>
+                    <persName type="display" xml:lang="he">אלגזי, יוסף, 1938- </persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/24612190"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n84142550"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_24693935">
+                    <persName type="display">Roe, Thomas, Sir, 1581?-1644</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/24693935"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n85055877"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_24783259">
+                    <persName type="display">Abulafia, Todros ben Joseph, ha-Levi, approximately
+                        1220-1298</persName>
+                    <persName type="display" xml:lang="he">אבולעפיה ,טודרוס בן יוסף, הלו </persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/24783259"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n89106592"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_248334794">
+                    <persName type="display">Ibn Verga, Yehudah</persName>
+                    <persName type="display" xml:lang="he">וירגא, יהודה אבן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/248334794"
+                                    ><title>VIAF</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_256814352">
+                    <persName type="display">Alexander Suslin, ha-Kohen, of Frankfurt,
+                        -1349</persName>
+                    <persName type="display" xml:lang="he">אלכסנדר זוסלין, הכהן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/256814352"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n88102159"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_280604235">
+                    <persName type="display">Bonfils, Joseph ben Eliezer, active 14th
+                        century</persName>
+                    <persName type="display" xml:lang="he">טוב עלם, יוסף בן אליעזר</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/280604235"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr99022873"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_289365363">
+                    <persName type="display">Muelhausen, Yom Tov Lipmann, active 14th century-15th
+                        century</persName>
+                    <persName type="display" xml:lang="he">יום טוב ליפמן מילהויזן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/289365363"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n83065492"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_305114808">
+                    <persName type="display">Ibn Janāḥ, Abū al-Walīd Marwān, approximately
+                        990-approximately 1050</persName>
+                    <persName type="display" xml:lang="he"> ג’נאח, יונה אבן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/305114808"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n84008524"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_31153530885148700762">
+                    <persName type="display" xml:lang="he">יוסף, הנגיד </persName>
+                    <persName type="variant">(Joseph, ha-Nagid)</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/31153530885148700762"
+                                        ><title>VIAF</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_3161760503521642966">
+                    <persName type="display">Isaac ben Moses Eli</persName>
+                    <persName type="display" xml:lang="he">יצחק בן משה עלי</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/3161760503521642966"
+                                        ><title>VIAF</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_3171166063377580560004">
+                    <persName type="display">Qonforti, Dawid (David), ca. 1618-ca. 1685</persName>
+                    <persName type="display" xml:lang="he">קונפורטי, דוד </persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/3171166063377580560004"
+                                        ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr95002758"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_34684157">
+                    <persName type="display">Huntington, Robert, 1637-1701</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/34684157"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n92800681"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_34806748">
+                    <persName type="display">Alfasi, Isaac ben Jacob, 1013-1103</persName>
+                    <persName type="display" xml:lang="he">יצחק בן יעקב אלפסי</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/34806748"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n83162121"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_36152501064610680500">
+                    <persName type="display">Yerushalmi, Yehudah ben Shemu'el</persName>
+                    <persName type="display" xml:lang="he">יהודה בן שמואל ירושלמי </persName>
+                    <persName type="variant" xml:lang="he">יהודה בן שמואל ירושלמי (חותם)</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/36152501064610680500"
+                                        ><title>VIAF</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_364144782719773065741">
+                    <persName type="display">Ibn Danan, Shemu'el ben Saadia, 1692-1768</persName>
+                    <persName type="display" xml:lang="he">אבן דנאן, שמואל בן סעדיה </persName>
+                    <persName type="variant" xml:lang="he">אבן דנאן, שמואל בן סעדיה
+                        (בעלים)</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/364144782719773065741"
+                                        ><title>VIAF</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_36811473">
+                    <persName type="display">Yishmaʻel ben Ḥakhmon</persName>
+                    <persName type="display" xml:lang="he"> ישמעאל בן חכמון</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/36811473"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr95039085"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_37033413">
+                    <persName type="display">Gabbai, Meir ben Ezekiel ibn, 1480-approximately
+                        1540</persName>
+                    <persName type="display" xml:lang="he">גבאי, מאיר בן יחזקאל אבן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/37033413"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n83197497"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_38448929">
+                    <persName type="display">Moses ben Jacob, of Coucy, active 13th
+                        century</persName>
+                    <persName type="display" xml:lang="he">משה בן יעקב, מקוצי</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/38448929"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n87930458"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_39272010">
+                    <persName type="display">Matkah, Judah ben Solomon, ha-Kohen, active 13th
+                        century</persName>
+                    <persName type="display" xml:lang="he">יהודה בן שלמה הכהן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/39272010"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr95045195"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_41078232">
+                    <persName type="display">Qalonymos ben Qalonymos ben Meʼir, 1286-</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/41078232"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n94113577"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_44597971">
+                    <persName type="display">Ḥayyuj, Judah ben David, approximately
+                        945-approximately 1000</persName>
+                    <persName type="display" xml:lang="he">חיוג, יהודה בן דוד</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/44597971"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr89012176"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_4816977">
+                    <persName type="display">Alashkar, Moses ben Isaac, 1466-1542</persName>
+                    <persName type="display" xml:lang="he">אלאשקר, משה בן יצחק </persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/4816977"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr95004932"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_51728429">
+                    <persName type="display">Selden, John, 1584-1654</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/51728429"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n50005935"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_57018301">
+                    <persName type="display">Abū al-Barakāt Hibat Allāh ibn ʻAlī, active
+                        1077-1164</persName>
+                    <persName type="display" xml:lang="he">אבו אלברכאת אלבג’דאדי</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/57018301"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n87928938"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_58755209">
+                    <persName type="display">Aknin, Joseph ben Judah ben Jacob Ibn, approximately
+                        1150-1220</persName>
+                    <persName type="display" xml:lang="he"> אבן עקנין, יוסף בן יהודה</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/58755209"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/no2002084440"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_60372904">
+                    <persName type="display">Enoch ben Solomon al-Ḳusṭanṭini, active
+                        1370</persName>
+                    <persName type="display" xml:lang="he">קוסטנטיני, חנוך בן שלמה</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/60372904"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n80018495"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_6325192">
+                    <persName type="display">Ẓaddik, Joseph ben Jacob Ibn, 1075-1149</persName>
+                    <persName type="display" xml:lang="he">צדיק, יוסף בן יעקב אבן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/6325192"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n84017719"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_67929844">
+                    <persName type="display">Tanḥum ben Joseph, of Jerusalem, -1291</persName>
+                    <persName type="display" xml:lang="he">תנחום בן יוסף, הירושלמי</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/67929844"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n85369449"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_68827285">
+                    <persName type="display">Hailbuṭ, Avraham ben Leyb, -1776</persName>
+                    <persName type="display" xml:lang="he"> הילבוט, אברהם בן יהודה</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/68827285"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr96019841"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_69345244">
+                    <persName type="display">Samegah, Joseph ben Benjamin, -1629</persName>
+                    <persName type="display" xml:lang="he">יוסף בן בנימין סמיגה</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/69345244"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr91042730"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_7336167867563123060009">
+                    <persName type="display">Abravanel, Isaac, 1437-1508</persName>
+                    <persName type="display" xml:lang="he">אברבנאל, יצחק בן יהודה</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/7336167867563123060009"
+                                        ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n80067695"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_76472896">
+                    <persName type="display">Caspi, Joseph, approximately 1280-approximately
+                        1340</persName>
+                    <persName type="display" xml:lang="he">כספי, יוסף בן אבא מארי אבן</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/76472896"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n81020350"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_76570096">
+                    <persName type="display">Ibn Verga, Solomon, 1460-1554</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/76570096"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n83155569"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_7818167807422118130007">
+                    <persName type="display">Jacob, of Marvège, active 12th century-13th
+                        century</persName>
+                    <persName type="display" xml:lang="he">יעקב ממרויש</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/7818167807422118130007"
+                                        ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/no92031492"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_81287">
+                    <persName type="display">Abraham bar Hiyya Savasorda, approximately
+                        1065-approximately 1136</persName>
+                    <persName type="display" xml:lang="he">אברהם בן חיא, הנשיא</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/81287"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n50057585"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_88916251">
+                    <persName type="display">Baḥya ben Joseph ibn Paḳuda, active 11th
+                        century</persName>
+                    <persName type="display" xml:lang="he">בחיי בן יוסף אבן פקודא</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/88916251"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n79083307"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_89860273">
+                    <persName type="display">Meir ben Baruch, of Rothenburg, approximately
+                        1215-1293</persName>
+                    <persName type="display" xml:lang="he">מאיר בן ברוך מרוטנבורג</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/89860273"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n78066951"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_97189710">
+                    <persName type="display" xml:lang="he">וקסלר, בנימין בן שלמה</persName>
+                    <persName type="variant">(Benjamin ben Solomon Wexler)</persName>
+                    <persName type="variant" xml:lang="he">וקסלר, בנימין בן שלמה (בעלים)</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/97189710"
+                                    ><title>VIAF</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_98213041">
+                    <persName type="display">Ibn Zarza, Samuel, active 14th century</persName>
+                    <persName type="display" xml:lang="he">צרצה, שמואל</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/98213041"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/nr90005791"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_9907600">
+                    <persName type="display">Ḥarīrī, 1054-1122</persName>
+                    <persName type="display" xml:lang="he">אלבצרי אלקאסם, אבן עלי אלחרירי</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="https://viaf.org/viaf/9907600"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n82164402"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_69817285">
+                    <persName type="display">Heidenheim, Wolf, 1757-1832</persName>
+                    <persName type="display" xml:lang="he">הידנהים, בנימין וולף בן שמשון, 1757-1832 </persName>
+                    <persName type="variant" xml:lang="he">הידנהים, בנימין וולף בן שמשון, 1757-1832
+                        (בעלים)</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="http://viaf.org/viaf/69817285"
+                                    ><title>VIAF</title></ref></item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n85313815"
+                                        ><title>Library of Congress</title></ref></item>
+                        </list></note>
+                </person>
+                <person xml:id="person_10151171039039091904">
+                    <persName type="display">Yaʻḳūb, al-Shalabī, 1829-</persName>
+                    <persName type="variant">Jacob Esh Shelaby</persName>
+                    <persName type="variant">Jacob Shelaby</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="http://viaf.org/viaf/10151171039039091904"><title>VIAF</title></ref></item>
+                    </list></note>
+                </person>   
+                <person xml:id="person_24956782">
+                    <persName type="display">Jerónimo, de Santa Fe, -approximately 1419</persName>
+                    <persName type="display" xml:lang="he">לורקי, יהושע בן יוסף</persName>
+                    <persName type="variant">Joseph ben Joshua Lorki</persName>
+                    <note type="links"><list type="links">
+                            <item><ref target="http://viaf.org/viaf/24956782"><title>VIAF</title></ref></item>
+                    </list></note>
+                </person>
             </listPerson>
             <listPerson type="genizah">
                 <!-- These files remain unprocessed -->
