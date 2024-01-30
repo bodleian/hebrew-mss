@@ -1666,6 +1666,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_59876084">
+                    <persName type="display">Kara, Joseph, approximately 1065-</persName>
+                    <persName type="display" xml:lang="he">קרא, יוסף בן שמעון, 1065 בערך-1135 בערך</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/59876084">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/names/n82029070">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_60610564">
                     <persName type="display">Calimani, Simon, 1699-1784</persName>
                     <persName type="display" xml:lang="he">קלימני, שמחה בן אברהם</persName>

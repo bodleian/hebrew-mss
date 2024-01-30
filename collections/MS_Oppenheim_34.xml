@@ -43,17 +43,32 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 34</idno>
-               <altIdentifier type="other"><idno type="Neubauer">No. 869</idno></altIdentifier></msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">No. 186</idno></altIdentifier></msIdentifier>
                <msContents>
-                  <summary>Amude Shlomoh</summary>
-                  <msItem xml:id="MS_Oppenheim_34-item1" n="1">
-                     <locus>ff. 1r-329r</locus>
-                     <author ref="http://viaf.org/viaf/100224138" key="person_100224138">Luria, Solomon ben Jehiel, 1510?-1573 or 1574</author>
-                     <author key="person_100224138">לוריא, שלמה בן יחיאל</author>
-                     <title>Amude Shlomoh</title>
-                     <title>
-                        </title><title xml:lang="he">עמודי שלמה</title>
-                     
+                  <summary>Rashi commentary on the Hebrew Bible with additions by other authors</summary>
+                  <summary xml:lang="he">רשי על תנך </summary>
+                  <msItem n="1" xml:id="MS_Oppenheim_34-item1">
+                     <locus>ff. 1r-218r</locus>
+                     <author ref="http://viaf.org/viaf/19684048" key="person_19684048">Rashi, 1040-1105</author>
+                     <author key="person_19684048">שלמה בן יצחק (רש"י)</author>
+                     <title>Rashi commentary on the Pentateuch, Jeremiah, Ezekiel, Isaiah, Minor Prophets, Five Scrolls, Psalms, Job</title>
+                     <title xml:lang="he"></title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="2" xml:id="MS_Oppenheim_34-item2">
+                     <locus>ff. 218v-292r</locus>
+                     <author ref="http://viaf.org/viaf/59876084" key="person_59876084">Kara, Joseph, approximately 1065-</author>
+                     <author key="person_59876084">קרא, יוסף בן שמעון, 1065 בערך-1135 בערך</author>
+                     <title>Joseph Kara, Commentary on Job</title>
+                     <title xml:lang="he"></title>  
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="3" xml:id="MS_Oppenheim_34-item3">
+                     <locus>ff. 293r-329v</locus>
+                     <author ref="http://viaf.org/viaf/19684048" key="person_19684048">Rashi, 1040-1105</author>
+                     <author key="person_19684048">שלמה בן יצחק (רש"י)</author>
+                     <title>Rashi, Commentary on Proverbs, Daniel, Ezra-Nehemiah and 1 Chronicles</title>
+                     <title xml:lang="he"></title>  
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -61,55 +76,76 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent>ff. 175 <dimensions type="leaf" unit="mm"/>
+                        <extent>ff. 329 <dimensions type="leaf" unit="mm">
+                           <height quantity="0"/>
+                           <width quantity="0"/>
+                        </dimensions>
                         </extent>
-                        <foliation>Foliation in Arabic numerals.</foliation>
-                        <collation>x quires + 2 leaves inner/outer leaf of quire <signatures>Hebrew/Arabic characters</signatures>
-                           <catchwords>catchwords, repeated words, marked central opening</catchwords>
-                        </collation>
+                        <foliation>Foliation in Arabic numerals. </foliation>
+                        <collation/>
+                        <condition/>
                      </supportDesc>
                      <layoutDesc>
                         <layout columns="1">Text in one column.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Ashkenazi cursive script.</summary>
-                     <handNote scope="sole" script="ashkenazi" rend="cursive"/>
+                     <summary>Ashkenazi semi-cursive script.</summary>
+                     <handNote scope="sole" script="ashkenazi" rend="semi-cursive"> </handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote type="none">Not decorated.</decoNote>
+                     <decoNote>Not decorated.</decoNote>
                   </decoDesc>
                   <additions>Engraved title page added by David Oppenheim.</additions>
                   <bindingDesc>
-                     <p>Brown leather binding, blind-tooled.</p>
+                     <p>White leather binding, blind-tooled.</p>
                   </bindingDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>[Ashkenaz]</origPlace>
-                     <origDate notBefore="1576" notAfter="1600">[late 16th century]</origDate>
+                     <origPlace>[Ashkenaz]</origPlace><origDate notBefore="1576" notAfter="1600">[early 13th century]</origDate>
                   </origin>
-                  <acquisition>It belonged to Rabbi Isaac Samuel Reggio's (1784-1855) library, which was purchased en bloc by the Bodleian Library in 1853.</acquisition>
+                  <provenance/>
+                  <acquisition>It belonged to Rabbi Isaac Samuel Reggio's (1784-1855) library,
+                     which was purchased en bloc by the Bodleian Library in
+                     1853.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0126.jpg">No. 869</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0124.jpg">No. 869</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source> Manuscript description based on <bibl>Catalogue of the
+                           Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                           Neubauer, Oxford 1886, </bibl><ref facs="bej0052.jpg">No.
+                              186</ref>, <bibl>Catalogue of the Hebrew manuscripts in
+                                 the Bodleian Library; Supplement of Addenda and Corrigenda
+                                 to Vol. I, </bibl><ref facs="beo0069.jpg">No.
+                                    186</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088073&amp;local_base=NNLMSS">Institute of Microfilmed
+                                       Hebrew Manuscripts</ref>, National Library of Israel with additional
+                           enhancements by the cataloguer. </source>
                      </recordHist>
+                     
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of
+                           a valid reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                              >Bodleian Admissions</ref>). Contact
+                           <email>oriental@bodleian.ox.ac.uk</email> for further
+                           information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
-                  <surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/objects/4a83e8ab-6ca2-45c2-b24d-7a53736a5d13/"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl>
+                  
+                  <surrogates>
                      <bibl>
-                        <idno n="MSS R.R. Film No." type="microfilm">F 21630</idno>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 16250</idno>
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 869.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 869.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the
+                        Bodleian Library </hi>(Oxford, 1886), no. 186.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew
+                        manuscripts in the Bodleian Library; Supplement of Addenda and
+                        Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), no. 186.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -151,6 +187,9 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2024-01-30">
+            <persName>Ben Whittle</persName> Corrections and additions after information was accidentally copy of MS_Opp_333
+         </change>
          <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl">https://github.com/bodleian/hebrew-mss/tree/master/processing/convertHebrew2Bodley.xsl</ref>
          </change>
