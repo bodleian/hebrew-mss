@@ -1602,6 +1602,25 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_54984961">
+                    <persName type="display">Japheth ben Ali, ha-Levi, active 10th century</persName>
+                    <persName type="display" xml:lang="he">יפת בן עלי, הלוי, המאה ה-10 </persName>
+                    <persName type="variant" xml:lang="ar">يافث بن على اللاوى</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target ="https://viaf.org/viaf/54984961">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target ="https://id.loc.gov/authorities/names/nr94022950">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_56636061">
                     <persName type="display">Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013?</persName>
                     <persName type="display" xml:lang="he">אל-זהראוי, ח'לף בן עבאס</persName>
