@@ -173,6 +173,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_7104535">
+                    <persName type="display">Śimḥah, mi-Ṿiṭri, -1105</persName>
+                    <persName type="display" xml:lang="he">שמחה בן שמואל, מויטרי</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/7104535">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/no2004067178">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_7343152">
                     <persName type="display">Yaʻaḳov ben Reʼuven active 12th century</persName>
                     <persName type="display" xml:lang="he">יעקב בן ראובן</persName>
