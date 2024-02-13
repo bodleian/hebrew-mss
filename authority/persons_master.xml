@@ -5764,6 +5764,20 @@
                                         ><title>Library of Congress</title></ref></item>
                         </list></note>
                 </person>
+                <person xml:id="person_56385920">
+                    <persName type="display">Moses ben Isaac, haNessiah, active 13th century</persName>
+                    <persName type="display" xml:lang="he">משה בן יצחק בן הנשיאה, מאינגלטרה</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item><ref target="https://viaf.org/viaf/56385920">
+                                <title>VIAF</title></ref>
+                            </item>
+                            <item><ref target="http://id.loc.gov/authorities/names/no2007033675">
+                                <title>Library of Congress</title></ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_57018301">
                     <persName type="display">Abū al-Barakāt Hibat Allāh ibn ʻAlī, active
                         1077-1164</persName>
