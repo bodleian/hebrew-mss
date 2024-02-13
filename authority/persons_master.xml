@@ -2086,6 +2086,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_78698989">
+                    <persName type="display">Baruch ben Isaac, of Worms, active 12th century-13th century</persName>
+                    <persName type="display" xml:lang="he">ברוך בן יצחק, מגרמיזה</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/78698989">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nr99016609">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_78775033">
                     <persName type="display">Versor, Johannes, -approximately 1485</persName>
                     <persName type="display" xml:lang="he">וירשוריו</persName>
