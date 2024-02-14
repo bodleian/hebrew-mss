@@ -547,6 +547,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_18664254">
+                    <persName type="display">Ẓemaḥ, Jacob ben Ḥayyim, active 17th century</persName>
+                    <persName type="display" xml:lang="he">צמח, יעקב בן חיים, 1570?-1667</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/18664254">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n85210329">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_19208002">
                     <persName type="display">Alguadez, Meir ben Solomon, active 1390-1410</persName>
                     <persName type="display" xml:lang="he">אלגואדיש, מאיר בן שלמה</persName>
@@ -1815,7 +1833,7 @@
                     </note>
                 </person>
                 <person xml:id="person_63993515">
-                    <persName type="display">Hai, ben Sherira, 939-1038</persName>
+                    <persName type="display">Hai ben Sherira, 939-1038</persName>
                     <persName type="display" xml:lang="he">האי בן שרירא גאון </persName>
                     <persName type="variant">Hai, ben Sherira, 939-1038 (attributed to
                         him)</persName>
@@ -2004,6 +2022,24 @@
                             </item>
                             <item>
                                 <ref target="http://id.loc.gov/authorities/names/n99034275">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_70348690">
+                    <persName type="display">Perez ben Elijah, of Corbeil, -approximately 1295</persName>
+                    <persName type="display" xml:lang="he">פרץ בן אליהו, מקורביל, נפטר ב-1295</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/70348690">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n85015268">
                                     <title>Library of Congress</title>
                                 </ref>
                             </item>
@@ -5384,6 +5420,19 @@
                 </person>
                 <person xml:id="person_7037">
                     <persName type="display">Rafael Galiḳo</persName>
+                </person>
+                <person xml:id="person_7038">
+                    <persName type="display">Eliah ben Samuel ben Parnes of Stephanow</persName>
+                    <persName type="display" xml:lang="he">אליהו בן שמואל השטיפיוני</persName>
+                    <note type="links"><list type="links">
+                        <item><ref target="https://www.wikidata.org/wiki/Q105555738"
+                            ><title>WikiData</title></ref></item>
+                    </list>
+                    </note>
+                </person>
+                <person xml:id="person_7039">
+                    <persName type="display">Solomon ben Shabti</persName>
+                    <persName type="display" xml:lang="he">שלמה בן שבתי</persName>
                 </person>
                 <person xml:id="person_100195377">
                     <persName type="display">Ibn Ṭufayl, Muḥammad ibn ʻAbd al-Malik -1185</persName>
