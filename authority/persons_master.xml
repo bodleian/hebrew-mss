@@ -1437,6 +1437,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_46739842">
+                    <persName type="display">Joseph ben Gershon, of Rosheim, approximately 1478-1554</persName>
+                    <persName type="display" xml:lang="he">לואנץ, יוסף יוזלמן בן גרשון, מרוסהים, 1478?-1554</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/46739842">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nr89003605">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_47564933">
                     <persName type="display">Gracian, Zerahiah ben Isaac ben Shealtiel, active 13th century</persName>
                     <persName type="display" xml:lang="he">זרחיה בן יצחק בן שאלתיאל</persName>
@@ -1583,6 +1601,24 @@
                             </item>
                             <item>
                                 <ref target="http://id.loc.gov/authorities/names/n84182009">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_53864616">
+                    <persName type="display">Hezekiah ben Jacob, of Magdeburg, active 13th century</persName>
+                    <persName type="display" xml:lang="he">חזקיה בן יעקב, ממגדבורג</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/53864616">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/no2004075949">
                                     <title>Library of Congress</title>
                                 </ref>
                             </item>
