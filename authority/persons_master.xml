@@ -1546,6 +1546,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_51217995">
+                    <persName type="display">Francese, Jacob ben David, 1615-1667</persName>
+                    <persName type="display" xml:lang="he">פרנסיס, יעקב, 1615-1667</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/51217995">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nb2007023084">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_51578591">
                     <persName type="display">Anav, Jehiel ben Jekuthiel ben Benjamin, active 13th century</persName>
                     <persName type="display" xml:lang="he">יחיאל בן יקותיאל, הרופא</persName>
