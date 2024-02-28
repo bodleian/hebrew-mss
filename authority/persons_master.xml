@@ -3070,6 +3070,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_101482285">
+                    <persName type="display">Da-Piera, Salomo, approximately 1342-approximately 1418</persName>
+                    <persName type="display" xml:lang="he">דפירה, שלמה בן משלם</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/101482285">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/no2009158467">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_105133145">
                     <persName type="display">Fārābī</persName>
                     <persName type="display" xml:lang="he">אלפאראבי, 950-874</persName>
@@ -3149,6 +3167,24 @@
                             </item>
                             <item>
                                 <ref target="http://id.loc.gov/authorities/names/no93025643">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_180286221">
+                    <persName type="display">Baḥya ben Joseph ibn Paḳuda, active 11th century</persName>
+                    <persName type="display" xml:lang="he">בחיי בן יוסף אבן פקודה</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/180286221">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n88074447">
                                     <title>Library of Congress</title>
                                 </ref>
                             </item>
@@ -5857,6 +5893,16 @@
                             <item><ref target="http://id.loc.gov/authorities/names/nr95004932"
                                         ><title>Library of Congress</title></ref></item>
                         </list></note>
+                </person>
+                <person xml:id="person_6962844">
+                    <persName type="display">Ibn Ḥayyim, Aaron, 1545-1632</persName>
+                    <persName type="display" xml:lang="he">חיים, אהרן בן אברהם אבן, 1555-1632</persName>
+                    <note type="links"><list type="links">
+                        <item><ref target="https://viaf.org/viaf/6962844">
+                            <title>VIAF</title></ref></item>
+                        <item><ref target="http://id.loc.gov/authorities/names/no93008567">
+                            <title>Library of Congress</title></ref></item>
+                    </list></note>
                 </person>
                 <person xml:id="person_51728429">
                     <persName type="display">Selden, John, 1584-1654</persName>
