@@ -886,6 +886,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_26170088">
+                    <persName type="display">Maimonides, David ben Joshua ben Abraham, active 14th century-15th century</persName>
+                    <persName type="display" xml:lang="he">דוד בן יהושע מימוני</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/26170088">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n88262371">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_26737345">
                     <persName type="display">Ibn Zabarah, Mosheh</persName>
                     <persName type="display" xml:lang="he">משה בר’ יעקב ן’ זברה</persName>
@@ -2378,6 +2396,24 @@
                             <item>
                                 <ref target="https://viaf.org/viaf/80591625">
                                     <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_86224841">
+                    <persName type="display">Aaron, ha-Levi, of Barcelona, active 13th century-14th century</persName>
+                    <persName type="display" xml:lang="he">אהרן, הלוי, מברצלונה</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/86224841">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n85374392">
+                                    <title>Library of Congress</title>
                                 </ref>
                             </item>
                         </list>
@@ -5524,6 +5560,10 @@
                     <persName type="display">Solomon ben Shabti</persName>
                     <persName type="display" xml:lang="he">שלמה בן שבתי</persName>
                 </person>
+                <person xml:id="person_7040">
+                    <persName type="display">Shem Tov ben Judah ibn Meyor</persName>
+                    <persName type="display" xml:lang="he">שם טוב בן יהודה אבן מאיור</persName>
+                </person>
                 <person xml:id="person_100195377">
                     <persName type="display">Ibn Ṭufayl, Muḥammad ibn ʻAbd al-Malik -1185</persName>
                     <persName type="display" xml:lang="he">טפיל, מחמד בן עבד אלמלך אבן</persName>
@@ -5747,15 +5787,16 @@
                         </list></note>
                 </person>
                 <person xml:id="person_305114808">
-                    <persName type="display">Ibn Janāḥ, Abū al-Walīd Marwān, approximately
-                        990-approximately 1050</persName>
+                    <persName type="display">Ibn Janāḥ, Abū al-Walīd Marwān, approximately 990-approximately 1050</persName>
                     <persName type="display" xml:lang="he"> ג’נאח, יונה אבן</persName>
+                    <persName type="variant">Jonah ibn Janah</persName>
+                    <persName type="variant" xml:lang="ar">ابن جناح، أبو الوليد مروان، نحو 990-نحو 1050 </persName>
                     <note type="links"><list type="links">
-                            <item><ref target="https://viaf.org/viaf/305114808"
-                                    ><title>VIAF</title></ref></item>
-                            <item><ref target="http://id.loc.gov/authorities/names/n84008524"
-                                        ><title>Library of Congress</title></ref></item>
-                        </list></note>
+                        <item><ref target="https://viaf.org/viaf/305114808">
+                            <title>VIAF</title></ref></item>
+                        <item><ref target="http://id.loc.gov/authorities/names/n84008524">
+                            <title>Library of Congress</title></ref></item>
+                    </list></note>
                 </person>
                 <person xml:id="person_31153530885148700762">
                     <persName type="display" xml:lang="he">יוסף, הנגיד </persName>
