@@ -2664,6 +2664,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_97166551">
+                    <persName type="display">Mĕnaḥem ben Saruq, approximately 910-approximately 970</persName>
+                    <persName type="display" xml:lang="he">אבן סרוק, מנחם בן יעקב</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/97166551">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n88103044">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_97166726">
                     <persName type="display">Ibn Tibbon, Shmuel, active 12th century-13th century</persName>
                     <persName type="display" xml:lang="he">אבן תבון, שמואל בן יהודה, 1150-1230</persName>
