@@ -2697,6 +2697,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_97175168">
+                    <persName type="display">Eliezer, of Beaugency, active 12th century</persName>
+                    <persName type="display" xml:lang="he">אליעזר, מבלגנצי</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/97175168">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/no92030585">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_97282190">
                     <persName type="display">Ibn Shem Tov, Shem Tov ben Joseph ben Shem Tov, active 15th century</persName>
                     <persName type="display" xml:lang="he">שם טוב בן שם טוב</persName>
