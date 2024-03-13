@@ -2154,6 +2154,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_71437573">
+                    <persName type="display">Dunash ben Labrat, active 10th century</persName>
+                    <persName type="display" xml:lang="he">דונש בן לברט, המאה ה-10</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/71437573">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nr88006878">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_73875381">
                     <persName type="display">Luzzatto, Moshe Ḥayyim, 1707-1747</persName>
                     <persName type="display" xml:lang="he">לוצאטו, משה חיים, 1707-1747</persName>
@@ -2658,6 +2676,24 @@
                             </item>
                             <item>
                                 <ref target="http://id.loc.gov/authorities/names/n82156974">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_95487669">
+                    <persName type="display">Tam, Jacob ben Meir, approximately 1100-1171</persName>
+                    <persName type="display" xml:lang="he">יעקב בן מאיר (ר"ת)</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/95487669">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/no91005204">
                                     <title>Library of Congress</title>
                                 </ref>
                             </item>
@@ -3772,6 +3808,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_314808316">
+                    <persName type="display">Nissim ben Reuben Gerondi, 1310?-1375?</persName>
+                    <persName type="display" xml:lang="he">נסים בן ראובן, גרונדי, 1310?-1375? </persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/314808316">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n84151607">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_316606361">
                     <persName type="display">Camillo Jaghel</persName>
                     <persName type="variant">Camillo Jagel</persName>
@@ -3826,6 +3880,24 @@
                             </item>
                             <item>
                                 <ref target="http://id.loc.gov/authorities/names/nr95033169">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_6159999589130111352">
+                    <persName type="display">Ḥabiba, Joseph, active 15th century</persName>
+                    <persName type="display" xml:lang="he">חביבא, יוסף</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/6159999589130111352">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n81033357">
                                     <title>Library of Congress</title>
                                 </ref>
                             </item>
