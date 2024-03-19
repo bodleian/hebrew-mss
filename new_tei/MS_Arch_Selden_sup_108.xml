@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Arch_Selden_sup_108</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Kennicott Collection</collection>
+                  <idno>MS. Arch. Selden sup. 108</idno>
+               <altIdentifier type="other">
+                  <idno type="Neubauer">No. 1085</idno>
+               </altIdentifier>
+               <altIdentifier type="other">
+                  <idno type="uri">304</idno>
+               </altIdentifier>
+               <altIdentifier type="other">
+                  <idno type="barnard">3320</idno>
+               </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Mahzor according to the North African (Algiers) rite for the high holidays</summary>
+                  <msItem>
+                     <title type="desc" xml:lang="he">מחזור מנהג צפון אפריקה (ארג'יל) לימים נוראים.</title>
+                     <title type= "desc" xml:lang="he-Latn-x-lc">Maḥzor minhag tsafon Afriḳah (arg'il) le-yamim noraim</title>
+                     <author key="person_7041">
+                        <persName>Nathan ben R. Samʻael Nono</persName>
+                        <persName xml:lang="he">נונו, נתן בן סמעאל</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>                  
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>paper</support>
+                        <extent>ff. 412</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Sephardic semi-cursive script</summary>
+                     <handNote/>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate> 1656</origDate>
+                     <origPlace>[Algiers]</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>The MS belonged to the collection of John Selden (1584-1654), lawyer and historical and linguistic scholar and it was acquired by the Library in 1659.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 1085</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 1085</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 17692</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1085.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1085.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

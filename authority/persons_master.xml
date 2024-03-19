@@ -5672,6 +5672,10 @@
                     <persName type="display">Shem Tov ben Judah ibn Meyor</persName>
                     <persName type="display" xml:lang="he">שם טוב בן יהודה אבן מאיור</persName>
                 </person>
+                <person xml:id="person_7041">
+                    <persName type="display" xml:lang="he">נונו, נתן בן סמעאל</persName>
+                    <persName type="display">Nathan ben R. Samʻael Nono</persName>
+                </person>
                 <person xml:id="person_100195377">
                     <persName type="display">Ibn Ṭufayl, Muḥammad ibn ʻAbd al-Malik -1185</persName>
                     <persName type="display" xml:lang="he">טפיל, מחמד בן עבד אלמלך אבן</persName>
