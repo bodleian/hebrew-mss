@@ -64,6 +64,25 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_1454994">
+                    <persName type="display">Samuel ben Meir, active 11th century-12th century</persName>
+                    <persName type="display" xml:lang="he">שמואל בן מאיר (רשב"ם)</persName>
+                    <persName type="variant">Rashbam</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/1454994">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n85230182">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_2075341">
                     <persName type="display">Yisroel Simcha Schorr</persName>
                     <note type="links">
@@ -2192,6 +2211,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_75197037">
+                    <persName type="display">Eliezer ben Nathan, of Mainz, active 12th century</persName>
+                    <persName type="display" xml:lang="he">אליעזר בן נתן</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/75197037">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n82073764">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_77889652">
                     <persName type="display">Morosini, Giulio, 1612-1687</persName>
                     <persName type="display" xml:lang="he">מורושיני, ג’וליו </persName>
@@ -3746,6 +3783,19 @@
                         <list type="links">
                             <item>
                                 <ref target="http://viaf.org/viaf/307289072">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_308257340">
+                    <persName type="display">Solomon ben Samson, of Worms</persName>
+                    <persName type="display" xml:lang="he">שלמה בן שמשון, מגרמיזא</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/308257340">
                                     <title>VIAF</title>
                                 </ref>
                             </item>
