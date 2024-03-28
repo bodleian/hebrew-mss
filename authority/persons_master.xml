@@ -1512,6 +1512,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_49010383">
+                    <persName type="display">Isaac ben Samuel, of Dampierre, active 12th century</persName>
+                    <persName type="display" xml:lang="he">יצחק בן שמואל, מדמפיר</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/49010383">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/no2007082674">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_49101168">
                     <persName type="display">Nieto, Isaac, 1702-1774</persName>
                     <persName type="display" xml:lang="he">ניטו, יצחק בן דוד</persName>
@@ -3876,6 +3894,18 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_315200936">
+                    <persName type="display">Carretto, Giovanni Domenico, 17th cent.</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/315200936">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_316606361">
                     <persName type="display">Camillo Jaghel</persName>
                     <persName type="variant">Camillo Jagel</persName>
@@ -4402,12 +4432,12 @@
                         </list>
                     </note>
                 </person>
-                <person xml:id="person_8681169261613109510005">
+                <person xml:id="person_16162179007907852870">
                     <persName type="display">Laurentius Franguellus</persName>
                     <note type="links">
                         <list type="links">
                             <item>
-                                <ref target="https://viaf.org/viaf/8681169261613109510005">
+                                <ref target="https://viaf.org/viaf/16162179007907852870">
                                     <title>VIAF</title>
                                 </ref>
                             </item>
