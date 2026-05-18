@@ -216,6 +216,10 @@
                <placeName type="index" source="#IMHM">Rimini (Italy)</placeName>
                <!-- Found in: ../collections/MS_Canonici_Or_87.xml -->
             </place>
+            <place xml:id="place_96">
+               <placeName type="index" source="TGN">Riva del Garda</placeName>
+               <!-- Found in: ../collections/MS_Michael_569.xml -->
+            </place>
             <place xml:id="place_35">
                <placeName type="index" source="bodl">Rome</placeName>
                <!-- Found in: ../collections/MS_Laud_Or_105.xml -->

@@ -18332,6 +18332,22 @@
                     <persName type="display">Moses Botarel Farissol</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Marshall_Or_41_star.xml -->
                 </person>
+                <person xml:id="person_7056">
+                    <persName type="display">Israeli, Isaac, approximately 832-approximately 932</persName>
+                    <persName type="variant" xml:lang="he">יצחק בן שלמה הישראלי</persName>
+                    <persName type="variant">Isaac Israeli ben Solomon</persName>
+                    <persName type="variant">Isaac Israeli the Elder</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/34580662">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Hatton_Or_35.xml -->
+                </person>
             </listPerson>
         </body>
     </text>

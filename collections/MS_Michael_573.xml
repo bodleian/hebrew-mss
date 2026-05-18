@@ -47,42 +47,87 @@
                   <altIdentifier type="other">
                      <idno type="Neubauer">1099</idno>
                   </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 534</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">24068</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Siddur according to the Western Ashkenazi rite, for the whole
-                     year</summary>
+                  <summary>Maḥzor for the entire year according to the Western Ashkenazi
+                     rite</summary>
                   <msItem>
-                     <title xml:lang="he">סדור מנהג אשכנז המערבי לכל השנה</title>
-                     <title xml:lang="he-Latn-x-lc">Siddur minhag Ashkenaz ha-ma'aravi le-khol
-                        ha-shanah</title>
-                     <note>Continuation of MS. Michael 569 (Neubauer: 1098)</note>
+                     <title xml:lang="he" key="work_193">מחזור מנהג אשכנז המערבי לכל השנה</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_193">Maḥzor minhag Ashkenaz
+                        ha-maʿaravi le-khol ha-shanah</title>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>Continuation of MS. Michael 569 (Neubauer 1098).</note>
+                     <note>The third of three volumes; the other two volumes are <idno>MS Michael
+                           571</idno> (Neubauer 1097; vol. 1) and <idno>MS Michael 569</idno>
+                        (Neubauer 1098; vol. 2).</note>
+                     <note>Used by Daniel Goldschmidt in his edition of the Sukkot services
+                        (Jerusalem, 1981).</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 150</extent>
+                        <extent>ff. 150 <dimensions type="leaf" unit="mm">
+                              <height>303</height>
+                              <width>226</width>
+                           </dimensions></extent>
+                        <condition>The bottom margin of <locus>f. 25r</locus> has been repaired with
+                           a parchment strip taken from a Latin manuscript from the late-13th or
+                           early-14th century.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Ashkenazi square, semi-cursive, and cursive scripts</summary>
-                     <handNote>In the <lang xml:lang="he">רשות</lang> for Simḥat Torah (<locus>fols.
-                           27v, 29r</locus>) and in some of those for the bridegroom (<locus>fols.
-                           131v, 132r</locus>) the scribe inserted the name <persName>Isaac b.
-                           Samuel</persName>, probably the owner who commissioned the MS. or perhaps
-                        his own full name.</handNote>
+                     <summary>Ashkenazi square and semi-cursive scripts</summary>
+                     <handNote>On <locus>1v, 3r, 24r, 32r</locus>, the name <foreign xml:lang="he"
+                           >יצחק</foreign> (<persName>Isaac</persName>) has been picked out by the
+                        scribal hand. In some of the <hi rend="italic">reshuyot</hi> for Simḥat
+                        Torah (<locus>ff. 27v, 29r</locus>) and for the bridegroom in the wedding
+                        ceremony (<locus>ff. 131v, 132r</locus>), the scribe inserted the name
+                           <persName>Isaac b. Samuel</persName>, which was most likely either his
+                        full name or the name of the patron.</handNote>
                   </handDesc>
-
+                  <decoDesc>
+                     <p> Penwork decorations in black and red around initial words, including arched
+                        doorways (<locus>f. 1r</locus>), roundels (<locus>ff. 10r, 49r</locus>),
+                        rectangular frames (<locus>f. 17r</locus>), drawings of animals (<locus>f.
+                           10r</locus>), as well as a drawing of a Jew holding the <hi rend="italic"
+                           >lulav</hi> (<locus>f. 21v</locus>).</p>
+                     <p>Some of the commentary text has been copied in the form of <hi rend="italic"
+                           >carmina figurata</hi> (see for exaple <locus>ff. 4r, 49r</locus>).</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Golden-brown fine-grained leather over paper boards; the current shelfmark
+                        has been gold-tooled and painted (in black and white) on the spine.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>c. 1288/9</origDate>
                      <origPlace>Germany</origPlace>
+                     <note><p>The dating is based on the calendar on <locus>f. 95r</locus> in
+                              <idno>MS Michael 569</idno>, which begins mid-cycle from the year 5049
+                              <date calendar="#Gregorian">(1288/9)</date>.</p></note>
                   </origin>
-                  <provenance> </provenance>
+                  <provenance>In the late-sixteenth century, all three volumes of this Maḥzor were
+                     owned by members of the Ḳoser <foreign xml:lang="he">קוצר</foreign> family,
+                     including Meshullam b. Mordecai Ḳoser <foreign xml:lang="he">משולם בן מרדכי
+                        קוצר</foreign> and his brothers Joseph <foreign xml:lang="he">יוסף</foreign>
+                        (<idno>MS Michael 571</idno>, <locus>f. 8v</locus>) and Menaḥem <foreign
+                        xml:lang="he">מנחם</foreign> who recorded the birth of his son in 1582
+                        (<idno>MS Michael 573</idno>, <locus>f. 45v</locus>). This is possibly the
+                     same as the Ḳoser <foreign xml:lang="he">קוצר</foreign> family in <placeName
+                        key="place_96">Riva del Garda</placeName>, where a tombstone belonging to
+                     one Meshullam Ḳoser <foreign xml:lang="he">משולם קוצר</foreign> who died in
+                        <date calendar="#Gregorian">1541</date> has survived, while a Mordecai Ḳoser
+                        <foreign xml:lang="he">מרדכי קוצר</foreign> is attested in 1564 (see
+                     Kaufmann 1895, 1896, 1897). These may have been the grandfather and father of
+                     the owners who left inscriptions in the manuscript.</provenance>
                   <acquisition>It belonged to the library of <persName
                         ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
                         Michael</persName>
@@ -128,6 +173,13 @@
                            the Bodleian Library</hi> (Oxford, 1886), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=200"
                            >no. 1099.</ref></bibl>
+                     <bibl>Kaufmann, David, 'L'inscription à Riva', <hi rend="italic">Revue des
+                           études juives 31:62</hi> (1895): 292-293.</bibl>
+                     <bibl>Kaufmann, David, 'La pierre tumulaire de Meschoullam Kocer à Riva', <hi
+                           rend="italic">Revue des études juives 33:66</hi> (1896): 311-314.</bibl>
+                     <bibl>Kaufmann, David, 'La famille <foreign xml:lang="he">קוצר</foreign> ou
+                        Cousseri à Riva', <hi rend="italic">Revue des études juives 35:70</hi>
+                        (1897): 302-304.</bibl>
                      <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
                            Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
                            Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon

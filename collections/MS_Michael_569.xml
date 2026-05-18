@@ -47,40 +47,90 @@
                   <altIdentifier type="other">
                      <idno type="Neubauer">1098</idno>
                   </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 535</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">24063</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Mahzor according to the Western Ashkenazi rite, for the whole
-                     year</summary>
+                  <summary>Maḥzor for the entire year according to the Western Ashkenazi
+                     rite</summary>
                   <msItem>
-                     <title xml:lang="he">מחזור מנהג אשכנז המערבי לכל השנה</title>
-                     <title xml:lang="he-Latn-x-lc">Maḥzor minhag Ashkenaz ha-ma'aravi le-khol
-                        ha-shanah</title>
+                     <title xml:lang="he" key="work_193">מחזור מנהג אשכנז המערבי לכל השנה</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_193">Maḥzor minhag Ashkenaz
+                        ha-maʿaravi le-khol ha-shanah</title>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>Continuation of MS. Michael 571 (Neubauer 1097)</note>
+                     <note>The second of three volumes; the other two volumes are <idno>MS Michael
+                           571</idno> (Neubauer 1097; vol. 1) and <idno>MS Michael 573</idno>
+                        (Neubauer 1099; vol. 3).</note>
+                     <note>Used by Daniel Goldschmidt in his edition of the Sukkot services
+                        (Jerusalem, 1981).</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 120</extent>
-                        <condition>The margins of the last five leaves are mended with fragments of
-                           an old French poem (char. of the end of the 13th or beg. of the 14th
-                           cent.).</condition>
+                        <extent>ff. 120 <dimensions type="leaf" unit="mm">
+                              <height>305</height>
+                              <width>225</width>
+                           </dimensions>
+                        </extent>
+                        <condition>The margins of <locus>ff. 116-120</locus> had been repaired with
+                           parchment strips taken from an Old French manuscript from the late-13th
+                           or early-14th century. These strips were later removed from the folios,
+                           leaving some barely-legible imprints of the Old French text in mirror
+                           image.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Ashkenazic square, semi-cursive, and cursive scripts</summary>
-                     <handNote/>
+                     <summary>Ashkenazi square and semi-cursive scripts</summary>
+                     <handNote> In the short colophon on <locus>f. 81r</locus>, the scribe's name is
+                        given as <persName>Izaḳ</persName>
+                        <foreign xml:lang="he">איזק</foreign>. On <locus>ff. 86r, 91v,
+                        111v</locus>., the name <foreign xml:lang="he">יצחק</foreign>
+                           (<persName>Isaac</persName>) has been picked out by the scribal
+                        hand.</handNote>
                   </handDesc>
-
+                  <decoDesc>
+                     <p> Penwork decorations in black and red, most of which are found around
+                        initial words; these include arched doorways (<locus>ff. 1r, 6v, 27v, 108v,
+                           115v</locus>), roundels (<locus>ff. 49r, 105r, 116r</locus>), rectangular
+                        panels (<locus>ff. 70r, 72r</locus>) and drawings of animals (<locus>ff.
+                           26r, 27r, 37v, 81r</locus>). Some of the catchwords (<locus>ff. 24v, 32v,
+                           40v, 112v, 120v</locus>) have been decorated with animal or foliate
+                        motifs, while others only have very simple geometric decoration formed from
+                        dotted lines.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Golden-brown fine-grained leather over paper boards; the current shelfmark
+                        has been gold-tooled and painted (in black and white) on the spine.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>c.1288/9</origDate>
                      <origPlace>Germany</origPlace>
+                     <note><p>The dating is based on the calendar on <locus>f. 95r</locus>, which
+                           begins mid-cycle from the year 5049 <date calendar="#Gregorian"
+                              >(1288/9)</date>.</p></note>
                   </origin>
-                  <provenance> </provenance>
+                  <provenance>In the late-sixteenth century, all three volumes of this Maḥzor were
+                     owned by members of the Ḳoser <foreign xml:lang="he">קוצר</foreign> family,
+                     including Meshullam b. Mordecai Ḳoser <foreign xml:lang="he">משולם בן מרדכי
+                        קוצר</foreign> and his brothers Joseph <foreign xml:lang="he">יוסף</foreign>
+                        (<idno>MS Michael 571</idno>, <locus>f. 8v</locus>) and Menaḥem <foreign
+                        xml:lang="he">מנחם</foreign> who recorded the birth of his son in 1582
+                        (<idno>MS Michael 573</idno>, <locus>f. 45v</locus>). This is possibly the
+                     same as the Ḳoser <foreign xml:lang="he">קוצר</foreign> family in <placeName
+                        key="place_96">Riva del Garda</placeName>, where a tombstone belonging to
+                     one Meshullam Ḳoser <foreign xml:lang="he">משולם קוצר</foreign> who died in
+                        <date calendar="#Gregorian">1541</date> has survived, while a Mordecai Ḳoser
+                        <foreign xml:lang="he">מרדכי קוצר</foreign> is attested in 1564 (see
+                     Kaufmann 1895, 1896, 1897). These may have been the grandfather and father of
+                     the owners who left inscriptions in the manuscript.</provenance>
                   <acquisition>It belonged to the library of <persName
                         ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
                         Michael</persName>
@@ -129,6 +179,13 @@
                            the Bodleian Library</hi> (Oxford, 1886), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=199"
                            >no. 1098.</ref></bibl>
+                     <bibl>Kaufmann, David, 'L'inscription à Riva', <hi rend="italic">Revue des
+                           études juives 31:62</hi> (1895): 292-293.</bibl>
+                     <bibl>Kaufmann, David, 'La pierre tumulaire de Meschoullam Kocer à Riva', <hi
+                           rend="italic">Revue des études juives 33:66</hi> (1896): 311-314.</bibl>
+                     <bibl>Kaufmann, David, 'La famille <foreign xml:lang="he">קוצר</foreign> ou
+                        Cousseri à Riva', <hi rend="italic">Revue des études juives 35:70</hi>
+                        (1897): 302-304.</bibl>
                      <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
                            Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
                            Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon

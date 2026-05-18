@@ -10,27 +10,34 @@
                <resp>Encoding</resp>
                <persName>Alex Hitchman</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>TEI P5</edition>
          </editionStmt>
          <publicationStmt>
             <publisher>Special Collections, Bodleian Libraries</publisher>
-            <address>
-               <orgName type="department">Special Collections</orgName>
-               <orgName type="unit">Bodleian Libraries</orgName>
-               <orgName type="institution">University of Oxford</orgName>
-               <street>Weston Library, Broad Street</street>
-               <settlement>Oxford</settlement>
-               <postCode>OX1 3BG</postCode>
-               <country>United Kingdom</country>
-            </address>
-            <distributor>
-               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-            </distributor>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
             <idno type="msID">MS_Hatton_Or_35</idno>
-            <idno type="catalogue">Hebrew</idno>
-            <idno type="collection"><!-- insert normalized form of collection --></idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -40,41 +47,86 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
+                  <collection>Hatton collection</collection>
                   <idno>MS. Hatton Or. 35</idno>
-               <altIdentifier type="other"><idno type="Neubauer">2092</idno></altIdentifier></msIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">2092</idno>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="uri">416</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Bodley 129</idno>
+                  </altIdentifier>
+               </msIdentifier>
                <msContents>
-               <msItem source="#neubauer"><author source="#neubauer" ref="zzc_pmr_m3c">ISAAC ISRAELI (THE ELDER)</author><title source="#neubauer" ref="njw_zty_43c">Treatise on fever (in Arabic)</title></msItem></msContents>
+                  <summary>Isaac Israeli's Book on Fevers: in Judeo-Arabic</summary>
+                  <msItem>
+                     <title ref="njw_zty_43c">כתאב מגמוע מן אקאויל אלאואיל פי אלחמיאת ממא עני
+                        בתאליפה וגמעה אסחק בן סלימאן אלאסראילי אלמתטבב</title>
+                     <title/>
+                     <author key="person_34580662" ref="zzc_pmr_m3c">
+                        <persName>Israeli, Isaac, approximately 832-approximately 932</persName>
+                        <persName xml:lang="he">יצחק בן שלמה הישראלי</persName>
+                     </author>
+                     <textLang mainLang="he">Judeo-Arabic</textLang>
+                     <note>On three folios at the beginning of the manuscript, prescriptions in
+                        Hebrew and Spanish.</note>
+                  </msItem>
+               </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="mixed">
-                        <support source="#neubauer">paper and vellum</support><extent n="123">123</extent></supportDesc></objectDesc>
+                        <support>paper and parchment</support>
+                        <extent>ff. 123
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Oriental semi-cursive script</summary>
+                     <handNote/>
+                  </handDesc>
                </physDesc>
-               <history><origin/></history>
+               <history>
+                  <origin/>
+               </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
                            Neubauer, Oxford 1886, <ref>no. 2092</ref>, and <title>Catalogue of the
                               Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
                               Corrigenda to Vol. I,</title>
-                           <ref>no. 2092</ref>.</source></recordHist>
+                           <ref>no. 2092</ref>.</source>
+                     </recordHist>
                   </adminInfo>
-                
-                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F 19377</idno></bibl><bibl><idno n="S.F. Or" type="microfilm">420</idno></bibl></surrogates><listBibl>
-                     
-                  <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=250">no. 2092.</ref></bibl><bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=406">no. 2092.</ref></bibl></listBibl>
+
+                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F
+                        19377</idno></bibl><bibl><idno n="S.F. Or" type="microfilm"
+                        >420</idno></bibl></surrogates>
+                  <listBibl>
+
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
+                           rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                           Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=250"
+                           >no. 2092.</ref></bibl>
+                     <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=406"
+                           >no. 2092.</ref></bibl>
+                  </listBibl>
                </additional>
-       
+
             </msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change>
-            
-         </change>
+         <change> </change>
       </revisionDesc>
-</teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
