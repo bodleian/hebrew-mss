@@ -16,6 +16,21 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3345">
+               <title type="uniform">Sod Adonai Lireʾav</title>
+               <title type="variant">סוד ה' ליריאיו</title>
+               <ref target="MS_Huntington_217-item2"/>
+               <!-- ../../hebrew-mss/collections/MS_Huntington_217.xml#MS_Huntington_217-item2 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3344">
+               <title type="uniform">Sefer ha-Zikhronot</title>
+               <title type="variant">ספר הזכרונות</title>
+               <title type="variant">The Book of Memories</title>
+               <ref target="MS_Huntington_217-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Huntington_217.xml#MS_Huntington_217-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3343">
                <title type="uniform">Sefer ha-Ḥinukh</title>
                <title type="variant">ספר החינוך</title>

@@ -18348,6 +18348,22 @@
                     </note>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Hatton_Or_35.xml -->
                 </person>
+                <person xml:id="person_7057">
+                    <persName type="display">Gaṭenyo, ʿEzra ben Shelomoh</persName>
+                    <persName type="variant" xml:lang="he">גטניו, עזרא בן שלמה</persName>
+                    <persName type="variant">Ezra b. Solomon ibn Gatigno</persName>
+                    <persName type="variant">Ezra Gatigno</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/80145304390678570038">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Huntington_217.xml -->
+                </person>
             </listPerson>
         </body>
     </text>

@@ -7,30 +7,34 @@
          <titleStmt>
             <title>MS. Hunt. 248</title>
             <respStmt xml:id="AH">
-               <resp>Encoding</resp>
+               <resp when="2026">Encoding</resp>
                <persName>Alex Hitchman</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
-         <editionStmt>
-            <edition>TEI P5</edition>
-         </editionStmt>
          <publicationStmt>
-            <publisher>Special Collections, Bodleian Libraries</publisher>
-            <address>
-               <orgName type="department">Special Collections</orgName>
-               <orgName type="unit">Bodleian Libraries</orgName>
-               <orgName type="institution">University of Oxford</orgName>
-               <street>Weston Library, Broad Street</street>
-               <settlement>Oxford</settlement>
-               <postCode>OX1 3BG</postCode>
-               <country>United Kingdom</country>
-            </address>
-            <distributor>
-               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-            </distributor>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
             <idno type="msID">MS_Hunt_248</idno>
-            <idno type="catalogue">Hebrew</idno>
-            <idno type="collection"><!-- insert normalized form of collection --></idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -40,41 +44,74 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
+                  <collection>Huntington collection</collection>
                   <idno>MS. Huntington 248</idno>
-               <altIdentifier type="other"><idno type="Neubauer">1524</idno></altIdentifier></msIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">1524</idno>
+                  </altIdentifier>
+               </msIdentifier>
                <msContents>
-               <msItem source="#neubauer"><author source="#neubauer" ref="vm2_pmr_m3c">THANHUM BEN JOSEPH</author><title source="#neubauer" ref="elz_zty_43c">אלמרשד אלכאפי, dictionary</title></msItem></msContents>
+                  <msItem source="#neubauer">
+                     <author source="#neubauer" ref="vm2_pmr_m3c">THANHUM BEN JOSEPH</author>
+                     <title source="#neubauer" ref="elz_zty_43c">אלמרשד אלכאפי, dictionary</title>
+                  </msItem>
+               </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="128">128</extent></supportDesc></objectDesc>
-               <handDesc><handNote source="#beit-arie">Oriental semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Palestine]</origPlace><origDate source="#beit-arie">1388</origDate></origin></history>
+                        <support source="#neubauer">paper</support>
+                        <extent n="128">128</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote source="#beit-arie">Oriental semi-cursive script</handNote>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin><origPlace source="#beit-arie">[Palestine]</origPlace><origDate
+                        calendar="Gregorian" when="1388">1388</origDate></origin>
+               </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
                            Neubauer, Oxford 1886, <ref>no. 1524</ref>, and <title>Catalogue of the
                               Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
                               Corrigenda to Vol. I,</title>
-                           <ref>no. 1524</ref>.</source></recordHist>
+                           <ref>no. 1524</ref>.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                           <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
+                     </availability>
                   </adminInfo>
-                
-                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F 16892</idno></bibl><bibl><idno n="S.F. Or" type="microfilm">870</idno></bibl></surrogates><listBibl>
-                     
-                  <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=183">no. 1524.</ref></bibl><bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=316">no. 1524.</ref></bibl></listBibl>
+
+                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F
+                        16892</idno></bibl><bibl><idno n="S.F. Or" type="microfilm"
+                        >870</idno></bibl></surrogates>
+                  <listBibl>
+
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
+                           rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                           Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=183"
+                           >no. 1524.</ref></bibl>
+                     <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=316"
+                           >no. 1524.</ref></bibl>
+                  </listBibl>
                </additional>
-       
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
-         <change>
-            
-         </change>
-      </revisionDesc>
-</teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

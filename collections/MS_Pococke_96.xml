@@ -112,7 +112,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate when="1190"> 1190 (according to the A.M. dating)</origDate>
+                     <origDate calendar="#Gregorian" when="1190"> 1190 (according to the A.M. dating)</origDate>
                      <origPlace>[Orient (Persia?)]</origPlace>
                   </origin>
                   <provenance>On <locus>f. 142v</locus>, ownership inscriptions by <foreign

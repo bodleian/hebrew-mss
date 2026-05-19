@@ -120,17 +120,16 @@
                   <provenance>In the late-sixteenth century, all three volumes of this Maḥzor were
                      owned by members of the Ḳoser <foreign xml:lang="he">קוצר</foreign> family,
                      including Meshullam b. Mordecai Ḳoser <foreign xml:lang="he">משולם בן מרדכי
-                        קוצר</foreign> and his brothers Joseph <foreign xml:lang="he">יוסף</foreign>
-                        (<idno>MS Michael 571</idno>, <locus>f. 8v</locus>) and Menaḥem <foreign
-                        xml:lang="he">מנחם</foreign> who recorded the birth of his son in 1582
-                        (<idno>MS Michael 573</idno>, <locus>f. 45v</locus>). This is possibly the
-                     same as the Ḳoser <foreign xml:lang="he">קוצר</foreign> family in <placeName
-                        key="place_96">Riva del Garda</placeName>, where a tombstone belonging to
-                     one Meshullam Ḳoser <foreign xml:lang="he">משולם קוצר</foreign> who died in
-                        <date calendar="#Gregorian">1541</date> has survived, while a Mordecai Ḳoser
-                        <foreign xml:lang="he">מרדכי קוצר</foreign> is attested in 1564 (see
-                     Kaufmann 1895, 1896, 1897). These may have been the grandfather and father of
-                     the owners who left inscriptions in the manuscript.</provenance>
+                        קוצר</foreign> (<idno>MS Michael 571</idno>, <locus>f. 134v</locus>) and his
+                     brother Menaḥem <foreign xml:lang="he">מנחם</foreign> who recorded the birth of
+                     his son in 1582 (<idno>MS Michael 573</idno>, <locus>f. 45v</locus>). This is
+                     possibly the same as the Ḳoser <foreign xml:lang="he">קוצר</foreign> family in
+                     <placeName key="place_96">Riva del Garda</placeName>, where a tombstone
+                     belonging to one Meshullam Ḳoser <foreign xml:lang="he">משולם קוצר</foreign>
+                     who died in <date calendar="#Gregorian">1541</date> has survived, while a
+                     Mordecai Ḳoser <foreign xml:lang="he">מרדכי קוצר</foreign> is attested in 1564
+                     (see Kaufmann 1895, 1896, 1897). These may have been the grandfather and father
+                     of the owners who left inscriptions in the manuscript.</provenance>
                   <acquisition>It belonged to the library of <persName
                         ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
                         Michael</persName>

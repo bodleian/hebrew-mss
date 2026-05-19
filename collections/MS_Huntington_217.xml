@@ -7,8 +7,12 @@
          <titleStmt>
             <title>MS. Hunt. 217</title>
             <respStmt xml:id="AH">
-               <resp>Encoding</resp>
+               <resp when="2026">Encoding</resp>
                <persName>Alex Hitchman</persName>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -16,21 +20,24 @@
          </editionStmt>
          <publicationStmt>
             <publisher>Special Collections, Bodleian Libraries</publisher>
-            <address>
-               <orgName type="department">Special Collections</orgName>
-               <orgName type="unit">Bodleian Libraries</orgName>
-               <orgName type="institution">University of Oxford</orgName>
-               <street>Weston Library, Broad Street</street>
-               <settlement>Oxford</settlement>
-               <postCode>OX1 3BG</postCode>
-               <country>United Kingdom</country>
-            </address>
-            <distributor>
-               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-            </distributor>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
             <idno type="msID">MS_Hunt_217</idno>
-            <idno type="catalogue">Hebrew</idno>
-            <idno type="collection"><!-- insert normalized form of collection --></idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -40,64 +47,110 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
+                  <collection>Huntington collection</collection>
                   <idno>MS. Huntington 217</idno>
                   <altIdentifier type="other">
                      <idno type="Neubauer">231</idno>
                   </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="uri">159</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem n="1" source="#neubauer">
-                     <author ref="m5c_pmr_m3c">EZRA GATIGNO</author>
-                     <title ref="ydf_pmr_m3c">ס' הזכרונות</title>
+                  <summary>Two works by Ezra b. Solomon ibn Gatigno</summary>
+                  <msItem n="1">
+                     <title ref="ydf_pmr_m3c" key="work_3344">ספר הזכרונות</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3344">Sefer ha-Zikhronot</title>
+                     <author key="person_7057" ref="m5c_pmr_m3c">
+                        <persName>Gaṭenyo, ʿEzra ben Shelomoh</persName>
+                        <persName xml:lang="he">ערזא בן שלמה גטניו</persName></author>
+                     <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
-                  <msItem n="2" source="#neubauer">
-                     <author ref="m5c_pmr_m3c">EZRA GATIGNO</author>
-                     <title ref="myv_zty_43c">סוד ה' ליריאיו</title>
+                  <msItem n="2">
+                     <title ref="myv_zty_43c" key="work_3345">סוד ה' ליריאיו</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3345">Sod Adonai Lireʾav</title>
+                     <author key="person_7057" ref="m5c_pmr_m3c">
+                        <persName>Gaṭenyo, ʿEzra ben Shelomoh</persName>
+                        <persName xml:lang="he">ערזא בן שלמה גטניו</persName></author>
+                     <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc material="chart">
-                        <support source="#neubauer">paper</support>
-                        <extent n="176">176</extent>
+                     <supportDesc>
+                        <support>paper</support>
+                        <extent n="176">ff. 176</extent>
+                        <condition><p>The beginning of No. 1 and the end of No. 2 are defective.</p>
+                           <p>Some staining in No. 2.</p></condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote source="#beit-arie">Byzantine semi-cursive script</handNote>
-                     <handNote source="#beit-arie">Fols. 1-8: A different hand on different paper;
-                        the layout of fols. 6-8 implies that this part was written later, to
-                        complete the missing leaves.</handNote>
-                     <handNote source="#beit-arie">Fol. 132v by a different hand.</handNote>
-                     <handNote source="#neubauer">Scribe: <persName role="scr" ref="b13_pmr_m3c">NAḤMAN BEN פרנך</persName>.</handNote>
+                     <handNote>Byzantine semi-cursive script</handNote>
+                     <handNote>ff. 1-8 were copied by a different hand on different paper; the
+                        layout of ff. 6-8 implies that these were later replacements for leaves
+                        which had been lost.</handNote>
+                     <handNote>f. 132v was copied by a different hand.</handNote>
+                     <handNote>Copied by <persName>Naḥman b. Parnakh</persName>
+                        <foreign xml:lang="he">נחמן בן פרנך</foreign> for <persName
+                           ref="an3_pmr_m3c">Abraham b. Mordecai Matsa</persName>
+                        <foreign xml:lang="he">אברהם בן מרדכי מצא</foreign>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
-                  <origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie">1417</origDate></origin>
-                  <provenance source="#neubauer">Former owner: <persName role="fmo" ref="an3_pmr_m3c">ABRAHAM (BEN MORDECAI) מצא (MASSA OR
-                     MAZZÈ)</persName>.</provenance>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1417">1417</origDate>
+                     <origPlace>[Byzantium]</origPlace></origin>
+                  <provenance/>
+                  <acquisition>It belonged to the oriental collection of <persName
+                        ref="http://viaf.org/viaf/34684157" key="person_131">Robert
+                        Huntington</persName>
+                     <date calendar="#Gregorian">(1637-1701)</date>, and was bought in <date
+                        calendar="#Gregorian">1693</date> together with 645 other MSS for £752
+                     10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
-                           Neubauer, Oxford 1886, <ref>no. 231</ref>, and <title>Catalogue of the
-                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
-                              Corrigenda to Vol. I,</title>
-                           <ref>no. 231</ref>.</source>
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;amp=&amp;seq=61"
+                              >no. 231</ref>, and <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp=&amp;seq=73"
+                              >no. 231</ref>.</source>
                      </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
+                     </availability>
                   </adminInfo>
-
-                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F 16367</idno></bibl><bibl><idno n="S.F. Or" type="microfilm">563</idno></bibl></surrogates><listBibl>
-
-                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 16367</idno>
+                     </bibl>
+                     <bibl>
+                        <idno n="S.F. Or" type="microfilm">563</idno>
+                     </bibl></surrogates>
+                  <listBibl>
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
+                           rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
                            Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
-                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=73">no. 231.</ref></bibl>
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=73"
+                           >no. 231.</ref></bibl>
                      <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
-                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=61">no. 231.</ref></bibl>
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=61"
+                           >no. 231.</ref></bibl>
                   </listBibl>
                </additional>
-
             </msDesc>
          </sourceDesc>
       </fileDesc>
