@@ -51,49 +51,97 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem source="#neubauer">
-                     <author source="#neubauer" ref="vm2_pmr_m3c">THANHUM BEN JOSEPH</author>
-                     <title source="#neubauer" ref="elz_zty_43c">אלמרשד אלכאפי, dictionary</title>
+                  <summary>Tanḥum ben Joseph's dictionary <hi rend="italic">The Sufficient
+                        Guide</hi>: in Judeo-Arabic</summary>
+                  <msItem>
+                     <title xml:lang="he" key="work_3346" ref="elz_zty_43c">כתאב אלכאפי נהו כתאב
+                        אלמרשד</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3346" ref="elz_zty_43c">Kitāb al-kāfī
+                        nahw kitāb al-murshid</title>
+                     <author key="person_67929844" ref="vm2_pmr_m3c">
+                        <persName>Tanḥum ben Joseph, of Jerusalem, -1291</persName>
+                        <persName xml:lang="he">תנחום בן יוסף הירושלמי</persName></author>
+                     <textLang mainLang="jrb">Judeo-Arabic</textLang>
+                     <note>Contains the text from the letter <foreign xml:lang="he">פ</foreign>to
+                        the end.</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc material="chart">
-                        <support source="#neubauer">paper</support>
-                        <extent n="128">128</extent>
+                     <supportDesc>
+                        <support>paper</support>
+                        <extent n="130">ff. 130 <dimensions type="leaf" unit="mm">
+                              <height>268</height>
+                              <width>180</width>
+                           </dimensions></extent>
+                        <condition>The older portion of the manuscript (<locus>ff. 4-78</locus>) has
+                           sustained significant worm damage, and the individual holes have been
+                           repaired using small pieces of cut-up paper manuscripts in both Hebrew
+                           and Arabic scripts.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote source="#beit-arie">Oriental semi-cursive script</handNote>
+                     <summary>Oriental semi-cursive scripts</summary>
+                     <handNote><locus>Ff. 4-78</locus> of this manuscript were once part of a
+                        damaged, fourteenth-century original, where the lost beginning (<locus>ff.
+                           2-3</locus>) and end (<locus>ff. 79-129</locus>) were subsequently
+                        recopied by a slightly later hand on different paper. It was this second
+                        scribe who wrote the colophon on <locus>f. 129v</locus>, which is dated to
+                           <date calendar="Gregorian">1452</date>.</handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Marbled paper over thin paper boards, quarter-bound in reddish-brown
+                        fine-grained leather with simple blind-tooled decorations on the spine. The
+                        name of the author (‘R. TANCHUM’) and the current shelfmark have been
+                        gold-tooled on the spine.</p>
+                     <condition>
+                        <p>Some loose quires.</p>
+                     </condition>
+                  </bindingDesc>
                </physDesc>
                <history>
-                  <origin><origPlace source="#beit-arie">[Palestine]</origPlace><origDate
-                        calendar="Gregorian" when="1388">1388</origDate></origin>
+                  <origin><origPlace>[Orient]</origPlace>
+                     <origDate calendar="Gregorian" notBefore="1300" notAfter="1399">[14th
+                        cent.]</origDate>
+                     <origPlace>[Orient]</origPlace>
+                     <origDate calendar="Gregorian" when="1452">1452</origDate></origin>
+                  <provenance/>
+                  <acquisition>It belonged to the oriental collection of <persName
+                        ref="http://viaf.org/viaf/34684157" key="person_131">Robert
+                        Huntington</persName>
+                     <date calendar="#Gregorian">(1637-1701)</date>, and was bought in <date
+                        calendar="#Gregorian">1693</date> together with 645 other MSS for £752
+                     10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
-                           Neubauer, Oxford 1886, <ref>no. 1524</ref>, and <title>Catalogue of the
-                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
-                              Corrigenda to Vol. I,</title>
-                           <ref>no. 1524</ref>.</source>
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;amp=&amp;seq=316"
+                              >No. 1524</ref>, <title>Catalogue of the Hebrew manuscripts in the
+                                 Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                                 I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp=&amp;seq=183"
+                              >No. 1524</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
                            reader's card (for admissions procedures contact <ref
                               target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). Contact
-                           <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
                            further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
-
-                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F
-                        16892</idno></bibl><bibl><idno n="S.F. Or" type="microfilm"
-                        >870</idno></bibl></surrogates>
+                  <surrogates>
+                     <bibl><idno n="MSS R.R. Film No." type="microfilm">F 16892</idno></bibl>
+                     <bibl><idno n="S.F. Or" type="microfilm">870</idno></bibl>
+                  </surrogates>
                   <listBibl>
 
                      <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi

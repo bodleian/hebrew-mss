@@ -16,9 +16,20 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3346">
+               <title type="uniform">Al-murshid al-kāfī</title>
+               <title type="variant">Kitāb al-kāfī nahw kitāb al-murshid</title>
+               <title type="variant">The Sufficient Guide</title>
+               <title type="variant">אלמרשד אלכאפי</title>
+               <title type="variant">כתאב אלכאפי נהו כתאב אלמרשד</title>
+               <ref target="MS_Huntington_248-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Huntington_248.xml#MS_Huntington_248-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3345">
-               <title type="uniform">Sod Adonai Lireʾav</title>
+               <title type="uniform">Sefer Sod Adonai Lireʾav</title>
                <title type="variant">סוד ה' ליריאיו</title>
+               <title type="variant">ספר סוד ה' ליריאיו</title>
                <ref target="MS_Huntington_217-item2"/>
                <!-- ../../hebrew-mss/collections/MS_Huntington_217.xml#MS_Huntington_217-item2 -->
                <textLang mainLang="he"/>

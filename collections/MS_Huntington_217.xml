@@ -67,8 +67,8 @@
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
-                     <title ref="myv_zty_43c" key="work_3345">סוד ה' ליריאיו</title>
-                     <title xml:lang="he-Latn-x-lc" key="work_3345">Sod Adonai Lireʾav</title>
+                     <title ref="myv_zty_43c" key="work_3345">ספר סוד ה' ליריאיו</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3345">Sefer Sod Adonai Lireʾav</title>
                      <author key="person_7057" ref="m5c_pmr_m3c">
                         <persName>Gaṭenyo, ʿEzra ben Shelomoh</persName>
                         <persName xml:lang="he">ערזא בן שלמה גטניו</persName></author>
@@ -79,22 +79,36 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>paper</support>
-                        <extent n="176">ff. 176</extent>
-                        <condition><p>The beginning of No. 1 and the end of No. 2 are defective.</p>
-                           <p>Some staining in No. 2.</p></condition>
+                        <extent n="176">ff. 176 <dimensions type="leaf" unit="mm">
+                              <height>202</height>
+                              <width>140</width>
+                           </dimensions></extent>
+                        <condition><p>The beginning of No. 1 and the end of No. 2 are wanting.</p>
+                           <p>Some water damage to No. 2, which has resulted in some loss of
+                              text.</p></condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <handNote>Byzantine semi-cursive script</handNote>
-                     <handNote>ff. 1-8 were copied by a different hand on different paper; the
-                        layout of ff. 6-8 implies that these were later replacements for leaves
-                        which had been lost.</handNote>
+                     <handNote>The first quire (<locus>ff. 1-8</locus>) was copied by a different
+                        hand from a similar period, on different paper; on the final folios of this
+                        quire, the text has been deliberately drawn out (by being copied in
+                        gemotrical shapes which are smaller than the regular text block), which
+                        inplies this enqtire quire was probably a later replacement for a damaged or
+                        lost original.</handNote>
                      <handNote>f. 132v was copied by a different hand.</handNote>
                      <handNote>Copied by <persName>Naḥman b. Parnakh</persName>
                         <foreign xml:lang="he">נחמן בן פרנך</foreign> for <persName
                            ref="an3_pmr_m3c">Abraham b. Mordecai Matsa</persName>
-                        <foreign xml:lang="he">אברהם בן מרדכי מצא</foreign>.</handNote>
+                        <foreign xml:lang="he">אברהם בן מרדכי מצא</foreign>, according to the
+                        colophon on <locus>f. 132r</locus>.</handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Smooth golden-brown leather over paper boards, with simple blind-tooled
+                        decorations on the spine, on the upper and lower boards, along the edges of
+                        the boards and on the turn-ins. The name of the author (‘EZRA BAR SHELOMOH’)
+                        and current shelfmark have been gold-tooled on the spine.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
@@ -120,7 +134,9 @@
                               I,</title>
                            <ref
                               target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp=&amp;seq=73"
-                              >no. 231</ref>.</source>
+                              >no. 231</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid

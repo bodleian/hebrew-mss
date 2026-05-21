@@ -58,17 +58,22 @@
                   <altIdentifier type="former">
                      <idno>MS. Bodley 129</idno>
                   </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">4136</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
                   <summary>Isaac Israeli's Book on Fevers: in Judeo-Arabic</summary>
                   <msItem>
-                     <title ref="njw_zty_43c">כתאב מג'מוע מן אקאויל אלאואיל פי אלחמיאת</title>
-                     <title/>
+                     <title xml:lang="he" ref="njw_zty_43c">כתאב מג'מוע מן אקאויל אלאואיל פי
+                        אלחמיאת</title>
+                     <title xml:lang="he-Latn-x-lc">Kitāb maghmuʿ min aqāwil ālāwāyil fi
+                        ālḥamiyāt</title>
                      <author key="person_34580662" ref="zzc_pmr_m3c">
                         <persName>Israeli, Isaac, approximately 832-approximately 932</persName>
                         <persName xml:lang="he">יצחק בן שלמה הישראלי</persName>
                      </author>
-                     <textLang mainLang="he">Judeo-Arabic</textLang>
+                     <textLang mainLang="jrb">Judeo-Arabic</textLang>
                      <note>On three folios at the beginning of the manuscript, prescriptions in
                         Hebrew and Spanish.</note>
                   </msItem>
@@ -79,7 +84,10 @@
                         <support>paper and parchment <p>The outer and inner bifolia of quires are
                               made of parchment, and the remaining bifolia are made of
                            paper.</p></support>
-                        <extent>ff. 123 </extent>
+                        <extent>ff. 123 <dimensions type="leaf" unit="mm">
+                              <height>248</height>
+                              <width>200</width>
+                           </dimensions></extent>
                         <condition><p>The final three leaves have been injured. The last of these,
                                  <locus>f. 122v</locus>, may have contained a
                            colophon.</p></condition>
@@ -94,7 +102,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate>[late 14th cent.]</origDate>
+                     <origDate calendar="Gregorian" notBefore="1350" notAfter="1399">[late 14th
+                        cent.]</origDate>
                      <origPlace>[North Africa (Tunisia?)]</origPlace>
                      <note>Watermark of the 'bull's head' type without eyes, not found in Briquet. A
                         single watermark on f. 24 is similar in shape but not in size to Briquet no.
@@ -115,7 +124,9 @@
                               I,</title>
                            <ref
                               target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp=&amp;seq=250"
-                              >no. 2092</ref>.</source>
+                              >no. 2092</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
@@ -136,14 +147,16 @@
                   <listBibl>
                      <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
                            Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
-                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=406"
-                              >no. 2092.</ref></bibl>
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=406"
+                           >no. 2092.</ref></bibl>
                      <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
                            rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
                            Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
                         Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=250"
                            >no. 2092.</ref></bibl>
+                     <bibl>Steinschneider, Moritz, <hi rend="italic">Die arabische Literatur der
+                           Juden</hi> (Frankfurt am Main, 1902), p. 42.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
