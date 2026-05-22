@@ -7,8 +7,12 @@
          <titleStmt>
             <title>MS. Mich. add. 1a</title>
             <respStmt xml:id="AH">
-               <resp>Encoding</resp>
+               <resp when="2026">Encoding</resp>
                <persName>Alex Hitchman</persName>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -16,21 +20,24 @@
          </editionStmt>
          <publicationStmt>
             <publisher>Special Collections, Bodleian Libraries</publisher>
-            <address>
-               <orgName type="department">Special Collections</orgName>
-               <orgName type="unit">Bodleian Libraries</orgName>
-               <orgName type="institution">University of Oxford</orgName>
-               <street>Weston Library, Broad Street</street>
-               <settlement>Oxford</settlement>
-               <postCode>OX1 3BG</postCode>
-               <country>United Kingdom</country>
-            </address>
-            <distributor>
-               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-            </distributor>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
             <idno type="msID">MS_Mich_add_1a</idno>
-            <idno type="catalogue">Hebrew</idno>
-            <idno type="collection"><!-- insert normalized form of collection --></idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -40,44 +47,85 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
+                  <collection>Michael collection</collection>
                   <idno>MS. Michael add. 1a</idno>
                   <altIdentifier type="other">
                      <idno type="Neubauer">39</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-               <msItem source="#neubauer"><note source="#neubauer">דגל יאודה, Pentateuch with the Italian translation and the Hebrew commentary of R. Yeudah Aryeh di Modena.</note></msItem></msContents>
+                  <msItem>
+                     <note>דגל יאודה, Pentateuch with the Italian translation and the Hebrew
+                        commentary of R. Yeudah Aryeh di Modena.</note>
+                  </msItem>
+               </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="645">645</extent></supportDesc></objectDesc>
-               <handDesc><handNote source="#beit-arie">Italian square and cursive script</handNote><handNote source="#neubauer">Scribe: <persName role="scr" ref="fnh_pmr_m3c">EPHRAIM BEN JOHANAN מאנאניי</persName>.</handNote><handNote source="#neubauer">Scribe: <persName role="scr" ref="iph_pmr_m3c">ISAAC BEN JOSHUA OF רושינה</persName>.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">1590</origDate></origin><provenance source="#neubauer">Former owner: <persName role="fmo" ref="acj_pmr_m3c">ISAAC (BEN MORDECAI) VENTURA</persName>.</provenance><provenance source="#neubauer">Former owner: <persName role="fmo" ref="yfj_pmr_m3c">JACOB דילאטוט (SO)</persName>.</provenance><provenance source="#neubauer">Censor: <persName role="cns" ref="wvk_pmr_m3c">CAMILLO JAGEL</persName>.</provenance><provenance source="#neubauer">Censor: <persName role="cns" ref="rwk_pmr_m3c">RENATO DA MODENA</persName>.</provenance></history>
+                        <support>paper</support>
+                        <extent n="645">ff. 645</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>Italian square and cursive script</handNote>
+                     <handNote>Scribe: <persName role="scr" ref="fnh_pmr_m3c">EPHRAIM BEN JOHANAN
+                           מאנאניי</persName>.</handNote>
+                     <handNote>Scribe: <persName role="scr" ref="iph_pmr_m3c">ISAAC BEN JOSHUA OF
+                           רושינה</persName>.</handNote>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin><origPlace>[Italy]</origPlace><origDate calendar="Gregorian" when="1590"
+                        >1590</origDate></origin>
+                  <provenance>Former owner: <persName role="fmo" ref="acj_pmr_m3c">ISAAC (BEN
+                        MORDECAI) VENTURA</persName>.</provenance>
+                  <provenance>Former owner: <persName role="fmo" ref="yfj_pmr_m3c">JACOB דילאטוט
+                        (SO)</persName>.</provenance>
+                  <provenance>Censor: <persName role="cns" ref="wvk_pmr_m3c">CAMILLO
+                        JAGEL</persName>.</provenance>
+                  <provenance>Censor: <persName role="cns" ref="rwk_pmr_m3c">RENATO DA
+                        MODENA</persName>.</provenance>
+               </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
-                           Neubauer, Oxford 1886, <ref>no. 39</ref>, and <title>Catalogue of the
-                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
-                              Corrigenda to Vol. I,</title>
-                           <ref>no. 39</ref>.</source></recordHist>
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;amp=&amp;seq=40"
+                              >no. 39</ref>, and <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp=&amp;seq=59"
+                              >no. 39</ref>, and on the data of the Institute of Microfilmed Hebrew
+                           Manuscripts, National Library of Israel with additional enhancements by
+                           the cataloguer.</source>
+                     </recordHist>
                   </adminInfo>
-                
-                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F 33052</idno></bibl><bibl><idno n="S.F. Or" type="microfilm">517</idno></bibl></surrogates><listBibl>
-                     
-                  <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=59">no. 39.</ref></bibl><bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=40">no. 39.</ref></bibl></listBibl>
+
+                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F
+                        33052</idno></bibl><bibl><idno n="S.F. Or" type="microfilm"
+                        >517</idno></bibl></surrogates>
+                  <listBibl>
+
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
+                           rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                           Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=59"
+                           >no. 39.</ref></bibl>
+                     <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=40"
+                           >no. 39.</ref></bibl>
+                  </listBibl>
                </additional>
-       
+
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
-         <change>
-            
-         </change>
-      </revisionDesc>
-</teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

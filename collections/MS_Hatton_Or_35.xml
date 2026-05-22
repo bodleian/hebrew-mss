@@ -65,16 +65,15 @@
                <msContents>
                   <summary>Isaac Israeli's Book on Fevers: in Judeo-Arabic</summary>
                   <msItem>
-                     <title xml:lang="he" ref="njw_zty_43c">כתאב מג'מוע מן אקאויל אלאואיל פי
-                        אלחמיאת</title>
-                     <title xml:lang="he-Latn-x-lc">Kitāb maghmuʿ min aqāwil ālāwāyil fi
-                        ālḥamiyāt</title>
+                     <title xml:lang="he" key="work_3347" ref="njw_zty_43c">כתאב מג'מוע מן אקאויל אלאואיל פי אלחמיאת</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3347">Kitāb maghmūʿ min aqāwīl al-awāyil fi
+                        al-Ḥummayāt</title>
                      <author key="person_34580662" ref="zzc_pmr_m3c">
                         <persName>Israeli, Isaac, approximately 832-approximately 932</persName>
                         <persName xml:lang="he">יצחק בן שלמה הישראלי</persName>
                      </author>
                      <textLang mainLang="jrb">Judeo-Arabic</textLang>
-                     <note>On three folios at the beginning of the manuscript, prescriptions in
+                     <note>On three paper folios at the beginning of the manuscript (<locus>ff. i-iii</locus>), prescriptions in
                         Hebrew and Spanish.</note>
                   </msItem>
                </msContents>
@@ -99,6 +98,11 @@
                         (Neubauer No. 1273), which was copied in Tunisia in <date
                            calendar="#Gregorian">1338</date>.</handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Smooth dark brown leather over thick paper boards; the title (‘COLLECTIO
+                        ISAACI B. SOLIMAN’) has been gold-tooled on the spine; at the bottom of the
+                        spine, a black leather label with the current shelfmark (also gold-tooled).</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>

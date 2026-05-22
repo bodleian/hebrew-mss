@@ -7,8 +7,12 @@
          <titleStmt>
             <title>MS. Poc. 202</title>
             <respStmt xml:id="AH">
-               <resp>Encoding</resp>
+               <resp when="2026">Encoding</resp>
                <persName>Alex Hitchman</persName>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -16,21 +20,24 @@
          </editionStmt>
          <publicationStmt>
             <publisher>Special Collections, Bodleian Libraries</publisher>
-            <address>
-               <orgName type="department">Special Collections</orgName>
-               <orgName type="unit">Bodleian Libraries</orgName>
-               <orgName type="institution">University of Oxford</orgName>
-               <street>Weston Library, Broad Street</street>
-               <settlement>Oxford</settlement>
-               <postCode>OX1 3BG</postCode>
-               <country>United Kingdom</country>
-            </address>
-            <distributor>
-               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-            </distributor>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
             <idno type="msID">MS_Poc_202</idno>
-            <idno type="catalogue">Hebrew</idno>
-            <idno type="collection"><!-- insert normalized form of collection --></idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -40,15 +47,19 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
+                  <collection>Pococke collection</collection>
                   <idno>MS. Pococke 202</idno>
                   <altIdentifier type="other">
                      <idno type="Neubauer">383</idno>
                   </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="uri">220</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
                   <msItem n="1" source="#neubauer">
-                     <author ref="sbd_pmr_m3c">ISAAC BEN SOLOMON, etc., BEN ISRAEL הסופר (identical with Isaac Israeli, No. 4
-                        ?)</author>
+                     <author ref="sbd_pmr_m3c">ISAAC BEN SOLOMON, etc., BEN ISRAEL הסופר (identical
+                        with Isaac Israeli, No. 4 ?)</author>
                      <title ref="xmw_zty_43c">Comm. on Aboth</title>
                   </msItem>
                   <msItem n="2" source="#neubauer">
@@ -59,48 +70,62 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support>
-                        <extent n="335">335</extent>
-                        <foliation source="#beit-arie">Fol. 151 missed in the foliation.</foliation>
+                        <support>paper</support>
+                        <extent n="335">ff. 335</extent>
+                        <foliation>F. 151 has been missed in the foliation.</foliation>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote source="#beit-arie">Sephardic semi-cursive script</handNote>
+                     <handNote>Sephardic semi-cursive script</handNote>
                   </handDesc>
                </physDesc>
                <history>
-                  <origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie">late 15th cent.]</origDate></origin>
-                  <provenance source="#neubauer">Former owner: <persName role="fmo" ref="ur3_pmr_m3c">DAVID SABTHUN</persName>.</provenance>
-                  <provenance source="#neubauer">Former owner: <persName role="fmo" ref="wx3_pmr_m3c">ḤAYYIM SABTHUN</persName>.</provenance>
+                  <origin><origPlace>[Sepharad</origPlace><origDate calendar="Gregorian"
+                        notBefore="1450" notAfter="1499">late 15th cent.]</origDate></origin>
+                  <provenance>Former owner: <persName role="fmo" ref="ur3_pmr_m3c">DAVID
+                        SABTHUN</persName>.</provenance>
+                  <provenance>Former owner: <persName role="fmo" ref="wx3_pmr_m3c">ḤAYYIM
+                        SABTHUN</persName>.</provenance>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
-                           Neubauer, Oxford 1886, <ref>no. 383</ref>, and <title>Catalogue of the
-                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
-                              Corrigenda to Vol. I,</title>
-                           <ref>no. 383</ref>.</source>
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;amp=&amp;seq=84"
+                              >no. 383</ref>, and <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp=&amp;seq=86"
+                              >no. 383</ref>, and on the data of the Institute of Microfilmed Hebrew
+                           Manuscripts, National Library of Israel with additional enhancements by
+                           the cataloguer.</source>
                      </recordHist>
                   </adminInfo>
 
-                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F 18371</idno></bibl><bibl><idno n="S.F. Or" type="microfilm">603</idno></bibl></surrogates><listBibl>
+                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F
+                        18371</idno></bibl><bibl><idno n="S.F. Or" type="microfilm"
+                        >603</idno></bibl></surrogates>
+                  <listBibl>
 
-                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
+                           rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
                            Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
-                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=86">no. 383.</ref></bibl>
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=86"
+                           >no. 383.</ref></bibl>
                      <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
-                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=84">no. 383.</ref></bibl>
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=84"
+                           >no. 383.</ref></bibl>
                   </listBibl>
                </additional>
 
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
-         <change> </change>
-      </revisionDesc>
    </teiHeader>
    <text>
       <body>

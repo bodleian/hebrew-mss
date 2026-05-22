@@ -16,6 +16,16 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3347">
+               <title type="uniform">Kitāb al-Ḥummayāt</title>
+               <title type="variant">ּBook of Fevers</title>
+               <title type="variant">Kitāb maghmūʿ min aqāwīl al-awāyil fi al-Ḥummayāt</title>
+               <title type="variant">כתאב אלחמיאת</title>
+               <title type="variant">כתאב מג'מוע מן אקאויל אלאואיל פי אלחמיאת</title>
+               <ref target="MS_Hatton_Or_35-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Hatton_Or_35.xml#MS_Hatton_Or_35-item1 -->
+               <textLang mainLang="jrb"/>
+            </bibl>
             <bibl xml:id="work_3346">
                <title type="uniform">Al-murshid al-kāfī</title>
                <title type="variant">Kitāb al-kāfī nahw kitāb al-murshid</title>
@@ -24,7 +34,7 @@
                <title type="variant">כתאב אלכאפי נהו כתאב אלמרשד</title>
                <ref target="MS_Huntington_248-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Huntington_248.xml#MS_Huntington_248-item1 -->
-               <textLang mainLang="he"/>
+               <textLang mainLang="jrb"/>
             </bibl>
             <bibl xml:id="work_3345">
                <title type="uniform">Sefer Sod Adonai Lireʾav</title>
@@ -133,7 +143,7 @@
                <title type="variant">כתאב אלהדאיה לפראיץ אלקלוב</title>
                <ref target="MS_Pococke_96-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Pococke_96.xml#MS_Pococke_96-item1 -->
-               <textLang mainLang="he"/>
+               <textLang mainLang="jrb"/>
             </bibl>
             <bibl xml:id="work_3331">
                <title type="uniform">A catalogue of books in alphabetical order</title>
