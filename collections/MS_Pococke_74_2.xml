@@ -37,7 +37,7 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <idno type="msID">MS_Poc_74_2</idno>
+            <idno type="msID">MS_Pococke_74_2</idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -57,25 +57,58 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem n="1" source="#neubauer"/>
-                  <msItem n="2" source="#neubauer"/>
-                  <msItem n="3" source="#neubauer"/>
+                  <summary>A collection, mostly of poems, by various sixteenth-century Salonikan
+                     Jewish authors, especially <persName>Saʿadiah Longo</persName></summary>
+                  <msItem>
+                     <title xml:lang="he" key="work_19">שירים</title>
+                     <title xml:lang="jrb-Latn-x-lc" key="work_19">Shirim</title>
+                     <author key="person_7059">
+                        <persName>Longo, Saʿadiah ben Abraham, 1520-1600?</persName>
+                        <persName xml:lang="he">סעדיה בן אברהם לונגו</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>This collection consists mainly of poems but also includes numerous
+                        correspondences and short prose works. A significant portion of these are by
+                        <persName key="person_7059">Saʻadiah Longo</persName>; the others appear to be the works of other Jewish authors
+                        living in Salonika during the same period.</note>
+                     <note>At the beginning and end of the manuscript (<locus>ff. i-vii,
+                           233-238</locus>), additional poems have been copied by later hands; many
+                        of these are duplicates of poems already found in the main part of the
+                        manuscript.</note>
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent n="238">ff. 238</extent>
+                        <extent n="238">ff. 238 <dimensions type="leaf" unit="mm">
+                              <height>197</height>
+                              <width>146</width>
+                           </dimensions></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <handNote>Sephardic cursive script</handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Smooth golden-brown leather over paper boards, simple blind-tooled
+                        decoration around and along the edges of upper and lower boards. The title
+                        (‘CHARTAE IMPERFECTAE’) and current shelfmark have been gold-tooled on the
+                        spine.</p>
+                     <condition><p>The binding has become detached from the text block. Some loose
+                           and detached quires.</p></condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin><origPlace>Salonica?</origPlace><origDate calendar="Gregorian"
-                        notBefore="1586" notAfter="1599">late 16th cent, (after 1586 (fols. 34r and
-                        77v))</origDate></origin>
+                        notBefore="1586" notAfter="1599">late 16th cent, after 1586 (the letters on ff. 34r and
+                        77v are dated to this year)</origDate></origin>
+                  <provenance/>
+                  <acquisition><persName ref="https://viaf.org/en/viaf/41849535">Edward
+                        Pococke</persName>'s <date calendar="#Gregorian">(1604-1691)</date>
+                     collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased
+                     by the Library for £800 in <date calendar="#Gregorian">1692</date> (see Summary
+                     Catalogue, vol. II, p. 1008).</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -111,7 +144,6 @@
                            >no. 1986.</ref></bibl>
                   </listBibl>
                </additional>
-
             </msDesc>
          </sourceDesc>
       </fileDesc>

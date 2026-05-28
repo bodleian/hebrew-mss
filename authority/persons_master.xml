@@ -18364,6 +18364,37 @@
                     </note>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Huntington_217.xml -->
                 </person>
+                <person xml:id="person_7058">
+                    <persName type="display">Yitsḥaḳ ben Shelomoh mi-Toledo, 1339/40-</persName>
+                    <persName type="variant" xml:lang="he">יצחק בן שלמה מטולידו</persName>
+                    <persName type="variant">Yitsḥaḳ ben Shelomoh ben Yitsḥak ben Shelomoh ben Israel ha-Sofer ben Israel</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/287043259">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Pococke_202.xml -->
+                </person>
+                <person xml:id="person_7059">
+                    <persName type="display">Longo, Saʿadiah ben Abraham, 1520-1600?</persName>
+                    <persName type="variant" xml:lang="he">סעדיה בן אברהם לונגו</persName>
+                    <persName type="variant">Saʿadiah Longo</persName>
+                    <persName type="variant">Saadia Longo</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/308279737">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Pococke_74_2.xml -->
+                </person>
             </listPerson>
         </body>
     </text>

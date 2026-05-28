@@ -26,6 +26,11 @@
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_a_2.xml -->
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_76.xml -->
             </place>
+            <place xml:id="place_98">
+               <placeName type="index" source="TGN">Anagni</placeName>
+               <placeName type="variant" xml:lang="he" source="bodl">אנאניי</placeName>
+               <!-- Found in: ../collections/MS_Mich_add_1a.xml -->
+            </place>
             <place xml:id="place_4">
                <placeName type="index" source="#IMHM">Avignon</placeName>
                <!-- Found in: ../collections/MS_Canonici_Or_79.xml -->
@@ -223,6 +228,11 @@
             <place xml:id="place_35">
                <placeName type="index" source="bodl">Rome</placeName>
                <!-- Found in: ../collections/MS_Laud_Or_105.xml -->
+            </place>
+            <place xml:id="place_97">
+               <placeName type="index" source="TGN">Ruosina</placeName>
+               <placeName type="variant" xml:lang="he" source="bodl">רושינה</placeName>
+               <!-- Found in: ../collections/MS_Mich_add_1a.xml -->
             </place>
             <place xml:id="place_87">
                <placeName type="index" source="TGN">Saint-Symphorien-d'Ozon</placeName>

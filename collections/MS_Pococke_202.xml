@@ -57,35 +57,75 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem n="1" source="#neubauer">
-                     <author ref="sbd_pmr_m3c">ISAAC BEN SOLOMON, etc., BEN ISRAEL הסופר (identical
-                        with Isaac Israeli, No. 4 ?)</author>
-                     <title ref="xmw_zty_43c">Comm. on Aboth</title>
+                  <summary>Two commentaries by Yitsḥaḳ ben Shelomoh of Toledo</summary>
+                  <msItem n="1">
+                     <locus>ff. 1r-158v</locus>
+                     <title ref="xmw_zty_43c" key="work_3349">Commentary on Avot</title>
+                     <title xml:lang="he" key="work_3349">פרוש מסכת אבות</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3349">Perush masekhet avot</title>
+                     <author key="person_7058">
+                        <persName ref="sbd_pmr_m3c">Yitsḥaḳ ben Shelomoh mi-Toledo,
+                           1339/40-</persName>
+                        <persName xml:lang="he">יצחק בן שלמה מטולידו</persName>
+                     </author>
                   </msItem>
-                  <msItem n="2" source="#neubauer">
-                     <author ref="yzc_pmr_m3c">ISAAC ISRAEL[1]</author>
-                     <title ref="kjw_zty_43c">Comm. on Psalm lxxiii and on Job</title>
+                  <msItem n="2">
+                     <locus>ff. 159r-304r</locus>
+                     <title ref="kjw_zty_43c" key="work_3350">Commentary on Job</title>
+                     <title xml:lang="he" key="work_3350">פרוש כתובים (איוב)</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3350">Perush ketuvim (Iyyov)</title>
+                     <author key="person_7058">
+                        <persName ref="sbd_pmr_m3c">Yitsḥaḳ ben Shelomoh mi-Toledo,
+                           1339/40-</persName>
+                        <persName xml:lang="he">יצחק בן שלמה מטולידו</persName>
+                     </author>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent n="335">ff. 335</extent>
+                        <extent n="335">ff. 335 <dimensions type="leaf" unit="mm">
+                              <height>215</height>
+                              <width>153</width>
+                           </dimensions></extent>
                         <foliation>F. 151 has been missed in the foliation.</foliation>
+                        <condition>There are small wormholes on most of the folios.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Sephardic semi-cursive script</handNote>
+                     <summary>Sephardic semi-cursive script</summary>
+                     <handNote>Written mainly by one scribe, who copied all of no. 1 and <locus>ff.
+                           237v-304r</locus> in no. 2; he was assisted by three other scribes, who
+                        copied <locus>ff. 159-200</locus>, <locus>ff. 201r-227v (until line 9) and
+                           235r-237r</locus>, and <locus> ff. 227v (from line 9)-234v</locus>
+                        respectively.</handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Smooth dark brown leather over wooden boards, with elaborate blind-tooled
+                        decorations on the upper and lower boards. Rebacked in smooth, lighter brown
+                        leather; the corners have been repaired using the same leather. The name of
+                        the author (‘R. ISAAC BEN ISRAEL’) and the current shelfmark have been
+                        gold-tooled on the spine.</p>
+                     <condition>The clasp is now missing.</condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin><origPlace>[Sepharad</origPlace><origDate calendar="Gregorian"
                         notBefore="1450" notAfter="1499">late 15th cent.]</origDate></origin>
-                  <provenance>Former owner: <persName role="fmo" ref="ur3_pmr_m3c">DAVID
-                        SABTHUN</persName>.</provenance>
-                  <provenance>Former owner: <persName role="fmo" ref="wx3_pmr_m3c">ḤAYYIM
-                        SABTHUN</persName>.</provenance>
+                  <provenance>At the end of the manuscript (<locus>f. 304v</locus>),
+                        <persName>Ḥayyim b. David Sabaton (?) <foreign xml:lang="he">חיים בן דוד
+                           סבתון</foreign></persName> records that he purchased this manuscript from
+                        <persName>Tsaharon b. Marḥaba <foreign xml:lang="he">צהרון בן
+                           מרחבה</foreign></persName>. On the same folio, another ownership
+                     inscription in a similar hand by <persName>David b. Ḥayyim Sabaton (?) <foreign
+                           xml:lang="he">דוד בן חיים סבתון</foreign></persName>, presumably the
+                     former's son. </provenance>
+                  <acquisition><persName ref="https://viaf.org/en/viaf/41849535">Edward
+                        Pococke</persName>'s <date calendar="#Gregorian">(1604-1691)</date>
+                     collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased
+                     by the Library for £800 in <date calendar="#Gregorian">1692</date> (see Summary
+                     Catalogue, vol. II, p. 1008).</acquisition>
                </history>
                <additional>
                   <adminInfo>

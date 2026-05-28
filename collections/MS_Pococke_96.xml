@@ -57,15 +57,14 @@
                <msContents>
                   <summary>Guide to the duties of the heart: in Judeo-Arabic</summary>
                   <msItem>
-                     <title xml:lang="he" key="work_3332">כתאב אלהדאיה לפראיץ אלקלוב</title>
-                     <title xml:lang="he-Latn-x-lc" key="work_3332">Kitab al-hidaya li-faraiḍ
+                     <title xml:lang="jrb" key="work_3332">כתאב אלהדאיה לפראיץ אלקלוב</title>
+                     <title xml:lang="jrb-Latn-x-lc" key="work_3332">Kitab al-hidaya li-faraiḍ
                         al-ḳalub</title>
                      <author key="person_180286221">
                         <persName>Baḥya ben Joseph ibn Paḳudah, active 11th century</persName>
                         <persName xml:lang="he">בחיי בן יוסף אבן פקודה</persName>
                      </author>
                      <textLang mainLang="jrb">Judeo-Arabic</textLang>
-                     <note/>
                      <note>Marginal notes contain frequent omissions.</note>
                      <note>Colophon by the scribe, <persName key="person_7053">Abraham bar
                            Tahur</persName>

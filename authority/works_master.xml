@@ -16,6 +16,28 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3350">
+               <title type="uniform">Yitsḥaḳ ben Shelomoh of Toledo's Commentary on Job</title>
+               <title type="variant">פרוש כתובים ליצחק בן שלמה מטולידו (איוב)</title>
+               <ref target="MS_Pococke_202-item2"/>
+               <!-- ../../hebrew-mss/collections/MS_Pococke_202.xml#MS_Pococke_202-item2 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3349">
+               <title type="uniform">Yitsḥaḳ ben Shelomoh of Toledo's Commentary on Avot</title>
+               <title type="variant">פרוש מסכת אבות ליצחק בן שלמה מטולידו</title>
+               <ref target="MS_Pococke_202-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Pococke_202.xml#MS_Pococke_202-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3348">
+               <title type="uniform">Pentateuch with Judeo-Italian translation and the Hebrew commentary of Leone Modena</title>
+               <title type="variant">דגל יאודה</title>
+               <title type="variant">דגל יהודה</title>
+               <ref target="MS_Mich_add_1a-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Mich_add_1a.xml#MS_Mich_add_1a-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3347">
                <title type="uniform">Kitāb al-Ḥummayāt</title>
                <title type="variant">ּBook of Fevers</title>
@@ -17459,6 +17481,8 @@
                <!-- ../../hebrew-mss/collections/MS_Laud_Or_115.xml#MS_Laud_Or_115-part2-item1 -->
                <ref target="MS_Laud_Or_115-part2-item2"/>
                <!-- ../../hebrew-mss/collections/MS_Laud_Or_115.xml#MS_Laud_Or_115-part2-item2 -->
+               <ref target="MS_Pococke_74_2-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Pococke_74_2.xml#MS_Pococke_74_2-item1 -->
                <textLang mainLang="he" otherLangs="ar jrb"/>
             </bibl>
             <bibl xml:id="work_2137">

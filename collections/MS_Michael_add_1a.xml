@@ -52,39 +52,85 @@
                   <altIdentifier type="other">
                      <idno type="Neubauer">39</idno>
                   </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">24272</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
+                  <summary>Pentateuch with Judeo-Italian translation and the Hebrew commentary of
+                     Leone (Yehudah Aryeh) Modena</summary>
                   <msItem>
-                     <note>דגל יאודה, Pentateuch with the Italian translation and the Hebrew
-                        commentary of R. Yeudah Aryeh di Modena.</note>
+                     <title xml:lang="he" key="work_3348">דגל יאודה</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3348">Degel Yeʾudah</title>
+                     <author key="person_4948231">
+                        <persName>Modena, Leone, 1571-1648</persName>
+                        <persName xml:lang="he">יהודה אריה מודנה</persName>
+                     </author>
+                     <textLang mainLang="he" otherLangs="itk">Biblical text and commentary in
+                        Hebrew, with Judeo-Italian translation for the biblical text</textLang>
+                     <note><p>Only the Judeo-Italian translation has vocalisation.</p></note>
+                     <note><p>A pen-drawn map of the Land of Israel on <locus>f. 506</locus>, which
+                           is much larger than a regular folio and has been folded to fit within the
+                           book, and which is accompanied by a note by <persName>Menaḥem of Vignola
+                                 <foreign xml:lang="he">מנחם מרם(?) מויניולה</foreign></persName>,
+                           dated <date calendar="Gregorian">1585/6</date>.</p></note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent n="645">ff. 645</extent>
+                        <extent n="645">ff. 645 <dimensions type="leaf" unit="mm">
+                              <height>298</height>
+                              <width>222</width>
+                           </dimensions>
+                           <note>ff. 387, 514 are blank.</note></extent>
+                        <condition>The first leaves are slightly stained.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Italian square and cursive script</handNote>
-                     <handNote>Scribe: <persName role="scr" ref="fnh_pmr_m3c">EPHRAIM BEN JOHANAN
-                           מאנאניי</persName>.</handNote>
-                     <handNote>Scribe: <persName role="scr" ref="iph_pmr_m3c">ISAAC BEN JOSHUA OF
-                           רושינה</persName>.</handNote>
+                     <summary>Italian square and semi-cursive scripts</summary>
+                     <handNote>Copied by two scribes; the first, <persName ref="iph_pmr_m3c">Isaac
+                           b. Elisha of <placeName key="place_97">Ruosina</placeName> (?) <foreign
+                              xml:lang="he">יצחק בן אלישע מרושינה</foreign></persName>, copied
+                        Genesis to Leviticus (colophon on <locus>f. 386v</locus>); the second,
+                           <persName ref="fnh_pmr_m3c">Ephraim b. Yoḥanan of <placeName
+                              key="place_98">Anagni</placeName> (?) <foreign xml:lang="he">אפרים בן
+                              יוחנן מאנאניי</foreign></persName>, copied Numbers and Deuteronomy
+                        (colophon on <locus>f. 645r</locus>).</handNote>
                   </handDesc>
+                  <decoDesc>
+                     <p>Apart from the map on <locus>f. 506</locus>, there are two detailed
+                        pen-drawn diagrams on <locus>ff. 394r and 395r</locus>, showing the Camp of
+                        the Israelites and the priestly breastplate respectively.</p>
+                     <p>Simple penwork frames around the initial words of Numbers and Deuteronomy
+                           (<locus>ff. 388, 515</locus>). </p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Vellum over paper boards. The title (דגל יאודה) has been written in
+                        Italo-Sephardic square script with brown ink on the spine, above a
+                        description of the contents (פירוש על התורה וגם העתקה איטליאנו) which has
+                        been written in Italo-Sephardic semi-cursive script. At the bottom of the
+                        spine, a black label bearing the current shelfmark.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin><origPlace>[Italy]</origPlace><origDate calendar="Gregorian" when="1590"
                         >1590</origDate></origin>
-                  <provenance>Former owner: <persName role="fmo" ref="acj_pmr_m3c">ISAAC (BEN
-                        MORDECAI) VENTURA</persName>.</provenance>
-                  <provenance>Former owner: <persName role="fmo" ref="yfj_pmr_m3c">JACOB דילאטוט
-                        (SO)</persName>.</provenance>
-                  <provenance>Censor: <persName role="cns" ref="wvk_pmr_m3c">CAMILLO
-                        JAGEL</persName>.</provenance>
-                  <provenance>Censor: <persName role="cns" ref="rwk_pmr_m3c">RENATO DA
-                        MODENA</persName>.</provenance>
+                  <provenance>
+                     <p>Censorship certificates by <persName role="cns" ref="wvk_pmr_m3c">Camillo
+                           Jaghel</persName> in <date calendar="Gregorian">1613</date>, and by
+                           <persName role="cns" ref="rwk_pmr_m3c">Renato da Modena</persName> in
+                           <date calendar="Gregorian">1626</date> (<locus>f. 645v</locus>).</p>
+                     <p>Sold from <persName role="fmo" ref="acj_pmr_m3c">Isaac b. Mordecai Ventura
+                              <foreign xml:lang="he">יצחק בן מרדכי וינטורה</foreign></persName> to
+                           <persName role="fmo" ref="yfj_pmr_m3c">Jacob <foreign xml:lang="he">יעקב
+                              דילמטוט</foreign></persName> in <placeName key="place_96"
+                           >Venice</placeName> in <date calendar="Greogrian">1732</date>.</p>
+                  </provenance>
+                  <acquisition>From a collection of 69 manuscripts, partly in the possession of A.
+                     Bisliches, which was bought by the Bodleian Library in <date
+                        calendar="Gregorian">1850</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
