@@ -7,8 +7,12 @@
          <titleStmt>
             <title>MS. Reggio 20</title>
             <respStmt xml:id="AH">
-               <resp>Encoding</resp>
+               <resp when="2026">Encoding</resp>
                <persName>Alex Hitchman</persName>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -16,21 +20,24 @@
          </editionStmt>
          <publicationStmt>
             <publisher>Special Collections, Bodleian Libraries</publisher>
-            <address>
-               <orgName type="department">Special Collections</orgName>
-               <orgName type="unit">Bodleian Libraries</orgName>
-               <orgName type="institution">University of Oxford</orgName>
-               <street>Weston Library, Broad Street</street>
-               <settlement>Oxford</settlement>
-               <postCode>OX1 3BG</postCode>
-               <country>United Kingdom</country>
-            </address>
-            <distributor>
-               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-            </distributor>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
             <idno type="msID">MS_Reggio_20</idno>
-            <idno type="catalogue">Hebrew</idno>
-            <idno type="collection"><!-- insert normalized form of collection --></idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -40,81 +47,174 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
+                  <collection>Reggio collection</collection>
                   <idno>MS. Reggio 20</idno>
                   <altIdentifier type="other">
                      <idno type="Neubauer">2306</idno>
                   </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">24350</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem n="1" source="#neubauer">
-                     <author ref="wnc_pmr_m3c">BENJAMIN ESPINOSA</author>
-                     <title ref="jlv_zty_43c">שער בנימן</title>
+                  <summary>An anthology of various works, the majority of which are by Benjamin
+                     Espinosa</summary>
+                  <msItem n="1">
+                     <locus>ff. 6r-64v</locus>
+                     <title ref="jlv_zty_43c" xml:lang="he" key="work_3352">שער בנימן</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3352">Shaʿar Benyamin</title>
+                     <author ref="wnc_pmr_m3c" key="person_7061">
+                        <persName>Espinoza, Binyamin, -1775 or 1776</persName>
+                        <persName xml:lang="he">בנימין בן יעקב אשפינוזא</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>A verse treatise on the copying of a Torah scroll, with a
+                        commentary.</note>
                   </msItem>
-                  <msItem n="2" source="#neubauer">
-                     <author ref="wnc_pmr_m3c">BENJAMIN ESPINOSA</author>
-                     <title ref="klv_zty_43c">ס' נוה קדש</title>
+                  <msItem n="2">
+                     <locus>ff. 74v-101v</locus>
+                     <title ref="klv_zty_43c" xml:lang="he" key="work_3353">ספר נוה קדש</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3353">Sefer Neṿeh Ḳodesh</title>
+                     <author ref="wnc_pmr_m3c" key="person_7061">
+                        <persName>Espinoza, Binyamin, -1775 or 1776</persName>
+                        <persName xml:lang="he">בנימין בן יעקב אשפינוזא</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>A treatise on the architecture of the Second Temple.</note>
                   </msItem>
-                  <msItem n="3" source="#neubauer">
-                     <author ref="ntd_pmr_m3c">MENAHEM DI LONSANO</author>
-                     <title ref="ttx_zty_43c">אור תורה</title>
+                  <msItem n="3">
+                     <locus>ff. 102r-127v</locus>
+                     <title ref="ttx_zty_43c" xml:lang="he" key="work_3354">אור תורה</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3354">Or Torah</title>
+                     <author ref="ntd_pmr_m3c" key="person_7062">
+                        <persName>Lonzano, Menahem ben Judah de, 1550-</persName>
+                        <persName xml:lang="he">מנחם בן יהודה די לונזנו</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>A Masoretic work on the text of the Pentateuch.</note>
                   </msItem>
-                  <msItem n="4" source="#neubauer">
-                     <author ref="h4d_pmr_m3c">JUDAH KHALAẒ (כלץ)</author>
-                     <title ref="bjx_zty_43c">Rules on נט</title>
+                  <msItem n="4">
+                     <locus>ff. 128r-135v</locus>
+                     <title ref="bjx_zty_43c" xml:lang="he" key="work_3355">אלף המגן</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3355">Elef ha-Magen</title>
+                     <author ref="h4d_pmr_m3c" key="person_7063">
+                        <persName>Yehudah b. Avraham haKohen Khalaẓ</persName>
+                        <persName xml:lang="he">יהודה בן אברהם הכהן כלץ</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>Rules for letters of divorce, in verse; with a commentary.</note>
+                     <note>The name of the author is mentioned in the acrostic in the
+                        introduction.</note>
                   </msItem>
-                  <msItem n="5" source="#neubauer">
-                     <author ref="wnc_pmr_m3c">BENJAMIN ESPINOSA</author>
-                     <title ref="llv_zty_43c">Casuistical response</title>
+                  <msItem n="5">
+                     <locus>ff. 138r-139r</locus>
+                     <title key="work_3356">Responsa to a Question from the Sages of Fez to the
+                        Sages of Marrakesh</title>
+                     <title xml:lang="he" key="work_3356">תשובת שאלה מחכמי פאס לחכמי מראכש</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3356">Teshuvat sheʾelah me-ḥokhmei
+                        Fes le-ḥokhmei Marakesh</title>
+                     <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
-                  <msItem n="6" source="#neubauer">
-                     <msItem>
-                        <author ref="wnc_pmr_m3c">BENJAMIN ESPINOSA</author>
-                        <title ref="mlv_zty_43c">Poetical piece</title>
-                     </msItem>
-                     <msItem>
-                        <author ref="cnd_pmr_m3c">JUDAH AYYAS (עיאש)</author>
-                        <title ref="jgx_zty_43c">Poem</title>
-                     </msItem>
+                  <msItem n="6">
+                     <locus>ff. 139v-143r</locus>
+                     <title ref="llv_zty_43c">Responsa concerning the form of the letter <hi
+                           rend="italic">vav</hi> in the word <hi rend="italic">shalom</hi></title>
+                     <title xml:lang="he" key="work_3357">תשובה בענין צורת ויו' דשלום</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3357">Teshuvah be-ʿinyan tsurat ṿaṿ
+                        de-shalom</title>
+                     <author ref="wnc_pmr_m3c" key="person_7061">
+                        <persName>Espinoza, Binyamin, -1775 or 1776</persName>
+                        <persName xml:lang="he">בנימין בן יעקב אשפינוזא</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="7">
+                     <locus>ff. 144r-152v</locus>
+                     <title ref="mlv_zty_43c" xml:lang="he" key="work_3358">שיר למעלות</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3358">Shir la-maʿalot</title>
+                     <author ref="wnc_pmr_m3c" key="person_7061">
+                        <persName>Espinoza, Binyamin, -1775 or 1776</persName>
+                        <persName xml:lang="he">בנימין בן יעקב אשפינוזא</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>A treatise on grammar, in verse; the preface to this text is found at the
+                        beginning of the manuscript (<locus>f. 3v</locus>).</note>
+                     <note>At the end of the treatise, a poem by <persName key="person_7064">Yehudah
+                           Ayash</persName> in praise of the author (<locus>f. 147r</locus>), lists
+                        of words (<locus>ff. 147v-148r</locus>), and various notes (<locus>ff.
+                           150v-152v</locus>).</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support>
-                        <extent n="152">152</extent>
+                        <support>paper</support>
+                        <extent n="154">ff. 154 <dimensions type="leaf" unit="mm">
+                              <height>215</height>
+                              <width>152</width>
+                           </dimensions></extent>
+                        <foliation><locus>ff. 65-74</locus> are blank.</foliation>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote source="#beit-arie">Sephardic cursive and semi-cursive
-                        scripts</handNote>
-                     <handNote source="#neubauer">Scribe: <persName role="scr" ref="qh3_pmr_m3c">AZARIAH פינו</persName>.</handNote>
-                     <handNote source="#neubauer">Scribe: <persName role="scr" ref="vh3_pmr_m3c">MOSES (BEN SAMUEL) SAL'I (סלעי, OF ROQUEMAURE ?)</persName>.</handNote>
-                     <handNote source="#beit_arie">Scribe: <persName role="scr" ref="idn_smr_m3c">Benjamin Espinosa</persName>.</handNote>
+                     <summary>Sephardic cursive and semi-cursive scripts</summary>
+                     <handNote>Part of the manuscript was copied by <persName>Benjamin
+                           Espinosa</persName> himself (Nos. 2, 7, and <locus>ff. 44v-64v</locus> of
+                        No. 1); the remainder was copied by a professional scribe in Maghrebic
+                        cursive script.</handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Marbled paper over paper boards, quarter-bound in smooth golden brown
+                        leather. The current shelfmark has been gold-tooled on the spine.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
-                  <origin><origPlace source="#beit-arie">[North Africa?] and
-                        Livorno</origPlace><origDate source="#beit-arie">c. 1750</origDate></origin>
+                  <origin><origPlace>[North Africa?] and Livorno</origPlace><origDate
+                        calendar="Gregorian" notBefore="1725" notAfter="1775">c.
+                     1750</origDate></origin>
+                  <provenance>At the beginning of the manuscript (<locus>ff. 1r-2r</locus>),
+                     numerous notes, calculations and pen trials, as well as a separate paper leaf
+                     which is now glued to <locus>f. 1v</locus>, containing an Italian letter
+                     written in <placeName key="place_101">Livorno</placeName> and dated <date calendar="#Gregorian">1776</date>, addressed
+                     to Carlo Burlamachi in <placeName key="place_102">Lucca</placeName>.</provenance>
+                  <acquisition>It belonged to <persName key="person_67197037">Isaac Samuel
+                        Reggio</persName>'s <date calendar="#Gregorian">(1784-1855)</date> library,
+                     which was purchased <hi rend="italic">en bloc</hi> by the Bodleian Library in
+                        <date calendar="#Gregorian">1853</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
-                           Neubauer, Oxford 1886, <ref>no. 2306</ref>, and <title>Catalogue of the
-                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
-                              Corrigenda to Vol. I,</title>
-                           <ref>no. 2306</ref>.</source>
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;amp=&amp;seq=450"
+                              >no. 2306</ref>, and <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp=&amp;seq=280"
+                              >no. 2306</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                   </adminInfo>
 
-                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F 20998</idno></bibl><bibl><idno n="S.F. Or" type="microfilm">1027</idno></bibl></surrogates><listBibl>
+                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F
+                        20998</idno></bibl><bibl><idno n="S.F. Or" type="microfilm"
+                        >1027</idno></bibl></surrogates>
+                  <listBibl>
 
-                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
+                           rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
                            Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
-                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=280">no. 2306.</ref></bibl>
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=280"
+                           >no. 2306.</ref></bibl>
                      <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
-                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=450">no. 2306.</ref></bibl>
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=450"
+                           >no. 2306.</ref></bibl>
                   </listBibl>
                </additional>
 

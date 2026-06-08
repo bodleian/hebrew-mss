@@ -809,6 +809,8 @@
                         century</persName>
                     <persName type="display" xml:lang="he">הישראלי, יצחק בן יוסף</persName>
                     <persName type="variant">Yitsḥaḳ ben Yosef</persName>
+                    <persName type="variant">Isaac Israeli ben Joseph</persName>
+                    <persName type="variant">Isaac Israeli the Younger</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -18328,12 +18330,13 @@
                     <persName type="variant" xml:lang="he">גאקוב קווליאן</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Marshall_Or_41_star.xml -->
                 </person>
-                <person xml:id="person_7055">
+                <person xml:id="person_7065">
                     <persName type="display">Moses Botarel Farissol</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Marshall_Or_41_star.xml -->
                 </person>
-                <person xml:id="person_7056">
-                    <persName type="display">Israeli, Isaac, approximately 832-approximately 932</persName>
+                <person xml:id="person_7066">
+                    <persName type="display">Israeli, Isaac, approximately 832-approximately
+                        932</persName>
                     <persName type="variant" xml:lang="he">יצחק בן שלמה הישראלי</persName>
                     <persName type="variant">Isaac Israeli ben Solomon</persName>
                     <persName type="variant">Isaac Israeli the Elder</persName>
@@ -18367,7 +18370,8 @@
                 <person xml:id="person_7058">
                     <persName type="display">Yitsḥaḳ ben Shelomoh mi-Toledo, 1339/40-</persName>
                     <persName type="variant" xml:lang="he">יצחק בן שלמה מטולידו</persName>
-                    <persName type="variant">Yitsḥaḳ ben Shelomoh ben Yitsḥak ben Shelomoh ben Israel ha-Sofer ben Israel</persName>
+                    <persName type="variant">Yitsḥaḳ ben Shelomoh ben Yitsḥak ben Shelomoh ben
+                        Israel ha-Sofer ben Israel</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -18394,6 +18398,108 @@
                         </list>
                     </note>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Pococke_74_2.xml -->
+                </person>
+                <person xml:id="person_7060">
+                    <persName type="display">Terni, Daniel ben Moses David, active 18th century-19th
+                        century</persName>
+                    <persName type="variant" xml:lang="he">דניאל בן משה דוד טירני</persName>
+                    <persName type="variant">Daniel ben Moses David Terni</persName>
+                    <persName type="variant">Daniel Terni</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/5237161453865164330009">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_17.xml -->
+                </person>
+                <person xml:id="person_7061">
+                    <persName type="display">Espinoza, Binyamin, -1775 or 1776</persName>
+                    <persName type="variant" xml:lang="he">בנימין בן יעקב אשפינוזא</persName>
+                    <persName type="variant">Binyamin b. Yaʿaḳov Espinoza</persName>
+                    <persName type="variant">Benjamin Espinosa</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/12041121">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_20.xml -->
+                </person>
+                <person xml:id="person_7062">
+                    <persName type="display">Lonzano, Menahem ben Judah de, 1550-</persName>
+                    <persName type="variant" xml:lang="he">מנחם בן יהודה די לונזנו</persName>
+                    <persName type="variant">Menaḥem Lonzano</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/75522371">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_20.xml -->
+                </person>
+                <person xml:id="person_7063">
+                    <persName type="display">Yehudah b. Avraham haKohen Khalaẓ</persName>
+                    <persName type="variant" xml:lang="he">יהודה בן אברהם הכהן כלץ</persName>
+                    <persName type="variant">Judah b. Abraham Khallas</persName>
+                    <note>Not the same person as the Spanish rabbi and kabbalist Judah b. Abraham
+                        Khalaz, who was probably from the same family but lived a few generations
+                        earlier.</note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_20.xml -->
+                </person>
+                <person xml:id="person_7064">
+                    <persName type="display">Ayash, Yehudah -1760</persName>
+                    <persName type="variant" xml:lang="he">יהודה בן יצחק עייאש</persName>
+                    <persName type="variant">Yehudah Ayash</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/97639325">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_20.xml -->
+                </person>
+                <person xml:id="person_7067">
+                    <persName type="display">Qalonymos ben Qalonymos ben Meʾir, 1286-</persName>
+                    <persName type="variant" xml:lang="he">קלונימוס בן קלונימוס</persName>
+                    <persName type="variant">Kalonymus ben Kalonymus</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/418149294453180522849">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_7.xml -->
+                </person>
+                <person xml:id="person_7068">
+                    <persName type="display">Qalonymos ben Qalonymos ben Meʾir, 1286-</persName>
+                    <persName type="variant" xml:lang="he">קלונימוס בן קלונימוס</persName>
+                    <persName type="variant">Kalonymus ben Kalonymus</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/418149294453180522849">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_7.xml -->
                 </person>
             </listPerson>
         </body>
