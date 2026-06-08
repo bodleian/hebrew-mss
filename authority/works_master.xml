@@ -16,6 +16,105 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3362">
+               <title type="uniform">Ḳitsur Sefer Yesod ʿOlam</title>
+               <title type="variant">קצור ספר יסוד עולם</title>
+               <title type="variant">An Abridgement of the Sefer Yesod ʿOlam</title>
+               <ref target="MS_Reggio_7-item6"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item6 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3361">
+               <title type="uniform">The Aphorisms of Hippocrates</title>
+               <title type="variant">אפוריסמי של אפוקרט</title>
+               <title type="variant">Aforismi shel Apoḳraṭ</title>
+               <title type="variant">אמפוריזמי לאפוקרט</title>
+               <title type="variant">Amforizmi le-Apoḳraṭ</title>
+               <ref target="MS_Reggio_7-item4"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item4 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3360">
+               <title type="uniform">Ruaḥ Ḥen</title>
+               <title type="variant">רוח חן</title>
+            <title type="variant">The Spirit of Grace</title>
+            <ref target="MS_Reggio_7-item3"/>
+            <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item3 -->
+            <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3359">
+               <title type="uniform">Mesharet Mosheh</title>
+               <title type="variant">משרת משה</title>
+               <title type="variant">The Servant of Moses</title>
+               <ref target="MS_Reggio_7-item2"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item2 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3358">
+               <title type="uniform">Shir la-maʿalot</title>
+               <title type="variant">שיר למעלות</title>
+               <title type="variant">A Song for Ascents</title>
+               <ref target="MS_Reggio_20-item7"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_20.xml#MS_Reggio_20-item7 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3357">
+               <title type="uniform">Responsa concerning the form of the letter <hi rend="italic">vav</hi> in the word <hi rend="italic">shalom</hi></title>
+               <title type="variant">תשובה בענין צורת ויו' דשלום</title>
+               <title type="variant">Teshuvah be-ʿinyan tsurat ṿaṿ de-shalom</title>
+               <ref target="MS_Reggio_20-item6"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_20.xml#MS_Reggio_20-item6 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3356">
+               <title type="uniform">Responsa to a Question from the Sages of Fez to the Sages of Marrakesh</title>
+               <title type="variant">תשובת שאלה מחכמי פאס לחכמי מראכש</title>
+               <title type="variant">Teshuvat sheʾelah me-ḥokhmei Fes le-ḥokhmei Marakesh</title>
+               <ref target="MS_Reggio_20-item5"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_20.xml#MS_Reggio_20-item5 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3355">
+               <title type="uniform">Elef ha-Magen</title>
+               <title type="variant">אלף המגן</title>
+               <title type="variant">A Thousand Shields</title>
+               <title type="variant">כללים בדין הגט</title>
+               <title type="variant">Rules for the Judgement of Divorce</title>
+               <ref target="MS_Reggio_20-item4"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_20.xml#MS_Reggio_20-item4 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3354">
+               <title type="uniform">Or Torah</title>
+               <title type="variant">אור תורה</title>
+               <title type="variant">The Light of Torah</title>
+               <ref target="MS_Reggio_20-item3"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_20.xml#MS_Reggio_20-item3 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3353">
+               <title type="uniform">Sefer Neṿeh Ḳodesh</title>
+               <title type="variant">ספר נוה קדש</title>
+               <title type="variant">The Book of the Dwelling of Holyiness</title>
+               <ref target="MS_Reggio_20-item2"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_20.xml#MS_Reggio_20-item2 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3352">
+               <title type="uniform">Shaʿar Benyamin</title>
+               <title type="variant">שער בנימן</title>
+               <title type="variant">The Gate of Benjamin</title>
+               <ref target="MS_Reggio_20-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_20.xml#MS_Reggio_20-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3351">
+               <title type="uniform">Shem ʿOlam</title>
+               <title type="variant">שם עולם</title>
+               <ref target="MS_Reggio_17-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_17.xml#MS_Reggio_17-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3350">
                <title type="uniform">Yitsḥaḳ ben Shelomoh of Toledo's Commentary on Job</title>
                <title type="variant">פרוש כתובים ליצחק בן שלמה מטולידו (איוב)</title>
@@ -11148,6 +11247,8 @@
                <title type="variant">מורה נבוכים</title>
                <ref target="MS_Canonici_Or_71-part2-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Canonici_Or_71.xml#MS_Canonici_Or_71-part2-item1 -->
+               <ref target="MS_Reggio_40-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_40.xml#MS_Reggio_40-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_420">
@@ -15512,6 +15613,7 @@
                <title type="variant">מלות ההגיון</title>
                <ref target="MS_Laud_Or_98-item3"/>
                <!-- ../../hebrew-mss/collections/MS_Laud_Or_98.xml#MS_Laud_Or_98-item3 -->
+               <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_343">
                <title type="uniform">Milḥamot HaShem le-Ramḥal (The Wars of God)</title>

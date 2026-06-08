@@ -169,7 +169,7 @@
                   <provenance>The patron and decorator of this manuscript, <persName
                         key="person_7056">Jacob Léon of Cavaillon</persName>
                      <foreign xml:lang="he">גאקוב/יקוב דקווליאון</foreign>, was the recipient of
-                     another work, a treatise on the calendar by <persName>Moses Botarel
+                     another work, a treatise on the calendar by <persName key="person_7065">Moses Botarel
                         Farissol</persName>, which was also written in <date calendar="#Gregorian"
                         >1465</date> (see Henri Gross, <hi rend="italic">Gallia Judaica</hi>, p.
                      539).</provenance>

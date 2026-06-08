@@ -31,6 +31,10 @@
                <placeName type="variant" xml:lang="he" source="bodl">אנאניי</placeName>
                <!-- Found in: ../collections/MS_Mich_add_1a.xml -->
             </place>
+            <place xml:id="place_100">
+               <placeName type="index" source="TGN">Ancona</placeName>
+               <!-- Found in: ../collections/MS_Reggio_17.xml -->
+            </place>
             <place xml:id="place_4">
                <placeName type="index" source="#IMHM">Avignon</placeName>
                <!-- Found in: ../collections/MS_Canonici_Or_79.xml -->
@@ -177,6 +181,14 @@
                <placeName type="variant" xml:lang="he" source="bodl">ליסא</placeName>
                <!-- Found in: ../collections/MS_Oppenheim_338.xml -->
             </place>
+            <place xml:id="place_101">
+               <placeName type="index" source="TGN">Livorno</placeName>
+               <!-- Found in: ../collections/MS_Reggio_20.xml -->
+            </place>
+            <place xml:id="place_102">
+               <placeName type="index" source="TGN">Lucca</placeName>
+               <!-- Found in: ../collections/MS_Reggio_20.xml -->
+            </place>
             <place xml:id="place_17">
                <placeName type="index" source="LCSH">Lucignana</placeName>
                <!-- Found in: ../collections/MS_Canonici_Or_49B.xml -->
@@ -276,6 +288,10 @@
             <place xml:id="place_39">
                <placeName type="index" source="bodl">Tiberias</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_c_13.xml -->
+            </place>
+            <place xml:id="place_99">
+               <placeName type="index" source="TGN">Trieste</placeName>
+               <!-- Found in: ../collections/MS_Reggio_40.xml -->
             </place>
             <place xml:id="place_65">
                <placeName type="index" source="bodl #TYPED">Tripoli</placeName>
