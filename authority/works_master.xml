@@ -16,6 +16,30 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3365">
+               <title type="uniform">Tsintsenet ha-Man</title>
+               <title type="variant">צנצנת המן</title>
+               <title type="variant">The Jar of Manna</title>
+               <ref target="MS_Reggio_7-item9"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item9 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3364">
+               <title type="uniform">Maʾamar Rambam</title>
+               <title type="variant">מאמר רמב״ם</title>
+               <title type="variant">The Decree of Rambam</title>
+               <ref target="MS_Reggio_7-item5"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item5 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3363">
+               <title type="uniform">Mishpaṭ Shivʿah ha-Aḳlimim</title>
+               <title type="variant">משפט שבעה האקלמים</title>
+               <title type="variant">Judgement of the Seven Climates</title>
+               <ref target="MS_Reggio_7-item7"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item7 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3362">
                <title type="uniform">Ḳitsur Sefer Yesod ʿOlam</title>
                <title type="variant">קצור ספר יסוד עולם</title>
@@ -21288,6 +21312,8 @@
                <!-- ../../hebrew-mss/collections/MS_Pococke_276.xml#MS_Pococke_276-item2 -->
                <ref target="MS_Reggio_51-item5"/>
                <!-- ../../hebrew-mss/collections/MS_Reggio_51.xml#MS_Reggio_51-item5 -->
+               <ref target="MS_Reggio_7-item8"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item8 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_2117">

@@ -75,6 +75,9 @@
                   </bindingDesc>
                </physDesc>
                <history>
+                  <provenance>On <locus>f. 130v</locus>, a censorship certificate by <persName
+                        key="person_2606156677155533770002"> Luigi da Bologna</persName>, dated
+                        <date calendar="#Gregorian" when="1600">1600</date>.</provenance>
                   <acquisition>It belonged to <persName key="person_67197037">Isaac Samuel
                         Reggio</persName>'s <date calendar="#Gregorian">(1784-1855)</date> library,
                      which was purchased <hi rend="italic">en bloc</hi> by the Bodleian Library in
@@ -141,7 +144,7 @@
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem n="2">
-                        <locus>ff. 11r-20r</locus>
+                        <locus>ff. 11r-21r</locus>
                         <title ref="zxf_pmr_m3c" xml:lang="he-Latn-x-lc" key="work_3359">Mesharet
                            Mosheh</title>
                         <title xml:lang="he" key="work_3359">משרת משה</title>
@@ -166,12 +169,21 @@
                   <physDesc>
                      <handDesc>
                         <summary>Ashkenazic semi-cursive scripts</summary>
-                        <handNote>Each of the items was copied by a different scribe on different
-                           paper. No. 1 was copied by the scribe <persName>Yosef b.
-                              Israel</persName>, who left a colophon on <locus>f. 8v</locus>; the
-                           scribes of Nos. 2 and 3, who are from the same period, did not write
+                        <handNote>No. 1 was copied by the scribe <persName>Yosef b. Israel <foreign
+                                 xml:lang="he">יוסף בן ישראל</foreign></persName>, who left a
+                           colophon on <locus>f. 8v</locus>; Nos. 2 and 3 were copied by two
+                           anonymous scribes who changed hands at the end of a quire, three folios
+                           after the beginning of No. 3 (<locus>f. 22v</locus>). Each of these
+                           scribes used different paper. The second and third scribes, who evidently
+                           collaborated closely and were contemporaries of <persName>Yosef b.
+                              Israel</persName> judging from their scripts, did not leave
                            colophons.</handNote>
                      </handDesc>
+                     <decoDesc>
+                        <p> In No. 1 (<locus>ff. 1v-8v</locus>) and the final folio of No. 2
+                              (<locus>f. 21r</locus>), some simple, monochrome penwork decoration
+                           around initial words and text blocks. </p>
+                     </decoDesc>
                   </physDesc>
                   <history>
                      <origin><origPlace>[Italy?]</origPlace>
@@ -183,7 +195,7 @@
                <msPart>
                   <msIdentifier>
                      <altIdentifier>
-                        <idno type="part">Part II (Nos. 4-8)</idno>
+                        <idno type="part">Part II (Nos. 4-9)</idno>
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
@@ -212,13 +224,10 @@
                      </msItem>
                      <msItem n="5">
                         <locus>f. 103v</locus>
-                        <title ref="jfy_zty_43c" xml:lang="he-Latn-x-lc" key="">Maʾamar
+                        <title ref="jfy_zty_43c" xml:lang="he-Latn-x-lc" key="work_3364">Maʾamar
                            Rambam</title>
-                        <title xml:lang="he" key="">מאמר רמב״ם</title>
-                        <title key="">The Decree of Rambam</title>
-                        <title xml:lang="he-Latn-x-lc" key="">Iggeret al Ḥokhmei Monpishlir</title>
-                        <title xml:lang="he" key="">אגרת אל חכמי מונפישליר</title>
-                        <title key="">Letter to the Sages of Montpellier</title>
+                        <title xml:lang="he" key="work_3364">מאמר רמב״ם</title>
+                        <title key="work_3364">The Decree of Rambam</title>
                         <author ref="uxd_pmr_m3c" key="person_100185495">
                            <persName>Maimonides, Moses, 1135-1204</persName>
                            <persName xml:lang="he">משה בן מימון</persName>
@@ -228,34 +237,84 @@
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem n="6">
-                        <locus>ff. 104r-111v</locus>
-                        <title ref="tjw_zty_43c" key="work_3362">An Abridgement of the <hi rend="italic">Sefer Yesod ʿOlam</hi></title>
+                        <locus>ff. 104r-110v</locus>
+                        <title ref="tjw_zty_43c" key="work_3362">An Abridgement of the <hi
+                              rend="italic">Sefer Yesod ʿOlam</hi></title>
                         <title xml:lang="he" key="work_3362">קצור ספר יסוד עולם</title>
-                        <title xml:lang="he-Latn-x-lc" key="work_3362">Ḳitsur Sefer Yesod ʿOlam</title>
+                        <title xml:lang="he-Latn-x-lc" key="work_3362">Ḳitsur Sefer Yesod
+                           ʿOlam</title>
                         <author ref="a1d_pmr_m3c" key="person_21765128">
                            <persName>Yitsḥaḳ ben Yosef, active 13th-14th century</persName>
                            <persName xml:lang="he">יצחק בן יוסף הישראלי</persName>
                         </author>
+                        <note> The abridgement in Arabic was made by <persName key="person_7068"
+                              >Yosef ben Yitsḥaḳ Israeli</persName>
+                           <persName xml:lang="he">יוסף בן יצחק הישראלי</persName>, the son of the
+                           author.</note>
+                        <note>The Hebrew translation of the abridgement was possibly by another
+                           member of the same family, <persName key="person_7058">Yitsḥaḳ ben
+                              Shelomoh ben Yitsḥak Israeli</persName>.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem n="7">
-                        <locus>ff. 112r-118v</locus>
-                        <author ref="xyd_pmr_m3c">MOSES IBN THABBON</author>
-                        <title ref="x3y_zty_43c">עולם קטן (attributed to Samuel ibn Thabbon)</title>
+                        <locus>f. 111r-v</locus>
+                        <title key="work_3363">Judgement of the Seven Climates</title>
+                        <title xml:lang="he" key="work_3363">משפט שבעה האקלמים</title>
+                        <title xml:lang="he-Latn-x-lc" key="work_3363">Mishpaṭ Shivʿah
+                           ha-Aḳlimim</title>
+                        <author>Anonymous</author>
+                        <note>A short and independent treatise on the seven climates, found in many
+                           manuscripts.</note>
+                        <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem n="8">
+                        <locus>ff. 112r-118v</locus>
+                        <title ref="x3y_zty_43c" xml:lang="he-Latn-x-lc" key="work_252">ʿOlam
+                           Kaṭan</title>
+                        <title xml:lang="he" key="work_252">עולם קטן</title>
+                        <author ref="xyd_pmr_m3c" key="person_64172358">
+                           <persName>Moses ben Samuel ibn Tibbon</persName>
+                           <persName xml:lang="he">משה בן שמואל יבן תבון</persName>
+                        </author>
+                        <note>A philosophical treatise on the immortality of the soul. The
+                           authorship of Moses ibn Tibbon is uncertain; the work has also been
+                           attributed to his father, <persName key="person_97166726">Samuel ibn
+                              Tibbon</persName>.</note>
+                        <textLang mainLang="he">Hebrew</textLang>
+                     </msItem>
+                     <msItem n="9">
                         <locus>ff. 119r-130v</locus>
-                        <author ref="uxd_pmr_m3c">MOSES BEN MAIMON (MAIMONIDES)</author>
-                        <title ref="ijg_pmr_m3c">צנצנת המן</title>
-                        <title ref="ijg_pmr_m3c">Hebrew transl. of Moses ben Maimon’s preface to the
-                           comm. of the Mishnah</title>
+                        <title ref="ijg_pmr_m3c" xml:lang="he-Latn-x-lc" key="work_3365">Tsintsenet
+                           ha-Man</title>
+                        <title xml:lang="he" key="work_3365">צנצנת המן</title>
+                        <author ref="uxd_pmr_m3c" key="person_100185495">
+                           <persName>Maimonides, Moses, 1135-1204</persName>
+                           <persName xml:lang="he">משה בן מימון</persName>
+                        </author>
+                        <note>The prefaces to the Hebrew translation of <persName
+                              key="person_100185495">Maimonides'</persName> commentary on the
+                           Mishnah.</note>
+                        <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                   </msContents>
                   <physDesc>
                      <handDesc>
-                        <handNote>Scribe: <persName ref="m3n_smr_m3c" role="scr"
-                           >Moses</persName></handNote>
+                        <summary>Italian semi-cursive scripts</summary>
+                        <handNote><p>No. 4-6 were copied by <persName>Mordekhai b. Binyamin <foreign
+                                    xml:lang="he">מרדכי בן בנימין</foreign></persName>, who left his
+                              colophon on <locus>f. 102r</locus>.</p>
+                           <p>Nos. 7-9 were copied by a different scribe, who name may have been
+                                 <persName ref="m3n_smr_m3c">Moses <foreign xml:lang="he"
+                                    >משה</foreign></persName>.</p>
+                        </handNote>
                      </handDesc>
+                     <decoDesc>
+                        <p>At the beginning of No. 4 (<locus>f. 39r</locus>), two figural drawings
+                           (of a dragon and a stork respectively) in black ink, possibly by the
+                           scribe.</p>
+                        <p> In No. 5-9 (<locus>ff. 103v-130v</locus>), simple penwork drawings and flourishes
+                           around initial words in red and black ink. </p>
+                     </decoDesc>
                   </physDesc>
                   <history>
                      <origin>
@@ -267,15 +326,18 @@
                <msPart>
                   <msIdentifier>
                      <altIdentifier>
-                        <idno type="part">Part III (No. 9)</idno>
+                        <idno type="part">Part III (No. 10)</idno>
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem n="9">
+                     <msItem n="10">
                         <locus>f. 131r-v</locus>
-                        <title ref="jqm_smr_m3c">משפטי המזלות</title>
-                        <note>Astrology</note>
-                        <title ref="hpg_pmr_m3c">Fragments</title>
+                        <title>Judgements of Constellations</title>
+                        <title ref="jqm_smr_m3c" xml:lang="he">משפטי המזלות</title>
+                        <title ref="hpg_pmr_m3c" xml:lang="he-Latn-x-lc">Mishpeṭei
+                           ha-Mazalot</title>
+                        <author>Anonymous</author>
+                        <note>A fragment of a treatise on medical astrology.</note>
                      </msItem>
                   </msContents>
                   <physDesc>
@@ -285,15 +347,13 @@
                   </physDesc>
                   <history>
                      <origin><origPlace>[Italy</origPlace>
-                        <origDate> late 16th cent.?]</origDate></origin>
+                        <origDate calendar="#Gregorian" notBefore="1550" notAfter="1600"> late 16th
+                           cent.?]</origDate></origin>
                   </history>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
-         <change> </change>
-      </revisionDesc>
    </teiHeader>
    <text>
       <body>
