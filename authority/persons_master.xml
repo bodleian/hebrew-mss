@@ -3045,6 +3045,7 @@
                         1150-1230</persName>
                     <persName type="variant" xml:lang="he">אבן תבון, שמואל בן יהודה</persName>
                     <persName type="variant">Ibn Tibbon, Shmuel</persName>
+                    <persName type="variant">Samuel Ibn Tibbon</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -18372,6 +18373,7 @@
                     <persName type="variant" xml:lang="he">יצחק בן שלמה מטולידו</persName>
                     <persName type="variant">Yitsḥaḳ ben Shelomoh ben Yitsḥak ben Shelomoh ben
                         Israel ha-Sofer ben Israel</persName>
+                    <persName type="variant">Yitsḥaḳ ben Shelomoh ben Yitsḥak Israeli</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -18487,18 +18489,9 @@
                     <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_7.xml -->
                 </person>
                 <person xml:id="person_7068">
-                    <persName type="display">Qalonymos ben Qalonymos ben Meʾir, 1286-</persName>
-                    <persName type="variant" xml:lang="he">קלונימוס בן קלונימוס</persName>
-                    <persName type="variant">Kalonymus ben Kalonymus</persName>
-                    <note type="links">
-                        <list type="links">
-                            <item>
-                                <ref target="https://viaf.org/en/viaf/418149294453180522849">
-                                    <title>VIAF</title>
-                                </ref>
-                            </item>
-                        </list>
-                    </note>
+                    <persName type="display">Yosef ben Yitsḥaḳ Israeli</persName>
+                    <persName type="variant" xml:lang="he">יוסף בן יצחק הישראלי</persName>
+                    <persName type="variant">Joseph ben Isaac Israeli</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_7.xml -->
                 </person>
             </listPerson>
