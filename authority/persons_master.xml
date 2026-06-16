@@ -6462,7 +6462,8 @@
                         (בעלים)</persName>
                 </person>
                 <person xml:id="person_386">
-                    <persName type="display" xml:lang="he">רומן, יעקב בן יצחק אבן בקודה </persName>
+                    <persName type="display">Roman, Jacob ben Isaac</persName>
+                    <persName type="variant" xml:lang="he">רומן, יעקב בן יצחק אבן בקודה </persName>
                     <persName type="variant">Jacob ben Isaac ibn Baḳudah Roman</persName>
                     <persName type="variant" xml:lang="he">רומן, יעקב בן יצחק אבן בקודה
                         (בעלים)</persName>
