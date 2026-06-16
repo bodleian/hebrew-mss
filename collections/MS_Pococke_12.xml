@@ -52,13 +52,13 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>A catalogue of books in alphabetical order</summary>
+                  <summary>A list of books in Hebrew, in alphabetical order</summary>
                   <msItem>
-                     <title xml:lang="he" key="work_3331">רשימת ספרים</title>
-                     <title xml:lang="he-Latn-x-lc" key="work_3331">Reshimat sefarim</title>
+                     <title xml:lang="he" key="work_3331">שמות ספרי לשון הקודש</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3331">Shemot Sifrei Leshon ha-Ḳodesh</title>
                      <author key="person_386">
-                        <persName>Jacob ben Isaac ibn Baḳudah Roman</persName>
-                        <persName xml:lang="he">יעקב בן יצחק אבן בקודה רומן</persName>
+                        <persName>Roman, Jacob ben Isaac</persName>
+                        <persName xml:lang="he">יעקב בן יצחק רומן</persName>
                      </author>
                      <note><p>The list includes both printed books and manuscripts.</p>
                         <p>Titles beginning with the letters <hi rend="italic">resh</hi> and <hi

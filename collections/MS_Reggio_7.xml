@@ -75,9 +75,10 @@
                   </bindingDesc>
                </physDesc>
                <history>
-                  <provenance>On <locus>f. 130v</locus>, a censorship certificate by <persName
-                        key="person_2606156677155533770002"> Luigi da Bologna</persName>, dated
-                        <date calendar="#Gregorian" when="1600">1600</date>.</provenance>
+                  <provenance>On <locus>f. 130v</locus>, a censorship certificate by '<persName>F.
+                        Luigi</persName>', probably <persName key="person_2606156677155533770002">
+                        Luigi da Bologna</persName>, dated <date calendar="#Gregorian" when="1600"
+                        >1600</date>.</provenance>
                   <acquisition>It belonged to <persName key="person_67197037">Isaac Samuel
                         Reggio</persName>'s <date calendar="#Gregorian">(1784-1855)</date> library,
                      which was purchased <hi rend="italic">en bloc</hi> by the Bodleian Library in
@@ -195,7 +196,7 @@
                <msPart>
                   <msIdentifier>
                      <altIdentifier>
-                        <idno type="part">Part II (Nos. 4-9)</idno>
+                        <idno type="part">Part II (Nos. 4-8)</idno>
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
@@ -254,20 +255,14 @@
                         <note>The Hebrew translation of the abridgement was possibly by another
                            member of the same family, <persName key="person_7058">Yitsḥaḳ ben
                               Shelomoh ben Yitsḥak Israeli</persName>.</note>
+                        <note>To the end of this work has been appended another, very short treatise
+                           on the seven climates by an anonymous author (<locus>ff. 111r-v</locus>),
+                           entitled <title key="work_3363">Judgement of the Seven Climates <foreign
+                                 xml:lang="he">משפט שבעה האקלמים</foreign></title>. This text can be
+                           found in many manuscripts.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem n="7">
-                        <locus>f. 111r-v</locus>
-                        <title key="work_3363">Judgement of the Seven Climates</title>
-                        <title xml:lang="he" key="work_3363">משפט שבעה האקלמים</title>
-                        <title xml:lang="he-Latn-x-lc" key="work_3363">Mishpaṭ Shivʿah
-                           ha-Aḳlimim</title>
-                        <author>Anonymous</author>
-                        <note>A short and independent treatise on the seven climates, found in many
-                           manuscripts.</note>
-                        <textLang mainLang="he">Hebrew</textLang>
-                     </msItem>
-                     <msItem n="8">
                         <locus>ff. 112r-118v</locus>
                         <title ref="x3y_zty_43c" xml:lang="he-Latn-x-lc" key="work_252">ʿOlam
                            Kaṭan</title>
@@ -282,7 +277,7 @@
                               Tibbon</persName>.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
-                     <msItem n="9">
+                     <msItem n="8">
                         <locus>ff. 119r-130v</locus>
                         <title ref="ijg_pmr_m3c" xml:lang="he-Latn-x-lc" key="work_3365">Tsintsenet
                            ha-Man</title>
@@ -303,17 +298,18 @@
                         <handNote><p>No. 4-6 were copied by <persName>Mordekhai b. Binyamin <foreign
                                     xml:lang="he">מרדכי בן בנימין</foreign></persName>, who left his
                               colophon on <locus>f. 102r</locus>.</p>
-                           <p>Nos. 7-9 were copied by a different scribe, who name may have been
+                           <p>Nos. 7-8 were copied by a different scribe, who name may have been
                                  <persName ref="m3n_smr_m3c">Moses <foreign xml:lang="he"
-                                    >משה</foreign></persName>.</p>
+                                    >משה</foreign></persName>, since this name has been enlarged and
+                              decorated on <locus>f. 122r</locus>.</p>
                         </handNote>
                      </handDesc>
                      <decoDesc>
                         <p>At the beginning of No. 4 (<locus>f. 39r</locus>), two figural drawings
                            (of a dragon and a stork respectively) in black ink, possibly by the
                            scribe.</p>
-                        <p> In No. 5-9 (<locus>ff. 103v-130v</locus>), simple penwork drawings and flourishes
-                           around initial words in red and black ink. </p>
+                        <p> In No. 5-8 (<locus>ff. 103v-130v</locus>), simple penwork drawings and
+                           flourishes around initial words in red and black ink. </p>
                      </decoDesc>
                   </physDesc>
                   <history>
@@ -326,16 +322,15 @@
                <msPart>
                   <msIdentifier>
                      <altIdentifier>
-                        <idno type="part">Part III (No. 10)</idno>
+                        <idno type="part">Part III (No. 9)</idno>
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem n="10">
+                     <msItem n="9">
                         <locus>f. 131r-v</locus>
-                        <title>Judgements of Constellations</title>
-                        <title ref="jqm_smr_m3c" xml:lang="he">משפטי המזלות</title>
-                        <title ref="hpg_pmr_m3c" xml:lang="he-Latn-x-lc">Mishpeṭei
-                           ha-Mazalot</title>
+                        <title>Fragment</title>
+                        <incipit> The third line begins: <foreign xml:lang="he">וצריך לרופה לדעת
+                              ולראות בעת שהמרה אדומה גוברת על הגוף</foreign></incipit>
                         <author>Anonymous</author>
                         <note>A fragment of a treatise on medical astrology.</note>
                      </msItem>

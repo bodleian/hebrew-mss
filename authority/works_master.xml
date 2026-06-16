@@ -291,8 +291,9 @@
                <textLang mainLang="jrb"/>
             </bibl>
             <bibl xml:id="work_3331">
-               <title type="uniform">A catalogue of books in alphabetical order</title>
-               <title type="variant">רשימת ספרים</title>
+               <title type="uniform">Shemot Sifrei Leshon ha-Ḳodesh</title>
+               <title type="variant">שמות ספרי לשון הקודש</title>
+               <title type="variant">Titles of Books in Hebrew</title>
                <ref target="MS_Pococke_12-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Pococke_12.xml#MS_Pococke_12-item1 -->
                <textLang mainLang="he"/>
