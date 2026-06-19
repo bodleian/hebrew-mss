@@ -181,7 +181,7 @@
                            colophons.</handNote>
                      </handDesc>
                      <decoDesc>
-                        <p> In No. 1 (<locus>ff. 1v-8v</locus>) and the final folio of No. 2
+                        <p> In No. 1 (<locus>ff. 1v-8v</locus>) and on the final folio of No. 2
                               (<locus>f. 21r</locus>), some simple, monochrome penwork decoration
                            around initial words and text blocks. </p>
                      </decoDesc>
@@ -189,7 +189,7 @@
                   <history>
                      <origin><origPlace>[Italy?]</origPlace>
                         <origDate calendar="#Gregorian" when="1463">[1463 (No. 1) and c. 1463 (Nos.
-                           2-3]</origDate>
+                           2-3)]</origDate>
                      </origin>
                   </history>
                </msPart>
@@ -202,10 +202,11 @@
                   <msContents>
                      <msItem n="4">
                         <locus>ff. 39v-102v</locus>
-                        <title ref="v52_pmr_m3c" key="work_3361">The Aphorisms of
+                        <title ref="v52_pmr_m3c" key="work_3361">Commentary on the Aphorisms of
                            Hippocrates</title>
-                        <title xml:lang="he" key="work_3361">אמפוריזמי לאפוקרט</title>
-                        <title xml:lang="he-Latn-x-lc" key="work_3361">Amforizmi le-Apoḳraṭ</title>
+                        <title xml:lang="he" key="work_3361">פרוש אפוריסמי של אפוקרט</title>
+                        <title xml:lang="he-Latn-x-lc" key="work_3361">Perush Aforismi shel
+                           Apoḳraṭ</title>
                         <author ref="uxc_pmr_m3c" key="person_287984736">
                            <persName>Hippocrates</persName>
                            <persName xml:lang="he">אפוקרט</persName>
@@ -217,10 +218,9 @@
                         </respStmt>
                         <note>There are two parallel Hebrew translations of the <hi rend="italic"
                               >Aphorisms</hi>, one of which is copied on the margins.</note>
-                        <note>The translations are accompanied by a Hebrew translation of <persName
-                              key="person_100185495">Maimonides'</persName> commentary on the <hi
-                              rend="italic">Aphorisms</hi> by <persName key="person_64172358">Moses
-                              ibn Tibbon</persName>.</note>
+                        <note><persName key="person_100185495">Maimonides'</persName> commentary on
+                           the <hi rend="italic">Aphorisms</hi> is given in its Hebrew translation,
+                           by <persName key="person_64172358">Moses ibn Tibbon</persName>.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem n="5">
@@ -234,7 +234,9 @@
                            <persName xml:lang="he">משה בן מימון</persName>
                         </author>
                         <note>An astronomical and astrological fragment, adapted from extracts from
-                           Maimonides' letter to the scholars of Lunel and Montpellier.</note>
+                              <persName key="person_100185495">Maimonides</persName>' letter to the
+                           scholars of <placeName key="place_103">Lunel</placeName> and <placeName
+                              key="place_104">Montpellier</placeName>.</note>
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem n="6">

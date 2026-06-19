@@ -63,8 +63,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
+                  <summary>Hebrew Bible: Pentateuch</summary>
                   <msItem>
-                     <note>Pentateuch (beg. Gen. xxvii. 19).</note>
+                     <title xml:lang="he" key="work_2">תורה</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_2">Torah</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>The beginning of the text is defective. Begins from halfway through
+                        Genesis 27:30.</note>
+                     <note>Theere are some peculiarities in the use of vocalisation and cantillation
+                        marks (see article by Díez-Macho cited below).</note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -79,15 +86,30 @@
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Italian-Ashkenazic square script</handNote>
-                     <handNote>Scribe: <persName role="scr" ref="m3n_smr_m3c">Mosheh <foreign
-                              xml:lang="he">משה</foreign></persName>.</handNote>
+                     <summary>Italian-Ashkenazic square script</summary>
+                     <handNote>Copied by <persName>Itsḥaḳ b. Yoʾel <foreign xml:lang="he">יצחק בן
+                              יואל</foreign></persName>, according to an erased colophon at the end
+                        of <idno>MS Digby Or. 33</idno> (<locus>f. 418v</locus>), which is a
+                        continuation of this manuscript copied by the same hand.</handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Vellum over paper boards, rebacked in smooth orange-brown leather; a red
+                        leather label bearing the current shelfmark at the base of the spine.</p>
+                     <condition>Small repairs, in the form of small patches of smooth, brown
+                        leather, on the upper board, around the upper corner of the upper board, and
+                        around both corners of the lower board. </condition>
+                  </bindingDesc>
                </physDesc>
                <history>
-                  <origin><origPlace source="#beit-arie">[Italy</origPlace><origDate
-                        calendar="#Gregorian" notBefore="1300" notAfter="1399">14th
-                        cent.]</origDate></origin>
+                  <origin><origPlace>[Italy</origPlace><origDate calendar="#Gregorian"
+                        notBefore="1300" notAfter="1399">14th cent.]</origDate></origin>
+                  <provenance>Ownership inscription: 'Liber Guilielmi Laud Archiepi[scopi]
+                     Cantuari[iensis] et Cancellarii Universitatis Oxon[iensis] 1639' (<locus>f.
+                        1r</locus>)</provenance>
+                  <acquisition>Donated to the Bodleian Library by Archbishop <persName
+                        key="person_54940373">William Laud</persName>
+                     <date calendar="#Gregorian">(1573-1645)</date> in <date calendar="#Gregorian"
+                        >1639-1640</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -109,7 +131,6 @@
                         33027</idno></bibl><bibl><idno n="S.F. Or" type="microfilm"
                         >506</idno></bibl></surrogates>
                   <listBibl>
-
                      <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
                            rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
                            Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
@@ -120,6 +141,10 @@
                            Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=38"
                            >no. 14.</ref></bibl>
+                     <bibl>Díez-Macho, Alejandro, 'A new list of so-called "Ben Naftali"
+                        manuscripts', in David Winton Thomas and W. D. McHardy (eds), <hi
+                           rend="italic">Hebrew and Semitic Studies Presented to G. R. Driver</hi>
+                        (Oxford, 1963), p. 51.</bibl>
                   </listBibl>
                </additional>
 

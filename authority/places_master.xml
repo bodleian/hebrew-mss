@@ -100,6 +100,11 @@
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_76.xml -->
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_80.xml -->
             </place>
+            <place xml:id="place_105">
+               <placeName type="index" source="TGN">Evreux</placeName>
+               <placeName type="variant" xml:lang="he" source="bodl">אייברא</placeName>
+               <!-- Found in: ../collections/MS_Digby_Or_34.xml -->
+            </place>
             <place xml:id="place_54">
                <placeName type="index" source="bodl #INDEX #TYPED">Fez</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_e_98.xml -->
@@ -189,6 +194,10 @@
                <placeName type="index" source="TGN">Lucca</placeName>
                <!-- Found in: ../collections/MS_Reggio_20.xml -->
             </place>
+            <place xml:id="place_103">
+               <placeName type="index" source="TGN">Lunel</placeName>
+               <!-- Found in: ../collections/MS_Reggio_7.xml -->
+            </place>
             <place xml:id="place_17">
                <placeName type="index" source="LCSH">Lucignana</placeName>
                <!-- Found in: ../collections/MS_Canonici_Or_49B.xml -->
@@ -196,6 +205,10 @@
             <place xml:id="place_31">
                <placeName type="index" source="bodl">Macerata</placeName>
                <!-- Found in: ../collections/MS_Kennicott_8.xml -->
+            </place>
+            <place xml:id="place_104">
+               <placeName type="index" source="TGN">Montpellier</placeName>
+               <!-- Found in: ../collections/MS_Reggio_7.xml -->
             </place>
             <place xml:id="place_78">
                <placeName type="index" source="bodl">Narbonne</placeName>
