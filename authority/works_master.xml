@@ -16,6 +16,14 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3366">
+               <title type="uniform">The Five Scrolls and Hafṭarot</title>
+               <title type="variant">מגלות והפטרות</title>
+               <title type="variant">Megillot ṿe-Hafṭarot</title>
+               <ref target="MS_Digby_Or_34-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Digby_Or_34.xml#MS_Digby_Or_34-item1 -->
+               <textLang mainLang="he" otherLangs="jpa"/>
+            </bibl>
             <bibl xml:id="work_3365">
                <title type="uniform">Tsintsenet ha-Man</title>
                <title type="variant">צנצנת המן</title>
@@ -49,9 +57,12 @@
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3361">
-               <title type="uniform">The Aphorisms of Hippocrates</title>
-               <title type="variant">אפוריסמי של אפוקרט</title>
-               <title type="variant">Aforismi shel Apoḳraṭ</title>
+               <title type="uniform">Commentary on the Aphorisms of
+                  Hippocrates</title>
+               <title type="variant">פרוש אפוריסמי של אפוקרט</title>
+               <title type="variant">Perush Aforismi shel Apoḳraṭ</title>
+               <title type="variant">באור פרקי אבוקראט להרמב״ם</title>
+               <title type="variant">Beʾur Pirkei Aboḳraṭ le-ha-Rambam</title>
                <title type="variant">אמפוריזמי לאפוקרט</title>
                <title type="variant">Amforizmi le-Apoḳraṭ</title>
                <ref target="MS_Reggio_7-item4"/>
@@ -11809,6 +11820,7 @@
             <bibl xml:id="work_2">
                <title type="uniform">Hebrew Bible: Pentateuch</title>
                <title type="variant">תורה</title>
+               <title type="variant">חומש</title>
                <ref target="MS_Canonici_Or_105-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Canonici_Or_105.xml#MS_Canonici_Or_105-item1 -->
                <ref target="MS_Canonici_Or_22-item1"/>
@@ -11823,6 +11835,8 @@
                <!-- ../../hebrew-mss/collections/MS_Marsh_10.xml#MS_Marsh_10-item1 -->
                <ref target="MS_Oppenheim_Add_4_97a-item2"/>
                <!-- ../../hebrew-mss/collections/MS_Oppenheim_Add_4_97a.xml#MS_Oppenheim_Add_4_97a-item2 -->
+               <ref target="MS_Digby_Or_32-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Digby_Or_32.xml#MS_Digby_Or_32-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_126">

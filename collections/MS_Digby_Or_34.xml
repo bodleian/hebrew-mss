@@ -5,8 +5,12 @@
          <titleStmt>
             <title>MS. Digby Or. 34</title>
             <respStmt xml:id="AH">
-               <resp>Encoding</resp>
+               <resp when="2026">Encoding</resp>
                <persName>Alex Hitchman</persName>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -14,21 +18,24 @@
          </editionStmt>
          <publicationStmt>
             <publisher>Special Collections, Bodleian Libraries</publisher>
-            <address>
-               <orgName type="department">Special Collections</orgName>
-               <orgName type="unit">Bodleian Libraries</orgName>
-               <orgName type="institution">University of Oxford</orgName>
-               <street>Weston Library, Broad Street</street>
-               <settlement>Oxford</settlement>
-               <postCode>OX1 3BG</postCode>
-               <country>United Kingdom</country>
-            </address>
-            <distributor>
-               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-            </distributor>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
             <idno type="msID">MS_Digby_Or_34</idno>
-            <idno type="catalogue">Hebrew</idno>
-            <idno type="collection"><!-- insert normalized form of collection --></idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -38,48 +45,104 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
+                  <collection>Digby collection</collection>
                   <idno>MS. Digby Or. 34</idno>
                   <altIdentifier type="other">
                      <idno type="Neubauer">129</idno>
                   </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Kennicott">50</idno>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="uri">1</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Laud. 154</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-               <msItem source="#neubauer"/></msContents>
+                  <msItem>
+                     <title key="work_3366">The Five Scrolls and Hafṭarot</title>
+                     <title xml:lang="he" key="work_3366">מגלות והפטרות</title>
+                     <title xml:lang="he-Latn-x-lc">Megillot ṿe-Hafṭarot</title>
+                     <textLang mainLang="he" otherLangs="jpa">Hebrew; Jewish Palestinian
+                        Aramaic</textLang>
+                     <note>The Five Scrolls are accompanied by the Aramaic Targum.</note>
+                     <note>The Book of Ruth, Song of Songs and the beginning of Ecclesiastes are
+                        accompanied by the commentaries of <persName key="person_19684048"
+                           >Rashi</persName> and <persName key="person_90633023">ibn Ezra</persName>
+                        on the margins.</note>
+                  </msItem>
+               </msContents>
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc>
-                        <support source="#beit-arie">Fols. 37/38 (one sheet) misbound, fol. 37 should precede fol. 29, fol. 38 should
-            follow fol. 36. Fol. 69 is blank.</support></supportDesc></objectDesc>
-               <handDesc><handNote source="#beit-arie">Ashkenazic square
-            script for the biblical texts and the Targum, Italian semi-cursive script for the marg,
-            comms, (probably by a different hand), Ashkenazic semi-cursive script for the scribe’s
-            final colophon (fol. 233r). </handNote><handNote source="#neubauer">Scribe: <persName role="scr" ref="nrh_pmr_m3c">JACOB BEN NATHAN OF EVREUX</persName>.</handNote><handNote source="#neubauer">Scribe: <persName role="scr" ref="gg3_pmr_m3c">JOSEPH BEN SHABBETHAI</persName>.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">1327</origDate></origin><provenance source="#neubauer">Former owner: <persName role="fmo" ref="etj_pmr_m3c">MOSES</persName>.</provenance></history>
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <foliation><p>Ff. 37-38 (one bifolium) have been misbound; f. 37 should
+                              precede f. 29, while f. 38 should follow f. 36.</p>
+                           <p>F. 69 is blank.</p></foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary/>
+                     <handNote>Ashkenazic square script for the biblical text and the Targum;
+                        Italian semi-cursive script for the marginal commentaries (probably by a
+                        different hand); Ashkenazic semi-cursive script for the scribe's final
+                        colophon (<locus>f. 233r</locus>).</handNote>
+                     <handNote>The scribe, <persName>Yaʿaḳov b. Natan of
+                              <placeName>Evreux</placeName>
+                           <foreign xml:lang="he">יעקב בן נתן מיאייברא</foreign></persName>, left
+                        colophons on <locus>ff. 99v, 230v, 233r</locus>.</handNote>
+                     <handNote>The colophon of the vocaliser, <persName>Yehosef b. Shabbetai b.
+                              Shlomoh<foreign xml:lang="he">יהוסף בן שבתי בן
+                           שלמה</foreign></persName>, is found on <locus>f. 230v</locus>.</handNote>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin><origPlace>[Italy]</origPlace><origDate calendar="#Gregorian" when="1327"
+                        >1327</origDate></origin>
+                  <provenance>The manuscript was originally made for <persName>Mosheh b. Shmuel
+                           <foreign xml:lang="he">משה בן שמואל</foreign></persName>.</provenance>
+                  <acquisition>Donated to the Bodleian Library by Archbishop <persName
+                        key="person_54940373">William Laud</persName>
+                     <date calendar="#Gregorian">(1573-1645)</date> in <date calendar="#Gregorian"
+                        >1635-1640</date>.</acquisition>
+               </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
-                           Neubauer, Oxford 1886, <ref>no. 129</ref>, and <title>Catalogue of the
-                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
-                              Corrigenda to Vol. I,</title>
-                           <ref>no. 129</ref>.</source></recordHist>
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;amp=&amp;seq=48"
+                              >no. 129</ref>, and <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp=&amp;seq=64"
+                              >no. 129</ref>.</source>
+                     </recordHist>
                   </adminInfo>
-                
+
                   <listBibl>
-                     
-                  <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=64">no. 129.</ref></bibl><bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=48">no. 129.</ref></bibl></listBibl>
+
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
+                           rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                           Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=64"
+                           >no. 129.</ref></bibl>
+                     <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=48"
+                           >no. 129.</ref></bibl>
+                  </listBibl>
                </additional>
-       
+
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
-         <change>
-            
-         </change>
-      </revisionDesc>
-</teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
