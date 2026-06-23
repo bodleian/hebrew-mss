@@ -140,9 +140,10 @@
                      <note>A treatise on grammar, in verse; the preface to this text is found at the
                         beginning of the manuscript (<locus>f. 3v</locus>).</note>
                      <note>At the end of the treatise, a poem by <persName key="person_7064">Yehudah
-                           Ayash</persName> in praise of the author (<locus>f. 147r</locus>), lists
-                        of words (<locus>ff. 147v-148r</locus>), and various notes (<locus>ff.
-                           150v-152v</locus>).</note>
+                           Ayash <foreign xml:lang="he">יהודה עייאש</foreign></persName> in praise
+                        of the author (<locus>f. 147r</locus>), lists of words (<locus>ff.
+                           147v-148r</locus>), and various notes (<locus>ff.
+                        150v-152v</locus>).</note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -175,8 +176,9 @@
                   <provenance>At the beginning of the manuscript (<locus>ff. 1r-2r</locus>),
                      numerous notes, calculations and pen trials, as well as a separate paper leaf
                      which is now glued to <locus>f. 1v</locus>, containing an Italian letter
-                     written in <placeName key="place_101">Livorno</placeName> and dated <date calendar="#Gregorian">1776</date>, addressed
-                     to Carlo Burlamachi in <placeName key="place_102">Lucca</placeName>.</provenance>
+                     written in <placeName key="place_101">Livorno</placeName> and dated <date
+                        calendar="#Gregorian">1776</date>, addressed to Carlo Burlamachi in
+                        <placeName key="place_102">Lucca</placeName>.</provenance>
                   <acquisition>It belonged to <persName key="person_67197037">Isaac Samuel
                         Reggio</persName>'s <date calendar="#Gregorian">(1784-1855)</date> library,
                      which was purchased <hi rend="italic">en bloc</hi> by the Bodleian Library in

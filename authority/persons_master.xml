@@ -18495,6 +18495,12 @@
                     <persName type="variant">Joseph ben Isaac Israeli</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_7.xml -->
                 </person>
+                <person xml:id="person_7069">
+                    <persName type="display">Yitsḥaḳ ben Yehudah</persName>
+                    <persName type="variant" xml:lang="he">יצחק בן יהודה</persName>
+                    <persName type="variant">Isaac ben Judah</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Bodl_Or_30.xml -->
+                </person>
             </listPerson>
         </body>
     </text>
