@@ -4,7 +4,7 @@
    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
       <fileDesc>
          <titleStmt>
-            <title>MS. Bodl. Or. 30</title>
+            <title>MS. Rawl. Or. 35</title>
             <respStmt xml:id="AH">
                <resp when="2026">Encoding</resp>
                <persName>Alex Hitchman</persName>
@@ -36,7 +36,7 @@
                   </addrLine>
                </address>
             </pubPlace>
-            <idno type="msID">MS_Bodl_Or_30</idno>
+            <idno type="msID">MS_Rawl_Or_35</idno>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
@@ -53,6 +53,12 @@
                   </altIdentifier>
                   <altIdentifier type="other">
                      <idno type="uri">488</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Bodl. Or. 30</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">15963</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
@@ -76,20 +82,30 @@
                      <supportDesc>
                         <support>The outer and inner bifolia of quires are made of parchment. The
                            remaining bifolia are made of paper.</support>
-                        <extent n="104">ff. 104</extent>
+                        <extent n="104">ff. 104 <dimensions type="leaf" unit="mm">
+                              <height>185</height>
+                              <width>130</width>
+                           </dimensions></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <handNote>Italian cursive script.</handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Smooth golden-brown leather over paper boards. The title ‘INSTITT. L. HEBR.
+                        R. ISAACI B. JEHUDA’ has been gold-tooled on the spine; at base of spine, a
+                        black leather label bearing the current shelfmark. </p>
+                     <condition/>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin><origPlace>[Italy</origPlace><origDate calendar="#Gregorian"
                         notBefore="1350" notAfter="1400"> c. 1375 (watermarks similar to Briquet no.
                         3564, dated 1365-75)]</origDate></origin>
-                  <provenance>Ownership inscription by <persName ref="osj_pmr_m3c">Mordekhai
-                        Bonfos Franceschi</persName>.</provenance>
-                  <acquisition></acquisition>
+                  <provenance>Ownership inscription by <persName ref="osj_pmr_m3c" key="person_7073"
+                        >Mordekhai Bonfos Franẓisḳi</persName> on <locus>f.
+                     1r</locus>.</provenance>
+                  <acquisition/>
                </history>
                <additional>
                   <adminInfo>

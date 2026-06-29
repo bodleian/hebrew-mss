@@ -72,7 +72,11 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent n="181">ff. 181</extent>
+                        <extent n="181">ff. 181
+                           <dimensions type="leaf" unit="mm">
+                              <height>393</height>
+                              <width>290</width>
+                           </dimensions></extent>
                         <condition>The lower margin of <locus>f. 162</locus> has been cut
                            away.</condition>
                      </supportDesc>
@@ -95,7 +99,7 @@
                      for example on <locus>ff. 4r, 34r</locus>.</additions>
                   <bindingDesc>
                      <p>Golden-brown fine-grained leather over paper boards; the current shelfmark
-                        has been both gold-tooled and painted (in black and white) on the spine.</p>
+                        has been gold-tooled and painted (in black and white) on the spine.</p>
                   </bindingDesc>
                </physDesc>
                <history>

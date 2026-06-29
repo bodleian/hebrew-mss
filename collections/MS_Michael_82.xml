@@ -47,88 +47,141 @@
                   <altIdentifier type="other">
                      <idno type="Neubauer">1501</idno>
                   </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 519 (Nos. 1-4)</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 539 (No. 5)</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">23576</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
                   <msItem n="1">
-                     <locus>Fols. 1a-6b</locus>
-                     <title>The Bridle of Truth</title>
-                     <title xml:lang="he">מתג האמת</title>
-                     <title xml:lang="he-Latn-x-lc">Meteg ha-'emet</title>
+                     <locus>Ff. 1r-6v</locus>
+                     <title xml:lang="he-Latn-x-lc" key="work_3369">Meteg ha-ʾAmah</title>
+                     <title xml:lang="he" key="work_3369">מתג האמה</title>
                      <author key="person_10988426">
                         <persName>Hanau, Solomon Zalman ben Judah Loeb, ha-Kohen,
                            1687-1746</persName>
-                        <persName xml:lang="he">הנה, שלמה זלמן בן יהודה ליב כץ</persName>
+                        <persName xml:lang="he">שלמה זלמן בן יהודה ליב כץ</persName>
                      </author>
+                     <note>A grammatical treatise on the vowels and accents.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
-                     <locus>Fols. 7a-14b</locus>
-                     <title type="desc">A treatise of grammar</title>
-                     <title type="desc" xml:lang="he">חבור דקדוק</title>
+                     <locus>Ff. 7r-14v</locus>
+                     <title type="desc" key="work_3370">Grammatical treatise</title>
+                     <title type="desc" xml:lang="he" key="work_3370">חיבור דקדוק</title>
                      <title type="desc" xml:lang="he-Latn-x-lc">Ḥibbur diḳduḳ</title>
                      <author key="person_308275258">
-                        <persName>Aleksander Zisḳind ben Shemuʼel Zanṿil mi-ḳ.ḳ. Mets</persName>
+                        <persName>Aleksander Zisḳind ben Shemuʾel Zanṿil mi-ḳ.ḳ. Mets</persName>
                         <persName xml:lang="he">אלכסנדר זיסקינד בן שמואל זנויל</persName>
                      </author>
+                     <note>In five chapters.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="3">
-                     <locus>Fols. 15a-32b</locus>
-                     <title type="desc">The key of cantillation</title>
-                     <title type="desc" xml:lang="he">מפתח הנגינות</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Miftaḥ ha-neginot</title>
+                     <locus>Ff. 15r-32v</locus>
+                     <title type="desc" key="work_3371">The Key of Accentuation</title>
+                     <title type="desc" xml:lang="he" key="work_3371">מפתח הנגינות</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc" key="work_3371">Mifteaḥ
+                        ha-Neginot</title>
                      <author key="person_7050">
-                        <persName>Oberbeeḳ, Adolf Ṭaubold</persName>
+                        <persName>Overbeck, Adolph Theobald 1672-1719</persName>
                         <persName xml:lang="he">אוברביק, אדולף טאובולד</persName>
                      </author>
+                     <respStmt>
+                        <resp>Hebrew translation possibly by </resp>
+                        <persName key="person_308275258">Aleksander Zisḳind ben Shemuʾel Zanṿil
+                           mi-ḳ.ḳ. Mets</persName>
+                        <persName xml:lang="he">אלכסנדר זיסקינד בן שמואל זנויל</persName>
+                     </respStmt>
+                     <note/>
+                     <note>A Hebrew translation of <persName key="person_7050">Adolph Theobald
+                           Overbeck</persName>'s <hi rend="italic">Der endlich gefundene
+                           Hauptschlüssel zur doppelten Kunst der hebräischen Accentuation</hi>, a
+                        treatise on accentuation in Hebrew.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="4">
-                     <locus>Fols. 33a-43a</locus>
-                     <title type="desc">Grammar 30</title>
-                     <title type="desc" xml:lang="he">דקדוק ל</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Diḳduḳ L</title>
+                     <locus>Ff. 33r-43r</locus>
+                     <title type="desc">Grammar of the Hebrew Language</title>
+                     <title type="desc" xml:lang="he">דקדוק הלשון עברי</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Diḳduḳ ha-Leshon ʿIvri</title>
                      <author key="person_308275258">
-                        <persName>Aleksander Zisḳind ben Shemuʼel Zanṿil mi-ḳ.ḳ. Mets</persName>
+                        <persName>Aleksander Zisḳind ben Shemuʾel Zanṿil mi-ḳ.ḳ. Mets</persName>
                         <persName xml:lang="he">אלכסנדר זיסקינד בן שמואל זנויל</persName>
                      </author>
+                     <note>Probably by <persName>Aleksander Zisḳind ben Shemuʾel Zanṿil mi-ḳ.ḳ.
+                           Mets</persName>.</note>
+                     <note>The same text is also found in Leiden, University Libraries, MS Or. 4811
+                           (<locus>ff. 101r-122v</locus>).</note>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>The second grammatical treatise, probably by <persName>Aleksander Zisḳind
-                           ben Shemuʼel Zanṿil mi-ḳ.ḳ. Mets</persName>, is also found in MS. Leyden
-                        Or. 4811 (Cat. Steinschneider, 90).</note>
                   </msItem>
                   <msItem n="5">
-                     <locus>Fols. 44a-63a</locus>
-                     <title type="desc">A spirit of grace</title>
-                     <title type="desc" xml:lang="he">רוח חן</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Ruaḥ ḥan</title>
+                     <locus>Ff. 44r-63r</locus>
+                     <title type="desc" xml:lang="he-Latn-x-lc" key="work_3360">Ruaḥ Ḥen</title>
+                     <title type="desc" xml:lang="he" key="work_3360">רוח חן</title>
+                     <note>With a commentary by <persName key="person_7070">Yitsḥaḳ b. ʿEzra Segal
+                              <foreign xml:lang="he">יצחק בן עזרא סגל</foreign></persName> of
+                        Hotzenplotz/Osoblaha in Silesia, copied from a printed edition (Venice <date
+                           calendar="#Gregorian">1549</date>).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="6">
-                     <locus>Fols. 64a-215b</locus>
-                     <title type="desc">Order of prayer with the intentions of The Ari</title>
+                     <locus>Ff. 64r-215v</locus>
+                     <title type="desc">Prayer book with the Meditations (Kavanot) of Rabbi
+                           <persName>Isaac Luria</persName></title>
                      <title type="desc" xml:lang="he">סדור תפלה עם כוונות האר"י</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Siddur tefilah 'im kiṿonot
-                        ha-'Ari</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Siddur tefilah ʿim kaṿanot
+                        ha-ʾAri</title>
+                     <note>Compiled by <persName key="person_7071">Meir Poppers <foreign
+                              xml:lang="he">מאיר פופרש</foreign></persName>; based on the prayer
+                        book of <persName key="person_18664254">Jacob Ẓemaḥ <foreign xml:lang="he"
+                           />יעקב צמח</persName>, with additional practices by Poppers' teacher,
+                           <persName key="person_7072">Israel Benjamin <foreign xml:lang="he"/>ישראל
+                           בנימין</persName>.</note>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>Cf. Neubauer no. 1769.</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>paper</support>
-                        <extent>ff. 215</extent>
+                        <extent>ff. 215<dimensions type="leaf" unit="mm">
+                              <height>189</height>
+                              <width>150</width>
+                           </dimensions></extent>
+                        <foliation><p><locus>Ff. 6 and 19</locus> are threefold.</p>
+                           <p>Between <locus>ff. 104 and 105</locus> and <locus>ff. 159 and
+                                 160</locus>, two smaller loose leaves in different hands on
+                              different paper.</p></foliation>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Nos. 1-5: Ashkenazic cursive scripts; No. 6: Ashkenazic semi-cursive
                         script.</summary>
-                     <handNote>No. 6: In the illustrated panel of the initial word at the beg.
-                           (<locus>fol. 64r</locus>) the name <persName>Solomon b. Judah</persName>
-                        is inscribed (perhaps the scribe's name).</handNote>
+                     <handNote>No. 6: At the top of the illustrated panel of the initial word at the
+                        beginning of No. 6 (<locus>f. 64r</locus>), the name <persName>Shlomoh b.
+                           Yehudah <foreign xml:lang="he">שלמה בן יהודה</foreign></persName> is
+                        inscribed in tiny writing in a roundel. This may have been the scribe's
+                        name.</handNote>
                   </handDesc>
-
+                  <decoDesc>
+                     <p>On <locus>f. 15r</locus>, at the beginning of No. 3, a drawing of a key (a
+                        play on the work's title) enclosing text in the form of <hi rend="italic"
+                           >carmina figurata</hi>. Penwork-decorated initial word panels, in a style
+                        that imitates engravings, on <locus>ff. 45r, 64r</locus> (the beginnings of
+                        Nos. 5, and 6). On <locus>ff. 87r, 127v, 128r</locus>, three drawings of <hi
+                           rend="italic">menorot</hi> in the same style. Small diagrams and drawings
+                        of manicules throughout No. 6.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Golden-brown fine-grained leather over paper boards; the current shelfmark
+                        has been gold-tooled and painted (in black and white) on the spine.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>

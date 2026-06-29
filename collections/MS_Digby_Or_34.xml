@@ -59,6 +59,9 @@
                   <altIdentifier type="former">
                      <idno>MS. Laud. 154</idno>
                   </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">470</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
                   <msItem>
@@ -78,6 +81,11 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
+                        <extent n="233">ff. 233 <dimensions type="leaf" unit="mm">
+                              <height>365</height>
+                              <width>225</width>
+                           </dimensions>
+                        </extent>
                         <foliation><p>Ff. 37-38 (one bifolium) have been misbound; f. 37 should
                               precede f. 29, while f. 38 should follow f. 36.</p>
                            <p>F. 69 is blank.</p></foliation>
@@ -92,21 +100,35 @@
                      <handNote>The scribe, <persName>Yaʿaḳov b. Natan of
                               <placeName>Evreux</placeName>
                            <foreign xml:lang="he">יעקב בן נתן מיאייברא</foreign></persName>, left
-                        colophons on <locus>ff. 99v, 230v, 233r</locus>.</handNote>
+                        colophons on <locus>ff. 99v, 233r</locus>.</handNote>
                      <handNote>The colophon of the vocaliser, <persName>Yehosef b. Shabbetai b.
                               Shlomoh<foreign xml:lang="he">יהוסף בן שבתי בן
                            שלמה</foreign></persName>, is found on <locus>f. 230v</locus>.</handNote>
                   </handDesc>
+                  <decoDesc>
+                     <p>The initial word <foreign xml:lang="he">ויהי</foreign> at the beginning of
+                        the Book of Esther (<locus>f. 1r</locus>) is painted red.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Vellum over paper boards, rebacked in smooth orange-brown leather; a red
+                        label bearing the current shelfmark at base of spine.</p>
+                     <condition>Small repairs, in the same orange-brown leather as the spine, around
+                        the corners and along the edges of both the upper and lower
+                        boards.</condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin><origPlace>[Italy]</origPlace><origDate calendar="#Gregorian" when="1327"
                         >1327</origDate></origin>
-                  <provenance>The manuscript was originally made for <persName>Mosheh b. Shmuel
-                           <foreign xml:lang="he">משה בן שמואל</foreign></persName>.</provenance>
+                  <provenance><p>The manuscript was originally made for <persName>Mosheh b. Shmuel
+                              <foreign xml:lang="he">משה בן שמואל</foreign></persName>.</p>
+                     <p>Ownership inscription: 'Liber Guilielmi Laud Archiepi[scopi]
+                        Cantuari[iensis] et Cancellarii Universitatis Oxon[iensis] 1639' (<locus>f.
+                           1r</locus>)</p></provenance>
                   <acquisition>Donated to the Bodleian Library by Archbishop <persName
                         key="person_54940373">William Laud</persName>
                      <date calendar="#Gregorian">(1573-1645)</date> in <date calendar="#Gregorian"
-                        >1635-1640</date>.</acquisition>
+                        >1639-1640</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>

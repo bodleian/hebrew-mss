@@ -16,6 +16,46 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3373">
+               <title type="desc">Ibn Ezra's Commentary on Prophets and Hagiographa, including the
+                  Twelve Minor Prophets, Daniel, Ruth, Song of Songs, and Lamentations</title>
+               <title type="desc" xml:lang="he">פרוש נביאים וכתובים לראב"ע : כולל תרי עשר, דניאל, רות, שה"ש ואיכה</title>
+               <title type="desc" xml:lang="he-Latn-x-lc">Perush neviʾim ṿe-ketuvim le-Rab"ʿa:
+                  khollel trei ʻasar, Daniel, Rut, ShH"Sh ṿe-Eikha</title>
+               <ref target="MS_Michael_Add_33-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_Add_33.xml#MS_Michael_Add_33-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3372">
+               <title type="desc" xml:lang="he">סדור תפלה עם כוונות האר"י</title>
+               <title type="desc" xml:lang="he-Latn-x-lc">Siddur tefilah ʿim kiṿonot ha-ʾAri</title>
+               <ref target="MS_Michael_82-item6"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_82.xml#MS_Michael_82-item6 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3371">
+               <title type="uniform">Mifteaḥ ha-Neginot</title>
+               <title type="variant">מפתח הנגינות</title>
+               <title type="variant">The Key of Accents</title>
+               <ref target="MS_Michael_82-item3"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_82.xml#MS_Michael_82-item3 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3370">
+               <title type="uniform">Grammatical treatise</title>
+               <title type="variant">חיבור דקדוק</title>
+               <title type="variant">Ḥibbur diḳduḳ</title>
+               <ref target="MS_Michael_82-item2"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_82.xml#MS_Michael_82-item2 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3369">
+               <title type="uniform">Meteg ha-ʾAmah</title>
+               <title type="variant">מתג האמה</title>
+               <ref target="MS_Michael_82-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_82.xml#MS_Michael_82-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3368">
                <title type="uniform">Sefer ha-ʾEshel</title>
                <title type="variant">ספר האשל</title>
@@ -72,8 +112,7 @@
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3361">
-               <title type="uniform">Commentary on the Aphorisms of
-                  Hippocrates</title>
+               <title type="uniform">Commentary on the Aphorisms of Hippocrates</title>
                <title type="variant">פרוש אפוריסמי של אפוקרט</title>
                <title type="variant">Perush Aforismi shel Apoḳraṭ</title>
                <title type="variant">באור פרקי אבוקראט להרמב״ם</title>
@@ -87,10 +126,10 @@
             <bibl xml:id="work_3360">
                <title type="uniform">Ruaḥ Ḥen</title>
                <title type="variant">רוח חן</title>
-            <title type="variant">The Spirit of Grace</title>
-            <ref target="MS_Reggio_7-item3"/>
-            <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item3 -->
-            <textLang mainLang="he"/>
+               <title type="variant">The Spirit of Grace</title>
+               <ref target="MS_Reggio_7-item3"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_7.xml#MS_Reggio_7-item3 -->
+               <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3359">
                <title type="uniform">Mesharet Mosheh</title>
@@ -109,7 +148,8 @@
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3357">
-               <title type="uniform">Responsa concerning the form of the letter <hi rend="italic">vav</hi> in the word <hi rend="italic">shalom</hi></title>
+               <title type="uniform">Responsa concerning the form of the letter <hi rend="italic"
+                     >vav</hi> in the word <hi rend="italic">shalom</hi></title>
                <title type="variant">תשובה בענין צורת ויו' דשלום</title>
                <title type="variant">Teshuvah be-ʿinyan tsurat ṿaṿ de-shalom</title>
                <ref target="MS_Reggio_20-item6"/>
@@ -117,7 +157,8 @@
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3356">
-               <title type="uniform">Responsa to a Question from the Sages of Fez to the Sages of Marrakesh</title>
+               <title type="uniform">Responsa to a Question from the Sages of Fez to the Sages of
+                  Marrakesh</title>
                <title type="variant">תשובת שאלה מחכמי פאס לחכמי מראכש</title>
                <title type="variant">Teshuvat sheʾelah me-ḥokhmei Fes le-ḥokhmei Marakesh</title>
                <ref target="MS_Reggio_20-item5"/>
@@ -180,7 +221,8 @@
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3348">
-               <title type="uniform">Pentateuch with Judeo-Italian translation and the Hebrew commentary of Leone Modena</title>
+               <title type="uniform">Pentateuch with Judeo-Italian translation and the Hebrew
+                  commentary of Leone Modena</title>
                <title type="variant">דגל יאודה</title>
                <title type="variant">דגל יהודה</title>
                <ref target="MS_Mich_add_1a-item1"/>
