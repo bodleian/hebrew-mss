@@ -4200,6 +4200,7 @@
                     <persName type="display">Aleksander Zisḳind ben Shemuʼel Zanṿil mi-ḳ.ḳ.
                         Mets</persName>
                     <persName type="display" xml:lang="he">אלכסנדר זיסקינד בן שמואל זנויל</persName>
+                    <persName type="variant">Alexander Süsskind</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -6945,8 +6946,18 @@
                         >איטינג</lang></persName>
                 </person>
                 <person xml:id="person_7050">
-                    <persName type="display">Oberbeeḳ, Adolf Ṭaubold</persName>
+                    <persName type="display">Overbeck, Adolph Theobald 1672-1719</persName>
                     <persName type="display" xml:lang="he">אוברביק, אדולף טאובולד</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/37985669">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Michael_82.xml -->
                 </person>
                 <person xml:id="person_7051">
                     <persName type="display">Vidal ben Lavi, active 14th century-15th
@@ -18494,6 +18505,44 @@
                     <persName type="variant" xml:lang="he">יוסף בן יצחק הישראלי</persName>
                     <persName type="variant">Joseph ben Isaac Israeli</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_7.xml -->
+                </person>
+                <person xml:id="person_7069">
+                    <persName type="display">Yitsḥaḳ ben Yehudah</persName>
+                    <persName type="variant" xml:lang="he">יצחק בן יהודה</persName>
+                    <persName type="variant">Isaac ben Judah</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Bodl_Or_30.xml -->
+                </person>
+                <person xml:id="person_7070">
+                    <persName type="display">Yitsḥaḳ b. ʿEzra Segal</persName>
+                    <persName type="variant" xml:lang="he">יצחק בן עזרא סגל</persName>
+                    <persName type="variant">Isaac ben Ezra Segal</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Michael_82.xml -->
+                </person>
+                <person xml:id="person_7071">
+                    <persName type="display">Poperś, Meʾir ben Yehudah Leb ha-Kohen 1628-1662</persName>
+                    <persName type="variant" xml:lang="he">מאיר בן יהודה לייב הכהן פופרש</persName>
+                    <persName type="variant">Meir Poppers</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/81825560">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Michael_82.xml -->
+                </person>
+                <person xml:id="person_7072">
+                    <persName type="display">Israel Benjamin</persName>
+                    <persName type="variant" xml:lang="he">ישראל בנימין</persName>
+                    <persName type="variant" xml:lang="he">מהרי״ב</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Michael_82.xml -->
+                </person>
+                <person xml:id="person_7073">
+                <persName type="display">Mordekhai Bonfos Franẓisḳi</persName>
+                <persName type="variant" xml:lang="he">מרדכי בונפוש פרנציסקי</persName>
+                <!-- Found in: ../../hebrew-mss/collections/MS_Rawl_Or_35.xml -->
                 </person>
             </listPerson>
         </body>

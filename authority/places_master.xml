@@ -35,6 +35,10 @@
                <placeName type="index" source="TGN">Ancona</placeName>
                <!-- Found in: ../collections/MS_Reggio_17.xml -->
             </place>
+            <place xml:id="place_106">
+               <placeName type="index" source="TGN">Anderlues</placeName>
+               <!-- Found in: ../collections/MS_Michael_616.xml -->
+            </place>
             <place xml:id="place_4">
                <placeName type="index" source="#IMHM">Avignon</placeName>
                <!-- Found in: ../collections/MS_Canonici_Or_79.xml -->

@@ -3,10 +3,14 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title/>
+            <title>MS. Michael Add. 33</title>
             <respStmt xml:id="BW">
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -20,7 +24,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -39,58 +44,110 @@
                   <repository>Bodleian Library</repository>
                   <collection>Michael Collection</collection>
                   <idno>MS. Michael Add. 33</idno>
-               <altIdentifier type="other">
-                  <idno type="Neubauer">301</idno>
-               </altIdentifier>
-               <altIdentifier type="former">
-                  <idno>Ha-Palit 6</idno>
-               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">301</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>Ha-Palit 6</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">24306</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Ibn Ezra's commentary on the prophets and writings, including the twelve minor prophets, Daniel, Ruth, Song of Songs, and Lamentations</summary>
-                  <msItem> 
-                     <title type="desc" xml:lang="he">פרוש נביאים וכתובים לראב"ע :כולל תרי עשר, דניאל, רות, שה"ש ואיכה</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Perush nevi'im ṿe-ketuvim le-Rab"'a: khollel Trey ʻAsar, Daniel, Rut, ShH"Sh ṿe-Eykha</title>
+                  <msItem>
+                     <title type="desc" key="work_3373">Ibn Ezra's Commentary on Prophets and
+                        Hagiographa, including the Twelve Minor Prophets, Daniel, Ruth, Song of
+                        Songs, and Lamentations</title>
+                     <title type="desc" xml:lang="he" key="work_3373">פרוש נביאים וכתובים לראב"ע
+                        :כולל תרי עשר, דניאל, רות, שה"ש ואיכה</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Perush neviʾim ṿe-ketuvim le-Rab"ʿa:
+                        khollel trei ʻasar, Daniel, Rut, ShH"Sh ṿe-Eikha</title>
                      <author key="person_90633023">
                         <persName>Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
                         <persName xml:lang="he">אבן עזרא, אברהם בן מאיר, 1089-1164</persName>
                      </author>
-                     <editor role="scr">Sh'lomoh</editor>
+                     <note>A fragment of <persName key="person_100213323">David Ḳimḥi</persName>'s
+                           <hi rend="italic">Dictionary</hi> (from <foreign xml:lang="he"
+                           >אזרא</foreign> to <foreign xml:lang="he">ספת</foreign>) on <locus>f.
+                           111</locus>.</note>
+                     <note>Used for variants by <persName>Abe Lipshitz</persName> in his edition
+                           (<date calendar="#Gregorian" when="1988">1988</date>) of <persName
+                           key="person_90633023">Abraham ibn Ezra</persName>'s Commentary on Hosea,
+                        and by <persName>Uriel Simon</persName> in his edition (<date
+                           calendar="#Gregorian" when="1989">1989</date>) of the Commentary on the
+                        Minor Prophets.</note>
+                     <note>On the final folio (<locus>f. 112</locus>), some riddles and a medical
+                        prescription in a different hand.</note>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>On <locus from="111v" to="112r"> last page are some riddles and a medical prescription (by another hand)</locus></note>
-                  </msItem>                 
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 112</extent>
+                        <extent>ff. 112<dimensions type="leaf" unit="mm">
+                              <height>194</height>
+                              <width>143</width>
+                           </dimensions>
+                        </extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Italian semi-cursive script</summary>
-                     <handNote><locus from="111v" to="112r">Fols. 111v-112r</locus> by a different hand.</handNote>
+                     <handNote>Copied by <persName>Shlomoh<foreign xml:lang="he"
+                           >שלמה</foreign></persName>.</handNote>
                   </handDesc>
-
+                  <bindingDesc>
+                     <p>Dark green paper over thin paper boards, quarter-bound in brown fine-grained
+                        leather. The current shelfmark has been gold-tooled on the spine.</p>
+                     <condition>The upper board and the spine have become detached from the text
+                        block. There is damage to the stitching between quires; many of the quires
+                        are partially loose. </condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>[14th cent.]</origDate>
                      <origPlace>[Italy]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>It belonged to the library of <persName key="person_17140230">Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+                  <provenance>Ownership inscriptions by <persName>Yehudah Mahlalel <foreign
+                           xml:lang="he">יהודה מהללאל</foreign></persName>, dated <date
+                        calendar="#Gregorian">1630</date>, and by <persName>Avraham b. [...] b.
+                           Daniel<foreign xml:lang="he">אברהם בן ... בן דניאל</foreign></persName>
+                     and <persName>Shabbetai<foreign xml:lang="he">שבתי</foreign></persName> (both
+                     undated).</provenance>
+                  <acquisition>It belonged to the library of <persName
+                        ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
+                        Michael</persName>
+                     <date calendar="#Gregorian">(1792-1846)</date>, which was purchased <hi
+                        rend="italic">en bloc</hi> (altogether 862 volumes) by the Bodleian Library
+                     in <date calendar="#Gregorian">1848</date> through Messrs. Asher and Co. for
+                     £1030.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=70">No. 301</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=79">No. 301</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=70"
+                              >No. 301</ref>, <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=79"
+                              >No. 301</ref>, and on the data of the Institute of Microfilmed Hebrew
+                           Manuscripts, National Library of Israel with additional enhancements by
+                           the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -99,14 +156,22 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=70">no. 301.</ref></bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=79">no. 301.</ref></bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=70"
+                           >no. 301.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=79"
+                           >no. 301.</ref></bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

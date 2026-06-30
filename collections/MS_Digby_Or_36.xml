@@ -56,31 +56,93 @@
                      <idno type="uri">411</idno>
                   </altIdentifier>
                   <altIdentifier type="former">
+                     <idno>MS. Laud. A 170</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
                      <idno>MS. Laud. 320</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">469</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Avicenna's <hi rend="italic">Canon of Medicine</hi>: in Hebrew</summary>
+                  <summary>Avicenna's <hi rend="italic">Canon of Medicine</hi> (Books I-III): in
+                     Hebrew</summary>
                   <msItem>
-                     <author ref="rmc_pmr_m3c">AVICENNA(IBN SINA) </author>
-                     <title ref="x3v_zty_43c">Canon, Hebrew</title>
+                     <title ref="x3v_zty_43c" xml:lang="he" key="work_3367">קאנון (ספר א-ג)</title>
+                     <title xml:lang="he" key="work_3367">Ḳanon (Sefer A-G)</title>
+                     <author ref="rmc_pmr_m3c" key="person_89770781">
+                        <persName>Avicenna, 980-1037</persName>
+                        <persName xml:lang="he">אבן סינה</persName>
+                     </author>
+                     <respStmt>
+                        <resp>Hebrew translation by </resp>
+                        <persName key="person_1186164479583526210004">ha-Meʾati, Nathan, active 13th
+                           century</persName>
+                        <persName xml:lang="he">נתן המאתי</persName>
+                     </respStmt>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
-                        <support>Outer and inner sheets of quires made of
-                           parchment.</support>
+                        <support>Outer and inner bifolia of quires made of parchment. The remaining
+                           bifolia are made of paper.</support>
+                        <extent n="204">ff. 204 <dimensions type="leaf" unit="mm">
+                              <height>393</height>
+                              <width>282</width>
+                           </dimensions></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Byzantine semi-cursive scripts.</handNote>
+                     <summary>Byzantine semi-cursive scripts</summary>
+                     <handNote>Copied by at least three hands on the same paper. The first scribe,
+                        who pointed out the name <persName>Mosheh <foreign xml:lang="he"
+                              >משה</foreign></persName>, copied <locus>ff. 1-96</locus> apart from
+                           <locus>ff. 43-44 and 68r</locus>, which alongside <locus>ff.
+                           97r-200r</locus>, were copied by a second scribe, who pointed out the
+                        name <persName>Shmuʾel <foreign xml:lang="he">שמואל</foreign></persName> on
+                           <locus>ff. 44r, 199v</locus>. The additions on <locus>ff. 88r-90r,
+                           202-204</locus> are in the hand of an early owner, who signed his name as
+                           <persName>Avishai Comtino<foreign xml:lang="he">אבישי
+                           כומטינו</foreign></persName>, and who may have been the same person as
+                        the owner <persName>Avishai</persName> who purchased the manuscript in <date
+                           calendar="#Gregorian">1448</date>. </handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Smooth, pale golden-brown leather with mottled pattern over thick paper
+                        boards, blind-tooled, darkened decorations on both upper and lower boards. A
+                        red leather label bearing the current shelfmark at the base of the spine;
+                        the spine also bears several handwritten former shelfmarks (Laud A 170
+                        (twice; in one of the cases on a label with a printed number 170), and 320).
+                     </p>
+                  </bindingDesc>
                </physDesc>
                <history>
-                  <origin><origPlace>[Byzantium]</origPlace><origDate
-                        calendar="#Gregorian" notBefore="1325" notAfter="1399"> mid-late 14th cent, (watermarks)]</origDate></origin>
+                  <origin><origPlace>[Byzantium]</origPlace><origDate calendar="#Gregorian"
+                        notBefore="1325" notAfter="1399"> mid-late 14th cent,
+                        (watermarks)]</origDate></origin>
+                  <provenance>
+                     <p>In <date calendar="Gregorian" when="1448">1448</date>, the manuscript was
+                        sold by <persName>Mikhaʾel b. Yuda Kohen <foreign xml:lang="he">מיכאל בן
+                              יודא כהן</foreign></persName> to <persName>Avishaiָ <foreign
+                              xml:lang="he">אבישי</foreign></persName>, as recorded in a deed of
+                        sale on <locus>f. 200r</locus>.</p>
+                     <p>In <date calendar="Gregorian" when="1466">1466</date>, the manuscript was
+                        sold by <persName>Yosef b. Shmuʾel ha-Rofe <foreign xml:lang="he">יוסף בן
+                              שמואל הרופא</foreign></persName> to <persName>Mosheh ibn Pish <foreign
+                              xml:lang="he">משה יבן פיש</foreign></persName>, as recorded in a deed
+                        of sale on <locus>f. 3v</locus>.</p>
+                     <p>In <date calendar="Gregorian" when="1639">1639</date>, the manuscript came
+                        into the possession of Archbishop <persName key="person_54940373">William
+                           Laud</persName>, as attested by an ownership inscription on <locus>f.
+                           1r</locus>: 'Liber Guilielmi Laud Archiepi[scopi] Cantuari[iensis] et
+                        Cancellarii Universitatis Oxon[iensis] 1639'</p></provenance>
+                  <acquisition>Donated to the Bodleian Library by Archbishop <persName
+                        key="person_54940373">William Laud</persName>
+                     <date calendar="#Gregorian">(1573-1645)</date> in <date calendar="#Gregorian"
+                        >1639-1640</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
