@@ -8,6 +8,10 @@
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -20,7 +24,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -39,73 +44,135 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 152</idno>
-               <altIdentifier type="other">
-                  <idno type="Neubauer">1484</idno>
-               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">1484</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Oppenheim 999</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">20946</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Sefer ha-Shoham - a grammar and dictionary</summary>
+                  <summary>Moses ben Isaac ben ha-Nessiah's <hi rend="italic">The Onyx
+                     Book</hi></summary>
                   <msItem>
-                     <title xml:lang="he">ספר השהם</title>
-                     <title xml:lang="he-Latn-x-lc">Sefer ha-Shoham</title>
-                  <author key="person_56385920">
-                     <persName>Moses ben Isaac, haNessiah, active 13th century</persName>
-                     <persName xml:lang="he">משה בן יצחק בן הנשיאה</persName>
-                  </author>
-                     <note>At the beginning is a laudatory poem on the author.</note>
-                     <note><locus>Fol. 1r</locus> has grammatical terms and their <lang>(Judeo-)French</lang> equivalents. <locus>Fol. 129r</locus> is a list of books by an owner.</note>
-                     <note/>
+                     <title xml:lang="he" key="work_3374">ספר השהם</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3374">Sefer ha-Shoham</title>
+                     <author key="person_56385920">
+                        <persName>Moses ben Isaac, haNessiah, active 13th century</persName>
+                        <persName xml:lang="he">משה בן יצחק בן הנשיאה</persName>
+                     </author>
+                     <note>A laudatory poem on the author is included at the beginning of the
+                        manuscript.</note>
+                     <note><locus>F. 1r</locus> contains grammatical terms and their
+                           <lang>(Judeo-)French</lang> equivalents. <locus>F. 129r</locus> contains
+                        a list of books by an owner.</note>
+                     <note>The first part of the manuscript (up to <locus>f. 45r</locus>) was used
+                        by <persName>Benjamin Klar</persName> in his edition (Jerusalem,
+                        1947).</note>
                      <textLang mainLang="he">Hebrew</textLang>
-                  </msItem>                  
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>paper</support>
-                        <extent>ff. 130</extent>
+                        <extent n="129">ff. 129 <dimensions type="leaf" unit="mm">
+                              <height>265</height>
+                              <width>175</width>
+                           </dimensions></extent>
+                        <condition><p>The parchment leaves tend to have irregular edges along the
+                              outer and bottom margins.</p></condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic semi-cursive scripts</summary>
-                     <handNote><locus>Fols. 69r (beg. of a quire)-128r</locus> are written by another scribe, who employed different practices of pricking and ruling.</handNote>
-                     <handNote>A few notes at the beginning, on the margins, and at the end by a different hand, where <lang>German (Yiddish?)</lang> words occur.</handNote>
+                     <handNote>Copied by two scribes; the first scribe copied <locus>ff.
+                           2r-68v</locus> and the second scribe, who took over at the beginning of a
+                        new quire, copied <locus>ff. 69r-128r</locus>. The two scribes employed
+                        different pricking and ruling practices.</handNote>
                   </handDesc>
+                  <additions><p>On <locus>f. 1r</locus>, a laudatory poem on the author and a list
+                        of grammatical terms and their Judeo-French equivalents in a later hand.</p>
+                     <p>On <locus>f. 290r</locus>, several notes by later owners, including a list
+                        of books and the names of some of the grains, seeds and beans forbidden
+                        during Passover, in both Hebrew and Yiddish.</p>
+                     <p>Some marginal notes throughout the manuscript.</p></additions>
+                  <bindingDesc>
+                     <p>Dark brown leather on thick wooden boards, with blind-tooled decoration on
+                        both upper and lower boards. Two small paper labels on the spine (on one of
+                        these, the letters '<foreign xml:lang="he">קט</foreign>' can be made out).
+                        The current shelfmark ('152') has been painted in white on the spine.</p>
+                     <condition>The metal bosses originally attached to the upper and lower boards
+                        are now missing. The original leather covering the spine and the boards has
+                        been severely damaged; the manuscript has since been rebacked with vellum,
+                        with fragments of the original leather spine being glued on top.</condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate>[c. 1300]</origDate>
+                     <origDate calendar="#Gregorian">[c. 1300]</origDate>
                      <origPlace>[Ashkenaz]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
+                  <provenance>At the top of <locus>f. 1r</locus>, an ownership inscription by
+                        <persName>Yuda b. Mosheh Ashkenazi <foreign xml:lang="he">יודא בן משה
+                           אשכנזי</foreign></persName>.</provenance>
+                  <acquisition>It belonged to the library of <persName key="person_7753200">David
+                        Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
+                     was purchased by the Bodleian Library in <date calendar="Gregorian"
+                     >1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=311">No. 1484</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=180">No. 1484</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=311"
+                              >No. 1484</ref>, <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=180"
+                              >No. 1484</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 16403</idno>
                      </bibl>
+                     <bibl><idno n="S.F. Or" type="microfilm">860</idno></bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=311">no. 1484.</ref></bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=180">no. 1484.</ref></bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=311"
+                           >no. 1484.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=180"
+                           >no. 1484.</ref></bibl>
                   </listBibl>
-                  
+
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

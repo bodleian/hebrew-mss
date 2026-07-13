@@ -67,10 +67,11 @@
                         <persName>Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
                         <persName xml:lang="he">אבן עזרא, אברהם בן מאיר, 1089-1164</persName>
                      </author>
-                     <note>A fragment of <persName key="person_100213323">David Ḳimḥi</persName>'s
-                           <hi rend="italic">Dictionary</hi> (from <foreign xml:lang="he"
-                           >אזרא</foreign> to <foreign xml:lang="he">ספת</foreign>) on <locus>f.
-                           111</locus>.</note>
+                     <note>On <locus>ff. 111v-112r</locus>, a fragment of <persName
+                           key="person_100213323">David Ḳimḥi</persName>'s lexicon to Aramaic words
+                        in Daniel, found at the end of his <hi rend="italic">Sefer ha-Shorashim</hi>
+                        (from <foreign xml:lang="he">אזרא</foreign> to <foreign xml:lang="he"
+                           >ספת</foreign>).</note>
                      <note>Used for variants by <persName>Abe Lipshitz</persName> in his edition
                            (<date calendar="#Gregorian" when="1988">1988</date>) of <persName
                            key="person_90633023">Abraham ibn Ezra</persName>'s Commentary on Hosea,
@@ -96,7 +97,8 @@
                   <handDesc>
                      <summary>Italian semi-cursive script</summary>
                      <handNote>Copied by <persName>Shlomoh<foreign xml:lang="he"
-                           >שלמה</foreign></persName>.</handNote>
+                           >שלמה</foreign></persName>, who pointed out acrostics of his name on
+                           <locus>ff. 16r, 99v, 105r</locus>.</handNote>
                   </handDesc>
                   <bindingDesc>
                      <p>Dark green paper over thin paper boards, quarter-bound in brown fine-grained
@@ -117,13 +119,12 @@
                            Daniel<foreign xml:lang="he">אברהם בן ... בן דניאל</foreign></persName>
                      and <persName>Shabbetai<foreign xml:lang="he">שבתי</foreign></persName> (both
                      undated).</provenance>
-                  <acquisition>It belonged to the library of <persName
-                        ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
-                        Michael</persName>
-                     <date calendar="#Gregorian">(1792-1846)</date>, which was purchased <hi
-                        rend="italic">en bloc</hi> (altogether 862 volumes) by the Bodleian Library
-                     in <date calendar="#Gregorian">1848</date> through Messrs. Asher and Co. for
-                     £1030.</acquisition>
+                  <acquisition>From a collection of 59 manuscripts, acquired mainly in Italy, which
+                     was purchased by the Bodleian Library from <persName key="person_7077">Mordecai
+                        Leib Bisliches</persName> and <persName key="person_7078">Ephraim
+                        Bisliches</persName>, booksellers in <placeName key="place_107"
+                        >Berlin</placeName>, in <date calendar="Gregorian"
+                     >1850</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -153,6 +154,9 @@
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 16769</idno>
+                     </bibl>
+                     <bibl>
+                        <idno n="S.F. Or" type="microfilm">582</idno>
                      </bibl>
                   </surrogates>
                   <listBibl>

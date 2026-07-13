@@ -104,10 +104,14 @@
                   <provenance>Ownership inscription: 'Liber Guilielmi Laud Archiepi[scopi]
                      Cantuari[iensis] et Cancellarii Universitatis Oxon[iensis] 1639' (<locus>f.
                         1r</locus>)</provenance>
-                  <acquisition>Donated to the Bodleian Library by Archbishop <persName
-                        key="person_54940373">William Laud</persName>
-                     <date calendar="#Gregorian">(1573-1645)</date> in <date calendar="#Gregorian"
-                        >1639-1640</date>.</acquisition>
+                  <acquisition>It was one of 36 Oriental manuscripts from the collection of Sir
+                     <persName key="person_7076">Kenelm Digby</persName> (<date
+                        calendar="Gregorian">1603-1665</date>) which was entrusted to Archbishop
+                     <persName key="person_54940373">William Laud</persName> for presentation to
+                     the Bodleian Library in <date calendar="Gregorian">1640</date>. These
+                     manuscripts were inscribed and stamped as if they were Laud's own volumes; they
+                     were not separated from the Laud collection until around <date
+                        calendar="Gregorian">1885</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>

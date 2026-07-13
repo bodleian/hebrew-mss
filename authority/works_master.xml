@@ -16,19 +16,38 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3375">
+               <title type="uniform">Eleazar of Worms's commentary on the Siddur</title>
+               <title type="variant">פרוש התפלות לאלעזר בן יהודה מגרמיזא</title>
+               <title type="variant">Perush ha-tefillot le-Elʿazar ben Yehudah mi-Germiza</title>
+               <ref target="MS_Oppenheim_160-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_160.xml#MS_Oppenheim_160-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3374">
+               <title type="uniform">Sefer ha-Shoham</title>
+               <title type="variant">ספר השהם</title>
+               <title type="variant">The Onyx Book</title>
+               <ref target="MS_Oppenheim_152-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_152.xml#MS_Oppenheim_152-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3373">
-               <title type="desc">Ibn Ezra's Commentary on Prophets and Hagiographa, including the
-                  Twelve Minor Prophets, Daniel, Ruth, Song of Songs, and Lamentations</title>
-               <title type="desc" xml:lang="he">פרוש נביאים וכתובים לראב"ע : כולל תרי עשר, דניאל, רות, שה"ש ואיכה</title>
-               <title type="desc" xml:lang="he-Latn-x-lc">Perush neviʾim ṿe-ketuvim le-Rab"ʿa:
-                  khollel trei ʻasar, Daniel, Rut, ShH"Sh ṿe-Eikha</title>
+               <title type="uniform">Ibn Ezra's Commentary on Prophets and Hagiographa, including
+                  the Twelve Minor Prophets, Daniel, Ruth, Song of Songs, and Lamentations</title>
+               <title type="variant">פרוש נביאים וכתובים לראב"ע : כולל תרי עשר, דניאל, רות, שה"ש
+                  ואיכה</title>
+               <title type="variant">Perush neviʾim ṿe-ketuvim le-Rab"ʿa: khollel trei ʻasar,
+                  Daniel, Rut, ShH"Sh ṿe-Eikha</title>
                <ref target="MS_Michael_Add_33-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Michael_Add_33.xml#MS_Michael_Add_33-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3372">
-               <title type="desc" xml:lang="he">סדור תפלה עם כוונות האר"י</title>
-               <title type="desc" xml:lang="he-Latn-x-lc">Siddur tefilah ʿim kiṿonot ha-ʾAri</title>
+               <title type="uniform">Prayer book with the Meditations (Kaṿanot) of Rabbi Isaac
+                  Luria</title>
+               <title type="variant">סדור תפלה עם כוונות האר"י</title>
+               <title type="variant">Siddur tefilah ʿim kiṿonot ha-ʾAri</title>
                <ref target="MS_Michael_82-item6"/>
                <!-- ../../hebrew-mss/collections/MS_Michael_82.xml#MS_Michael_82-item6 -->
                <textLang mainLang="he"/>
