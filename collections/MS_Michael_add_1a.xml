@@ -128,9 +128,12 @@
                               דילמטוט</foreign></persName> in <placeName key="place_96"
                            >Venice</placeName> in <date calendar="Greogrian">1732</date>.</p>
                   </provenance>
-                  <acquisition>From a collection of 69 manuscripts, partly in the possession of A.
-                     Bisliches, which was bought by the Bodleian Library in <date
-                        calendar="Gregorian">1850</date>.</acquisition>
+                  <acquisition>From a collection of 59 manuscripts, acquired mainly in Italy, which
+                     was purchased by the Bodleian Library from <persName key="person_7077">Mordecai
+                        Leib Bisliches</persName> and <persName key="person_7078">Ephraim
+                        Bisliches</persName>, booksellers in <placeName key="place_107"
+                        >Berlin</placeName>, in <date calendar="Gregorian"
+                     >1850</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>

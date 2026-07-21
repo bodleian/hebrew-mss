@@ -8,6 +8,10 @@
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -20,7 +24,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -39,73 +44,134 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 160</idno>
-               <altIdentifier type="other">
-                  <idno type="Neubauer">1204</idno>
-               </altIdentifier>
-               <altIdentifier type="former">
-                  <idno>MS. Oppenheim 1010</idno>
-               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">1204</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Oppenheim 1010</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">20953</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Eleazar ben Judah's commentary on the tefillot</summary>
+                  <summary>Eleazar of Worms's commentary on the Siddur</summary>
                   <msItem>
-                     <title type="desc" xml:lang="he">פרוש התפלות לאלעזר בן יהודה מגרמיזא</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Perush ha-tefillot le-Eleʻazar ben Yehudah mi-Germiza</title>
+                     <title type="desc" xml:lang="he" key="work_3375">פרוש התפלות לאלעזר בן יהודה
+                        מגרמיזא</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc" key="work_3375">Perush ha-tefillot
+                        le-Elʿazar ben Yehudah mi-Germiza</title>
                      <author key="person_301948260">
                         <persName>Eleazar ben Judah, of Worms, approximately 1176-1238</persName>
-                        <persName xml:lang="he">אלעזר בן יהודה ,מגרמיזה</persName>
+                        <persName xml:lang="he">אלעזר בן יהודה מגרמיזה</persName>
                      </author>
-                  <textLang mainLang="he">Hebrew</textLang>
-                  </msItem>                  
+                     <note>Parts of the commentary on the Hallel were edited by <persName>Moshe
+                           Hershler</persName> in <hi rend="italic">Sinai 72</hi> (1973):
+                        228-47.</note>
+                     <note>The commentary on the Haggadah was used (alongside several other
+                        manuscripts) by <persName>Moshe Hershler</persName> in his edition
+                        (Jerusalem, 1984).</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 297</extent>
+                        <extent n="297">ff. 297<dimensions type="leaf" unit="mm">
+                              <height>310</height>
+                              <width>230</width>
+                           </dimensions></extent>
+                        <condition>Water damage on some folios (especially <locus>ff.
+                              205-230</locus>), which has made some of the text illegible.
+                              <locus>Ff. 1 and 291-297</locus> are injured.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic semi-cursive scripts</summary>
-                     <handNote>Copied by two scribes: <locus>fols 1-175, 264-297</locus> by a scribe who pointed out the name Judah (e.g. on <locus>fols 34v - twice, 82r - twice, and 293v</locus>); <locus>fols. 176-263</locus>(11 quires) by a scribe who pointed out the name Eleazar (<locus>fol. 239v</locus>).</handNote>
+                     <handNote>Copied by two scribes: <locus>ff. 1-175, 264-297</locus> by a scribe
+                        who pointed out the name Yehudah <foreign xml:lang="he">יהודה</foreign> (see
+                        for example <locus>ff. 34v, 82r, 293v</locus>); <locus>ff. 176-263</locus>
+                        by a scribe who pointed out the name Elʿazar <foreign xml:lang="he"
+                           >אלעזר</foreign> (<locus>f. 239v</locus>).</handNote>
                   </handDesc>
-
+                  <additions>A part of the <hi rend="italic">Tur Oraḥ Ḥayyim</hi> (up to <foreign
+                        xml:lang="he">ארבעה צריכים להודות</foreign>) has been copied by a later hand
+                     on the margins on <locus>ff. 1r-69r</locus>.</additions>
+                  <bindingDesc>
+                     <p>Vellum over paper boards. The spine now bears the title (handwritten in
+                        ink), the current shelfmark (handpainted in black) and the Neubauer
+                        catalogue number (printed on a paper label).</p>
+                     <condition>Two pairs of leather straps were originally attached to the upper
+                        and lower boards; these have been cut off.</condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>[early 13th cent.]</origDate>
                      <origPlace>[Ashkenaz]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
+                  <provenance> </provenance>
+                  <acquisition>It belonged to the library of <persName key="person_7753200">David
+                        Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
+                     was purchased by the Bodleian Library in <date calendar="Gregorian"
+                     >1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=257">No. 1204</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=153">No. 1204</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=257"
+                              >No. 1204</ref>, <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=153"
+                              >No. 1204</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 16664</idno>
                      </bibl>
+                     <bibl><idno n="S.F. Or" type="microfilm">171</idno></bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=257">no. 1204.</ref></bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=153">no. 1204.</ref></bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=257"
+                           >no. 1204.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=153"
+                           >no. 1204.</ref></bibl>
+                     <bibl>Hershler, Moshe, 'Section from the Commentary on the Hallel' (in Hebrew),
+                           <hi rend="italic">Sinai 72</hi> (1973): 228-47.</bibl>
+                     <bibl>Heshler, Moshe, Hagadah shel Pesaḥ; ṿe-Shir ha-Shirim: ʿim perush
+                        ha-Roḳeaḥ u-veʾure halakhot u-minhage lel ha-Seder (The Passover Haggadah
+                        and Song of Songs: with the commentary of Eleazar of Worms and explanations
+                        on the laws and customs of the Seder night) (Jerusalem, 1984)</bibl>
                   </listBibl>
-                  
+
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

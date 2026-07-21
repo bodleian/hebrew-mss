@@ -48,6 +48,11 @@
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_e_105.xml -->
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_f_26.xml -->
             </place>
+            <place xml:id="place_107">
+               <placeName type="index" source="TGN">Berlin</placeName>
+               <!-- Found in: ../collections/MS_Michael_616.xml -->
+            </place>
+            
             <place xml:id="place_83">
                <placeName type="index" source="bodl">Bombay</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_e_105.xml -->
