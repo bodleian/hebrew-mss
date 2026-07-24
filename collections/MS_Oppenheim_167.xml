@@ -50,14 +50,21 @@
                   <altIdentifier>
                      <idno type="former">MS. Oppenheim 1070</idno>
                   </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">20960</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Mahzor according to the Western Asheknazi rite, for the High Holidays and
+                  <summary>Maḥzor according to the Western Asheknazi rite, for the High Holidays and
                      Sukkot</summary>
                   <msItem>
-                     <title xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים ולסוכות</title>
-                     <title xml:lang="he-Latn-x-lc">Maḥzor minhag Ashkenaz ha-maʻaravi le-yamim
+                     <title xml:lang="he" key="work_3329">מחזור מנהג אשכנז המערבי לימים נוראים ולסוכות</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3329">Maḥzor minhag Ashkenaz ha-maʻaravi le-yamim
                         noraim ṿele-Sukkot</title>
+                     <note>Used by <persName>Daniel Goldschmidt</persName> in his edition of the
+                        High Holidays and Sukkot services (Jerusalem, 1970-81). According to
+                        Goldschmidt, this manuscript represents the late version of the rite and
+                        includes many characteristic variant readings.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -65,23 +72,58 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent n="134">ff. 314</extent>
+                        <extent n="291">ff. 291<dimensions type="leaf" unit="mm">
+                              <height>354</height>
+                              <width>258</width>
+                           </dimensions></extent>
+                        <condition><locus>Ff. 1-2, 289-291</locus> are heavily stained. The side
+                           margin of <locus>f. 71</locus> has been cut off and subsequently repaired
+                           with a strip of sewn-on parchment. The bottom margins of <locus>ff. 209,
+                              210</locus> have been cut off.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
-                     <handNote>The names Judah (<locus>f. 194r</locus>) and Isaac (<locus>ff. 40v,
-                           195r</locus>) are pointed out by means of allusive
-                        illustrations. It is possible that Judah was the original owner and the
-                        scribe Isaac entered the names of Judah's sons into the liturgy.</handNote>
+                     <handNote>The names <persName>Yehudah <foreign xml:lang="he"
+                           >יהודה</foreign></persName> (<locus>f. 194r</locus>) and <persName>Itzḥaḳ
+                              <foreign xml:lang="he">יצחק</foreign></persName> (<locus>ff. 40v,
+                           195r</locus>) have been highlighted by means of tiny drawings: a lion
+                        wearing a Jewish hat (<locus>f. 194r</locus>) next to the name Yehudah, and
+                        a hand holding a flower (<locus>f. 40v</locus>) and a ram next to a tree
+                           (<locus>f. 195r</locus>) next to the name Itzḥaḳ.</handNote>
                   </handDesc>
+                  <decoDesc>
+                     <p>On <locus>f. 79v</locus>, an unfinished drawing (by the scribe himself,
+                        considering the unusual layout of the text) of a doorway framing the text
+                        block.</p>
+                     <p>The majority of the catchwords (alongside the personal names discussed
+                        above) are decorated with tiny drawings of animals, some of which wear
+                        Jewish hats.</p>
+                  </decoDesc>
+                  <additions>Some marginal notes, containing explanations of words and <hi
+                        rend="italic">minhagim</hi> of <placeName key="place_108">Worms</placeName>. </additions>
+                  <bindingDesc>
+                     <p>Vellum over thick paper boards. The spine bears the current shelfmark (167;
+                        handpainted in black), and the former shelfmark (1070; printed on a slip of
+                        paper).</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>[late 14th cent.]</origDate>
                      <origPlace>[Germany]</origPlace>
                   </origin>
-                  <provenance> </provenance>
+                  <provenance>The names <persName>Menaḥem b. Yehudah <foreign xml:lang="he">מנחם בן
+                           יהודה</foreign></persName>, <persName>Mosheh b. Yehudah <foreign
+                           xml:lang="he">משה בן יהודה</foreign></persName>, and <persName>Uri b.
+                        Yehudah <foreign xml:lang="he">אורי בן יהודה</foreign></persName> are
+                     mentioned in the <hi rend="italic">reshut</hi> for the <hi rend="italic">Ḥatan
+                        Bereshit</hi> in the Simḥat Torah liturgy; it is quite possible that these
+                     were sons of the original owner, since the name <persName>Yehudah <foreign
+                           xml:lang="he">יהודה</foreign></persName> was pointed out (<locus>f.
+                        194r</locus>) alongside the name <persName>Itzḥak <foreign xml:lang="he"
+                           >יצחק</foreign></persName> (<locus>ff. 40v, 195r</locus>) which may have
+                     been the name of the scribe.</provenance>
                   <acquisition>It belonged to the library of <persName key="person_7753200">David
                         Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
                      was purchased by the Bodleian Library in <date calendar="Gregorian"
