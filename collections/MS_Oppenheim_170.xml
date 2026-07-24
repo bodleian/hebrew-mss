@@ -8,6 +8,10 @@
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -20,7 +24,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -39,83 +44,140 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 170</idno>
-               <altIdentifier type="other">
-                  <idno type="Neubauer">1205</idno>
-               </altIdentifier>
-               <altIdentifier type="former">
-                  <idno>Fol. 1073</idno>
-               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">1205</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>Fol. 1073</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">20963</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Anonymous commentary on prayers, with additional quoted commentaries</summary>
+                  <summary>Anonymous commentary on prayers, with additional quoted
+                     commentaries</summary>
                   <msItem>
-                     <title type="desc">Commentary on the tefillot</title>
-                     <title type="desc" xml:lang="he">פרוש התפלות</title>
+                     <title type="desc" key="work_3376">Commentary on Prayers</title>
+                     <title type="desc" xml:lang="he" key="work_3376">פרוש התפלות</title>
                      <title type="desc" xml:lang="he-Latn-x-lc">Perush ha-tefillot</title>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>This commentary contains quoted sections of other commentaries:
-                        1: Fols. <locus from="101r" to="111r">101r-111r</locus> and <locus from="114r" to="142v">114r-142v</locus>, commentary by <persName key="person_59876084">Joseph Kara</persName>.
-                        2: Fols. <locus from="111r" to="114r">111r-114r</locus>, parts of a commentary on New Year liturgy by <persName key="person_75197037">Eliezer ben Nathan of Mainz</persName>.
-                        3: Fols. <locus from="114v" to="160r">114v-160r</locus>, commentary on piyyutim by <persName key="person_19684048">Rashi</persName>.
-                        4: Fols. <locus from="168r" to="180v">168r-180v</locus>, probably a commentary by <persName key="person_59876084">Joseph Kara</persName>, or one based on it.
-                        5: Fols. <locus from="206v" to="233v">206v-233v</locus>, a commentary probably by <persName key="person_59876084">Joseph Kara</persName>, but includes additions by <persName key="person_308257340">Solomon b. Samson</persName>.
-                     </note>
-                     <note/>
+                     <note>This commentary by an anonymous author contains quoted sections of other
+                        commentaries, including those by <persName key="person_59876084">Joseph
+                           Kara</persName> (<locus>ff. 101r-111r, 114r-142v</locus>; probably also
+                           <locus>ff. 168r-180v, 206v-233v</locus>), <persName key="person_75197037"
+                           >Eliezer ben Nathan of Mainz</persName> (on the New Year liturgy;
+                           <locus>ff. 111r-114r</locus>), <persName key="person_19684048"
+                           >Rashi</persName> (on <hi rend="italic">piyyutim</hi>; <locus>ff.
+                           114v-160r</locus>). <locus>Ff. 206v-233v</locus> also incorporates
+                        additions by <persName key="person_308257340">Solomon b.
+                        Samson</persName>.</note>
+                     <note>The names of many other authors are quoted; these include <persName
+                           key="person_1085">Joseph ben Samuel Tov-ʿElem (Bonfils)</persName>,
+                           <persName key="person_150">Samuel ben Barukh of Bamberg</persName>,
+                           <persName key="person_7081">David ben Sheʾaltiel</persName>, <persName
+                           key="person_301948260">Eleazar ben Judah of Worms</persName>, <persName
+                           key="person_1077">Benjamin of Canterbury</persName>, <persName
+                           key="person_20145304381978571579">Jacob Nazir</persName>, <persName
+                           key="person_22494885">Ephraim ben Jacob of Bonn</persName>, <persName
+                           key="person_33403361">Meir ben Isaac Sheliʼaḥ Ẓibbur</persName>,
+                           <persName key="person_7082">Meir of Lisieux</persName>, and <persName
+                           key="person_7083">Ḳalonymus ben Yehudah</persName>.</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 279</extent>
+                        <extent>ff. 279<dimensions type="leaf" unit="mm">
+                              <height>300</height>
+                              <width>235</width>
+                           </dimensions></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic semi-cursive script.</summary>
-                     <handNote>
-                        Copied by four hands. 
-                        First hand: <locus from="1v" to="105r">ff. 1v-105r, col. 2, 1. 1</locus>, and <locus from="161r" to="249v">161r-249v</locus>. 
-                        Second hand: <locus from="105r" to="133v">ff. 105r, col. 2, 1. 2-133v</locus>, <locus from="143r" to="150v">ff. 143r-150v</locus>, and <locus from="250r" to="270v">ff. 250r-270v</locus>. 
-                        Third hand: <locus from="134r" to="142v">ff. 134r-142v</locus>, and <locus from="151r" to="160r">ff. 151r-160r</locus>. 
-                        Fourth hand (possibly later):<locus from="271" to="278">last quire (ff. 271-278)</locus>.
-                     </handNote>
+                     <handNote> Copied by four hands. First hand: <locus from="1v" to="105r">ff.
+                           1v-105r, col. 2, 1. 1</locus>, and <locus from="161r" to="249v"
+                           >161r-249v</locus>. Second hand: <locus from="105r" to="133v">ff. 105r,
+                           col. 2, 1. 2-133v</locus>, <locus from="143r" to="150v">ff.
+                           143r-150v</locus>, and <locus from="250r" to="270v">ff.
+                        250r-270v</locus>. Third hand: <locus from="134r" to="142v">ff.
+                           134r-142v</locus>, and <locus from="151r" to="160r">ff.
+                        151r-160r</locus>. Fourth hand (possibly later):<locus from="271" to="278"
+                           >last quire (ff. 271-278)</locus>. </handNote>
                   </handDesc>
-
+                  <bindingDesc>
+                     <p>Dark brown leather with rough, pronounced grain over paper boards;
+                        blind-tooled decorations on both upper and lower boards. On the spine, a
+                        damaged paper slip bearing the printed number 10[...]3; the number 170 has
+                        been painted in white.</p>
+                     <condition>The leather covering the boards have been damaged in many places and
+                        have been repaired using dark brown leather with finer grain. Two clasps now
+                        missing. Many wormholes on the leather covering ther lower board: these are
+                        found also on the final folios but not on the inner side of the lower board,
+                        indicating that this was a later replacement.</condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>[mid-late 13th cent.]</origDate>
                      <origPlace>[Ashkenaz]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
+                  <provenance> </provenance>
+                  <acquisition>It belonged to the library of <persName key="person_7753200">David
+                        Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
+                     was purchased by the Bodleian Library in <date calendar="Gregorian"
+                     >1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=258">No. 1205</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=153">No. 1205</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=258"
+                              >No. 1205</ref>, <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=153"
+                              >No. 1205</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 16665</idno>
                      </bibl>
+                     <bibl><idno n="S.F. Or" type="microfilm">844</idno></bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=258">no. 1205.</ref></bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=153">no. 1205.</ref></bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=258"
+                           >no. 1205.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=153"
+                           >no. 1205.</ref></bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

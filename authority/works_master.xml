@@ -16,6 +16,13 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3376">
+               <title type="uniform">Commentary on Prayers</title>
+               <title type="variant">פרוש התפלות</title>
+               <title type="variant">Perush ha-tefillot</title>
+               <ref target="MS_Oppenheim_170-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_170.xml#MS_Oppenheim_170-item1 -->
+               <textLang mainLang="he"/>
             <bibl xml:id="work_3375">
                <title type="uniform">Eleazar of Worms's commentary on the Siddur</title>
                <title type="variant">פרוש התפלות לאלעזר בן יהודה מגרמיזא</title>
@@ -78,8 +85,8 @@
             <bibl xml:id="work_3368">
                <title type="uniform">Sefer ha-ʾEshel</title>
                <title type="variant">ספר האשל</title>
-               <ref target="MS_Bodl_Or_30-item1"/>
-               <!-- ../../hebrew-mss/collections/MS_Bodl_Or_30.xml#MS_Bodl_Or_30-item1 -->
+               <ref target="MS_Rawl_Or_35-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Rawl_Or_35.xml#MS_Rawl_Or_35-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3367">
@@ -400,6 +407,8 @@
                <!-- ../../hebrew-mss/collections/MS_Michael_433.xml#MS_Michael_433-item1 -->
                <ref target="MS_Michael_616-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Michael_616.xml#MS_Michael_616-item1 -->
+               <ref target="MS_Oppenheim_167-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_167.xml#MS_Oppenheim_167-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3328">

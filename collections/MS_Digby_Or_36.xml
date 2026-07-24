@@ -97,26 +97,33 @@
                   </objectDesc>
                   <handDesc>
                      <summary>Byzantine semi-cursive scripts</summary>
-                     <handNote>Copied by at least three hands on the same paper. The first scribe,
-                        who pointed out the name <persName>Mosheh <foreign xml:lang="he"
-                              >משה</foreign></persName>, copied <locus>ff. 1-96</locus> apart from
-                           <locus>ff. 43-44 and 68r</locus>, which alongside <locus>ff.
-                           97r-200r</locus>, were copied by a second scribe, who pointed out the
-                        name <persName>Shmuʾel <foreign xml:lang="he">שמואל</foreign></persName> on
-                           <locus>ff. 44r, 199v</locus>. The additions on <locus>ff. 88r-90r,
-                           202-204</locus> are in the hand of an early owner, who signed his name as
-                           <persName>Avishai Comtino<foreign xml:lang="he">אבישי
-                           כומטינו</foreign></persName>, and who may have been the same person as
-                        the owner <persName>Avishai</persName> who purchased the manuscript in <date
-                           calendar="#Gregorian">1448</date>. </handNote>
+                     <handNote><p>Copied by at least five hands on the same paper. The first scribe,
+                           who pointed out the name <persName>Mosheh <foreign xml:lang="he"
+                                 >משה</foreign></persName> and the word Kohen <foreign xml:lang="he"
+                              >כהן</foreign> (<locus>ff. 8v, 12v</locus>), was most likely known as
+                              <persName>Mosheh haKohen</persName>; he copied <locus>ff. 1-3, 7r-38,
+                              40-42, 45-51, 84-85, 92-93</locus>. Another scribe, who pointed out
+                           the name <persName>Shmuʾel <foreign xml:lang="he"
+                              >שמואל</foreign></persName> (<locus>ff. 44r, 199v</locus>), copied
+                              <locus>ff. 43-44, 68-83, 86-88, 97-200</locus>. Apart from these two
+                           scribes, there were three other scribes who did not indicate their names,
+                           and whose degree of involvement was more limited; they copied <locus>ff.
+                              5-7r</locus>, <locus>ff. 54-67</locus> and <locus>ff. 95-96</locus>
+                           respectively.</p>
+                        <p>Finally, the additions on <locus>ff. 39, 88r-90r, 202-204</locus> (on
+                           different paper) are in the hand of an early owner, who signed his name
+                           as <persName>Avishai Comtino<foreign xml:lang="he">אבישי
+                                 כומטינו</foreign></persName> (<locus>f. 90r</locus>), and who may
+                           have been the same person as the owner <persName>Avishai</persName> who
+                           purchased the manuscript in <date calendar="#Gregorian">1448</date>.</p>
+                     </handNote>
                   </handDesc>
                   <bindingDesc>
                      <p>Smooth, pale golden-brown leather with mottled pattern over thick paper
                         boards, blind-tooled, darkened decorations on both upper and lower boards. A
                         red leather label bearing the current shelfmark at the base of the spine;
                         the spine also bears several handwritten former shelfmarks (Laud A 170
-                        (twice; in one of the cases on a label with a printed number 170), and 320).
-                     </p>
+                        (twice), and 320). </p>
                   </bindingDesc>
                </physDesc>
                <history>
@@ -126,7 +133,7 @@
                   <provenance>
                      <p>In <date calendar="Gregorian" when="1448">1448</date>, the manuscript was
                         sold by <persName>Mikhaʾel b. Yuda Kohen <foreign xml:lang="he">מיכאל בן
-                              יודא כהן</foreign></persName> to <persName>Avishaiָ <foreign
+                              יודא כהן</foreign></persName> to <persName>Avishai <foreign
                               xml:lang="he">אבישי</foreign></persName>, as recorded in a deed of
                         sale on <locus>f. 200r</locus>.</p>
                      <p>In <date calendar="Gregorian" when="1466">1466</date>, the manuscript was
@@ -134,11 +141,9 @@
                               שמואל הרופא</foreign></persName> to <persName>Mosheh ibn Pish <foreign
                               xml:lang="he">משה יבן פיש</foreign></persName>, as recorded in a deed
                         of sale on <locus>f. 3v</locus>.</p>
-                     <p>In <date calendar="Gregorian" when="1639">1639</date>, the manuscript came
-                        into the possession of Archbishop <persName key="person_54940373">William
-                           Laud</persName>, as attested by an ownership inscription on <locus>f.
-                           1r</locus>: 'Liber Guilielmi Laud Archiepi[scopi] Cantuari[iensis] et
-                        Cancellarii Universitatis Oxon[iensis] 1639'</p></provenance>
+                     <p>Ownership inscription on <locus>f. 1r</locus>: 'Liber Guilielmi Laud
+                        Archiepi[scopi] Cantuari[iensis] et Cancellarii Universitatis Oxon[iensis]
+                        1639'</p></provenance>
                   <acquisition>It was one of 36 Oriental manuscripts from the collection of Sir
                         <persName key="person_7076">Kenelm Digby</persName> (<date
                         calendar="Gregorian">1603-1665</date>) which was entrusted to Archbishop

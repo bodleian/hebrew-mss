@@ -52,7 +52,6 @@
                <placeName type="index" source="TGN">Berlin</placeName>
                <!-- Found in: ../collections/MS_Michael_616.xml -->
             </place>
-            
             <place xml:id="place_83">
                <placeName type="index" source="bodl">Bombay</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_e_105.xml -->
@@ -330,6 +329,10 @@
             <place xml:id="place_43">
                <placeName type="index" source="#INDEX">Vitry</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_34.xml -->
+            </place>
+            <place xml:id="place_108">
+               <placeName type="index" source="TGN">Worms</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_167.xml -->
             </place>
             <place xml:id="place_19">
                <placeName type="index" source="#IMHM">אגוביו</placeName>
