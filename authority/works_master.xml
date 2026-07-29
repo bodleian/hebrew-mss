@@ -16,6 +16,14 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3377">
+               <title type="uniform">Yotserot in the Ashkenazic rite for the whole year</title>
+               <title type="variant">יוצרות מנהג אשכנז לכל השנה</title>
+               <title type="variant">Yotserot minhag Ashkenaz le-khol ha-shanah</title>
+               <ref target="MS_Oppenheim_169-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_169.xml#MS_Oppenheim_169-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3376">
                <title type="uniform">Commentary on Prayers</title>
                <title type="variant">פרוש התפלות</title>
@@ -23,6 +31,7 @@
                <ref target="MS_Oppenheim_170-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Oppenheim_170.xml#MS_Oppenheim_170-item1 -->
                <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3375">
                <title type="uniform">Eleazar of Worms's commentary on the Siddur</title>
                <title type="variant">פרוש התפלות לאלעזר בן יהודה מגרמיזא</title>

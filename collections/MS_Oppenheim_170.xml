@@ -63,15 +63,16 @@
                      <title type="desc" xml:lang="he-Latn-x-lc">Perush ha-tefillot</title>
                      <textLang mainLang="he">Hebrew</textLang>
                      <note>This commentary by an anonymous author contains quoted sections of other
-                        commentaries, including those by <persName key="person_59876084">Joseph
+                        works, including those by <persName key="person_59876084">Joseph
                            Kara</persName> (<locus>ff. 101r-111r, 114r-142v</locus>; probably also
                            <locus>ff. 168r-180v, 206v-233v</locus>), <persName key="person_75197037"
                            >Eliezer ben Nathan of Mainz</persName> (on the New Year liturgy;
                            <locus>ff. 111r-114r</locus>), <persName key="person_19684048"
                            >Rashi</persName> (on <hi rend="italic">piyyutim</hi>; <locus>ff.
-                           114v-160r</locus>). <locus>Ff. 206v-233v</locus> also incorporates
-                        additions by <persName key="person_308257340">Solomon b.
-                        Samson</persName>.</note>
+                           114v-160r</locus>), and <persName key="person_95487669">Jacob
+                           Tam</persName> (<locus>f. 161</locus>). <locus>Ff. 206v-233v</locus> also
+                        incorporates additions by <persName key="person_308257340">Solomon b.
+                           Samson</persName>.</note>
                      <note>The names of many other authors are quoted; these include <persName
                            key="person_1085">Joseph ben Samuel Tov-ʿElem (Bonfils)</persName>,
                            <persName key="person_150">Samuel ben Barukh of Bamberg</persName>,
@@ -81,7 +82,8 @@
                            key="person_20145304381978571579">Jacob Nazir</persName>, <persName
                            key="person_22494885">Ephraim ben Jacob of Bonn</persName>, <persName
                            key="person_33403361">Meir ben Isaac Sheliʼaḥ Ẓibbur</persName>,
-                           <persName key="person_7082">Meir of Lisieux</persName>, and <persName
+                           <persName key="person_7082">Meir of Lisieux</persName>, <persName
+                           key="person_7084">Samuel ben Ḳalonymus</persName> and <persName
                            key="person_7083">Ḳalonymus ben Yehudah</persName>.</note>
                   </msItem>
                </msContents>
@@ -89,34 +91,56 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 279<dimensions type="leaf" unit="mm">
+                        <extent>ff. 281<dimensions type="leaf" unit="mm">
                               <height>300</height>
                               <width>235</width>
                            </dimensions></extent>
+                        <condition>F. 1r is heavily stained and the text, which has been written by
+                           a later hand, is no longer entirely legible.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic semi-cursive script.</summary>
-                     <handNote> Copied by four hands. First hand: <locus from="1v" to="105r">ff.
-                           1v-105r, col. 2, 1. 1</locus>, and <locus from="161r" to="249v"
-                           >161r-249v</locus>. Second hand: <locus from="105r" to="133v">ff. 105r,
-                           col. 2, 1. 2-133v</locus>, <locus from="143r" to="150v">ff.
-                           143r-150v</locus>, and <locus from="250r" to="270v">ff.
-                        250r-270v</locus>. Third hand: <locus from="134r" to="142v">ff.
-                           134r-142v</locus>, and <locus from="151r" to="160r">ff.
-                        151r-160r</locus>. Fourth hand (possibly later):<locus from="271" to="278"
-                           >last quire (ff. 271-278)</locus>. </handNote>
+                     <handNote><p>Copied by four hands. The first hand copied <locus from="1v"
+                              to="105r">ff. 1v-105r</locus> (until the first line of the second
+                           column), and <locus from="161r" to="249v">ff. 161r-249v</locus>. The
+                           second hand copied <locus from="105r" to="133v">ff. 105r-133v</locus>
+                           (from the second line of the second column), <locus from="143r" to="150v"
+                              >ff. 143r-150v</locus>, and <locus from="250r" to="270v">ff.
+                              250r-270v</locus>. The third hand copied <locus from="134r" to="142v"
+                              >ff. 134r-142v</locus>, and <locus from="151r" to="160r">ff.
+                              151r-160r</locus>. The fourth hand, which may have been that of a
+                           later owner, copied the final quire (<locus from="271" to="278">ff.
+                              271-278</locus>).</p>
+                        <p>The second scribe ruled the pages using plummet and hard point
+                           interchangeably; the other scribes ruled only with
+                        plummet.</p></handNote>
                   </handDesc>
+                  <decoDesc>
+                     <p>The sections copied by the first scribe contains simple, geometric line
+                        fillers, abstract designs composed of dotted lines next to catchwords, and
+                        scalloped borders and <hi rend="italic">fleur-de-lis</hi> extensions around
+                        some of the enlarged initial words. The scalloped borders on <locus>ff. 1v,
+                           2r, 9r</locus> are drawn in red ink; all of the other drawings are in
+                        black ink.</p>
+                     <p>The sections copied by the second scribe is largely undecorated, apart from
+                        three small rudimentary drawings of <hi rend="italic">shofarot</hi> which
+                        illustrated the adjacent text (<locus>f. 132r</locus>).</p>
+                     <p>The sections copied by the third scribe contains semi-abstract flourishes in
+                        black ink along side margins, and drawings of flowers that fill small gaps
+                        in the text.</p>
+                  </decoDesc>
                   <bindingDesc>
                      <p>Dark brown leather with rough, pronounced grain over paper boards;
                         blind-tooled decorations on both upper and lower boards. On the spine, a
-                        damaged paper slip bearing the printed number 10[...]3; the number 170 has
+                        damaged paper slip bearing the printed number 10[7]3; the number 170 has
                         been painted in white.</p>
-                     <condition>The leather covering the boards have been damaged in many places and
-                        have been repaired using dark brown leather with finer grain. Two clasps now
+                     <condition>The leather covering the boards has been damaged in many places and
+                        has been repaired using dark brown leather with finer grain. Two clasps now
                         missing. Many wormholes on the leather covering ther lower board: these are
-                        found also on the final folios but not on the inner side of the lower board,
-                        indicating that this was a later replacement.</condition>
+                        found also on the final folios (from <locus>f. 170</locus> onwards) but not
+                        on the inner side of the lower board, indicating that the boards themselves
+                        were later replacements.</condition>
                   </bindingDesc>
                </physDesc>
                <history>
@@ -124,7 +148,26 @@
                      <origDate>[mid-late 13th cent.]</origDate>
                      <origPlace>[Ashkenaz]</origPlace>
                   </origin>
-                  <provenance> </provenance>
+                  <provenance>
+                     <p>On <locus>f. 160r</locus>, a late-medieval owner who added a <hi
+                           rend="italic">piyyut</hi> at the end of the commentary on the Rosh
+                        ha-Shanah liturgy signed his name as <persName>Aharon ben Mordekhai <foreign
+                              xml:lang="he">אהרן בן מרדכי</foreign></persName>.</p>
+                     <p>During the late-sixteenth century, the manuscript was in the possession of
+                           <persName>Yuda ben Nathan Leib of <placeName key="place_109"
+                              >Koblenz</placeName>
+                           <foreign xml:lang="he">יודא בן נתן המכונה ליב
+                           קובלענץ</foreign></persName>, as attested by his ownership inscription
+                        (within a decorated frame) on a fragment of a leaf which is now glued to the
+                        pastedown at the end of the manuscript, as well as his records (in a mixture
+                        of Hebrew and Yiddish) of the births of his children as well as several
+                        deaths in the family between the years <date calendar="#Gregorian"
+                           >1558-1572</date> on <locus>f. 279r</locus>.</p>
+                     <p>On <locus>f. 279v</locus>, <persName>Nathan ben Yoʾel <foreign xml:lang="he"
+                              >נתן בן יואל</foreign></persName> records that he inherited the book
+                        from his nephew, <persName>Mosheh ben Mosheh <foreign xml:lang="he">משה בן
+                              משה</foreign></persName>.</p>
+                  </provenance>
                   <acquisition>It belonged to the library of <persName key="person_7753200">David
                         Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
                      was purchased by the Bodleian Library in <date calendar="Gregorian"

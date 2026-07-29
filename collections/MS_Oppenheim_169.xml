@@ -50,30 +50,73 @@
                   <altIdentifier type="former">
                      <idno>MS. Oppenheim 1072</idno>
                   </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">20960</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Yotsrot (Creators) in the Ashkenazic rite, for the whole year</summary>
+                  <summary><hi rend="italic">Yotserot</hi> in the Ashkenazic rite, for the whole
+                     year</summary>
                   <msItem>
-                     <title type="desc" xml:lang="he">יוצרות מנהג אשכנז לכל השנה</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Yotsrot minhag Ashkenaz le-khol
-                        ha-shanah</title>
+                     <title type="desc" xml:lang="he" key="work_3377">יוצרות מנהג אשכנז לכל
+                        השנה</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc" key="work_3377">Yotserot minhag
+                        Ashkenaz le-khol ha-shanah</title>
+                     <note>The final portion of the manuscript contains <hi rend="italic"
+                           >reshuyot</hi> and <hi rend="italic">zemirot</hi> in honour of the
+                        bridegroom. The end of the manuscript is defective.</note>
+                     <note>Most of the <hi rend="italic">piyyutim</hi> are headed with the authors'
+                        names added by a later hand; authors to whom the <hi rend="italic"
+                           >piyyutim</hi> have been attributed include <persName key="person_7086"
+                           >Ḥayyim Palṭiʾel <foreign xml:lang="he">חיים פלטיאל</foreign></persName>,
+                           <persName key="person_7087">Meʾir Mesoli (?)<foreign xml:lang="he">מאיר
+                              מסולי</foreign></persName>, <persName key="person_7088">Shmuʾel of
+                           Meyerburg (?)<foreign xml:lang="he">שמואל ממיירבורק
+                        </foreign></persName>, and <persName key="person_7089">Shmuʾel Kohen
+                              <foreign xml:lang="he">שמואל כהן</foreign></persName>.</note>
+                     <note>Some of the <hi rend="italic">piyyutim</hi> are accompanied by a
+                        commentary on the margin, which is largely of a grammatical nature. The
+                        commentary is probably by a scholar from Bohemia; he cited words '<foreign
+                           xml:lang="he">בלשון כנען</foreign>' ('in the language of Canaan', here
+                        referring to a Slavic language) (see for example <locus>f.
+                        17v</locus>).</note>
+                     <note>Authors quoted in the commentary include <persName key="person_90489505"
+                           >Solomon ibn Parḥon <foreign xml:lang="he">שלמה יבן
+                           פרחון</foreign></persName>, <persName key="person_90633023">Abraham ibn
+                           Ezra <foreign xml:lang="he">אברהם יבן עזרא</foreign></persName>,
+                           <persName key="person_7085">Mosheh ha-Sefardi <foreign xml:lang="he">משה
+                              הספרדי</foreign></persName>, and one '<persName>Rabbi Eliʿezer
+                              <foreign xml:lang="he">הר׳ אליעזר</foreign></persName>'.</note>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>Commentary probably by a scholar from Bohemia.</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 61</extent>
+                        <extent>ff. 61<dimensions type="leaf" unit="mm">
+                              <height>283</height>
+                              <width>207</width>
+                           </dimensions></extent>
+                        <condition>The margins of several folios (<locus>ff. 33-35, 38, 40, 44,
+                              57</locus>) have been cut off in a careless manner.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Ashkenazic square script, (semi-)cursive script for marg.
-                        comm.</summary>
+                     <summary>Ashkenazic square script (semi-cursive script for the marginal
+                        commentary)</summary>
                      <handNote/>
                   </handDesc>
-
+                  <bindingDesc>
+                     <p>Brown, fine-grained leather over wooden boards, blind-tooled with intricate
+                        floral interlace designs.</p>
+                     <condition>The original leather covering the boards has been damaged in many
+                        places. The manuscript has been rebacked with reddish-brown, fine-grained
+                        leather (the replacement spine has no decoration); patches of the same
+                        leather has been used for smaller repairs on the upper and lower boards. The
+                        current shelfmark is gilt at the base of the spine. Two clasps now
+                        missing.</condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
@@ -84,7 +127,7 @@
                   <acquisition>It belonged to the library of <persName key="person_7753200">David
                         Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
                      was purchased by the Bodleian Library in <date calendar="Gregorian"
-                        >1829</date>.</acquisition>
+                     >1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -115,6 +158,7 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 16611</idno>
                      </bibl>
+                     <bibl><idno n="S.F. Or" type="microfilm">834</idno></bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
