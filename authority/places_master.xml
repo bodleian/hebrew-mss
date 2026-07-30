@@ -184,6 +184,11 @@
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_c_50.xml -->
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_a_2.xml -->
             </place>
+            <place xml:id="place_109">
+               <placeName type="index" source="TGN">Koblenz</placeName>
+               <placeName type="variant" xml:lang="he" source="bodl">קובלענץ</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_170.xml -->
+            </place>
             <place xml:id="place_33">
                <placeName type="index" source="LCSH">Krakow</placeName>
                <!-- Found in: ../collections/MS_Michael_619.xml -->

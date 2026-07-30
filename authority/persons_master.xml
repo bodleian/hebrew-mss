@@ -2899,6 +2899,7 @@
                     <persName type="display">Parḥon, Salomon ben Abraham ibn, active 12th
                         century</persName>
                     <persName type="display" xml:lang="he">פרחון, שלמה בן אברהם</persName>
+                    <persName type="variant">Solomon ibn Parḥon</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3004,6 +3005,7 @@
                 <person xml:id="person_95487669">
                     <persName type="display">Tam, Jacob ben Meir, approximately 1100-1171</persName>
                     <persName type="display" xml:lang="he">יעקב בן מאיר (ר"ת)</persName>
+                    <persName type="variant">Rabbeinu Tam</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -18648,6 +18650,54 @@
                     <persName type="display">Ḳalonymus ben Yehudah</persName>
                     <persName type="variant" xml:lang="he">קלונימוס בן יהודה</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_170.xml -->
+                </person>
+                <person xml:id="person_7084">
+                    <persName type="display">Samuel ben Kalonymus, he-Ḥasid, of Speyer, active 12th century</persName>
+                    <persName type="variant" xml:lang="he">שמואל בן קלונימוס, החסיד</persName>
+                    <persName type="variant">Samuel ben Ḳalonymus</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/31273015">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_170.xml -->
+                </person>
+                <person xml:id="person_7085">
+                    <persName type="display">Mosheh ha-Sefardi</persName>
+                    <persName type="variant" xml:lang="he">משה הספרדי</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_169.xml -->
+                </person>
+                <person xml:id="person_7086">
+                    <persName type="display">Ḥayyim Paltiel ben Jacob active 13th century-14th century</persName>
+                    <persName type="variant" xml:lang="he">חיים פלטיאל, מפליזא</persName>
+                    <persName type="variant">Ḥayyim Palṭiʾel</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/33530824">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_169.xml -->
+                </person>
+                <person xml:id="person_7087">
+                    <persName type="display" xml:lang="he">מאיר מסולי</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_169.xml -->
+                </person>
+                <person xml:id="person_7088">
+                    <persName type="display" xml:lang="he">שמואל ממיירבורק</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_169.xml -->
+                </person>
+                <person xml:id="person_7089">
+                    <persName type="display">Shmuʾel Kohen</persName>
+                    <persName type="variant" xml:lang="he">שמואל כהן</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_169.xml -->
                 </person>
             </listPerson>
         </body>
