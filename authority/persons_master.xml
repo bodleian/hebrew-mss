@@ -6901,11 +6901,12 @@
                     <persName type="display">Rafael Galiḳo</persName>
                 </person>
                 <person xml:id="person_7038">
-                    <persName type="display">Eliah ben Samuel ben Parnes of Stephanow</persName>
+                    <persName type="display">Elijah ben Samuel ben Parnes of Stephanow</persName>
                     <persName type="display" xml:lang="he">אליהו בן שמואל השטיפיוני</persName>
                     <note type="links"><list type="links">
-                            <item><ref target="https://www.wikidata.org/wiki/Q105555738"
-                                        ><title>WikiData</title></ref></item>
+                            <item><ref
+                                    target="https://www.jewishencyclopedia.com/articles/5671-elijah-ben-samuel-ben-parnes-of-stephanow"
+                                        ><title>Jewish Encyclopedia</title></ref></item>
                         </list>
                     </note>
                 </person>
@@ -9098,13 +9099,14 @@
                     <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_48.xml -->
                 </person>
                 <person xml:id="person_1085">
-                    <persName type="display">Bonfils, Joseph ben Samuel, active 11th century</persName>
+                    <persName type="display">Bonfils, Joseph ben Samuel, active 11th
+                        century</persName>
                     <persName type="display" xml:lang="he">טוב עלם, יוסף בן שמואל</persName>
                     <persName type="variant">Joseph ben Samuel Tov-ʿElem</persName>
                     <note type="links"><list type="links">
                             <item><ref target="https://viaf.org/en/viaf/34309352"
-                                    ><title>VIAF</title></ref></item>
-                    </list></note>
+                                        ><title>VIAF</title></ref></item>
+                        </list></note>
                     <!-- Found in: ../../genizah-mss/collections/MS_Heb_c_10.xml -->
                     <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_170.xml -->
                 </person>
@@ -18531,7 +18533,8 @@
                     <!-- Found in: ../../hebrew-mss/collections/MS_Michael_82.xml -->
                 </person>
                 <person xml:id="person_7071">
-                    <persName type="display">Poperś, Meʾir ben Yehudah Leb ha-Kohen 1628-1662</persName>
+                    <persName type="display">Poperś, Meʾir ben Yehudah Leb ha-Kohen
+                        1628-1662</persName>
                     <persName type="variant" xml:lang="he">מאיר בן יהודה לייב הכהן פופרש</persName>
                     <persName type="variant">Meir Poppers</persName>
                     <note type="links">
@@ -18552,9 +18555,9 @@
                     <!-- Found in: ../../hebrew-mss/collections/MS_Michael_82.xml -->
                 </person>
                 <person xml:id="person_7073">
-                <persName type="display">Mordekhai Bonfos Franẓisḳi</persName>
-                <persName type="variant" xml:lang="he">מרדכי בונפוש פרנציסקי</persName>
-                <!-- Found in: ../../hebrew-mss/collections/MS_Rawl_Or_35.xml -->
+                    <persName type="display">Mordekhai Bonfos Franẓisḳi</persName>
+                    <persName type="variant" xml:lang="he">מרדכי בונפוש פרנציסקי</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Rawl_Or_35.xml -->
                 </person>
                 <person xml:id="person_7074">
                     <persName type="display">Hatton, Christopher Hatton, Baron, 1605-1670</persName>
@@ -18652,7 +18655,8 @@
                     <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_170.xml -->
                 </person>
                 <person xml:id="person_7084">
-                    <persName type="display">Samuel ben Kalonymus, he-Ḥasid, of Speyer, active 12th century</persName>
+                    <persName type="display">Samuel ben Kalonymus, he-Ḥasid, of Speyer, active 12th
+                        century</persName>
                     <persName type="variant" xml:lang="he">שמואל בן קלונימוס, החסיד</persName>
                     <persName type="variant">Samuel ben Ḳalonymus</persName>
                     <note type="links">
@@ -18672,7 +18676,8 @@
                     <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_169.xml -->
                 </person>
                 <person xml:id="person_7086">
-                    <persName type="display">Ḥayyim Paltiel ben Jacob active 13th century-14th century</persName>
+                    <persName type="display">Ḥayyim Paltiel ben Jacob active 13th century-14th
+                        century</persName>
                     <persName type="variant" xml:lang="he">חיים פלטיאל, מפליזא</persName>
                     <persName type="variant">Ḥayyim Palṭiʾel</persName>
                     <note type="links">
@@ -18698,6 +18703,21 @@
                     <persName type="display">Shmuʾel Kohen</persName>
                     <persName type="variant" xml:lang="he">שמואל כהן</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_169.xml -->
+                </person>
+                <person xml:id="person_7090">
+                    <persName type="display">Capsali, Moses</persName>
+                    <persName type="variant" xml:lang="he">משה קפשלי</persName>
+                    <persName type="variant">Mosheh Capsali</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/308281185">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_218.xml -->
                 </person>
             </listPerson>
         </body>

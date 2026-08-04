@@ -55,48 +55,113 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>The Book of Memory: a commentary on the Torah; and poetic works</summary>
+                  <summary>Sefer ha-Zikaron (Commentary on the Torah); and poetic works</summary>
                   <msItem n="1">
-                     <locus>ff.1-212a</locus>
-                     <title xml:lang="he">ספר הזכרון : פרוש התורה</title>
-                     <title xml:lang="he-Latn-x-lc">Sefer ha-Zikkaron: perush ha-Torah</title>
+                     <locus>ff. 3r-212r</locus>
+                     <title xml:lang="he" key="work_3378">ספר הזכרון : פרוש התורה</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3378">Sefer ha-Zikaron: Perush
+                        ha-Torah</title>
                      <author key="person_7038">
-                        <persName>Eliah ben Samuel of Stephanow</persName>
+                        <persName>Elijah ben Samuel ben Parnes of Stephanow</persName>
                         <persName xml:lang="he">אליהו בן שמואל השטיפיוני</persName>
                      </author>
-                     <note>Marginal notes containing omissions and remarks of Yequtiel, the author's
-                        grandson.</note>
+                     <incipit>
+                        <foreign xml:lang="he">זה ספר הזכרון פשט התורה אשר חברתי אנכי אליהו הקטן
+                           בכ׳׳ר שמואל הקטן בן פרנס נ׳׳ע השטיפיוני</foreign> (<locus>f.
+                        3r</locus>)</incipit>
+                     <note>A grammatical and allegorical commentary on the Pentateuch.</note>
+                     <note>Autograph manuscript; the author mentions having begun writing the
+                        commentary on the 10th of Tevet 5229 (<date calendar="Gregorian"
+                        >1468</date>) (<locus>f. 3v</locus>), and having finished in 5230 (<locus>f.
+                           212r</locus>).</note>
+                     <note>Some of the <hi rend="italic">parashiyot</hi> have unusual names; for
+                        example, <hi rend="italic">Parashat Avraham <foreign xml:lang="he">פרשת
+                              אברהם</foreign></hi> for <hi rend="italic">Lekh Lekha</hi> and <hi
+                           rend="italic">Parashat Memra <foreign xml:lang="he">פרשת
+                           ממרא</foreign></hi> for <hi rend="italic">Vayera</hi>.</note>
+                     <note>Marginal notes by <persName>Yeḳutiel <foreign xml:lang="he"
+                              >יקותיאל</foreign></persName>, the author's grandson (he identifies
+                        himself as such on <locus>f. 124v</locus>).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
-                     <locus>ff. 212b-220</locus>
+                     <locus>ff. 212v-220v</locus>
                      <title type="desc">Poetic works</title>
+                     <author key="person_7038">
+                        <persName>Elijah ben Samuel ben Parnes of Stephanow</persName>
+                        <persName xml:lang="he">אליהו בן שמואל השטיפיוני</persName>
+                     </author>
+                     <note>Autograph manuscript.</note>
+                     <note>Includes both liturgical and secular poems. The liturgical poems are
+                        listed in Zunz, <hi rend="italic">Literaturgeschichte der synagogalen
+                           Poesie</hi>, pp. 387-8, and edited by <persName>Abraham Meir
+                           Habermanm</persName> in <hi rend="italic">Sefer ha-Yovel le-Rabi Ḥanokh
+                           Albeḳ</hi>, pp. 160-76.</note>
+                     <note>Several of the poems contains acrostics of the name of the author
+                           (<persName>Eliah <foreign xml:lang="he">אליה</foreign></persName>,
+                           <persName>Eliahu <foreign xml:lang="he">אליהו</foreign></persName> or
+                           <persName>Eliah ha-Ḳaṭon <foreign xml:lang="he">אליה
+                           הקטן</foreign></persName>), his father (<persName>Shmuʾel <foreign
+                              xml:lang="he">שמואל</foreign></persName>), his brother-in-law
+                           (<persName>Avraham <foreign xml:lang="he">אברהם</foreign></persName>),
+                        his grandfather (<persName>Parnes <foreign xml:lang="he"
+                           >פרנס</foreign></persName>) as well as the name <persName>Mosheh <foreign
+                              xml:lang="he">משה</foreign></persName>, in a poem written for
+                           <persName key="person_7090">Moses Capsali <foreign xml:lang="he">משה
+                              המכונה קפשלי</foreign></persName>.</note>
+                     <note>The collection also includes a short treatise on the calendar (<locus>ff.
+                           218r-220r</locus>), which was composed in <date calendar="Gregorian"
+                           >1468</date>.</note>
                      <textLang mainLang="he">Hebrew</textLang>
+
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>mixed (paper; outer sheets of quires made of parchment)</support>
-                        <extent>ff. 220</extent>
+                        <extent>ff. 220 <dimensions type="leaf" unit="mm">
+                              <height>185</height>
+                              <width>135</width>
+                           </dimensions></extent>
+                        <condition><locus>Ff. 1-2</locus> are deeply stained. The text on <locus>ff.
+                              1v-2r</locus> has been deliberately scraped off and is now
+                           illegible.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Byzantine semi-cursive script</summary>
                      <handNote/>
                   </handDesc>
-
+                  <decoDesc>
+                     <p>Abstract monochrome penwork decoration around the incipit on <locus>f.
+                           3r</locus>.</p>
+                  </decoDesc>
+                  <additions>
+                     <p>On <locus>f. 2v</locus>, a liturgical poem for Shabbat evening which
+                        contains the acrostic for '<persName>Eliahu ha-Ḳaṭon <foreign xml:lang="he"
+                              >אליהו הקטן</foreign></persName>'. Even though the handwriting is
+                        larger and more informal than the rest of the manuscript, it seems likely
+                        that the poem was also copied by <persName>Elijah ben Samuel</persName>
+                        himself, perhaps at a later time.</p>
+                  </additions>
+                  <bindingDesc>
+                     <p>Vellum on paper boards; the spine bears the former shelfmark '278' (printed
+                        on slip of paper which covers some writing in ink) and the current shelfmark
+                        '218' (painted in black). </p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate>1468-1470</origDate>
-                     <origPlace>Štip? (North Macedonia)</origPlace>
+                     <origDate calendar="Gregorian">1468-1470</origDate>
+                     <origPlace>Štip (North Macedonia)?</origPlace>
                   </origin>
-                  <provenance> </provenance>
+                  <provenance>On <locus>f. 3r</locus>, an ownership inscription by <persName>Shmuʾel
+                        Reuveni (?) <hi rend="italic">שמואל ראבני</hi></persName>.</provenance>
                   <acquisition>It belonged to the library of <persName key="person_7753200">David
                         Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
                      was purchased by the Bodleian Library in <date calendar="Gregorian"
-                        >1829</date>.</acquisition>
+                     >1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -126,6 +191,7 @@
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 16720</idno>
+                        <bibl><idno n="S.F. Or" type="microfilm">569</idno></bibl>
                      </bibl>
                   </surrogates>
                   <listBibl>
@@ -139,6 +205,15 @@
                         Press, 1994), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=74"
                            >no. 251.</ref></bibl>
+                     <bibl>Zunz, Leopold, <hi rend="italic">Literaturgeschichte der synagogalen
+                           Poesie</hi> (Berlin: L. Gerschel Verlagsbuchhandlung, 1865), pp.
+                        387-8.</bibl>
+                     <bibl>Neubauer, Adolf, 'Elijah ben Parnes', <hi rend="italic">Israelietische
+                           letterbode 8</hi> (1882-3): 55-57.</bibl>
+                     <bibl>Habermann, Abraham Meir, in <hi rend="italic">Sefer ha-Yovel
+                           le-Rabi Ḥanokh Albeḳ <foreign xml:lang="he">ספר היובל לחנוך
+                              אלבק</foreign></hi> (Jerusalem: Mosad ha-Rav Ḳuḳ, 1963), pp.
+                        160-176.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
