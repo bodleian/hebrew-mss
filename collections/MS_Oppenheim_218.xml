@@ -62,9 +62,16 @@
                      <title xml:lang="he-Latn-x-lc" key="work_3378">Sefer ha-Zikaron: Perush
                         ha-Torah</title>
                      <author key="person_7038">
-                        <persName>Elijah ben Samuel ben Parnes of Stephanow</persName>
+                        <persName>Elijah ben Samuel ben Parnes of Štip (North Macedonia)?</persName>
                         <persName xml:lang="he">אליהו בן שמואל השטיפיוני</persName>
                      </author>
+                     <note>While the hometown of the author had previously been identified as
+                        Stepanow on the river Prut (see Leopold Zunz, <hi rend="italic"
+                           >Literaturgeschichte der synagogalen Poesie</hi>, p. 387),
+                           <persName>Abraham Meir Habermanm</persName> (<hi rend="italic">Sefer
+                           ha-Yovel le-Rabi Ḥanokh Albeḳ</hi>, p. 161) has suggested <placeName
+                           key="place_110">Štip</placeName> in North Macedonia as a more plausible
+                        option.</note>
                      <incipit>
                         <foreign xml:lang="he">זה ספר הזכרון פשט התורה אשר חברתי אנכי אליהו הקטן
                            בכ׳׳ר שמואל הקטן בן פרנס נ׳׳ע השטיפיוני</foreign> (<locus>f.
@@ -88,7 +95,7 @@
                      <locus>ff. 212v-220v</locus>
                      <title type="desc">Poetic works</title>
                      <author key="person_7038">
-                        <persName>Elijah ben Samuel ben Parnes of Stephanow</persName>
+                        <persName>Elijah ben Samuel ben Parnes of Štip (North Macedonia)?</persName>
                         <persName xml:lang="he">אליהו בן שמואל השטיפיוני</persName>
                      </author>
                      <note>Autograph manuscript.</note>
@@ -154,7 +161,12 @@
                <history>
                   <origin>
                      <origDate calendar="Gregorian">1468-1470</origDate>
-                     <origPlace>Štip (North Macedonia)?</origPlace>
+                     <origPlace>Vidin (Bulgaria) or Constantinople?</origPlace>
+                     <note>According to Zunz, <hi rend="italic">Literaturgeschichte der synagogalen
+                           Poesie</hi>, p. 387, <persName key="person_7038">Elijah ben
+                           Samuel</persName> lived first in <placeName key="place_111"
+                           >Vidin</placeName> (Bulgaria) and later in <placeName key="place_112"
+                           >Constatinople</placeName>.</note>
                   </origin>
                   <provenance>On <locus>f. 3r</locus>, an ownership inscription by <persName>Shmuʾel
                         Reuveni (?) <hi rend="italic">שמואל ראבני</hi></persName>.</provenance>
@@ -210,10 +222,10 @@
                         387-8.</bibl>
                      <bibl>Neubauer, Adolf, 'Elijah ben Parnes', <hi rend="italic">Israelietische
                            letterbode 8</hi> (1882-3): 55-57.</bibl>
-                     <bibl>Habermann, Abraham Meir, in <hi rend="italic">Sefer ha-Yovel
-                           le-Rabi Ḥanokh Albeḳ <foreign xml:lang="he">ספר היובל לחנוך
-                              אלבק</foreign></hi> (Jerusalem: Mosad ha-Rav Ḳuḳ, 1963), pp.
-                        160-176.</bibl>
+                     <bibl>Habermann, Abraham Meir, '<foreign xml:lang="he">שירי רבי אליה בר שמואל
+                           משטיפו</foreign>', in <hi rend="italic">Sefer ha-Yovel le-Rabi Ḥanokh
+                           Albeḳ <foreign xml:lang="he">ספר היובל לחנוך אלבק</foreign></hi>
+                        (Jerusalem: Mosad ha-Rav Ḳuḳ, 1963), pp. 160-176.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
