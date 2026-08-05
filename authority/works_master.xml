@@ -16,6 +16,14 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3378">
+               <title type="uniform">Sefer ha-Zikaron: Perush ha-Torah</title>
+               <title type="variant">ספר הזכרון : פרוש התורה</title>
+               <title type="variant">Book of Memory</title>
+               <ref target="MS_Oppenheim_218-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_218.xml#MS_Oppenheim_218-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3377">
                <title type="uniform">Yotserot in the Ashkenazic rite for the whole year</title>
                <title type="variant">יוצרות מנהג אשכנז לכל השנה</title>

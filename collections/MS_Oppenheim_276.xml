@@ -59,18 +59,18 @@
                      Geonim</summary>
                   <msItem>
                      <title xml:lang="he">הוראות מחכמי צרפת ואשכנז ותשובות הגאונים</title>
-                     <title xml:lang="he-Latn-x-lc">Hora'ot me-ḥakhame Tsarfat ṿe-Ashkenaz
-                        ṿe-teshovot ha-Ge'onim</title>
-                     <textLang mainLang="he">Hebrew</textLang>
+                     <title xml:lang="he-Latn-x-lc">Horaʾot me-ḥokhmei Tsarfat ṿe-Ashkenaz
+                        utshuvot ha-Geʾonim</title>
                      <note>According to <persName ref="https://viaf.org/viaf/79163724">Avraham
                            Grossman</persName> (Jerusalem, 1981), 460, the decisions in this MS.
                         were collected by a pupil of <persName key="person_49010383">Isaac b. Samuel
                            of Dampierre</persName>.</note>
                      <note>Also quoted in the manuscript are <persName><lang xml:lang="he">הר"ר מאיר
-                              מריינשבורק</lang> Rabbi Meir of Reinsburg</persName> (<locus>fol.
+                              מריינשבורק</lang> Rabbi Meir of Reinsburg</persName> (<locus>f.
                            20v</locus>) and <persName><lang xml:lang="he">הר"ר אליקים כהן
                               מפריזבורק</lang> Rabbi Eliakim Cohen of Friesburg</persName>
-                           (<locus>fol. 34v</locus>).</note>
+                           (<locus>f. 34v</locus>).</note>
+                     <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
                <physDesc>
@@ -81,13 +81,23 @@
                               <height>205</height>
                               <width>150</width>
                            </dimensions></extent>
+                        <condition>The upper margins of <locus>ff. 55-63</locus> have been damaged
+                           and subsequently repaired using strips of paper; with the exception of
+                              <locus>f. 63</locus>, there is almost no loss of text.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic semi-cursive script</summary>
                      <handNote/>
                   </handDesc>
-
+                  <bindingDesc>
+                     <p>Vellum on thin wooden boards, rebacked in vellum of a darker shade; the
+                        current shelfmark has been stamped in black at the base of the spine.</p>
+                     <condition>Some fragments of vellum/parchment that contains a description of
+                        the content of the text in a seventeenth-century cursive hand has been glued
+                        to the inner side of the upper board; this may have been part of a previous
+                        binding.</condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
@@ -98,7 +108,7 @@
                   <acquisition>It belonged to the library of <persName key="person_7753200">David
                         Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
                      was purchased by the Bodleian Library in <date calendar="Gregorian"
-                        >1829</date>.</acquisition>
+                     >1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -129,6 +139,7 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 19437</idno>
                      </bibl>
+                     <bibl><idno n="S.F. Or" type="microfilm">648</idno></bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
