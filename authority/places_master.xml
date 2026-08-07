@@ -169,6 +169,11 @@
                <placeName type="index" source="LCSH">Ichenhausen (Germany)</placeName>
                <!-- Found in: ../collections/MS_Laud_Or_233.xml -->
             </place>
+            <place xml:id="place_112">
+               <placeName type="index" source="TGN">Istanbul</placeName>
+               <placeName type="variant" source="TGN">Constantinople</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_218.xml -->
+            </place>
             <place xml:id="place_38">
                <placeName type="index" source="bodl">Jerusalem</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_c_13.xml -->
@@ -299,6 +304,10 @@
                <placeName type="index" source="#INDEX">Spain</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_f_34.xml -->
             </place>
+            <place xml:id="place_110">
+               <placeName type="index" source="TGN">Štip</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_218.xml -->
+            </place>
             <place xml:id="place_1">
                <placeName type="index" source="LCSH">Ṣanʻāʼ (Yemen)</placeName>
                <!-- Found in: ../collections/MS_Oppenheim_Add_4_97a.xml -->
@@ -330,6 +339,10 @@
             <place xml:id="place_32">
                <placeName type="index" source="bodl">Venice</placeName>
                <!-- Found in: ../collections/MS_Laud_Or_314.xml -->
+            </place>
+            <place xml:id="place_111">
+               <placeName type="index" source="TGN">Vidin</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_218.xml -->
             </place>
             <place xml:id="place_43">
                <placeName type="index" source="#INDEX">Vitry</placeName>

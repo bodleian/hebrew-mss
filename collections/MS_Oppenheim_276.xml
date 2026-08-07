@@ -55,12 +55,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Teaching from the Sages of France and Ashkenaz, and answers of the
+                  <summary>Teachings from the Sages of France and Ashkenaz, and answers from the
                      Geonim</summary>
                   <msItem>
                      <title xml:lang="he">הוראות מחכמי צרפת ואשכנז ותשובות הגאונים</title>
-                     <title xml:lang="he-Latn-x-lc">Horaʾot me-ḥokhmei Tsarfat ṿe-Ashkenaz
-                        utshuvot ha-Geʾonim</title>
+                     <title xml:lang="he-Latn-x-lc">Horaʾot me-ḥokhmei Tsarfat ṿe-Ashkenaz utshuvot
+                        ha-Geʾonim</title>
+                     <incipit><foreign xml:lang="he">העתקתי בקוצר הוראות נעתקות ממכתב ר׳ חיים כהן
+                           מקבלת רבינו אכשלרד ומקבלת רבינו שמואל ע׳׳ה</foreign> (<locus>f.
+                           1r</locus>)</incipit>
                      <note>According to <persName ref="https://viaf.org/viaf/79163724">Avraham
                            Grossman</persName> (Jerusalem, 1981), 460, the decisions in this MS.
                         were collected by a pupil of <persName key="person_49010383">Isaac b. Samuel

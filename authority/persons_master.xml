@@ -6901,8 +6901,9 @@
                     <persName type="display">Rafael Galiḳo</persName>
                 </person>
                 <person xml:id="person_7038">
-                    <persName type="display">Elijah ben Samuel ben Parnes of Stephanow</persName>
+                    <persName type="display">Elijah ben Samuel ben Parnes of Štip (North Macedonia)?</persName>
                     <persName type="display" xml:lang="he">אליהו בן שמואל השטיפיוני</persName>
+                    <persName type="variant">Elijah ben Samuel ben Parnes of Stephanow</persName>
                     <note type="links"><list type="links">
                             <item><ref
                                     target="https://www.jewishencyclopedia.com/articles/5671-elijah-ben-samuel-ben-parnes-of-stephanow"
