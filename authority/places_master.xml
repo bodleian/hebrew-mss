@@ -39,6 +39,10 @@
                <placeName type="index" source="TGN">Anderlues</placeName>
                <!-- Found in: ../collections/MS_Michael_616.xml -->
             </place>
+            <place xml:id="place_113">
+               <placeName type="index" source="TGN">Ascoli Piceno</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_314.xml -->
+            </place>
             <place xml:id="place_4">
                <placeName type="index" source="#IMHM">Avignon</placeName>
                <!-- Found in: ../collections/MS_Canonici_Or_79.xml -->
@@ -112,6 +116,10 @@
                <placeName type="index" source="TGN">Evreux</placeName>
                <placeName type="variant" xml:lang="he" source="bodl">אייברא</placeName>
                <!-- Found in: ../collections/MS_Digby_Or_34.xml -->
+            </place>
+            <place xml:id="place_114">
+               <placeName type="index" source="TGN">Fano</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_314.xml -->
             </place>
             <place xml:id="place_54">
                <placeName type="index" source="bodl #INDEX #TYPED">Fez</placeName>
@@ -279,7 +287,8 @@
             </place>
             <place xml:id="place_87">
                <placeName type="index" source="TGN">Saint-Symphorien-d'Ozon</placeName>
-               <placeName type="variant" xml:lang="he" source="bodl">שנשפורין מתא דיתבא על נהר אוזון</placeName>
+               <placeName type="variant" xml:lang="he" source="bodl">שנשפורין מתא דיתבא על נהר
+                  אוזון</placeName>
                <!-- Found in: ../collections/MS_Oppenheim_338.xml -->
             </place>
             <place xml:id="place_12">
@@ -357,7 +366,8 @@
                <!-- Found in: ../collections/MS_Canonici_Or_49B.xml -->
             </place>
             <place xml:id="place_67">
-               <placeName type="index" source="bodl">Kaftor Island at the mouth of the Nile</placeName>
+               <placeName type="index" source="bodl">Kaftor Island at the mouth of the
+                  Nile</placeName>
                <placeName type="variant" source="bodl">אי כפתור at the mouth of the Nile</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_b_3.xml -->
             </place>

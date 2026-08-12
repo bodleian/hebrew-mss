@@ -4866,6 +4866,8 @@
                 </person>
                 <person xml:id="person_16162179007907852870">
                     <persName type="display">Laurentius Franguellus</persName>
+                    <persName type="variant">Lorenzo Franguelo</persName>
+                    <persName type="variant">Lorennzo Franguelo</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -6912,8 +6914,9 @@
                     </note>
                 </person>
                 <person xml:id="person_7039">
-                    <persName type="display">Solomon ben Shabti</persName>
+                    <persName type="display">Shlomoh ben Shabtai</persName>
                     <persName type="display" xml:lang="he">שלמה בן שבתי</persName>
+                    <persName type="display">Solomon ben Shabbetai</persName>
                 </person>
                 <person xml:id="person_7040">
                     <persName type="display">Shem Tov ben Judah ibn Meyor</persName>
@@ -18719,6 +18722,46 @@
                         </list>
                     </note>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_218.xml -->
+                </person>
+                <person xml:id="person_7091">
+                    <persName type="display">Grossman, Avraham</persName>
+                    <persName type="variant" xml:lang="he">אברהם גרוסמן</persName>
+                    <persName type="variant">Avraham Grossman</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/2086149198324774940004">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_276.xml -->
+                </person>
+                <person xml:id="person_7092">
+                    <persName type="display">Anav, Judah ben Benjamin, ha-Rofe, active 13th century</persName>
+                    <persName type="variant" xml:lang="he">יהודה בן בנימין ענו</persName>
+                    <persName type="variant">Judah ben Benjamin Anav</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/97226458">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_314.xml -->
+                </person>
+                <person xml:id="person_7093">
+                    <persName type="display">Ezra of Fano</persName>
+                    <persName type="variant" xml:lang="he">עזרא מפאנו</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_314.xml -->
+                </person>
+                <person xml:id="person_7094">
+                    <persName type="display">Binyamin ben Avraham ha-Rofe</persName>
+                    <persName type="variant" xml:lang="he">בנימין בן אברהם הרופא</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_314.xml -->
                 </person>
             </listPerson>
         </body>

@@ -55,19 +55,47 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Solomon ben Shabti's commentary on the Questioning of Rabbi Ahay
-                     Gaon</summary>
+                  <summary>Shlomoh ben Shabtai's commentary on the <hi rend="italic">Sheʾiltot</hi>
+                     by Rabbi Aḥai Gaon</summary>
                   <msItem>
                      <title type="desc" xml:lang="he">פרוש שאלתות של רב אחאי גאון</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Perush Shaltot shel Rav Aḥay
+                     <title type="desc" xml:lang="he-Latn-x-lc">Perush Sheʾiltot shel Rav Aḥai
                         Gaon</title>
                      <author key="person_7039">
-                        <persName>Solomon ben Shabti</persName>
+                        <persName>Shlomoh ben Shabtai</persName>
                         <persName xml:lang="he">שלמה בן שבתי</persName>
                      </author>
-                     <editor role="scr">
-                        <persName>Benjamin ben Abraham, ha-Rophe</persName>
-                     </editor>
+                     <author key="person_7092">
+                        <persName>Judah ben Benjamin Anav</persName>
+                        <persName xml:lang="he">יהודה בן בנימין ענו</persName>
+                     </author>
+                     <note>The author quotes the <hi rend="italic">Arukh</hi> as the latest
+                        authority, and employs Italian words.</note>
+                     <note>Up to the second <hi rend="italic">Sheʾilta</hi> of <hi rend="italic"
+                           >parashat ki tavo</hi> (<locus>f. 77v</locus>), the commentary is by
+                           <persName key="person_7039">Shlomoh ben Shabtai</persName>; from this
+                        point on until the end, the commentary is that of <persName
+                           key="person_7092">Judah ben Benjamin Anav</persName>. This change in the
+                        commentary text is signalled by the scribe on <locus>ff. 77v,
+                        90v</locus>.</note>
+                     <note>One of the scribes, <persName key="person_7094">Binyamin ben Avraham
+                           ha-Rofe <foreign xml:lang="he">בנימין בן אברהם
+                        הרופא</foreign></persName>, added his own comments which are integrated
+                        within the main text block. Some of his comments are signed <foreign
+                           xml:lang="he">צעיר רודם</foreign>, which is likely to be a circumlocution
+                        for the name Binyamin (Cf. Psalm 68:28).</note>
+                     <note>The <hi rend="italic">Sheʾiltot</hi> after the Pentateuch differ from the
+                        edition.</note>
+                     <note>At the end of the manuscript there are few short texts, headed <foreign
+                           xml:lang="he">מילי חסידותא</foreign> and copied also by the scribe
+                           <persName>Binyamin ben Avraham ha-Rofe</persName>. These include a list
+                        of Tannaʾim and Amoraʾim (<locus>ff. 90v-92r</locus>), a short treatise on
+                        the practice of <hi rend="italic">nikkur ha-basar</hi> attributed to
+                           '<persName>Rabbenu Shlomoh <foreign xml:lang="he">רבינו שלומה
+                              זצוק״ל</foreign></persName>' (probably <persName key="person_19684048"
+                           >Rashi</persName>) (<locus>ff. 92r-92v</locus>); and some kabbalistic
+                        rules on the writing of Hebrew letters in ritual scrolls (<locus>f.
+                           92v</locus>).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -75,30 +103,51 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 93</extent>
+                        <extent>ff. 92 <dimensions type="leaf" unit="mm">
+                              <height>210</height>
+                              <width>150</width>
+                           </dimensions></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Italian semi-cursive script</summary>
-                     <handNote><locus from="1r" to="42r">Fols. Ir-42r, l. 5</locus> are written by
-                        another hand (or two hands).</handNote>
+                     <handNote><locus>Ff. 1r-42r (until just before the end of the fifth
+                           line)</locus> were copied by an anonymous scribe. The remainder of the
+                        manuscript (<locus>ff. 42r (from the end of the fifth line)-92v</locus>) was
+                        copied by <persName>Binyamin ben Avraham ha-Rofe <foreign xml:lang="he"
+                              >בנימין בן אברהם הרופא</foreign></persName>, whose colophon is found
+                        on <locus>f. 77v</locus>.</handNote>
                   </handDesc>
-
+                  <bindingDesc>
+                     <p>Marbled paper over paper boards, quarter-bound in smooth golden leather. The
+                        current shelfmark has been gold-tooled on the spine.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>[second half of 13th cent.]</origDate>
                      <origPlace>[Italy]</origPlace>
                   </origin>
-                  <provenance> Several listed censors: <persName key="person_315200936">Giovanni
-                        Domenico Carretto</persName>, <persName key="person_79251093">Dominico
-                        Irosolimitano</persName>, <persName key="person_13163810144338820957"
-                        >Alessandro Scipione</persName>, and <persName
-                        key="person_16162179007907852870">Laurentius Franguellus</persName>. </provenance>
+                  <provenance>
+                     <p>On f. 1r, ownership inscriptions in sixteenth- to seventeenth-century hands
+                        by <persName>Mosheh ben Nun (?) <foreign xml:lang="he">משה בן
+                           נון</foreign></persName>, <persName>Shmuʾel ben Mosheh of Ascolo
+                              (<placeName key="place_113">Ascoli Piceno?</placeName>) <foreign
+                              xml:lang="he">שמואל בן משה מאסקולו</foreign></persName> who was
+                        probably the former's son, and <persName>Ezra of <placeName key="place_114"
+                              >Fano</placeName>
+                           <foreign xml:lang="he">עזרא מפאנו</foreign></persName>.</p>
+                     <p>At the end of the manuscript, censorship certificates by <persName
+                           key="person_315200936">Giovanni Domenico Carretto</persName> (<date
+                           calendar="Gregorian">1617</date>, <locus>f. 92r</locus>); <persName
+                           key="person_79251093">Dominico Irosolimitano</persName>, <persName
+                           key="person_13163810144338820957">Alessandro Scipione</persName>, and
+                           <persName key="person_16162179007907852870">Lorennzo Franguelo</persName>
+                        (no date, <locus>f. 92v</locus>).</p></provenance>
                   <acquisition>It belonged to the library of <persName key="person_7753200">David
                         Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
                      was purchased by the Bodleian Library in <date calendar="Gregorian"
-                        >1829</date>.</acquisition>
+                     >1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -129,6 +178,7 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 19412</idno>
                      </bibl>
+                     <bibl><idno n="S.F. Or" type="microfilm">641</idno></bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in

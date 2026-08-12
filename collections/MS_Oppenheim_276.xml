@@ -59,20 +59,26 @@
                      Geonim</summary>
                   <msItem>
                      <title xml:lang="he">הוראות מחכמי צרפת ואשכנז ותשובות הגאונים</title>
-                     <title xml:lang="he-Latn-x-lc">Horaʾot me-ḥokhmei Tsarfat ṿe-Ashkenaz utshuvot
+                     <title xml:lang="he-Latn-x-lc">Horaʾot me-ḥakhmei Tsarfat ṿe-Ashkenaz utshuvot
                         ha-Geʾonim</title>
                      <incipit><foreign xml:lang="he">העתקתי בקוצר הוראות נעתקות ממכתב ר׳ חיים כהן
                            מקבלת רבינו אכשלרד ומקבלת רבינו שמואל ע׳׳ה</foreign> (<locus>f.
                            1r</locus>)</incipit>
-                     <note>According to <persName ref="https://viaf.org/viaf/79163724">Avraham
-                           Grossman</persName> (Jerusalem, 1981), 460, the decisions in this MS.
-                        were collected by a pupil of <persName key="person_49010383">Isaac b. Samuel
-                           of Dampierre</persName>.</note>
-                     <note>Also quoted in the manuscript are <persName><lang xml:lang="he">הר"ר מאיר
-                              מריינשבורק</lang> Rabbi Meir of Reinsburg</persName> (<locus>f.
-                           20v</locus>) and <persName><lang xml:lang="he">הר"ר אליקים כהן
-                              מפריזבורק</lang> Rabbi Eliakim Cohen of Friesburg</persName>
-                           (<locus>f. 34v</locus>).</note>
+                     <note>A collection of legal decisions pertaining to the laws of <hi
+                           rend="italic">kashrut</hi>, menstruation (<hi rend="italic">niddah</hi>)
+                        and festivals, by Rabbis from France and the Rhineland as well as the
+                        Geonim.</note>
+                     <note>According to <persName key="person_7091">Avraham Grossman</persName> (<hi
+                           rend="italic">Ḥakhme Ashkenaz ha-rishonim</hi>, p. 460), the decisions in
+                        this manuscript were collected by a pupil of <persName key="person_49010383"
+                           >Isaac b. Samuel of Dampierre</persName>.</note>
+                     <note>Rabbinic authorities cited in the manuscript include <persName> Meʾir of
+                           Reinsburg (Regensburg?) <foreign xml:lang="he">מאיר מריינשבורק</foreign>
+                        </persName> (<locus>f. 20v</locus>), <persName>Eliaḳim Kohen of Friesburg
+                           (Friedberg?) <lang xml:lang="he">אליקים כהן מפריזבורק</lang></persName>
+                           (<locus>f. 34v</locus>), and <persName>Shmuʾel of Argenton <lang
+                              xml:lang="he">שמואל דארגאנטון</lang></persName> (<locus>f.
+                        61r</locus>).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -91,16 +97,26 @@
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic semi-cursive script</summary>
-                     <handNote/>
+                     <handNote>Within the first 40 folios of the manuscript, the handwriting becomes
+                        progressively smaller, to the point where the scribe was able to accommodate
+                        almost twice the number of lines (37 compared to 22 lines) on each page;
+                        from <locus>f. 41r</locus> onwards, at the beginning of the section
+                        containing laws on festivals, the script becomes larger once again, and only
+                        reduces slightly in size towards the end (29 compared to 21-23 lines per
+                        page).</handNote>
                   </handDesc>
                   <bindingDesc>
                      <p>Vellum on thin wooden boards, rebacked in vellum of a darker shade; the
                         current shelfmark has been stamped in black at the base of the spine.</p>
-                     <condition>Some fragments of vellum/parchment that contains a description of
-                        the content of the text in a seventeenth-century cursive hand has been glued
-                        to the inner side of the upper board; this may have been part of a previous
-                        binding.</condition>
+                     <condition><p>Some fragments of vellum/parchment that contains a description of
+                           the content of the text in a seventeenth-century cursive hand has been
+                           glued to the inner side of the upper board; this may have been part of a
+                           previous binding.</p>
+                     </condition>
                   </bindingDesc>
+                  <accMat>Thin strips of parchment (some blank and some with text) cut out from a
+                     small-format biblical manuscript in Hebrew (the legible portions are from
+                     Ezekiel) have been used as sewing guards in the middle of the quires.</accMat>
                </physDesc>
                <history>
                   <origin>
@@ -155,6 +171,9 @@
                         Press, 1994), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=99"
                            >no. 566.</ref></bibl>
+                     <bibl>Grossman, Avraham, <hi rend="italic">Ḥakhme Ashkenaz ha-rishonim <foreign
+                              xml:lang="he">חכמי אשכנז הראשונים</foreign></hi> (Jerusalem: Magnes
+                        Press, 1981), p. 460.</bibl>
                   </listBibl>
                </additional>
             </msDesc>

@@ -20,7 +20,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -39,30 +40,38 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 299</idno>
-               <altIdentifier type="other">
-                  <idno type="Neubauer">544</idno>
-               </altIdentifier>
-               <altIdentifier type="former">
-                  <idno>MS. Oppenheim 611</idno>
-               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">544</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Oppenheim 611</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
                   <summary>Hai ben Sherira's Book of Bargaining and Selling</summary>
                   <msItem>
                      <title xml:lang="he">מקח וממכר</title>
                      <title xml:lang="he-Latn-x-lc">Meḳaḥ u-mimkar</title>
-                  <author key="person_63993515">
-                     <persName>Hai ben Sherira, 939-1038</persName>
-                     <persName xml:lang="he">האי בן שרירא, גאון, 939-1038</persName>
-                  </author>
-                  <editor role="scr">
-                     <persName>Gershom ben Solomon</persName>
-                     <persName>גרשם בן שלמה</persName>
-                  </editor>                  
-                     <note>The colophon (<locus>fol. 102v</locus>, even under ultra-violet lamp or with infra-red photography, is partly illegible and has been partly rewritten. It is surrounded by micrography, which seems to contain the beg. of the colophon.</note>
-                     <note>The colophon is followed by a partly illegible poem. Many letters in the poem are pointed out, and a late Ashkenazic cursive hand combined them into a long genealogy:<lang xml:lang="he">חזקיה ברבי אליקים בר יוסף ברבי אורי בר אליעזר בנו</lang> (<lang xml:lang="he-Latn-x-lc">Ḥezeḳiah varbi 'Eliḳim bar Yosef barbi 'Ori bar 'Eliezar beno</lang>), but the pointing out is most likely not by the original scribe.</note>
-                    <textLang mainLang="he">Hebrew</textLang>  
-                  </msItem>                  
+                     <author key="person_63993515">
+                        <persName>Hai ben Sherira, 939-1038</persName>
+                        <persName xml:lang="he">האי בן שרירא, גאון, 939-1038</persName>
+                     </author>
+                     <editor role="scr">
+                        <persName>Gershom ben Solomon</persName>
+                        <persName>גרשם בן שלמה</persName>
+                     </editor>
+                     <note>The colophon (<locus>fol. 102v</locus>, even under ultra-violet lamp or
+                        with infra-red photography, is partly illegible and has been partly
+                        rewritten. It is surrounded by micrography, which seems to contain the beg.
+                        of the colophon.</note>
+                     <note>The colophon is followed by a partly illegible poem. Many letters in the
+                        poem are pointed out, and a late Ashkenazic cursive hand combined them into
+                        a long genealogy:<lang xml:lang="he">חזקיה ברבי אליקים בר יוסף ברבי אורי בר
+                           אליעזר בנו</lang> (<lang xml:lang="he-Latn-x-lc">Ḥezeḳiah varbi 'Eliḳim
+                           bar Yosef barbi 'Ori bar 'Eliezar beno</lang>), but the pointing out is
+                        most likely not by the original scribe.</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
@@ -82,35 +91,58 @@
                      <origDate> 1126/7?</origDate>
                      <origPlace>[Byzantium?]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
+                  <provenance> </provenance>
+                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was
+                     purchased by the Bodleian Library in 1829.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=98">No. 544</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=96">No. 544</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=98"
+                              >No. 544</ref>, <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=96"
+                              >No. 544</ref>, and on the data of the Institute of Microfilmed Hebrew
+                           Manuscripts, National Library of Israel with additional enhancements by
+                           the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 19415</idno>
                      </bibl>
+                     <bibl><idno n="S.F. Or" type="microfilm">54</idno></bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=98">no. 544.</ref></bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=96">no. 544.</ref></bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=98"
+                           >no. 544.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=96"
+                           >no. 544.</ref></bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
