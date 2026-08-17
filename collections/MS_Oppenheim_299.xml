@@ -8,6 +8,10 @@
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -46,9 +50,13 @@
                   <altIdentifier type="former">
                      <idno>MS. Oppenheim 611</idno>
                   </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">21093</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Hai ben Sherira's Book of Bargaining and Selling</summary>
+                  <summary>Hai ben Sherira's Book of Purchases and Sales (Sefer Meḳaḥ u-Mimkar): in
+                     Hebrew</summary>
                   <msItem>
                      <title xml:lang="he">מקח וממכר</title>
                      <title xml:lang="he-Latn-x-lc">Meḳaḥ u-mimkar</title>
@@ -56,20 +64,27 @@
                         <persName>Hai ben Sherira, 939-1038</persName>
                         <persName xml:lang="he">האי בן שרירא, גאון, 939-1038</persName>
                      </author>
-                     <editor role="scr">
-                        <persName>Gershom ben Solomon</persName>
-                        <persName>גרשם בן שלמה</persName>
-                     </editor>
-                     <note>The colophon (<locus>fol. 102v</locus>, even under ultra-violet lamp or
-                        with infra-red photography, is partly illegible and has been partly
-                        rewritten. It is surrounded by micrography, which seems to contain the beg.
-                        of the colophon.</note>
-                     <note>The colophon is followed by a partly illegible poem. Many letters in the
-                        poem are pointed out, and a late Ashkenazic cursive hand combined them into
-                        a long genealogy:<lang xml:lang="he">חזקיה ברבי אליקים בר יוסף ברבי אורי בר
-                           אליעזר בנו</lang> (<lang xml:lang="he-Latn-x-lc">Ḥezeḳiah varbi 'Eliḳim
-                           bar Yosef barbi 'Ori bar 'Eliezar beno</lang>), but the pointing out is
-                        most likely not by the original scribe.</note>
+                     <note>The beginning of the manuscript is defective; it currently begins halfway
+                        through Chapter 6.</note>
+                     <note>Chapters 8-12 have been edited by <persName>Shraga Abramson</persName>,
+                        alongside two other Hebrew translations and the original text in Arabic, in
+                           <hi rend="italic">Jubilee Volume in Honour of Moreinu Hagaon Rabbi Joseph
+                           B. Soloveitchik</hi>, volume 2 (Jerusalem and New York, 1984), pp.
+                        1312-79, where it is described as the most accurate, though not the most
+                        elegant, of the three translations.</note>
+                     <note>The colophon (<locus>f. 102v</locus>), even under ultra-violet lamp or
+                        with infra-red photography, is partly illegible due to the fading of the ink
+                        and the staining of the parchment, and has been partly rewritten by a later,
+                        Sephardic hand.</note>
+                     <note>The colophon is followed by a partly-illegible poem in the scribal hand.
+                        Each line appears to contain one word which either directly refers to, or
+                        indirectly puns on, a different personal name; these words have been pointed
+                        out either by the scribe or by a later hand. On the side margin, a
+                        seventeenth-century Ashkenazic hand had combined the names into a genealogy:
+                           <lang xml:lang="he">חזקיה ברבי אליקים בר יוסף ברבי אורי בן יצחק בר אליעזר
+                           בר אלי בנו שלמה גרשם </lang> (<lang xml:lang="he-Latn-x-lc">Ḥezeḳiah
+                           berabi Eliaḳim bar Yosef berabi Ori ben Yiẓḥak bar Eliʿezer bar Eli beno
+                           Shlomoh Gershom</lang>).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -77,23 +92,79 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 102</extent>
+                        <extent>ff. 102 <dimensions type="leaf" unit="mm">
+                              <height>270</height>
+                              <width>200</width>
+                           </dimensions></extent>
+                        <foliation>Numbered once every five folios (the numbered folios are
+                              <locus>ff. 5, 10, 15</locus>, etc.).</foliation>
+                        <condition><locus>Ff. 1-2, 101-2</locus> are deeply stained and some of the
+                           text has become illegible.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Byzantine (?) square script</summary>
-                     <handNote/>
+                     <summary>Ashkenazic square script</summary>
+                     <handNote><p>Copied by <persName key="person_7095">Gershom ben Shlomoh <foreign
+                                 xml:lang="he">גרשם בן שלמה</foreign>
+                           </persName>, who left a colophon (now barely legible) on <locus>f.
+                              102v</locus>.</p>
+                        <p>The script is unusual and closely resembles that in Wrocław University
+                           Library, Ms. F 46888 (6), which was copied in <placeName key="place_115"
+                              >Münster</placeName> in <date calendar="Gregorian">1285</date>; it
+                           therefore seems likely that this manuscript was also produced in the
+                           German lands during the late-thirteenth century, and Beit-Arié's
+                           localisation of the manuscript to Byzantium is almost certainly mistaken. </p>
+                        <p>To mark the end of one chapter and the beginning of the next, the scribe
+                           made use of a peculiar graphic symbol (shaped like a reversed letter 's'
+                           in double outline; these are used especially consistently from <locus>f.
+                              69r</locus> onwards) to mark the end of one chapter and the beginning
+                           of the next. There are very similar symbols that perform the same
+                           function in the 'Birds' Head Haggadah' (Jerusalem, Israel Museum, MS
+                           180/57; Rhineland, c. <date calendar="Gregorian"
+                        >1300</date>).</p></handNote>
                   </handDesc>
-
+                  <decoDesc>
+                     <p>A simple micrographical frame and some foliate and abstract penwork
+                        decoration (now only partly visible) around the colophon on <locus>f.
+                           102v</locus>.</p>
+                     <p>Both the style of the foliate penwork decoration and the use of micrography
+                        to form simple abstract shapes closely mirror the decorative scheme of the
+                        manuscript produced in Münster in 1285, mentioned above (Wrocław University
+                        Library, Ms. F 46888 (6)).</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Dark brown fine-grained leather over thick wooden boards, with simple
+                        blind-tooled decoration on upper and lower boards.</p>
+                     <condition>The manuscript has been rebacked in dark brown fine-grained leather,
+                        with the current shelfmark gold-tooled at the base of the spine; the same
+                        leather has been used for a few smaller repairs. Two clasps now
+                        missing.</condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate> 1126/7?</origDate>
-                     <origPlace>[Byzantium?]</origPlace>
+                     <origDate calendar="Gregorian">[1266/7?]</origDate>
+                     <origPlace>[Germany?]</origPlace>
+                     <note>In the scribal colophon, the date of the completion of the manuscript had
+                        faded and was retraced by another hand several centuries later. The retraced
+                        date could be either <foreign xml:lang="he">קכז</foreign> (<date
+                           calendar="Gregorian">1366/7</date>) or <foreign xml:lang="he"
+                           >קפז</foreign> (<date calendar="Gregorian">1426/7</date>); Beit-Arié has
+                        suggested that, due to the absence of superscript marking on the first of
+                        these letters in the scribal hand, the original date was probably <foreign
+                           xml:lang="he">פז</foreign> (but for some reason, he derived from this not
+                           <date calendar="Gregorian">1326/7</date> but <date calendar="Gregorian"
+                           >1166/7</date>). On the basis of the resemblance of the script and the
+                        decoration to other German manuscripts from the late-thirteenth century, it
+                        seems that a reading of the date as <foreign xml:lang="he">כז</foreign>
+                           (<date calendar="Gregorian">1266/7</date>) is the most probable, but this
+                        is far from certain.</note>
                   </origin>
                   <provenance> </provenance>
-                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was
-                     purchased by the Bodleian Library in 1829.</acquisition>
+                  <acquisition>It belonged to the library of <persName key="person_7753200">David
+                        Oppenheim</persName> (<date calendar="Gregorian">1664-1736</date>), which
+                     was purchased by the Bodleian Library in <date calendar="Gregorian"
+                     >1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -137,6 +208,11 @@
                         Press, 1994), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=96"
                            >no. 544.</ref></bibl>
+                     <bibl>Shraga Abramson, 'Five Sections of Rabbi Hai Gaon's "Sefer Hamekach"' (in
+                        Hebrew), in Shaul Israeli, Norman Lamm and Yitzchak Raphael (eds), <hi
+                           rend="italic">Jubilee Volume in Honour of Moreinu Hagaon Rabbi Joseph B.
+                           Soloveitchik</hi>, volume 2 (Jerusalem and New York, 1984), pp.
+                        1312-79.</bibl>
                   </listBibl>
                </additional>
             </msDesc>

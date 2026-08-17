@@ -16,6 +16,42 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3382">
+               <title type="uniform">Sefer Ḥasidim</title>
+               <title type="variant" xml:lang="he">ספר חסידים</title>
+               <title type="variant">The Book of the Pious</title>
+               <title type="variant" xml:lang="he">ספר החסידות</title>
+               <title type="variant">Sefer ha-Ḥasidut</title>
+               <ref target="MS_Oppenheim_340-item3"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_340.xml#MS_Oppenheim_340-item3 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3381">
+               <title type="uniform">Meḳaḥ u-Mimkar</title>
+               <title type="variant" xml:lang="he">מקח וממכר</title>
+               <title type="variant">Purchases and Sales</title>
+               <ref target="MS_Oppenheim_299-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_299.xml#MS_Oppenheim_299-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3380">
+               <title type="uniform">Commentary on the Sheʾiltot by Rabbi Aḥai Gaon</title>
+               <title type="variant" xml:lang="he">פרוש שאלתות של רב אחאי גאון</title>
+               <title type="variant">Perush Sheʾiltot shel Rav Aḥai Gaon</title>
+               <ref target="MS_Oppenheim_314-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_314.xml#MS_Oppenheim_314-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3379">
+               <title type="uniform">Teachings from the Sages of France and Ashkenaz, and answers
+                  from the Geonim</title>
+               <title type="variant" xml:lang="he">הוראות מחכמי צרפת ואשכנז ותשובות הגאונים</title>
+               <title type="variant">Horaʾot me-ḥakhmei Tsarfat ṿe-Ashkenaz utshuvot
+                  ha-Geʾonim</title>
+               <ref target="MS_Oppenheim_276-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_276.xml#MS_Oppenheim_276-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3378">
                <title type="uniform">Sefer ha-Zikaron: Perush ha-Torah</title>
                <title type="variant">ספר הזכרון : פרוש התורה</title>
@@ -19023,11 +19059,18 @@
             </bibl>
             <bibl xml:id="work_43">
                <title type="uniform">Sefer Mitsṿot Ḳaṭan (The Small Book of Commandments)</title>
-               <title type="variant">ספר מצוות קטן</title>
+               <title type="variant" xml:lang="he">ספר מצוות קטן</title>
+               <title type="variant" xml:lang="he">עמודי גולה</title>
+               <title type="variant">Amudei Golah</title>
+               <title type="variant">Amudei ha-Golah</title>
+               <title type="variant">The Pillars of Exile</title>
+               <title type="variant">SeMaK</title>
                <ref target="MS_Canonici_Or_30-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Canonici_Or_30.xml#MS_Canonici_Or_30-item1 -->
                <ref target="MS_Canonici_Or_98-part2-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Canonici_Or_98.xml#MS_Canonici_Or_98-part2-item1 -->
+               <ref target="MS_Oppenheim_340-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_340.xml#MS_Oppenheim_340-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_212">
@@ -19248,10 +19291,14 @@
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_410">
-               <title type="uniform">Sefer ha-yirʼah</title>
-               <title type="variant">ספר היראה</title>
+               <title type="uniform">Sefer ha-Yirʾah</title>
+               <title type="variant" xml:lang="he">ספר היראה</title>
+               <title type="variant">Sefer ha-Yirah</title>
+               <title type="variant">The Book of Awe</title>
                <ref target="MS_Laud_Or_106-item3"/>
                <!-- ../../hebrew-mss/collections/MS_Laud_Or_106.xml#MS_Laud_Or_106-item3 -->
+               <ref target="MS_Oppenheim_340-item2"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_340.xml#MS_Oppenheim_340-item2 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_419">

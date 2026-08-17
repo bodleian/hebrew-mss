@@ -6903,7 +6903,8 @@
                     <persName type="display">Rafael Galiḳo</persName>
                 </person>
                 <person xml:id="person_7038">
-                    <persName type="display">Elijah ben Samuel ben Parnes of Štip (North Macedonia)?</persName>
+                    <persName type="display">Elijah ben Samuel ben Parnes of Štip (North
+                        Macedonia)?</persName>
                     <persName type="display" xml:lang="he">אליהו בן שמואל השטיפיוני</persName>
                     <persName type="variant">Elijah ben Samuel ben Parnes of Stephanow</persName>
                     <note type="links"><list type="links">
@@ -18739,7 +18740,8 @@
                     <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_276.xml -->
                 </person>
                 <person xml:id="person_7092">
-                    <persName type="display">Anav, Judah ben Benjamin, ha-Rofe, active 13th century</persName>
+                    <persName type="display">Anav, Judah ben Benjamin, ha-Rofe, active 13th
+                        century</persName>
                     <persName type="variant" xml:lang="he">יהודה בן בנימין ענו</persName>
                     <persName type="variant">Judah ben Benjamin Anav</persName>
                     <note type="links">
@@ -18762,6 +18764,11 @@
                     <persName type="display">Binyamin ben Avraham ha-Rofe</persName>
                     <persName type="variant" xml:lang="he">בנימין בן אברהם הרופא</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_314.xml -->
+                </person>
+                <person xml:id="person_7095">
+                    <persName type="display">Gershom ben Shlomoh</persName>
+                    <persName type="variant" xml:lang="he">גרשם בן שלמה</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_299.xml -->
                 </person>
             </listPerson>
         </body>
