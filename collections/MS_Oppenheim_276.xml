@@ -58,8 +58,8 @@
                   <summary>Teachings from the Sages of France and Ashkenaz, and answers from the
                      Geonim</summary>
                   <msItem>
-                     <title xml:lang="he">הוראות מחכמי צרפת ואשכנז ותשובות הגאונים</title>
-                     <title xml:lang="he-Latn-x-lc">Horaʾot me-ḥakhmei Tsarfat ṿe-Ashkenaz utshuvot
+                     <title xml:lang="he" key="work_3379">הוראות מחכמי צרפת ואשכנז ותשובות הגאונים</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3379">Horaʾot me-ḥakhmei Tsarfat ṿe-Ashkenaz utshuvot
                         ha-Geʾonim</title>
                      <incipit><foreign xml:lang="he">העתקתי בקוצר הוראות נעתקות ממכתב ר׳ חיים כהן
                            מקבלת רבינו אכשלרד ומקבלת רבינו שמואל ע׳׳ה</foreign> (<locus>f.

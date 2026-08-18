@@ -58,9 +58,10 @@
                   <summary>Shlomoh ben Shabtai's commentary on the <hi rend="italic">Sheʾiltot</hi>
                      by Rabbi Aḥai Gaon</summary>
                   <msItem>
-                     <title type="desc" xml:lang="he">פרוש שאלתות של רב אחאי גאון</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Perush Sheʾiltot shel Rav Aḥai
-                        Gaon</title>
+                     <title type="desc" xml:lang="he" key="work_3380">פרוש שאלתות של רב אחאי
+                        גאון</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc" key="work_3380">Perush Sheʾiltot
+                        shel Rav Aḥai Gaon</title>
                      <author key="person_7039">
                         <persName>Shlomoh ben Shabtai</persName>
                         <persName xml:lang="he">שלמה בן שבתי</persName>
@@ -130,8 +131,8 @@
                   </origin>
                   <provenance>
                      <p>On f. 1r, ownership inscriptions in sixteenth- to seventeenth-century hands
-                        by <persName>Mosheh ben Nun (?) <foreign xml:lang="he">משה בן
-                           נון</foreign></persName>, <persName>Shmuʾel ben Mosheh of Ascolo
+                        by <persName>Mosheh ben Natan (?) <foreign xml:lang="he">משה בן
+                              נתן</foreign></persName>, <persName>Shmuʾel ben Mosheh of Ascolo
                               (<placeName key="place_113">Ascoli Piceno?</placeName>) <foreign
                               xml:lang="he">שמואל בן משה מאסקולו</foreign></persName> who was
                         probably the former's son, and <persName>Ezra of <placeName key="place_114"

@@ -236,6 +236,10 @@
                <placeName type="index" source="TGN">Montpellier</placeName>
                <!-- Found in: ../collections/MS_Reggio_7.xml -->
             </place>
+            <place xml:id="place_115">
+               <placeName type="index" source="TGN">Münster</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_299.xml -->
+            </place>
             <place xml:id="place_78">
                <placeName type="index" source="bodl">Narbonne</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_f_48.xml -->
