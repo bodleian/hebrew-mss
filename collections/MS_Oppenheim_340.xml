@@ -66,65 +66,118 @@
                         <persName xml:lang="he">יצחק בן יוסף מקורביל</persName>
                      </author>
                      <note>With the glosses by <persName key="person_70348690">Perez ben Elijah of
-                           Corbeil</persName>, without the introductory letter by the author.</note>
-                     <note>The beginning of the index is wanting.</note>
+                           Corbeil</persName>; without the introductory letter by the author.</note>
+                     <note>The beginning of the index is wanting. To the end of the index are
+                        appended further prohibitions, mainly those found in Leviticus 18, which do
+                        not have numbers attached.</note>
+                     <note>Several short, miscellaneous liturgical and halakhic items on <locus>ff.
+                           6r-7v</locus> (between the end of the the index and the beginning of the
+                        main text), and on <locus>f. 67r-v</locus> (between the sections
+                        corresponding to the Fourth and Fifth Days), including an exposition on the
+                        Thirteen Attributes of Mercy (<foreign xml:lang="he">פרוש של שלש עשרה
+                           מידות</foreign>; <locus>f. 67r-v</locus>) which is also by <persName
+                           key="person_292205904">Isaac ben Joseph of Corbeil</persName>.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
                      <locus>ff. 125r-131r</locus>
-                     <title key="work_410">Sefer ha-Yirʾah (The Book of Awe)</title>
-                     <title xml:lang="he" key="work_410">ספר היראה</title>
-                     <author key="person_25683756">
-                        <persName>Jonah ben Abraham Gerondi, approximately 1200-1263</persName>
-                        <persName xml:lang="he">יונה בן אברהם גירונדי</persName>
-                     </author>
+                     <title key="work_410">Ḥayyei ʿOlam</title>
+                     <title xml:lang="he" key="work_410">חיי עולם</title>
+                     <respStmt>
+                        <resp>attributed to</resp>
+                        <persName key="person_25683756">Jonah ben Abraham Gerondi, approximately
+                           1200-1263 <foreign xml:lang="he">יונה בן אברהם
+                           גירונדי</foreign></persName>
+                     </respStmt>
+                     <note>The title of this work as given in most printed editions and some later
+                        manuscripts is <hi rend="italic">Sefer ha-Yirʾah (The Book of Awe) <foreign
+                              xml:lang="he">ספר היראה</foreign></hi>, but the majority of
+                        manuscripts witnesses (including all of the earlier ones) are entitled <hi
+                           rend="italic">Ḥayyei ʿOlam</hi>.</note>
+                     <note>The attribution of this work to <persName>Jonah Gerondi</persName> (which
+                        is only supported by a few of the later manuscripts) has been questioned by
+                        scholars, with some arguing in favour of an anonymous Ashkenazic author from
+                        the circle of the Rhineland Pietists; see Benjamin Richler, '"Sefer
+                        ha-Yirʾah" attributed to R. Jona Gherondi' (in Hebrew), <hi rend="italic"
+                           >Alei Sefer 8</hi> (1980), pp. 51-9.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="3">
                      <locus>ff. 131r-151r</locus>
-                     <title key="work_3382">Sefer Ḥasidim (The Book of the Pious)</title>
-                     <title xml:lang="he" key="work_3382">ספר חסידים</title>
-                     <author key="person_4155464786402041075">
-                        <persName>Judah ben Samuel, approximately 1150-1217</persName>
-                        <persName xml:lang="he">יהודה בן שמואל, החסיד, בערך 1150-1217</persName>
-                     </author>
-                     <note>The title given for this work in the manuscript is <hi rend="italic"
-                           >Sefer ha-Ḥasidut <foreign xml:lang="he">ספר
-                        החסידות</foreign></hi>.</note>
-                     <note>The text has no divisions into sections; it ends with no. 154 of the
-                        printed edition.</note>
-                     <note>The text contains more French glosses than the printed edition.</note>
+                     <title key="work_3383">Sefer ha-Ḥasidut</title>
+                     <title xml:lang="he" key="work_3383">ספר החסידות</title>
+                     <note>This is a reworking of the <title key="work_3382">Sefer Ḥasidim</title>,
+                        which was circulated alongside the latter in some medieval manuscripts and
+                        early printed editions (including the <date calendar="Gregorian">1528</date>
+                        Bologna edition where it appears as the first 152 sections of the larger
+                        work), and which has since been shown by scholars to be distinct from the
+                           <hi rend="italic">Sefer Ḥasidim</hi> proper in its language, style and
+                        ethical teachings, all of which point to a place of composition not in the
+                        Rhineland but in northern France. See discussions on this text by Haym
+                        Soloveitchik (<hi rend="italic">Collected Essays</hi>, Volume III, pp.
+                        79-90), and Ivan G. Marcus (<hi rend="italic">Sefer Hasidim and the
+                           Ashkenazic Book in Medieval Europe</hi>, pp. 36-41).</note>
+                     <note>Other manuscripts where this text has been transmitted indepently of the
+                           <hi rend="italic">Sefer Ḥasidim</hi> are Milan, Biblioteca Ambrosiana, MS
+                        X.111 sup., and Moscow, Russian State Library, MS Günzburg 103.32.</note>
+                     <note>The text in this manuscript contains three times as many French glosses
+                        as the printed edition.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="4">
-                     <locus>ff. 151v-154v</locus>
+                     <locus>ff. 151v-152v</locus>
                      <title>Prayers</title>
-                     <title xml:lang="he">תפלות לאבלים, לחתנים ולמילה</title>
-                     <title xml:lang="he-Latn-x-lc">Tefilot le-ʾavelim, le-ḥatanim
-                        ṿele-milah</title>
-                     <author key="">
-                        <persName/>
-                        <persName xml:lang="he"/>
-                     </author>
+                     <title xml:lang="he">תפלות</title>
+                     <title xml:lang="he-Latn-x-lc">Tefilot</title>
+                     <note>This textual unit (which includes prayers for mourning, marriages and
+                        circumscision as well as for constructing an <hi rend="italic">eruv</hi>,
+                        for reading the <hi rend="italic">megillah</hi> and for the amelioration of
+                        dreams, is now incomplete; it appears that a later user had excised two
+                        folios from between <locus>ff. 52 and 53</locus> (the stubs of these folios
+                        can be seen near the gutter).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="5">
-                     <locus>ff. 155r-157r</locus>
-                     <title>Order of reading of the Torah</title>
-                     <title xml:lang="he">סדר קריאת התורה במועדים</title>
-                     <title xml:lang="he-Latn-x-lc">Siddur ḳeriʾat ha-Torah be-moʿadim</title>
-                     <author key="">
-                        <persName/>
-                        <persName xml:lang="he"/>
-                     </author>
+                     <locus>ff. 153r-155v</locus>
+                     <title>Piyyutim for the Bridegroom</title>
+                     <title xml:lang="he">פיוטים לחתן</title>
+                     <title xml:lang="he-Latn-x-lc">Piyyutim le-Ḥatan</title>
+                     <note>Liturgical poems in honour of the bridegroom, some of which are by
+                           <persName key="person_7096">Simeon bar Isaac</persName> and identified as
+                        such by a later hand.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="6">
+                     <locus>ff. 155r-157r</locus>
+                     <title>Order of the reading of the Torah</title>
+                     <title xml:lang="he">סדר קריאת התורה במועדים</title>
+                     <title xml:lang="he-Latn-x-lc">Siddur ḳeriʾat ha-Torah be-moʿadim</title>
+                     <note>Includes lists of Torah and <hi rend="italic">haftarah</hi> readings for
+                        festivals, and of <hi rend="italic">haftarah</hi> readings for regular
+                        Sabbaths throughout the year.</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="7">
                      <locus>ff. 157v-161r</locus>
-                     <title type="desc">Formulae for civil documents</title>
+                     <title type="desc">Templates for legal documents</title>
                      <title type="desc" xml:lang="he">טופסי שטרות</title>
                      <title type="desc" xml:lang="he-Latn-x-lc">Ṭofsei shetarot</title>
-                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>One of the templates (for a betrothal document; <locus>f. 157v</locus>)
+                        has been attributed by the scribe to Rabbis <persName>Shneʾor <foreign
+                              xml:lang="he">שניאור</foreign></persName> and <persName>Itzḥaḳ 'Shira
+                           Benish (Sire Benois?)'<foreign xml:lang="he">יצחק המכונה שירא בנייש
+                           </foreign></persName> of Alluy or Alloue (?) ('<foreign xml:lang="he"
+                           >דאלוייאה</foreign>'); see Gross, <hi rend="italic">Gallia Judaica</hi>,
+                        pp. 58-9. It is also possible that the place name is a corrupted version of
+                           <placeName key="place_105">Évreux</placeName>, in which case the rabbis
+                        cited would most likely be the well-known <persName key="person_7097">Isaac
+                           of Évreux</persName> and his father <persName>Shneur</persName>.</note>
+                     <note>On <locus>f. 161</locus>, the two templates for excommunication (<hi
+                           rend="italic">ḥerem</hi>) documents have been copied in a different hand,
+                        which is roughly contemporary to that of the scribe. The opening words of
+                        the second document have been copied out for a second time just beneath it,
+                        by a later hand (probably from the fifteenth century).</note>
+                     <textLang mainLang="he" otherLangs="tmr">Hebrew and Jewish Aramaic</textLang>
                   </msItem>
                </msContents>
                <physDesc>
@@ -136,28 +189,41 @@
                               <width>155</width>
                            </dimensions>
                         </extent>
-                        <condition><locus>Ff. 1-8</locus> have sustained soem minor damage, which
+                        <condition><locus>Ff. 1-8</locus> have sustained some minor damage, which
                            has resulted in some loss of text; the damaged areas have been repaired
-                           using patches of paper.The lower half of <locus>f. 129</locus> has been
-                           cut off. </condition>
+                           using patches of paper. The lower half of <locus>f. 129</locus> has been
+                           cut off.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic semi-cursive script</summary>
-                     <handNote><p>The scribe copied this for his personal use (colophon on <locus>f.
-                              157r</locus>.</p>
-                        <p>The original folios between <locus>ff. 67 and 75</locus> appear to have
-                           been damaged or lost within a century after the completion of the
-                           manuscript; the missing text was subsequently supplied (in a separate
-                           quire) by a late-fourteenth-century or early-fifteenth-century Ashkenazic
-                           hand.</p></handNote>
+                     <handNote><p>According to the scribal colophon on <locus>f. 151r</locus> (at
+                           the end of No. 3), the scribe <persName>Mosheh b. Yitsḥak <foreign
+                                 xml:lang="he">משה בן יצחק</foreign></persName> finished copying
+                           Nos. 1-3 on 8 Tammuz 5059 (<date calendar="Julian">9 June 1299</date>);
+                           he copied the works for his own use. The name <persName>Mosheh <foreign
+                                 xml:lang="he">משה</foreign></persName> has been picked out by means
+                           of dotted lines throughout the manuscript.</p>
+                        <p>There are several lacunae in the manuscript: between <locus>ff. 56 and
+                              58</locus>, between <locus>ff. 59 and 61</locus>, and between
+                              <locus>ff. 67 and 75</locus>. Presumably, these folios were lost
+                           within a century after the production of the manuscript, since
+                           replacement folios containing some of the missing text were supplied by a
+                           late-fourteenth-century Ashkenazic hand. The replacement folios
+                              <locus>ff. 57 and 60</locus>, however, are problematic in several
+                           ways: they are now separated by two folios, even though the text on f.
+                           60r follows directly from <locus>f. 57v</locus>; <locus>f. 57r</locus>
+                           repeats a significant portion of the text already found on <locus>f.
+                              59r-v</locus>); finally, even though <locus>f. 57</locus> is now
+                           placed between <locus>ff. 56 and 58</locus>, the lacuna in the text
+                           between these two folios has not been filled.</p></handNote>
                   </handDesc>
 
                </physDesc>
                <history>
                   <origin>
                      <origDate>1299</origDate>
-                     <origPlace>France</origPlace>
+                     <origPlace>[France?]</origPlace>
                   </origin>
                   <provenance> </provenance>
                   <acquisition>It belonged to the library of <persName key="person_7753200">David
@@ -207,6 +273,13 @@
                         Press, 1994), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=125"
                            >no. 875.</ref></bibl>
+                     <bibl>Gross, Henri, <hi rend="italic">Gallia Judaica</hi> (Paris: L. Cerf,
+                        1897), pp. 58-9.</bibl>
+                     <bibl>Marcus, Ivan G., <hi rend="italic">Sefer Hasidim and the Ashkenazic Book
+                           in Medieval Europe</hi> (University of Pennsylvania Press, 2018), pp.
+                        36-41.</bibl>
+                     <bibl>Soloveitchik, Haym, <hi rend="italic">Collected Essays</hi>, Volume III
+                        (Liverpool: Littman Library of Jewish Civilization, 2020), pp. 79-90.</bibl>
                      <bibl>Galinsky, Judah D., <hi rend="italic">The Making of a Medieval
                            Bestseller: Rabbi Isaac of Corbeil's Pillars of Exile and its
                            Readers</hi> (Oxford University Press, 2025), pp. 182, 184-5, 191.</bibl>
