@@ -113,7 +113,7 @@
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_80.xml -->
             </place>
             <place xml:id="place_105">
-               <placeName type="index" source="TGN">Evreux</placeName>
+               <placeName type="index" source="TGN">Évreux</placeName>
                <placeName type="variant" xml:lang="he" source="bodl">אייברא</placeName>
                <!-- Found in: ../collections/MS_Digby_Or_34.xml -->
             </place>

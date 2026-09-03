@@ -16,14 +16,18 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3383">
+               <title type="uniform">Sefer ha-Ḥasidut</title>
+               <title type="variant" xml:lang="he">ספר החסידות</title>
+               <title type="variant">The Book of Piety</title>
+               <ref target="MS_Oppenheim_340-item3"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_340.xml#MS_Oppenheim_340-item3 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3382">
                <title type="uniform">Sefer Ḥasidim</title>
                <title type="variant" xml:lang="he">ספר חסידים</title>
                <title type="variant">The Book of the Pious</title>
-               <title type="variant" xml:lang="he">ספר החסידות</title>
-               <title type="variant">Sefer ha-Ḥasidut</title>
-               <ref target="MS_Oppenheim_340-item3"/>
-               <!-- ../../hebrew-mss/collections/MS_Oppenheim_340.xml#MS_Oppenheim_340-item3 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3381">
@@ -19295,6 +19299,8 @@
                <title type="variant" xml:lang="he">ספר היראה</title>
                <title type="variant">Sefer ha-Yirah</title>
                <title type="variant">The Book of Awe</title>
+               <title type="variant">Ḥayyei ʿOlam</title>
+               <title type="variant" xml:lang="he">חיי עולם</title>
                <ref target="MS_Laud_Or_106-item3"/>
                <!-- ../../hebrew-mss/collections/MS_Laud_Or_106.xml#MS_Laud_Or_106-item3 -->
                <ref target="MS_Oppenheim_340-item2"/>
