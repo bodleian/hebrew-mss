@@ -285,7 +285,7 @@
                <!-- Found in: ../collections/MS_Laud_Or_105.xml -->
             </place>
             <place xml:id="place_97">
-               <placeName type="index" source="TGN">Ruosina</placeName>
+               <placeName type="index" source="TGN">Rossena</placeName>
                <placeName type="variant" xml:lang="he" source="bodl">רושינה</placeName>
                <!-- Found in: ../collections/MS_Mich_add_1a.xml -->
             </place>
