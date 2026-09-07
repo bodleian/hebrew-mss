@@ -1,0 +1,80 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_n_1960">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Michael 473</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Michael_473</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository><collection>Retroconverted Files</collection>
+                  <idno>MS. Michael 473</idno>
+               <altIdentifier type="other"><idno type="Neubauer">1960</idno></altIdentifier></msIdentifier>
+               <msContents>
+               <msItem n="1" source="#neubauer"><title source="#neubauer">Other Kabbalistical collectanea. Headed זה סדרו של עולם לפי מה שנטצא בס׳ הקומה.</title></msItem><msItem n="2" source="#neubauer"><title source="#neubauer">כמה עניינים אשר שמעתי טפה קדש קדשים טו' הגאון מוה' שמשון.</title></msItem><msItem n="3" source="#neubauer"><title source="#neubauer">שטועה בענין הגלגול לדעת הר׳ש׳ב׳י זל וםיטאנורס.</title></msItem><msItem n="4" source="#neubauer"><title source="#neubauer">A fragment, beg. אר' ישמעאל א"ל מטטרק...</title></msItem><msItem n="5" source="#neubauer"><title source="#neubauer">Notes on different mysteries and Thiqu-nim, according to Lorya.</title></msItem><msItem n="6" source="#neubauer"><title source="#neubauer">A fragment, beg. אילו הן שבע מעלות, preceded by the title-pages of ספר פרי עץ החיים and ס' רזיאל</title></msItem><msItem n="7" source="#neubauer"><title source="#neubauer">A Kabbalistical chapter, headed ספר הישר המעולה והנפלא...</title></msItem><msItem n="8" source="#neubauer"><title source="#neubauer">שם המפורש שהביא ר' שמעון מן הרקיע.</title></msItem><msItem n="9" source="#neubauer"><title source="#neubauer">שטות הציץ של כ"ג, followed by שטוש השטות</title></msItem><msItem n="10" source="#neubauer"><title source="#neubauer">ספר המלבוש.</title></msItem><msItem n="11" source="#neubauer"><title source="#neubauer">פרקי המרכבה, seven chapters.</title></msItem><msItem n="12" source="#neubauer"><title source="#neubauer">זה פירוש מן השם ארבעים ושתים.</title></msItem><msItem n="13" source="#neubauer"><title source="#neubauer">Kabbalistical comm, on the liturgical piece האוחז.</title></msItem><msItem n="14" source="#neubauer"><title source="#neubauer">סוד האגוז, ends 'ע"כ הועתק מס...</title></msItem><msItem n="15" source="#neubauer"><title source="#neubauer">On the ten S’firoth.</title></msItem><msItem n="16" source="#neubauer"><title source="#neubauer">Kabbalistical comm, on the prayers האוחז ,ויושע, and האדרת והאמונה.</title></msItem><msItem n="17" source="#neubauer"><title source="#neubauer">On the mysteries of the accents.</title></msItem><msItem n="18" source="#neubauer"><title source="#neubauer">העיון</title></msItem><msItem n="19" source="#neubauer"><title source="#neubauer">פי' שם המפורש.</title></msItem><msItem n="20" source="#neubauer"><title source="#neubauer">Kabbalistical comm, on the prayer עלינו, by R. Y’hudah Hasid and an anonymous author.</title></msItem><msItem n="21" source="#neubauer"><title source="#neubauer">פי' ליציאת שם של ט"ב, ends כך...</title></msItem><msItem n="22" source="#neubauer"><title source="#neubauer">אתחיל לכתוב טנהג אדם בריא, diatetical rules.</title></msItem><msItem n="23" source="#neubauer"><title source="#neubauer">פי' מודי' דוד קולר על קורח ובליעתן.</title></msItem><msItem n="24" source="#neubauer"><title source="#neubauer">A fragment, beg. 'כלל כוונה בתעניתי.</title></msItem><msItem n="25" source="#neubauer"><title source="#neubauer">A Kabbalistical prayer, attributed to R. Yishm’ael ben Elish'a.</title></msItem><msItem n="26" source="#neubauer"><title source="#neubauer">Lorya’s התחלת חכטה.</title></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support source="#neubauer">paper</support><extent n="240">240</extent></supportDesc></objectDesc>
+               <handDesc><handNote source="#beit-arie">Ashkenazic cursive (nos. 3 and 4: semi-cursive) script</handNote></handDesc></physDesc>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> 17th and 18th cent.]</origDate></origin></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>no. 1960</ref>, and <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>no. 1960</ref>.</source></recordHist>
+                  </adminInfo>
+                
+                  <listBibl>
+                     
+                  <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=368">no. 1960.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=233">no. 1960.</ref></bibl></listBibl>
+               </additional>
+       
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

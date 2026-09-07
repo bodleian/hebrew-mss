@@ -1,0 +1,86 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_n_535">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Michael 250</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Michael_250</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository><collection>Retroconverted Files</collection>
+                  <idno>MS. Michael 250</idno>
+               <altIdentifier type="other"><idno type="Neubauer">535</idno></altIdentifier></msIdentifier>
+               <msContents>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support source="#neubauer">paper</support><extent n="321">321</extent></supportDesc></objectDesc>
+               </physDesc>
+               <history><origin/></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>no. 535</ref>, and <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>no. 535</ref>.</source></recordHist>
+                  </adminInfo>
+                
+                  <listBibl>
+                     
+                  <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=97">no. 535.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=96">no. 535.</ref></bibl></listBibl>
+               </additional>
+       
+            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-237)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Notes on casuistic matters, chiefly on the Thosa-foth</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Oriental semi-cursive script, mainly by two
+                hands: Fols. 1-68 by one hand, sometimes replaced by other hands, and fols. 69-237
+                by another hand. The colophon on fol. 237V is written in a cursive script and
+                different ink</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Cairo</origPlace><origDate source="#beit-arie">1570</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 238r-255r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Fol. 238. Novellae on a passage of K’thubhoth</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient?]</origPlace><origDate source="#beit-arie">[late 16th cent, (after 1540, cf. no.
+                4)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 256-269)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">Fol. 256. The same as No. 2</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Oriental semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">[late 16th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 4
+                (fols. 270-321)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"><title source="#neubauer">Thosafoth on Sh’bhu’oth</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Same handwriting as no. 2.</handNote></handDesc></physDesc><history><origin/></history></msPart></msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

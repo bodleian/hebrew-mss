@@ -1,0 +1,83 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_n_1600">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Michael 279</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Michael_279</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository><collection>Retroconverted Files</collection>
+                  <idno>MS. Michael 279</idno>
+               <altIdentifier type="other"><idno type="Neubauer">1600</idno></altIdentifier></msIdentifier>
+               <msContents>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support source="#neubauer">paper</support><extent n="296">296</extent></supportDesc></objectDesc>
+               <handDesc><handNote source="#beit-arie">Italian cursive scripts</handNote></handDesc></physDesc>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace></origin></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>no. 1600</ref>, and <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>no. 1600</ref>.</source></recordHist>
+                  </adminInfo>
+                
+                  <listBibl>
+                     
+                  <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=327">no. 1600.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=192">no. 1600.</ref></bibl></listBibl>
+               </additional>
+       
+            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols.
+            1-132)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">אוצר הכבוד</title></msItem></msContents><history><origin><origDate source="#beit-arie">1573 (colophon on fol.
+                132v).</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-16 (fols. 135-289)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">A short note about an earthquake which occurred in Palestine</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">אות נפש</title></msItem><msItem n="4" source="#beit-arie"><title source="#neubauer">ביאור מסודות אבן עזרא</title></msItem><msItem n="5" source="#beit-arie"><title source="#neubauer">פי' על דרך הנסתר מוייצר</title></msItem><msItem n="6" source="#beit-arie"><title source="#neubauer">פי' הקדיש</title></msItem><msItem n="7" source="#beit-arie"><title source="#neubauer">ספר התפוח</title></msItem><msItem n="8" source="#beit-arie"><title source="#neubauer">פי' האותיות</title></msItem><msItem n="9" source="#beit-arie"><title source="#neubauer">פיוט אחד</title></msItem><msItem n="10" source="#beit-arie"><title source="#neubauer">Abraham ibn Ezra’s translation of Judah Ḥayyuj’s grammatical treatises, with additions by R. Mosheh hak-Kohen</title></msItem><msItem n="11" source="#beit-arie"><title source="#neubauer">בן פורת</title></msItem><msItem n="12" source="#beit-arie"><title source="#neubauer">רפואת הגויה</title></msItem><msItem n="13" source="#beit-arie"><title source="#neubauer">שירים</title></msItem><msItem n="14" source="#beit-arie"><title source="#neubauer">The letter to his son; Responsa</title></msItem><msItem n="15" source="#beit-arie"><title source="#neubauer">אגרת הויכוח</title></msItem><msItem n="16" source="#beit-arie"><title source="#neubauer">בקשת הלמדין, with a commentary</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">by several hands]</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">Mid-16th cent. (watermarks, and a short account of Casale Monferrato dated
+                March 1555 on fol. 136r)</origDate></origin></history></msPart></msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

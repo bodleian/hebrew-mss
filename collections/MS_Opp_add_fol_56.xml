@@ -1,0 +1,105 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_n_2422">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Opp. add. fol. 56</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Opp_add_fol_56</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository><collection>Retroconverted Files</collection>
+                  <idno>MS. Opp. add. fol. 56</idno>
+               <altIdentifier type="other"><idno type="Neubauer">2422</idno></altIdentifier></msIdentifier>
+               <msContents>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="mixed">
+                        <support source="#neubauer">paper and vellum</support><extent n="71">71</extent></supportDesc></objectDesc>
+               </physDesc>
+               <history><origin/></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>no. 2422</ref>, and <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>no. 2422</ref>.</source></recordHist>
+                  </adminInfo>
+                
+                  <listBibl>
+                     
+                  <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=474">no. 2422.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=292">no. 2422.</ref></bibl></listBibl>
+               </additional>
+       
+            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-6)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Of the Haggadah</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic square and semi-cursive
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">mid-late 14th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 a (fols. 7-8)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Of the Babylonian Thalmud</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">square
+                Ashkenazic script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">c. 1200</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">b (fols. 72 and 72
+            bis)</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic square script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">mid-13th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 9 and 9
+            bis)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">A Kabbalistical formulae</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Square scripts (Sephardic and Italian
+            respectively)</handNote></handDesc></physDesc><history><origin/></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 4 (fols. 10-11)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"><title source="#neubauer">Of a medical treatise</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">early 14th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 5
+                (fols. 12-19, removed in 1967, now MS. Marsh 659*)</idno></altIdentifier></msIdentifier><msContents><msItem n="5" source="#beit-arie"><title source="#neubauer">[Of Abraham ben Maimon’s] בפאיה אלעאבדין</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Oriental semi-cursive script. 8
+                fols.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">mid-late 13th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 6 (fols. 20-27)</idno></altIdentifier></msIdentifier><msContents><msItem n="6" source="#beit-arie"><title source="#neubauer">Of a dictionary (?) of synonymous words</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script. MSS. Leningrad,
+                Firkovich Heb. -Ar. 597, 624, and 1217 come from the same MS. (P. B. Fenton, 2 July
+                1984)</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[North Africa]</origPlace><origDate source="#beit-arie">mid-14th cent. (watermarks,
+                reproduced by beta-radiography, similar to Briquet nos. 783 and 795, dated
+                1358-9)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 7 (fols. 28-29)</idno></altIdentifier></msIdentifier><msContents><msItem n="7" source="#beit-arie"><title source="#neubauer">Of Abraham ibn Banin’s מואזנה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Oriental semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">late 13th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 8 (fols. 30-34; 36-39; 40; 41-44; 45; 46-47; 48-50)</idno></altIdentifier></msIdentifier><msContents><msItem n="8" source="#beit-arie"><title source="#neubauer">Of the Bible</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Yemenite semi-square and square scripts. Fol. 35: Oriental square script
+                (parchment).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Yemen]</origPlace><origDate source="#beit-arie">16th-17th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 9 (fols. 51r-55r)</idno></altIdentifier></msIdentifier><msContents><msItem n="9" source="#beit-arie"><title source="#neubauer">The last part of Maimonides’ Yad ha-Hazaqah</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Byzantine semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie">late 15th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 11-12
+                (fols. 57-59)</idno></altIdentifier></msIdentifier><msContents><msItem n="11" source="#beit-arie"><title source="#neubauer">Seder Tannaim ve-Amoraim; additions to Masekhet Derekh Eretz and takkanot of R. Gershom and R. Tam</title></msItem><msItem n="12" source="#beit-arie"><title source="#neubauer">Of a casuistical book</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">late 17th
+                cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 13 (fols. 60r-61r)</idno></altIdentifier></msIdentifier><msContents><msItem n="13" source="#beit-arie"><title source="#neubauer">A list of books</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">c. 1700</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 14 (fol. 62)</idno></altIdentifier></msIdentifier><msContents><msItem n="14" source="#beit-arie"><title source="#neubauer">Of a medical treatise</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie">15th
+                cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 15</idno></altIdentifier></msIdentifier><msContents><msItem n="15" source="#beit-arie"><title source="#neubauer">A Spanish letter</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Aleppo?</origPlace><origDate source="#beit-arie">[17th cent.?]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 16 (fols.
+                63-64)</idno></altIdentifier></msIdentifier><msContents><msItem n="16" source="#beit-arie"><title source="#neubauer">Maimonides’ דלאלה אלחאירין</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic-Oriental semi-cursive
+            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">late 16th
+                cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 17 (fols. 65-66)</idno></altIdentifier></msIdentifier><msContents><msItem n="17" source="#beit-arie"><title source="#neubauer">Of Don Yizhaq Abarbanel’s עטרת זקנים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
+                script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[c.
+                1500]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 18-19 (vol. 67 and fol. 68)</idno></altIdentifier></msIdentifier><msContents><msItem n="18" source="#beit-arie"><title source="#neubauer">Of Sh’muel han-Nagid’s Diwan</title></msItem><msItem n="19" source="#beit-arie"><title source="#neubauer">Antoli ben Yoseph’s letter</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive scripts (each leaf by a different
+            hand).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Turkey]</origPlace><origDate source="#beit-arie">17th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 20-21 (fols. 69-71)</idno></altIdentifier></msIdentifier><msContents><msItem n="20" source="#beit-arie"><title source="#neubauer">A document relating to the above-mentioned fact</title></msItem><msItem n="21" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">סאלי (קהל קדוש פלמינגושן)
+                Morocco?</origPlace><origDate source="#beit-arie">1664</origDate></origin></history></msPart></msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

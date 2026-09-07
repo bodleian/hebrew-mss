@@ -1,0 +1,85 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_n_1884">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Michael 495</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Michael_495</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository><collection>Retroconverted Files</collection>
+                  <idno>MS. Michael 495</idno>
+               <altIdentifier type="other"><idno type="Neubauer">1884</idno></altIdentifier></msIdentifier>
+               <msContents>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support source="#neubauer">paper</support><extent n="229">229</extent></supportDesc></objectDesc>
+               </physDesc>
+               <history><origin/></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>no. 1884</ref>, and <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>no. 1884</ref>.</source></recordHist>
+                  </adminInfo>
+                
+                  <listBibl>
+                     
+                  <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=358">no. 1884.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=223">no. 1884.</ref></bibl></listBibl>
+               </additional>
+       
+            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-136r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">פירושי זהר</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian
+                cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> c. 1700]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-3 (fols. 138-329)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">A Kabbalistical comm. on prayer</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">פרק השירה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive scripts. No. 3 (fols. 227-329) by another hand, and
+                perhaps also fols. 138-144. No. 3 shares the same watermark with fols. 138-144 (of
+                Briquet’s tracing, no. 3316, dated 1495, is the most similar) which also occurs in
+                fols. 145-226, which show watermarks quite similar to Briquet no. 15891 (dated
+                1472-91) and, in fols 151/152, Briquet no. 3069 (dated 1500).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie">late 15th cent.]</origDate></origin></history></msPart></msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

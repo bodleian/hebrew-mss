@@ -1,0 +1,82 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_n_2537">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Opp. add. 4o. 152</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Opp_add_4o_152</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository><collection>Retroconverted Files</collection>
+                  <idno>MS. Opp. add. 4o. 152</idno>
+               <altIdentifier type="other"><idno type="Neubauer">2537</idno></altIdentifier></msIdentifier>
+               <msContents>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <extent n="54">54</extent></supportDesc></objectDesc>
+               </physDesc>
+               <history><origin/></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>no. 2537</ref>, and <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>no. 2537</ref>.</source></recordHist>
+                  </adminInfo>
+                
+                  <listBibl>
+                     
+                  <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=504">no. 2537.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=302">no. 2537.</ref></bibl></listBibl>
+               </additional>
+       
+            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">The Hebrew text of Genesis i. 31 to ii. 3; Exodus xvi. 4 to 21; xxxv. 1 to 3; Leviticus xix. 1 to 8, 23 to 32; xxiii. 1 to 6</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">majuscule script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Nablus]</origPlace><origDate source="#beit-arie">late 18th or early 19th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Fragments of prayer-books</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">minuscule script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Nablus</origPlace><origDate source="#beit-arie">[19th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">Hymns, Arabic and Samaritan</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">minuscule script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Nablus]</origPlace><origDate source="#beit-arie">19th
+                cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No.
+                4</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"><title source="#neubauer">A fragment of a homily in Arabic, with quotations taken from the Pentateuch in Samaritan characters</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">minuscule script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Nablus]</origPlace><origDate source="#beit-arie">18th cent.</origDate></origin></history></msPart></msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

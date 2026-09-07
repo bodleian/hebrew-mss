@@ -1,0 +1,96 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_n_1606">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Opp. 563</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Opp_563</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository><collection>Retroconverted Files</collection>
+                  <idno>MS. Opp. 563</idno>
+               <altIdentifier type="other"><idno type="Neubauer">1606</idno></altIdentifier></msIdentifier>
+               <msContents>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="mixed">
+                        <support source="#neubauer">paper and vellum</support><extent n="288">288</extent></supportDesc></objectDesc>
+               <handDesc><handNote source="#beit-arie">Ashkenazic cursive scripts</handNote></handDesc></physDesc>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace></origin></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>no. 1606</ref>, and <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>no. 1606</ref>.</source></recordHist>
+                  </adminInfo>
+                
+                  <listBibl>
+                     
+                  <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=328">no. 1606.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=193">no. 1606.</ref></bibl></listBibl>
+               </additional>
+       
+            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols.
+                1-38)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ושמו שקל הקדש / מערכת האלהית</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">was probably copied by Joshua (pointed out on fol. 17v). However, the first
+                quire (fols. 1-8) was copied by two different, more cursive hands on different
+                paper.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Molsheim (Alsace)</origPlace><origDate source="#beit-arie">1434 (colophon on fol.
+                38v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-4 (fols. 39v-87v; fols. 88-90 by
+                another hand?)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">רוח חן</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">שער הגמול / ס' תורת האדם</title></msItem><msItem n="4" source="#beit-arie"><title source="#neubauer">שלש עשרה עקרים שחבר הר׳מ׳ב׳ם ז"ל</title></msItem></msContents><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">1432 (colophons
+                on fols. 51v and 79r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 5 (fols.
+                92v-94v)</idno></altIdentifier></msIdentifier><msContents><msItem n="5" source="#beit-arie"><title source="#neubauer">The Kabbalistical treatises, ספר הקומה הבדלה דר, עקיבא, and other Kabbalistical notes</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
+                script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[c. 1400]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 6 (fols.
+                105-158)</idno></altIdentifier></msIdentifier><msContents><msItem n="6" source="#beit-arie"><title source="#neubauer">Casuistic responsa of מ׳ה׳ר׳י׳ל</title></msItem></msContents><history><origin><origDate source="#beit-arie">[Mid-15th cent, (watermarks similar to Briquet no.
+                15104, dated 1445)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 7 (fols.
+            168-207)</idno></altIdentifier></msIdentifier><msContents><msItem n="7" source="#beit-arie"><title source="#neubauer">ספר מה׳ר׳י׳ל</title></msItem></msContents><history><origin><origDate source="#beit-arie">1447 (colophon on fol.
+                207v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 8 (fols. 209r-214r), 10 (fols.
+                234-243), 11 (fols. 252r-274r), and 12 (fols. 275r-286v)</idno></altIdentifier></msIdentifier><msContents><msItem n="8" source="#beit-arie"><title source="#neubauer">A commentary on the shape of the letters of the alphabet</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">each by a different hand (no.
+                10 by different hands on different paper); the name Aaron is pointed out in no. 11
+                (fol. 266v); no. 8 in semi-cursive script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[Mid-late 15th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 9 (fols. 227r-232r)</idno></altIdentifier></msIdentifier><msContents><msItem n="9" source="#beit-arie"><title source="#neubauer">On the same subject, by R. Yaqob ben Yaqob Kohen</title></msItem></msContents><history><origin><origDate source="#beit-arie">[Early 16th cent, (watermarks
+                similar to Briquet no. 3073, dated 1519)]</origDate></origin></history></msPart></msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
