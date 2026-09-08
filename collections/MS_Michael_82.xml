@@ -84,7 +84,7 @@
                   </msItem>
                   <msItem n="3">
                      <locus>Ff. 15r-32v</locus>
-                     <title type="desc" key="work_3371">The Key of Accentuation</title>
+                     <title type="desc" key="work_3371">The Key to Accentuation</title>
                      <title type="desc" xml:lang="he" key="work_3371">מפתח הנגינות</title>
                      <title type="desc" xml:lang="he-Latn-x-lc" key="work_3371">Mifteaḥ
                         ha-Neginot</title>
@@ -98,7 +98,6 @@
                            mi-ḳ.ḳ. Mets</persName>
                         <persName xml:lang="he">אלכסנדר זיסקינד בן שמואל זנויל</persName>
                      </respStmt>
-                     <note/>
                      <note>A Hebrew translation of <persName key="person_7050">Adolph Theobald
                            Overbeck</persName>'s <hi rend="italic">Der endlich gefundene
                            Hauptschlüssel zur doppelten Kunst der hebräischen Accentuation</hi>, a
@@ -118,6 +117,11 @@
                            Mets</persName>.</note>
                      <note>The same text is also found in Leiden, University Libraries, MS Or. 4811
                            (<locus>ff. 101r-122v</locus>).</note>
+                     <note>In the entry for this manuscript in Neubauer's <hi rend="italic"
+                           >Catalogue</hi>, this item has been listed together with No. 3 instead of
+                        being assigned its own number. The present No. 5 therefore corresponds to
+                        Neubauer's No. 4, and the present No. 6 corresponds to Neubauer's No.
+                        5.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="5">
@@ -128,6 +132,7 @@
                               <foreign xml:lang="he">יצחק בן עזרא סגל</foreign></persName> of
                         Hotzenplotz/Osoblaha in Silesia, copied from a printed edition (Venice <date
                            calendar="#Gregorian">1549</date>).</note>
+                     <note>No. 4 in Neubauer's <hi rend="italic">Catalogue</hi>.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="6">
@@ -143,6 +148,7 @@
                            />יעקב צמח</persName>, with additional practices by Poppers' teacher,
                            <persName key="person_7072">Israel Benjamin <foreign xml:lang="he"/>ישראל
                            בנימין</persName>.</note>
+                     <note>No. 5 in Neubauer's <hi rend="italic">Catalogue</hi>.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>

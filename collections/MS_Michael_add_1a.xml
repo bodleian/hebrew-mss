@@ -52,6 +52,9 @@
                   <altIdentifier type="other">
                      <idno type="Neubauer">39</idno>
                   </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>Ha-Palit 60</idno>
+                  </altIdentifier>
                   <altIdentifier type="internal">
                      <idno type="SCN">24272</idno>
                   </altIdentifier>
@@ -62,18 +65,24 @@
                   <msItem>
                      <title xml:lang="he" key="work_3348">דגל יאודה</title>
                      <title xml:lang="he-Latn-x-lc" key="work_3348">Degel Yeʾudah</title>
-                     <author key="person_4948231">
-                        <persName>Modena, Leone, 1571-1648</persName>
-                        <persName xml:lang="he">יהודה אריה מודנה</persName>
-                     </author>
+                     <respStmt>
+                        <resp>attributed to</resp>
+                        <persName key="person_4948231">Modena, Leone, 1571-1648 <foreign
+                              xml:lang="he">יהודה אריה מודנה</foreign></persName>
+                     </respStmt>
+                     <note>The attribution of the commentary (of which this manuscript is the sole
+                        surviving witness) to <persName>Leone Modena</persName> has been questioned
+                        by Umberto Cassuto (<hi rend="italic">Festschrift Armand Kaminka</hi>, p.
+                        137), who suggested that the work was most likely by another Yehudah who
+                        lived in Emilia during the first half of the sixteenth century.</note>
+                     <note>Only the Judeo-Italian translation has vocalisation.</note>
+                     <note>A pen-drawn map of the Land of Israel on <locus>f. 506</locus>, which is
+                        much larger than a regular folio and has been folded to fit within the book,
+                        and which is accompanied by a note by <persName>Menaḥem of Vignola <foreign
+                              xml:lang="he">מנחם מרם(?) מויניולה</foreign></persName>, dated <date
+                           calendar="Gregorian">1585/6</date>.</note>
                      <textLang mainLang="he" otherLangs="itk">Biblical text and commentary in
                         Hebrew, with Judeo-Italian translation for the biblical text</textLang>
-                     <note><p>Only the Judeo-Italian translation has vocalisation.</p></note>
-                     <note><p>A pen-drawn map of the Land of Israel on <locus>f. 506</locus>, which
-                           is much larger than a regular folio and has been folded to fit within the
-                           book, and which is accompanied by a note by <persName>Menaḥem of Vignola
-                                 <foreign xml:lang="he">מנחם מרם(?) מויניולה</foreign></persName>,
-                           dated <date calendar="Gregorian">1585/6</date>.</p></note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -91,13 +100,14 @@
                   <handDesc>
                      <summary>Italian square and semi-cursive scripts</summary>
                      <handNote>Copied by two scribes; the first, <persName ref="iph_pmr_m3c">Isaac
-                           b. Elisha of <placeName key="place_97">Ruosina</placeName> (?) <foreign
-                              xml:lang="he">יצחק בן אלישע מרושינה</foreign></persName>, copied
+                           b. Elisha of <placeName key="place_97">Rossena</placeName>
+                           <foreign xml:lang="he">יצחק בן אלישע מרושינה</foreign></persName>, copied
                         Genesis to Leviticus (colophon on <locus>f. 386v</locus>); the second,
                            <persName ref="fnh_pmr_m3c">Ephraim b. Yoḥanan of <placeName
-                              key="place_98">Anagni</placeName> (?) <foreign xml:lang="he">אפרים בן
-                              יוחנן מאנאניי</foreign></persName>, copied Numbers and Deuteronomy
-                        (colophon on <locus>f. 645r</locus>).</handNote>
+                              key="place_98">Anagni</placeName>
+                           <foreign xml:lang="he">אפרים בן יוחנן מאנאניי</foreign></persName>,
+                        copied Numbers and Deuteronomy (colophon on <locus>f.
+                        645r</locus>).</handNote>
                   </handDesc>
                   <decoDesc>
                      <p>Apart from the map on <locus>f. 506</locus>, there are two detailed
@@ -168,6 +178,10 @@
                            Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=40"
                            >no. 39.</ref></bibl>
+                     <bibl>Cassuto, Umberto, 'Bibliografia delle traduzioni giudeo-italiane della
+                        Bibbia', in Salomo Rappaport and M. Zikier (eds.), <hi rend="italic"
+                           >Festschrift Armand Kaminka</hi> (Vienna: Verlag des Wiener
+                        Maimonides-Instituts), pp. 129-41.</bibl>
                   </listBibl>
                </additional>
 
