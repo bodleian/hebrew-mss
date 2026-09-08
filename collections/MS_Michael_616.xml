@@ -61,8 +61,6 @@
                      <title xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים ולסוכות</title>
                      <title xml:lang="he-Latn-x-lc">Maḥzor minhag Ashkenaz ha-maʿaravi le-yamim
                         noraʾim ṿele-sukkot</title>
-                     <note>Continuation of <idno>MS. Michael 617</idno> (Neubauer 1033). The
-                        manuscript is defective at the end.</note>
                      <note>Used in Daniel Goldschmidt's edition of the High Holiday services
                         (Jerusalem, 1970).</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -72,8 +70,7 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent n="181">ff. 181
-                           <dimensions type="leaf" unit="mm">
+                        <extent n="181">ff. 181 <dimensions type="leaf" unit="mm">
                               <height>393</height>
                               <width>290</width>
                            </dimensions></extent>
