@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="188">188</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="188">ff. 188</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Friedberg?</origPlace><origDate source="#beit-arie">
             1710 (fols. 166v and 188r)</origDate></origin></history>

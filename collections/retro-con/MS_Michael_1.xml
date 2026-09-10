@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="111">111</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="111">ff. 111</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic square script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie"> 1456/7</origDate></origin></history>
                <additional>

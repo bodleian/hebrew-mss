@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="175">175</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="175">ff. 175</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian-Byzantine semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy or Byzantium]</origPlace><origDate source="#beit-arie"> late 15th cent,
             (watermarks similar to Briquet no. 3400, dated 1488-90)]</origDate></origin></history>

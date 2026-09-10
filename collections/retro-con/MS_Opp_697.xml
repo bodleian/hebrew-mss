@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="172">172</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="172">ff. 172</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> 1428? (fol. 20v: colophon of the
             copyist?)</origDate></origin></history>

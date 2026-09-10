@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="130">130</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="130">ff. 130</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Constantinople]</origPlace><origDate source="#beit-arie">1482</origDate></origin></history>
                <additional>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="87">87</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="87">ff. 87</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Yemenite semi-square script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Yemen]</origPlace><origDate source="#beit-arie">15th cent.</origDate></origin></history>
                <additional>

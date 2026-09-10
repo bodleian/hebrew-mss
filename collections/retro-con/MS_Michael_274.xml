@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="182">182</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="182">ff. 182</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive
         script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Bologna</origPlace><origPlace source="#beit-arie">Fano</origPlace><origPlace source="#beit-arie">Pesaro</origPlace><origDate source="#beit-arie">1549</origDate><origDate source="#beit-arie">1554</origDate><origDate source="#beit-arie">1556</origDate></origin></history>

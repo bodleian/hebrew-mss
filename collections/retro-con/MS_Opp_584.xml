@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="962">962</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="962">ff. 962</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Posen?</origPlace><origDate source="#beit-arie"> 1637/8</origDate></origin></history>
                <additional>

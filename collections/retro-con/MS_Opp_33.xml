@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="296">296</extent><foliation source="#beit-arie">fols. 5-14 missed in the foliation</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="296">ff. 296</extent><foliation source="#beit-arie">fols. 5-14 missed in the foliation</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie"/><handNote source="#beit-arie"/><handNote source="#beit-arie">Fol. 76 was cut from a larger leaf of the beg. of Genesis with Onkelos (fol. 76v),
             written in Ashkenazic vocalized square script, with pen illustration</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">early 14th cent.]</origDate></origin></history>

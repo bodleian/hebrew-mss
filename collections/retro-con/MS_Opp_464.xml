@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
-                        <support source="#beit-arie">Italian type of parchment and quiring.</support><extent n="103">103</extent></supportDesc></objectDesc>
+                        <support source="#beit-arie">Italian type of parchment and quiring.</support><extent n="103">ff. 103</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script (fols. 1-6, 42-43, and flyleaf in Sephardic
             cursive script).</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> c. 1400]</origDate></origin></history>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="421">421</extent><foliation source="#beit-arie">fol. 388 is threefold.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="421">ff. 421</extent><foliation source="#beit-arie">fol. 388 is threefold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> early 18th cent.]</origDate></origin></history>
                <additional>

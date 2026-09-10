@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="105">105</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="105">ff. 105</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Ottingen</origPlace><origDate source="#beit-arie">1780-6 (fol. 93r)</origDate></origin></history>
                <additional>

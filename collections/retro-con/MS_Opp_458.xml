@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="321">321</extent><foliation source="#beit-arie">Fol. 221 is fivefold, fol. 256 is fourfold, fol. 312 is double.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="321">ff. 321</extent><foliation source="#beit-arie">Fol. 221 is fivefold, fol. 256 is fourfold, fol. 312 is double.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic
             cursive script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Moravia</origPlace><origDate source="#beit-arie"> c. 1700]</origDate></origin></history>

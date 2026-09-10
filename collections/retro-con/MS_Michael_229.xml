@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="20">20</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="20">ff. 20</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic Rashi (fols. 1-4) and
             cursive (fols. 5-18) scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Leeuwarden (Holland)</origPlace><origDate source="#beit-arie">1801/2 (title-page)</origDate></origin></history>

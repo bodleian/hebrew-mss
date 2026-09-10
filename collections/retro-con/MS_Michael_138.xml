@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="46">46</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="46">ff. 46</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic and Byzantine
             scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie"> c. 1450 (watermarks quite similar to

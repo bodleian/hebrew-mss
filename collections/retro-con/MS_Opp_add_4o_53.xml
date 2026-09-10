@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="150">150</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="150">ff. 150</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Eboli (Italy)</origPlace><origDate source="#beit-arie">1466</origDate></origin></history>
                <additional>

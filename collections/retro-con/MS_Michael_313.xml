@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
-                        <support source="#beit-arie">Outer sheets of quires made of parchment.</support><extent n="90">90</extent></supportDesc></objectDesc>
+                        <support source="#beit-arie">Outer sheets of quires made of parchment.</support><extent n="90">ff. 90</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Byzantium</origPlace><origDate source="#beit-arie">c. 1400?]</origDate></origin></history>
                <additional>

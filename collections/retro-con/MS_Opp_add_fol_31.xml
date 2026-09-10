@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="469">469</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="469">ff. 469</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Provencal square script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">1314</origDate></origin></history>
                <additional>

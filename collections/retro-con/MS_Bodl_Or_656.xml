@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="100">100</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="100">ff. 100</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">majuscule script, cf. A. D. Crown, Samaritan Majuscule Palaeography
             (Manchester, 1978), fig. 22.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Nablus</origPlace><origDate source="#beit-arie">1767 (fol. 100)</origDate></origin></history>

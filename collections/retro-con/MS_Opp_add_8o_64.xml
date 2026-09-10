@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="9">9</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="9">ff. 9</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">square script and Italian semi-cursive
             and cursive script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Alessandria (Italy)]</origPlace><origDate source="#beit-arie">1791/2 (title-page)</origDate></origin></history>

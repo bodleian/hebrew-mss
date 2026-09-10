@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="250">250</extent><foliation source="#beit-arie">Fol. 97 is fivefold, fol. 206 is
+                        <support source="#neubauer">paper</support><extent n="250">ff. 250</extent><foliation source="#beit-arie">Fol. 97 is fivefold, fol. 206 is
             fourfold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian
             semi-cursive script</handNote></handDesc></physDesc>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="105">105</extent><foliation source="#beit-arie">Fol. 4 numbered 4-5, fol. 43 missing, fol. 90 numbered 90-91, fol. 102 numbered
+                        <support source="#neubauer">paper</support><extent n="105">ff. 105</extent><foliation source="#beit-arie">Fol. 4 numbered 4-5, fol. 43 missing, fol. 90 numbered 90-91, fol. 102 numbered
             102-103.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive and cursive
             scripts.</handNote></handDesc></physDesc>

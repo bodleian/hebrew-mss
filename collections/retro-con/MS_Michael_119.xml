@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="256">256</extent><foliation source="#beit-arie">Fol. 139 has twelve leaves, i.e. 139 (i)-139
+                        <support source="#neubauer">paper</support><extent n="256">ff. 256</extent><foliation source="#beit-arie">Fol. 139 has twelve leaves, i.e. 139 (i)-139
             (xii).</foliation></supportDesc></objectDesc>
                </physDesc>
                <history><origin/></history>

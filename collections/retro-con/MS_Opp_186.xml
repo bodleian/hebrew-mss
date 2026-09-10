@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="179">179</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="179">ff. 179</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote><handNote source="#beit-arie">Fols. 1v-16v: Completion of missing leaves (on parchment) Ashkenazic cursive
             script, c. 1500.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">c. 1400]</origDate></origin></history>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="225">ff. 225</extent><foliation source="#beit-arie">Fol. 63 is double, fol. 193 is threefold.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="225">ff. ff. 225</extent><foliation source="#beit-arie">Fol. 63 is double, fol. 193 is threefold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive scripts.</handNote></handDesc></physDesc>
                <history><origin/></history>
                <additional>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="175">175</extent><foliation source="#beit-arie">Fol. 15 is double; fols. 26-29 omitted in
+                        <support source="#neubauer">vellum</support><extent n="175">ff. 175</extent><foliation source="#beit-arie">Fol. 15 is double; fols. 26-29 omitted in
             the foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic
             semi-cursive scripts</handNote></handDesc></physDesc>

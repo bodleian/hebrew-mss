@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="119">119</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="119">ff. 119</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive scripts by several
             hands. </handNote><handNote source="#beit-arie">Glosses on the marg, in Ashkenazic cursive hand of the 15th cent</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[France?</origPlace><origDate source="#beit-arie">late 13th cent.]</origDate></origin></history>

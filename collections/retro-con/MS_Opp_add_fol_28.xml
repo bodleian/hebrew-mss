@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="171">171</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="171">ff. 171</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic square script</handNote><handNote source="#beit-arie">Fols. 1-7 by another hand, completing the missing first quire (the first column on
             fol. iv is a later completion).</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie">13th cent.]</origDate></origin></history>

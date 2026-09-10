@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="119">119</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="119">ff. 119</extent></supportDesc></objectDesc>
                <additions><note source="#beit-arie">Marg. columns (not by
             the copyist) in cursive script</note></additions><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">1393</origDate></origin></history>

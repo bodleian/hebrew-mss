@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="86">86</extent><foliation source="#beit-arie">The last quire (fols. 65-72) should have been bound between fols. 64 and 73 (the
+                        <support source="#neubauer">vellum</support><extent n="86">ff. 86</extent><foliation source="#beit-arie">The last quire (fols. 65-72) should have been bound between fols. 64 and 73 (the
             foliation follows the correct sequence).</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote><handNote source="#beit-arie">(fols. 65-86 in more
             cursive scripts).</handNote></handDesc></physDesc>

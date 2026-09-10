@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="258">258</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="258">ff. 258</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Tripoli
             (Lebanon)</origPlace><origDate source="#beit-arie">1380-5</origDate></origin></history>

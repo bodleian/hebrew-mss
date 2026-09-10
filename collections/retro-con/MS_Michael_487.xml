@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="199">199</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="199">ff. 199</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic-Italian semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Rome</origPlace><origDate source="#beit-arie"> 1578</origDate></origin></history>
                <additional>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="192">192</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="192">ff. 192</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine
             semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie"> 1413/14</origDate></origin></history>

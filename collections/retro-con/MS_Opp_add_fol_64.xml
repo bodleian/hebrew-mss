@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="175">175</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="175">ff. 175</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental square
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Orient</origPlace><origDate source="#beit-arie">13th cent.?</origDate></origin></history>

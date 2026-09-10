@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="116">116</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="116">ff. 116</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             script by different hands, sharing the same paper.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie">[mid-16th cent, (watermarks of the ‘boar’

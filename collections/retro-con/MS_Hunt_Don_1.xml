@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="235">235</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="235">ff. 235</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic cursive script</handNote><handNote source="#beit-arie">Fols. 2-14 in vol. i: [Late 15th
             cent. (watermarks)]; semi-cursive script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Trets (Provence)</origPlace><origDate source="#beit-arie">1369</origDate></origin></history>

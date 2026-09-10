@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="139">139</extent><foliation source="#beit-arie">Fol. 115 is
+                        <support source="#neubauer">paper</support><extent n="139">ff. 139</extent><foliation source="#beit-arie">Fol. 115 is
             double.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Byzantium</origPlace><origDate source="#beit-arie">late 15th cent, (watermarks)]</origDate></origin></history>

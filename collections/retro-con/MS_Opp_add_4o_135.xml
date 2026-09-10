@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="165">165</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="165">ff. 165</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Rashi
             script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Hildesheim (Germany)</origPlace><origDate source="#beit-arie">[c. 1740 (after 1738)]</origDate></origin></history>

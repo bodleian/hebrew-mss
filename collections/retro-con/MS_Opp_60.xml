@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="278">278</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="278">ff. 278</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic square script</handNote><handNote source="#beit-arie">Ashkenazic semi-cursive script
             for the original glosses</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[15th cent.]</origDate></origin></history>

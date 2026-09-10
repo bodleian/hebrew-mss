@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="395">395</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="395">ff. 395</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Ancona</origPlace><origDate source="#beit-arie">1402</origDate></origin></history>
                <additional>

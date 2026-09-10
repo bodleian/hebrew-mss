@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="127">127</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="127">ff. 127</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie"> mid-14th cent, (watermarks
             similar to Briquet no. 6679, dated 1349-54, and no. 3190, dated 1349-51]</origDate></origin></history>

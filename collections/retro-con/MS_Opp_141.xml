@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="142">142</extent><foliation source="#beit-arie">Fol. 57 is threefold.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="142">ff. 142</extent><foliation source="#beit-arie">Fol. 57 is threefold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[North Africa]</origPlace><origDate source="#beit-arie"> 1560</origDate></origin></history>
                <additional>

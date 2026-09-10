@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="128">128</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="128">ff. 128</extent></supportDesc></objectDesc>
                <additions><note source="#beit-arie">The Sephardic cursive script was
             added on blank leaves of the original MS. (fols. 22r-28r and 105v-108v).</note></additions><handDesc><handNote source="#beit-arie">cursive scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace></origin></history>

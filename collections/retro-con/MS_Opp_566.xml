@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="170">170</extent><foliation source="#beit-arie">Fols. 217-220 in No. 1844 are bound in upside-down at the beg. of the
+                        <support source="#neubauer">paper</support><extent n="170">ff. 170</extent><foliation source="#beit-arie">Fols. 217-220 in No. 1844 are bound in upside-down at the beg. of the
             volume.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Prague?]</origPlace><origDate source="#beit-arie"> beg. of 18th cent.]</origDate></origin></history>

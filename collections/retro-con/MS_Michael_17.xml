@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="291">291</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="291">ff. 291</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic square script</handNote><handNote source="#beit-arie">Deed of sale by the scribe: Semi-cursive Sephardic script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie">c. 1400]</origDate></origin></history>
                <additional>

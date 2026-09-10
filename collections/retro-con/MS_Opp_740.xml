@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="78">78</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="78">ff. 78</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive (fols. 2-37) and cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Wilna</origPlace><origDate source="#beit-arie"> 1651</origDate></origin></history>
                <additional>

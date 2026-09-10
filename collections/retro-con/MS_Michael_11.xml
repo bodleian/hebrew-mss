@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="204">204</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="204">ff. 204</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian square (a: fols. 2v-32r) and
             semi-cursive (b-c: fols. 38r-199v) scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">

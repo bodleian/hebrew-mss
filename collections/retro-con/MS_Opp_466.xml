@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="410">410</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="410">ff. 410</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive script. Fols. 1-24: A completion in early 18th-cent.
             Ashkenazic cursive script (probably by Azriel of Krotoschin)</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">(late) 17th cent.]</origDate></origin></history>

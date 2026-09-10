@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="115">115</extent><foliation source="#beit-arie">Leaf between fols. 113 and 114 is blank and unfoliated.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="115">ff. 115</extent><foliation source="#beit-arie">Leaf between fols. 113 and 114 is blank and unfoliated.</foliation></supportDesc></objectDesc>
                <additions><note source="#beit-arie">Fols. 114v-115r: Later
             additions.</note></additions><handDesc><handNote source="#beit-arie">Italian semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie">early 15th cent, (watermarks)]</origDate></origin></history>

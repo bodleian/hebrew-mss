@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="55">55</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="55">ff. 55</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote><handNote source="#beit-arie">Fols. 42v-43r, 47v-48r, 50v-51r by a different, more cursive hand, which wrote the
             note on the marg, of fol. 39v, dated 1573/4.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">mid-16th cent.]</origDate></origin></history>

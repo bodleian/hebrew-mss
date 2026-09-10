@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="193">193</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="193">ff. 193</extent></supportDesc></objectDesc>
                <additions><note source="#beit-arie">Owner’s glosses and colophon in Oriental semi-cursive script</note></additions><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Damascus?]</origPlace><origDate source="#beit-arie">1323</origDate></origin></history>
                <additional>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="159">159</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="159">ff. 159</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic cursive scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Oran
             (Algeria)</origPlace><origDate source="#beit-arie">c. 1668 (fols. 70v, 71v)-1694 (fol. 146v)</origDate></origin></history>

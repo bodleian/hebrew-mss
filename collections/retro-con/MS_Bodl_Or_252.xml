@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="94">94</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="94">ff. 94</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">square
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Oxford</origPlace><origDate source="#beit-arie">before 1646</origDate></origin></history>

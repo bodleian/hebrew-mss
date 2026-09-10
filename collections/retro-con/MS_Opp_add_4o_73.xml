@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="137">137</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="137">ff. 137</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Northern Italy]</origPlace><origDate source="#beit-arie">mid-late 15th cent.]</origDate></origin></history>
                <additional>

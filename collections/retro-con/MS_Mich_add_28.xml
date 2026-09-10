@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="70">70</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="70">ff. 70</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian (semi-) cursive script. Items 18-19 (fols. 26v-29v): Mid-16th cent.
             (fol. 70 is dated 1535).</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Mantua?</origPlace><origDate source="#beit-arie"> c. 1740-50</origDate></origin></history>

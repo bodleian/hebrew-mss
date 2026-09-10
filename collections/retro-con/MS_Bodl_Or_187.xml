@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="37">37</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="37">ff. 37</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Persian
             semi-cursive scripts.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Persia]</origPlace><origDate source="#beit-arie">(late?) 17th cent. (frags. of anchor watermarks)</origDate></origin></history>

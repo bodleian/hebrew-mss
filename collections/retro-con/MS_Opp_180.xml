@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="mixed">
-                        <support source="#neubauer">paper and vellum</support><extent n="173">173</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper and vellum</support><extent n="173">ff. 173</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie">early 14th cent.</origDate></origin></history>
                <additional>

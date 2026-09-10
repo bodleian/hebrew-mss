@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="129">129</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="129">ff. 129</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Jerusalem</origPlace><origDate source="#beit-arie">1699 (according to the attached
             letters)</origDate></origin></history>

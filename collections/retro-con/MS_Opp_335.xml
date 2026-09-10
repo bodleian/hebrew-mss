@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="302">302</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="302">ff. 302</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive and cursive
         scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[France (Belgium?)]</origPlace><origDate source="#beit-arie"> c. 1340</origDate></origin></history>

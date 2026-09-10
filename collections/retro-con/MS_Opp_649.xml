@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="mixed">
-                        <support source="#neubauer">paper and vellum</support><extent n="416">416</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper and vellum</support><extent n="416">ff. 416</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote><handNote source="#beit-arie">Fols. 191r-302v and 378r-385v were probably written by another
             hand.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">

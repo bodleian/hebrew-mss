@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="142">142</extent><foliation source="#beit-arie">The correct order of the folios is 1, 3-9, 12, 2, 10-11,
+                        <support source="#neubauer">paper</support><extent n="142">ff. 142</extent><foliation source="#beit-arie">The correct order of the folios is 1, 3-9, 12, 2, 10-11,
             13-142.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script. Titles and initial words are written in red
             ink alternately.</handNote></handDesc></physDesc>

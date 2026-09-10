@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="mixed">
-                        <support source="#neubauer">paper and vellum</support><extent n="10">10</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper and vellum</support><extent n="10">ff. 10</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive
             scripts.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie">Fols. 7-8: [Early 14th cent.]</origDate></origin></history>

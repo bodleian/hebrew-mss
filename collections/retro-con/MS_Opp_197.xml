@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="48">48</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="48">ff. 48</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic-Italian semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie">late 16th cent, (according to
             watermarks)]</origDate></origin></history>

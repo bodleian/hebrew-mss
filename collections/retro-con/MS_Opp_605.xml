@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="11">11</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="11">ff. 11</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian
             semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie">[c. 1700]</origDate></origin></history>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="247">247</extent><foliation source="#beit-arie">Fol. 184 is double.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="247">ff. 247</extent><foliation source="#beit-arie">Fol. 184 is double.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive scripts. Nos. 1-3 (fols. 1-184) by one hand; nos.
             4-7 (fols. 185r-247r) by a different hand on different paper (no. 6 (fols. 209-215) by a
             different, less cursive, hand).</handNote></handDesc></physDesc>

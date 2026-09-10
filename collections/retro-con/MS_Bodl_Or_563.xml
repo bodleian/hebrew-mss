@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
-                        <support source="#beit-arie">Oriental paper</support><extent n="172">172</extent></supportDesc></objectDesc>
+                        <support source="#beit-arie">Oriental paper</support><extent n="172">ff. 172</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive script</handNote><handNote source="#beit-arie">Glosses in Oriental semi-cursive script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Orient</origPlace><origDate source="#beit-arie">14th cent.]</origDate></origin></history>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="293">293</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="293">ff. 293</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Hamburg</origPlace><origDate source="#beit-arie"> 1724</origDate></origin></history>
                <additional>

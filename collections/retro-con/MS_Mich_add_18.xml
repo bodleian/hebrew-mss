@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="65">65</extent><foliation source="#beit-arie">Fol. 57 is double.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="65">ff. 65</extent><foliation source="#beit-arie">Fol. 57 is double.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic (fols. 1-4, 30r-59r) and Italian (fols. (ii)r, 5r-29r, 59v-61r,
             64v-65v) semi-cursive scripts; (fols. 61v-62r and 63 square (Italian)
             script).</handNote></handDesc></physDesc>

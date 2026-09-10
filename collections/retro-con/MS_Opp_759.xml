@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
-                        <support source="#beit-arie">Very thin parchment (quires of 8 sheets).</support><extent n="180">180</extent></supportDesc></objectDesc>
+                        <support source="#beit-arie">Very thin parchment (quires of 8 sheets).</support><extent n="180">ff. 180</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[France]</origPlace><origDate source="#beit-arie">
             late 13th cent.]</origDate></origin></history>

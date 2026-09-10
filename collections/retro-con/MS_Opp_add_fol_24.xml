@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="190">190</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="190">ff. 190</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote><handNote source="#beit-arie">Marg. com. on fols. 3r-4r, 12r-16v: Italian semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy (quiring, type of parchment)</origPlace><origDate source="#beit-arie">early 15th
             cent.]</origDate></origin></history>

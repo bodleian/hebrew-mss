@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="316">316</extent><foliation source="#beit-arie">Fol. 93 is double, fol. 251 is blank.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="316">ff. 316</extent><foliation source="#beit-arie">Fol. 93 is double, fol. 251 is blank.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic square script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[France?</origPlace><origDate source="#beit-arie">mid-13th cent.]</origDate></origin></history>
                <additional>

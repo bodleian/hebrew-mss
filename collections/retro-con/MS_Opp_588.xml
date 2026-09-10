@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="296">296</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="296">ff. 296</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive and semi-cursive scripts</handNote><handNote source="#beit-arie">Fols. 143-162: Italian semi-cursive script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz and Italy</origPlace><origDate source="#beit-arie">late 15th-16th
             cent.]</origDate></origin></history>

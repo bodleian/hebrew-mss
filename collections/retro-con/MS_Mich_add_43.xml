@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="578">578</extent><foliation source="#beit-arie">Fols. 125-129 missed in the foliation.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="578">ff. 578</extent><foliation source="#beit-arie">Fols. 125-129 missed in the foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian
             cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> mid-16th cent.]</origDate></origin></history>

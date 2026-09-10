@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="205">205</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="205">ff. 205</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[North Africa?]</origPlace><origDate source="#beit-arie">[c. 1500 (watermarks similar to Briquet
             no. 4362, with chain-lines spaced 32 mm. apart, dated 1488-1535)]</origDate></origin></history>

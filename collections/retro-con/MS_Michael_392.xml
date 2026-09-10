@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="121">121</extent><foliation source="#beit-arie">Fols. 17-22 misbound, fol. 22 should
+                        <support source="#neubauer">paper</support><extent n="121">ff. 121</extent><foliation source="#beit-arie">Fols. 17-22 misbound, fol. 22 should
             be placed after fol. 40, followed by fols. 17-21. Fols. 106 and 107 missed in the
             foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>

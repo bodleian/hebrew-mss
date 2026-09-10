@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="115">115</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="115">ff. 115</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">majuscule scripts.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Nablus</origPlace><origDate source="#beit-arie">c. 1513 (fols. 37, 39-44). c. 1322 (fols.
             114-115, tashkil on fol. 114), the other folios are 14th-16th cents.</origDate></origin></history>

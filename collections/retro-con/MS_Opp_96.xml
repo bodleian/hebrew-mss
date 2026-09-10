@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="17">17</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="17">ff. 17</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origDate source="#beit-arie">[Mid-16th cent]</origDate></origin></history>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="279">279</extent><foliation source="#beit-arie">Fols. 7-62 are blank, fols. 62 and 275 are double.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="279">ff. 279</extent><foliation source="#beit-arie">Fols. 7-62 are blank, fols. 62 and 275 are double.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive
             script</handNote><handNote source="#beit-arie">Fols. 1-6 are in a different hand.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">late 16th cent. (watermarks)</origDate></origin></history>

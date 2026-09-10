@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="87">87</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="87">ff. 87</extent></supportDesc></objectDesc>
                <additions><note source="#beit-arie">(fol. 84r is a very late completion in Ashkenazic cursive script).</note></additions><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie"> late 15th cent.]</origDate></origin></history>
                <additional>

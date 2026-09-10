@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="101">101</extent><foliation source="#beit-arie">Blank leaf between fols. 11 and 12.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="101">ff. 101</extent><foliation source="#beit-arie">Blank leaf between fols. 11 and 12.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">(Italy)</origPlace><origDate source="#beit-arie">1422</origDate></origin></history>

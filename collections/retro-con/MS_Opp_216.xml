@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="191">191</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="191">ff. 191</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Worms]</origPlace><origDate source="#beit-arie"> 1613 (fol. 156r)</origDate></origin></history>
                <additional>

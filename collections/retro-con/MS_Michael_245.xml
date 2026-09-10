@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
-                        <support source="#beit-arie">Fols. 1-110 parchment, fols. 111-143 paper.</support><extent n="143">143</extent></supportDesc></objectDesc>
+                        <support source="#beit-arie">Fols. 1-110 parchment, fols. 111-143 paper.</support><extent n="143">ff. 143</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Oberdorf (Germany)</origPlace><origDate source="#beit-arie"> 1442</origDate></origin></history>
                <additional>

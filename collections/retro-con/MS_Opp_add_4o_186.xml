@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="88">88</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="88">ff. 88</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic (semi-) cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Turkey?, Egypt?]</origPlace><origDate source="#beit-arie">1608-12</origDate></origin></history>
                <additional>

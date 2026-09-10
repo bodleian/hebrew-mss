@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="98">98</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="98">ff. 98</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie">between 1427 and
             1451</origDate></origin></history>

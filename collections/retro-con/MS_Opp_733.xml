@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="43">43</extent><foliation source="#beit-arie">Fol. 42 is fourfold.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="43">ff. 43</extent><foliation source="#beit-arie">Fol. 42 is fourfold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Fulda (fol. 42 (ii)v)</origPlace><origDate source="#beit-arie">[late 16th
             cent.]</origDate></origin></history>

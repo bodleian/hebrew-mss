@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="113">113</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="113">ff. 113</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Ingolstadt? (Germany)</origPlace><origDate source="#beit-arie"> 1347</origDate></origin></history>
                <additional>

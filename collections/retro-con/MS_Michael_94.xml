@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="201">201</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="201">ff. 201</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">No. 1, no. 2, and no. 3 (each by a different hand): Ashkenazic cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">18th cent.]</origDate></origin></history>

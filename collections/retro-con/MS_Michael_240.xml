@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="264">264</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="264">ff. 264</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive
             scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie">

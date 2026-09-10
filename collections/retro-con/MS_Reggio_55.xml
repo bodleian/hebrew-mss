@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="206">206</extent><foliation source="#beit-arie">Fol. 35 is threefold.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="206">ff. 206</extent><foliation source="#beit-arie">Fol. 35 is threefold.</foliation></supportDesc></objectDesc>
                </physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy]</origPlace></origin></history>
                <additional>

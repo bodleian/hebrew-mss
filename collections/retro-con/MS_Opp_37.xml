@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="436">436</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="436">ff. 436</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Poland</origPlace><origDate source="#beit-arie">c. 1654</origDate></origin></history>

@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="221">221</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="221">ff. 221</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Malaga (Spain)</origPlace><origDate source="#beit-arie">1442</origDate></origin></history>
                <additional>

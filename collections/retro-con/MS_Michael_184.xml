@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="182">182</extent><foliation source="#beit-arie">Fols. 103-111 missed in the foliation.</foliation></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="182">ff. 182</extent><foliation source="#beit-arie">Fols. 103-111 missed in the foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive script. Fol. 34r (the beg. of ספר כדור העולם) by another, cursive, hand.
             </handNote></handDesc></physDesc>

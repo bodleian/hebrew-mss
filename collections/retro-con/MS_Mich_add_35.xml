@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="215">215</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="215">ff. 215</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic square script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Carpentras]</origPlace><origDate source="#beit-arie"> 1692 (title-page)</origDate></origin></history>
                <additional>

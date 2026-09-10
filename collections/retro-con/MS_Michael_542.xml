@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="mixed">
-                        <support source="#neubauer">paper and vellum</support><extent n="157">157</extent><foliation source="#beit-arie">Fols. 35-39 omitted in the foliation but text
+                        <support source="#neubauer">paper and vellum</support><extent n="157">ff. 157</extent><foliation source="#beit-arie">Fols. 35-39 omitted in the foliation but text
             is continuous.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian
             semi-cursive script</handNote></handDesc></physDesc>

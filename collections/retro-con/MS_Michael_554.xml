@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="chart">
-                        <support source="#neubauer">paper</support><extent n="348">348</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">paper</support><extent n="348">ff. 348</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote><handNote source="#beit-arie">The text in the upper marg, in semi-cursive script, and Rashi in the marg., by
             another hand</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">late 15th cent, (watermark: Briquet no. 11754, dated 1479 and 1473)]</origDate></origin></history>

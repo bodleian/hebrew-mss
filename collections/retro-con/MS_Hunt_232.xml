@@ -44,7 +44,7 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support source="#neubauer">vellum</support><extent n="138">138</extent></supportDesc></objectDesc>
+                        <support source="#neubauer">vellum</support><extent n="138">ff. 138</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie">1421</origDate></origin></history>
                <additional>
