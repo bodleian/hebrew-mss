@@ -50,10 +50,12 @@
                   <altIdentifier type="former">
                      <idno>MS. Oppenheim 725</idno>
                   </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">21132</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Sefer Mitsṿot Ḳaṭan (SeMaK) by Isaac ben Joseph of Corbeil, and Sefer
-                     Tashbets by Samson ben Zadok</summary>
+                  <summary>Halakhic Compendium</summary>
                   <msItem n="1">
                      <locus>ff. 1v-159v</locus>
                      <title>The Small Book of Commandments</title>
@@ -63,20 +65,36 @@
                         <persName>Isaac ben Joseph, of Corbeil, active 13th century</persName>
                         <persName xml:lang="he">יצחק בן יוסף מקורביל</persName>
                      </author>
-                     <note>With the annotations of <persName key="person_70348690">Perez ben Elijah,
-                           of Corbeil</persName> and a few other glosses.</note>
+                     <note>With the annotations of <persName key="person_70348690">Perez ben Elijah
+                           of Corbeil</persName> and a few other glosses, including those from
+                           <persName key="person_7098">Yitsḥaḳ of Ourville <foreign xml:lang="he"
+                              >יצחק מאורבילי</foreign></persName>'s <hi rend="italic">Sefer
+                           ha-Menahel</hi> (<locus>ff. 63r, 68r, etc.</locus>) and from the works of
+                           <persName key="person_7099">Nathanael of Chinon<foreign xml:lang="he"
+                              >נתנאל מקינון</foreign></persName> (<locus>ff. 22r, 42v,
+                        etc.</locus>). Other rabbinical authorities cited include <persName
+                           key="person_7100">Yehudah of Samois-sur-Seine <foreign xml:lang="he"
+                              >יהודה משמוייש</foreign></persName> (<locus>f. 30v</locus>), and
+                           <persName key="person_7101">Eliahu of Épernay <foreign xml:lang="he"
+                              >אליהו מאישפרנאי</foreign></persName> (<locus>f. 30v</locus>).</note>
+                     <note>Begins with commandment No. 1; the Index is found at the end (<locus>ff.
+                           155v-159v</locus>).</note>
+                     <note>Includes 310 commandments in total, the last of which concerns the laws
+                        of the <hi rend="italic">mikveh</hi> (<foreign xml:lang="he">דיני
+                           מקוה</foreign>).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
                      <locus>ff. 160v-190v</locus>
-                     <title xml:lang="he" key="work_389">תשב"ץ</title>
                      <title xml:lang="he-Latn-x-lc" key="work_389">Tashbets</title>
+                     <title xml:lang="he" key="work_389">תשב"ץ</title>
                      <author key="person_8698827">
                         <persName>Samson ben Zadok, -1312</persName>
                         <persName xml:lang="he">שמשון בן צדוק</persName>
                      </author>
-                     <note>With glosses by <persName key="person_70348690">Perez ben Elijah, of
+                     <note>With glosses by <persName key="person_70348690">Perez ben Elijah of
                            Corbeil</persName>.</note>
+                     <note>The ending is incomplete (ends halfway through No. 434).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -92,11 +110,18 @@
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
-                     <handNote>The colophon at the end of no. 1, which is written in micrography on
-                           <locus>f. 155r</locus>, indicates only the scribe's name,
-                           <persName>Yehudah</persName>, which is frequently pointed out in the
-                        copied text (e.g. <locus>fols. 29r, 103v, 162v</locus>). <note>Many of the
-                           enlarged initial words have not been executed as planned.</note>
+                     <handNote>The colophon at the end of no. 1 (<locus>f. 155r</locus>), which is
+                        written in micrography, indicates only the scribe's name,
+                           <persName>Yehudah</persName>, which is frequently pointed out (by means
+                        of drawings made up of dotted lines) in the copied text (e.g. <locus>ff.
+                           29r, 103v, 162v</locus>). <note>Many of the enlarged initial words have
+                           not been executed as planned.</note>
+                        <note>As Judah Galinsky observed (<hi rend="italic">The Making of a Medieval
+                              Bestseller</hi>, p. 140), the scribe <persName>Yehudah</persName>
+                           appears to have copied the book from an exemplar copied by a scribe named
+                              <persName>Eliah <foreign xml:lang="he">אליה</foreign></persName>; this
+                           is indicated by instances where it is stated in the text that the
+                           scribe's name is Eliah (see for example <locus>f. 30v</locus>).</note>
                      </handNote>
                   </handDesc>
                   <decoDesc>
@@ -108,22 +133,27 @@
                         on <locus>ff. 154v, 155r.</locus></decoNote>
                   </decoDesc>
                   <bindingDesc>
-                     <p>Dark brown blind-tooled leather over wooden boards, rebacked with an
-                        alum-tawed skin in a quarter leather style.</p>
+                     <p>Dark brown leather with blind-tooled decoration over wooden boards, rebacked
+                        in alum-tawed skin. At the top of the spine, two paper slips bearing the
+                        former shelfmark ('725'; printed) and a handwritten description of the
+                        contents; near the bottom of the spine, the current shelfmark has been
+                        painted in black.</p>
+                     <condition>The dark brown leather has worn away in numerous places, including
+                        around the corners of the boards. Metal bosses and clasp now
+                        missing.</condition>
                   </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate when="1284">[ca. 1284]</origDate>
                      <note>The first letter of divorce on <locus>f. 67v</locus> is dated <date
-                           calendar="#Gregorian">1284</date>. The paleographical and codicological
+                           calendar="#Julian">1284</date>. The paleographical and codicological
                         features are consistent with a late-13th-century dating; this dating is also
-                        supported by the fact that the colophon on <locus>f. 156r</locus> uses a
+                        supported by the fact that the colophon on <locus>f. 155r</locus> uses a
                         formula for the living for <persName key="person_70348690">Perez ben Elijah,
-                           of Corbeil</persName>, who died around <date calendar="#Gregorian"
-                           >1297</date>. The <date calendar="#Gregorian">1384</date> date of the
-                        second letter of divorce on <locus>fol. 68r</locus> was presumably a
-                        mistake</note>
+                           of Corbeil</persName>, who died in c.<date calendar="#Julian"
+                        >1297</date>. The <date calendar="#Julian">1384</date> date of the second
+                        letter of divorce on <locus>f. 68r</locus> was presumably a mistake</note>
                      <origPlace>[France, probably <placeName key="place_87">Saint-Symphorien-d'Ozon
                            (Rhône)</placeName>]</origPlace>
                      <note>This place name <foreign xml:lang="he">(שנשפורין מתא דיתבא על נהר
@@ -141,8 +171,8 @@
                      the family was fleeing from the plague in the town of <foreign xml:lang="he"
                         >ליסא</foreign>, probably <placeName key="place_86">Leszno</placeName>
                      (German: Lissa) in western Poland. There are further registers of births by
-                     earlier owners dated between <date calendar="#Gregorian">1530</date> and <date
-                        calendar="#Gregorian">1547</date> at the beginning of the
+                     earlier owners dated between <date calendar="#Julian">1530</date> and <date
+                        calendar="#Julian">1547</date> at the beginning of the
                      manuscript.</provenance>
                   <acquisition>It belonged to <persName ref="https://viaf.org/viaf/7753200"
                         key="person_7753200">David ben Abraham Oppenheim</persName>'s <date
