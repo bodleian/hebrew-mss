@@ -16,6 +16,15 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3384">
+               <title type="uniform">Sefer ha-Rimon</title>
+               <title type="variant" xml:lang="he">ספר הרמון</title>
+               <title type="variant">The Book of the Pomegranate</title>
+               <title type="variant" xml:lang="he">ספר המצות</title>
+               <title type="variant">Sefer ha-Mitsṿot</title>
+               <ref target="MS_Oppenheim_344-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Oppenheim_344.xml#MS_Oppenheim_344-item1 -->
+               <textLang mainLang="he"/>
             <bibl xml:id="work_3383">
                <title type="uniform">Sefer ha-Ḥasidut</title>
                <title type="variant" xml:lang="he">ספר החסידות</title>
@@ -12023,6 +12032,8 @@
                <title type="variant">תורה והפטרות</title>
                <ref target="MS_Canonici_Or_41-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Canonici_Or_41.xml#MS_Canonici_Or_41-item1 -->
+               <ref target="MS_Canonici_Or_106-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Canonici_Or_106.xml#MS_Canonici_Or_106-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_122">

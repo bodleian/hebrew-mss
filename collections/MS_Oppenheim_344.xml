@@ -57,12 +57,25 @@
                <msContents>
                   <summary>The Book of the Pomegranate</summary>
                   <msItem>
-                     <title xml:lang="he">ספר הרמון</title>
-                     <title xml:lang="he-Latn-x-lc">Sefer ha-rimon</title>
+                     <title xml:lang="he" key="work_3384">ספר הרמון</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3384">Sefer ha-Rimon</title>
                      <author key="person_79260667">
                         <persName>Moses ben Shem Tov, de Leon, 1250-1305</persName>
                         <persName xml:lang="he">משה בן שם טוב, די לאון</persName>
                      </author>
+                     <note>Includes only the first part of the text, dealing with the positive
+                        commandments (<foreign xml:lang="he">מצוות עשה</foreign>).</note>
+                     <note>Used by Elliot R. Wolfson as the basis for the first part of his critical
+                        edition (Atlanta, 1988).</note>
+                     <note>As pointed out by Wolfson (<hi rend="italic">The Book of the
+                           Pomegranate</hi>, p. 12), some of the folios have been misbound; the
+                        quire containing <locus>ff. 69-78</locus> should follow <locus>f.
+                           57v</locus>, and this should be followed by <locus>f. 68</locus> and then
+                        the quire containing <locus>ff. 58-67</locus>. Besides, there are several
+                        lacunae in the text; these occur at <locus>ff. 33v-34r, 44v-45r, 68v-58r,
+                           79r, 89v-90r, 99v-100r</locus>.</note>
+                     <note>Several marginal notes on parallel texts in the <hi rend="italic"
+                           >Zohar</hi> (<locus>ff. 39v, 109v</locus>).</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -74,12 +87,24 @@
                               <height>200</height>
                               <width>140</width>
                            </dimensions></extent>
+                        <condition>Some minor worm damage, which for the most part do not affect the
+                           legibility of the text. Some of the wormholes have been repaired using
+                           strips of paper; similar paper has been used to repair the worn outer
+                           edges of certain folios. The margins have been trimmed and as a result,
+                           some of the marginal notes are now only partly legible.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Sephardic semi-cursive script (Spanish?)</summary>
                      <handNote/>
                   </handDesc>
+                  <decoDesc>
+                     <p>Simple, monochrome penwork flourishes arranged around clusters of three <hi
+                           rend="italic">yods</hi> (usually an abbreviation for the Tetragrammaton,
+                        but here used apparently as decoration) which are placed above each of the
+                        enlarged initial words on some folios (<locus>ff. 1r, 53r, 57v, 70r, 71r,
+                           77r</locus>).</p>
+                  </decoDesc>
                   <bindingDesc>
                      <p>Vellum on paper boards; the current shelfmark ('344') has been painted in
                         black on the spine.</p>
@@ -138,6 +163,9 @@
                         Press, 1994), <ref
                            target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=194"
                            >no. 2338.</ref></bibl>
+                     <bibl>Wolfson, Elliot R., <hi rend="italic">The Book of the Pomegranate: Moses
+                           de Leon’s Sefer Ha-Rimmon</hi> (Atlanta, GA: Scholars Press,
+                        1988).</bibl>
                   </listBibl>
                </additional>
             </msDesc>
