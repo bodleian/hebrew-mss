@@ -162,6 +162,10 @@
                      </availability>
                   </adminInfo>
                   <surrogates>
+                     <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/5242c14a-fd89-4bc5-ad38-faa1354b8ab0/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 17705</idno>
                      </bibl>
