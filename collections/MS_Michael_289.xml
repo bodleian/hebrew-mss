@@ -168,6 +168,10 @@
                      </availability>
                   </adminInfo>
                   <surrogates>
+                     <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/884595d8-3d25-47d4-8e90-7eb6d3833e0b/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 17279</idno>
                      </bibl>

@@ -25,6 +25,7 @@
                <ref target="MS_Oppenheim_344-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Oppenheim_344.xml#MS_Oppenheim_344-item1 -->
                <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3383">
                <title type="uniform">Sefer ha-Ḥasidut</title>
                <title type="variant" xml:lang="he">ספר החסידות</title>
