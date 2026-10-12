@@ -1,0 +1,87 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_n_2582">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Opp. add. 4o. 175</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Opp_add_4o_175</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">DB Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Retroconverted Files</collection><idno>MS. Opp. add. 4o. 175</idno>
+               <altIdentifier type="other"><idno type="Neubauer">2582</idno></altIdentifier></msIdentifier>
+               <msContents>
+               <summary source="#db">Miscellany</summary></msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support source="#beit-arie">Compilation of
+            different MSS. written on different types of paper.</support><extent n="76">ff. 76</extent></supportDesc></objectDesc>
+               </physDesc>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">mid-late 15th cent.</origDate></origin></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                     <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>no. 2582</ref>, and <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>no. 2582</ref>.</source></recordHist>
+                  </adminInfo>
+                
+                  <surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/objects/5b9fda67-9991-4e94-98cf-3f6d645fc781/"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl></surrogates><listBibl>
+                     
+                  <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref>no. 2582.</ref></bibl><bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref>no. 2582.</ref></bibl></listBibl>
+               </additional>
+       
+            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-2 (fols. 1r-19r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"/><msItem n="2" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">5260= 1499 (colophon on fol.
+                12r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 24-30, and additions in different hands)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script.</handNote></handDesc></physDesc><history><origin/></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 4 (fols.
+                37-42)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
+                script</handNote></handDesc></physDesc><history><origin/></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 5 (fols. 43r-48r) and 8 (fol.
+                69)</idno></altIdentifier></msIdentifier><msContents><msItem n="5" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script (lower part of fols. 45r-48r in less
+                cursive script)</handNote></handDesc></physDesc><history><origin/></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 6 (fol. 49r)</idno></altIdentifier></msIdentifier><msContents><msItem n="6" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script, written
+                later.</handNote></handDesc></physDesc><history><origin/></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 7 (fols. 53r-59r)</idno></altIdentifier></msIdentifier><msContents><msItem n="7" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script.</handNote></handDesc></physDesc><history><origin/></history></msPart></msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
