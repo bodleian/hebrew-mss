@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="264">ff. 264</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
         scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Brody</origPlace><origDate source="#beit-arie"> 1673
+               <history><origin><origPlace source="#beit-arie">Brody</origPlace><origDate source="#beit-arie" notBefore="1673" notAfter="1678"> 1673
             and 1678</origDate></origin></history>
                <additional>
                   <adminInfo>

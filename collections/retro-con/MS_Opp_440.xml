@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic-Oriental
             semi-cursive and cursive scripts (fols. 293v, 322v-323r: Ashkenazic
             script).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Near East]</origPlace><origDate source="#beit-arie">late 16th-early 17th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Near East]</origPlace><origDate source="#beit-arie" notBefore="1500" notAfter="1510&#10;">late 16th-early 17th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

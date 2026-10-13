@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Frankfurt a.
-            M.</origPlace><origDate source="#beit-arie"> 1601</origDate></origin></history>
+            M.</origPlace><origDate source="#beit-arie" when="1601">1601</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

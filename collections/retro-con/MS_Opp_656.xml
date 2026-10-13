@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-116r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">The Hebrew-German translation of the common prayers, the Haggadah, and the Hosh'anoth</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
-                scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">1535 (fol.
-                116r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2(fols. 117r-142v)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">מנהגים</title></msItem></msContents><history><origin><origDate source="#beit-arie">1524(fol. 142v)</origDate></origin></history></msPart></msDesc>
+                scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" when="1535" >1535 (fol.
+                116r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2(fols. 117r-142v)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">מנהגים</title></msItem></msContents><history><origin><origDate source="#beit-arie" when="1524" >1524(fol. 142v)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

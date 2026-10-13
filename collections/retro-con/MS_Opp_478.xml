@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="71">ff. 71</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie"> mid-14th cent, (watermarks similar to
+               <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie" notBefore="1340" notAfter="1360"> mid-14th cent, (watermarks similar to
             Briquet no. 2366, dated 1358)]</origDate></origin></history>
                <additional>
                   <adminInfo>

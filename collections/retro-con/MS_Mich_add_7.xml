@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="160">ff. 160</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Carpentras]</origPlace><origDate source="#beit-arie"> 1709
+               <history><origin><origPlace source="#beit-arie">[Carpentras]</origPlace><origDate source="#beit-arie" when="1709" > 1709
             (title-page)</origDate></origin></history>
                <additional>
                   <adminInfo>

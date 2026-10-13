@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Fez
-            (Morocco)</origPlace><origDate source="#beit-arie"> 1709</origDate></origin></history>
+            (Morocco)</origPlace><origDate source="#beit-arie" when="1709">1709</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

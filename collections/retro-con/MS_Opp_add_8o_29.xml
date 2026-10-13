@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support><extent n="40">ff. 40</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">priestly majuscule script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Nablus?]</origPlace><origDate source="#beit-arie">15th cent.?</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Nablus?]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1500" cert="medium">15th cent.?</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

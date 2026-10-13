@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="192">ff. 192</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Various places in Germany</origPlace><origDate source="#beit-arie">c. 1745 (fol.
+               <history><origin><origPlace source="#beit-arie">Various places in Germany</origPlace><origDate source="#beit-arie" when="" notBefore="1745" notAfter="1746" cert="medium">c. 1745 (fol.
             101v)-1746 (fol. 118v)</origDate></origin></history>
                <additional>
                   <adminInfo>

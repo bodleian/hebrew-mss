@@ -46,7 +46,7 @@
                      <supportDesc>
                         <support source="#beit-arie">Outer and inner sheets of quires made of parchment.</support><extent n="59">ff. 59</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Byzantium</origPlace><origDate source="#beit-arie">late 15th cent, (watermarks similar to Briquet
+               <history><origin><origPlace source="#beit-arie">Byzantium</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">late 15th cent, (watermarks similar to Briquet
             no. 2066, dated 1473-6)]</origDate></origin></history>
                <additional>
                   <adminInfo>

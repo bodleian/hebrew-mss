@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="96">ff. 96</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Bitonto (Italy)</origPlace><origDate source="#beit-arie"> 1489</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Bitonto (Italy)</origPlace><origDate source="#beit-arie" when="1489">1489</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

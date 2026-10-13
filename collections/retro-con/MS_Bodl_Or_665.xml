@@ -47,7 +47,7 @@
                         </supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">unadorned majuscule script of small size.
             Green-brown ink of the era.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Nablus]</origPlace><origDate source="#beit-arie">c. 1500</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Nablus]</origPlace><origDate source="#beit-arie" when="1500"  cert="medium">c. 1500</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

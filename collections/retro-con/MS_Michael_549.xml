@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">[שלחן]</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Byzantine (?) semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Byzantium?]</origPlace><origDate source="#beit-arie">[early 15th cent, (type of
-                watermarks: ‘cat’)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">ויכוח הדת</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[early 19th cent.]</origDate></origin></history></msPart></msDesc>
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Byzantium?]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">[early 15th cent, (type of
+                watermarks: ‘cat’)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">ויכוח הדת</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1800" notAfter="1810&#10;">[early 19th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

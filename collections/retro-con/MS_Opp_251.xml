@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="307">ff. 307</extent></supportDesc></objectDesc>
                </physDesc>
                <history><origin><origPlace source="#beit-arie">Friedburg (fol. 230r) and Fulda (fols. 234V,
-        307v)</origPlace><origDate source="#beit-arie">1564/5 (fol. 230v)-1595 (fols. 234v,
+        307v)</origPlace><origDate source="#beit-arie" notBefore="1564" notAfter="1595">1564/5 (fol. 230v)-1595 (fols. 234v,
             307V)</origDate></origin></history>
                <additional>
                   <adminInfo>

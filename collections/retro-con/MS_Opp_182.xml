@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive scripts. Nos. 1-3 (fols. 1-184) by one hand; nos.
             4-7 (fols. 185r-247r) by a different hand on different paper (no. 6 (fols. 209-215) by a
             different, less cursive, hand).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> 17th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1600" notAfter="1700"> 17th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

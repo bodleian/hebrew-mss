@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic square and semi-cursive
             scripts. Rashi’s comm. is disposed in geometrical shapes. Rashi on Haftarot (fols.
             319r-327r, 333r-340v) in a later Ashkenazic cursive script (c. 1400)</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">early 13th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1200" notAfter="1210&#10;">early 13th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

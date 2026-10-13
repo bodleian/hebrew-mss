@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive (no. 1) and cursive (no. 2)
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz or
-            Italy]</origPlace><origDate source="#beit-arie"> c. 1475 (watermarks similar to Briquet no. 14574, dated
+            Italy]</origPlace><origDate source="#beit-arie" when="1475"  cert="medium"> c. 1475 (watermarks similar to Briquet no. 14574, dated
             1469-78)]</origDate></origin></history>
                <additional>
                   <adminInfo>

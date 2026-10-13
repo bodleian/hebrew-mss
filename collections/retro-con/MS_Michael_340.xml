@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="59">ff. 59</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" when="1445" >
             1445</origDate></origin></history>
                <additional>
                   <adminInfo>

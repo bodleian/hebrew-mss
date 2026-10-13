@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part"/></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic-Byzantine semi-cursive
-                scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Byzantium?]</origPlace><origDate source="#beit-arie"> early 16th cent,
-                (watermarks)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 156r-162r</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie">late
+                scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Byzantium?]</origPlace><origDate source="#beit-arie" notBefore="1500" notAfter="1510&#10;"> early 16th cent,
+                (watermarks)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 156r-162r</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">late
                 15th cent.</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

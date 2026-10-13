@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support><extent n="295">ff. 295</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Cittanova? (Italy)</origPlace><origDate source="#beit-arie"> 1483</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Cittanova? (Italy)</origPlace><origDate source="#beit-arie" when="1483">1483</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

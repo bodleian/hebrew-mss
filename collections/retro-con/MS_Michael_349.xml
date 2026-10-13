@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="178">ff. 178</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Offenbach (Germany)</origPlace><origDate source="#beit-arie">end of
+               <history><origin><origPlace source="#beit-arie">Offenbach (Germany)</origPlace><origDate source="#beit-arie" when="1780" >end of
             1780</origDate></origin></history>
                <additional>
                   <adminInfo>

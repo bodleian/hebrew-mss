@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="23">ff. 23</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie">[c.
+               <history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie" when="1400"  cert="medium">[c.
             1400? (two keys watermark, but not similar to any traced by Briquet)]</origDate></origin></history>
                <additional>
                   <adminInfo>

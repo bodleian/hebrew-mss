@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="258">ff. 258</extent><foliation source="#beit-arie">Fol. 205 omitted in the foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie"> Ashkenazic cursive scripts (fols. 183-200: semi-cursive
             script).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Cracow?]</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Cracow?]</origPlace><origDate source="#beit-arie" when="1645" >
             1645</origDate></origin></history>
                <additional>
                   <adminInfo>

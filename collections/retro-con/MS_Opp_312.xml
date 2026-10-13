@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Parchment (not the regular Ashkenazic type).</support><extent n="381">ff. 381</extent><foliation source="#beit-arie">Fol. 340 is sixfold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive and cursive
             script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz (or Italy?)]</origPlace><origDate source="#beit-arie">[mid-15th cent,
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz (or Italy?)]</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">[mid-15th cent,
             (after 1452)]</origDate></origin></history>
                <additional>
                   <adminInfo>

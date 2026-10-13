@@ -65,10 +65,10 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No.
                 1</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Astronomical treatise and tables, with R. Mord’khai Finzi’s comm.</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive script. The tables in the quire of
-                fols. 65-82: Sephardic semi-cursive script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Mantua</origPlace><origDate source="#beit-arie"> 1446 (fols. 54-61) and c.
+                fols. 65-82: Sephardic semi-cursive script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Mantua</origPlace><origDate source="#beit-arie" notBefore="1446" notAfter="1470"> 1446 (fols. 54-61) and c.
                 1470</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 97-203)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">עין הקורא</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script. The dated documents on fols. 93-96 are
                 written in Sephardic cursive script on two sheets of different
-            paper.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie">late
+            paper.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">late
                 15th cent, (watermarks similar to Briquet no. 2066, dated 1473-6)]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

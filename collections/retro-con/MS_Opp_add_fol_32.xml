@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="228">ff. 228</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive calligraphic script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> 1774</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" when="1774">1774</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

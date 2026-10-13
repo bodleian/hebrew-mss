@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="455">ff. 455</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote><handNote source="#beit-arie">Fols. 453r-455v by another semi-cursive and cursive hand. Additional comm. (אמרי
             יושר) on the marg, of fols. 1v-17r by a later hand</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[North Africa?</origPlace><origDate source="#beit-arie">late 15th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[North Africa?</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">late 15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

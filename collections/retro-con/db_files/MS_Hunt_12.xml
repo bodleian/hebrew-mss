@@ -47,7 +47,7 @@
                         <extent n="209">ff. 209</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic square script</handNote><handNote source="#beit-arie">Decorative micrography of the Masorah on some pages. Glosses (many contain
             German in Hebrew characters) in a late medieval Ashkenazic cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">early 13th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1200" notAfter="1210&#10;">early 13th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

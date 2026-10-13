@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="77">ff. 77</extent><foliation source="#beit-arie">Fol. 77 is
             threefold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian (semi-) cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">mid-15th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">mid-15th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

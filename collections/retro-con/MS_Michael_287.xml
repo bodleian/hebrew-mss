@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="187">ff. 187</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Hamburg</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">Hamburg</origPlace><origDate source="#beit-arie" when="1842" >
             1842 (colophon on fol. 197v)</origDate></origin></history>
                <additional>
                   <adminInfo>

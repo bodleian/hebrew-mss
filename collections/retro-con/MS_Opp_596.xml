@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Worms (fol.
-            iv)</origPlace><origDate source="#beit-arie"> 1521 (or 1519)</origDate></origin></history>
+            iv)</origPlace><origDate source="#beit-arie" notBefore="1521" notAfter="1519"> 1521 (or 1519)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

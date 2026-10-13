@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="67">ff. 67</extent><foliation source="#beit-arie">Fol. 56 is missing.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Provence?</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Provence?</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">
             early 15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>

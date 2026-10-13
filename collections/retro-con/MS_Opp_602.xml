@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="93">ff. 93</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive (no. 6: cursive) script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">
             early 15th cent, (watermarks: Briquet no. 7678, dated 1404 and 1407)]</origDate></origin></history>
                <additional>
                   <adminInfo>

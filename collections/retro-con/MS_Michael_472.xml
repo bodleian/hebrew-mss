@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Italian
             cursive scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origPlace source="#beit-arie">the later parts: Pesaro (fols.
-            3r, 121v)</origPlace><origDate source="#beit-arie">mid-late 16th cent.</origDate></origin></history>
+            3r, 121v)</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600">mid-late 16th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="150">ff. 150</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Ottingen
-            (Germany)</origPlace><origDate source="#beit-arie">1765 (fol. 1r)-1771 (fol.
+            (Germany)</origPlace><origDate source="#beit-arie" notBefore="1765" notAfter="1771">1765 (fol. 1r)-1771 (fol.
             18r)</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-68)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">A Kabbalistical and allegorical comm. on the Pentateuch</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic-Provencal semi-cursive
-                and Italian cursive and semi-cursive scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie"> early 15th cent, (watermarks similar to Briquet no. 2639, dated 1415, but
+                and Italian cursive and semi-cursive scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;"> early 15th cent, (watermarks similar to Briquet no. 2639, dated 1415, but
                 chain-lines not identical)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2
-                (fols. 73-159)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">R. Nisim’s comm, on Genesis</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie"> late 15th
+                (fols. 73-159)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">R. Nisim’s comm, on Genesis</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500"> late 15th
                 cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

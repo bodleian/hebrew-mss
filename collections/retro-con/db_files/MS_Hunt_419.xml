@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Outer and inner sheets of the quires written by the first copyist made of
             parchment.</support><extent n="177">ff. 177</extent><foliation source="#beit-arie">Fol. 121 is threefold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote><handNote source="#beit-arie">No. 1 d (fols. 122v-177v) by another hand, on different paper.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Italy?</origPlace><origDate source="#beit-arie">mid-15th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Italy?</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">mid-15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

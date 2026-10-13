@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="176">ff. 176</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive script</handNote><handNote source="#beit-arie">Fols. 1-8: A different hand on different paper; the layout of fols. 6-8 implies
             that this part was written later, to complete the missing leaves.</handNote><handNote source="#beit-arie">Fol. 132v by a different hand.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie">1417</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie" when="1417">1417</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

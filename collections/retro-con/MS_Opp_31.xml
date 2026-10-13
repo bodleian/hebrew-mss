@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="175">ff. 175</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive and semi-cursive scripts by various scribes, one of them
             called Joseph (pointed out on fols, 119r, 123v)</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Germany</origPlace><origDate source="#beit-arie">early 15th cent, (watermark: Briquet no. 4014, dated 1405)]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Germany</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">early 15th cent, (watermark: Briquet no. 4014, dated 1405)]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

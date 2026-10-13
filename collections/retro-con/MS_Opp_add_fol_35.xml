@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="56">ff. 56</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Turkey?]</origPlace><origDate source="#beit-arie">mid-16th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Turkey?]</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560">mid-16th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

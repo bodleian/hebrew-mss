@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="167">ff. 167</extent></supportDesc></objectDesc>
                <additions><note source="#beit-arie">Flyleaves, blank leaves, and marg. notes in Ashkenazic cursive script (16th
             cent.).</note></additions><handDesc><handNote source="#beit-arie">Sephardic cursive script.</handNote><handNote source="#beit-arie">Fols. 165v-166r: Sephardic cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie"> 1410</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" when="1410">1410</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

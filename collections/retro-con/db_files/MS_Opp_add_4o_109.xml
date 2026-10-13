@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="38">ff. 38</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive
             script (fol. 38: Sephardic, ‘Rashi’ type).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">c. 1700</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" when="1700"  cert="medium">c. 1700</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

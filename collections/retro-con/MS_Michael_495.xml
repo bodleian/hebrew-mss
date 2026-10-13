@@ -64,11 +64,11 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-136r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">פירושי זהר</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian
-                cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> c. 1700]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-3 (fols. 138-329)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">A Kabbalistical comm. on prayer</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">פרק השירה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive scripts. No. 3 (fols. 227-329) by another hand, and
+                cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" when="1700"  cert="medium"> c. 1700]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-3 (fols. 138-329)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">A Kabbalistical comm. on prayer</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">פרק השירה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive scripts. No. 3 (fols. 227-329) by another hand, and
                 perhaps also fols. 138-144. No. 3 shares the same watermark with fols. 138-144 (of
                 Briquet’s tracing, no. 3316, dated 1495, is the most similar) which also occurs in
                 fols. 145-226, which show watermarks quite similar to Briquet no. 15891 (dated
-                1472-91) and, in fols 151/152, Briquet no. 3069 (dated 1500).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie">late 15th cent.]</origDate></origin></history></msPart></msDesc>
+                1472-91) and, in fols 151/152, Briquet no. 3069 (dated 1500).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">late 15th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

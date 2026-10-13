@@ -47,7 +47,7 @@
                         <support source="#beit-arie">The outer sheets of the two quires were made of parchment, but the beg. of the
             first quire and the end of the second are missing. </support><extent n="15">ff. 15</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">
             late 15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>

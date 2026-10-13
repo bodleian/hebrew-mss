@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="121">ff. 121</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie">1466</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie" when="1466">1466</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

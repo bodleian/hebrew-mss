@@ -65,9 +65,9 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-2 (fols. 58 (ii)-59,
                 64-86)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Tables from Abraham b. Hiyya’s לוחות הנשיא</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">Yizhaq ben Sh’lomoh ben Zaddiq’s ספר אורח סלולה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">by several
-                hands</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">c. 1744/5 (fol.
+                hands</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1744" notAfter="1747" cert="medium">c. 1744/5 (fol.
                 59r)-1747 (fol. 86v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 3-4 (fols. 87-90 (ii))</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">R. Haya’s ארגוזה</title></msItem><msItem n="4" source="#beit-arie"><title source="#neubauer">Maimonides’ Mishneh Torah, ספר קדושה, הל׳ איסור ביאה, פרק י״א</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic
-                semi-cursive scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain or Provence]</origPlace><origDate source="#beit-arie">mid-late 15th cent,
+                semi-cursive scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain or Provence]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">mid-late 15th cent,
                 (watermarks in no. 3 and in fol. 90 (ii), where notes are to be found; no watermark
                 in no. 4, which is written in another hand)]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>

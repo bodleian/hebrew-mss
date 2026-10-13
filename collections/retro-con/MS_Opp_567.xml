@@ -47,7 +47,7 @@
                         <extent n="220">ff. 220</extent><foliation source="#beit-arie">Fols. 217-220 in No. 1844 are bound in upside-down at the beg. of the
             volume.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Prague?]</origPlace><origDate source="#beit-arie"> beg. of 18th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Prague?]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1710"> beg. of 18th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

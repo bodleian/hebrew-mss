@@ -48,7 +48,7 @@
             131 omitted in the foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic
             square, semi-cursive, and cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> c. 1410</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" when="1410"  cert="medium"> c. 1410</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

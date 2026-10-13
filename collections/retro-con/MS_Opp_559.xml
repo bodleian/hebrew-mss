@@ -49,7 +49,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive (and semi- cursive) scripts. Major parts of nos.
             1-3 by one hand; each of no. 4 (fols. 457-462), no. 5 (fols. 463r-466r), no. 6 (fols.
             467-485), and no. 7 (fols. 487r-507r) by a different hand. No. 4: Mid-17th cent. </handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">(Cracow?</origPlace><origDate source="#beit-arie">late 17th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">(Cracow?</origPlace><origDate source="#beit-arie" notBefore="1690" notAfter="1700">late 17th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

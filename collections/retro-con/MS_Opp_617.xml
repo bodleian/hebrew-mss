@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic
             cursive scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Leszno
-            (Poland)]</origPlace><origDate source="#beit-arie">c. 1653 (fol. 25r)</origDate></origin></history>
+            (Poland)]</origPlace><origDate source="#beit-arie" when="1653"  cert="medium">c. 1653 (fol. 25r)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

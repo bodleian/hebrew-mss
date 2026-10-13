@@ -67,7 +67,7 @@
                 (fols. 1v-87v)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ספר הטעמים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic
                 cursive script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie"> [Germany]</origPlace></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
                 106r-174r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">זאת תורת הקנאות</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Maków (Poland)</origPlace><origDate source="#beit-arie"> 1840
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Maków (Poland)</origPlace><origDate source="#beit-arie" when="1840" > 1840
                 (colophons on fols. 166r and 174r)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

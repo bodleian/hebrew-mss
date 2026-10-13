@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="314">ff. 314</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Lodi (north Italy)</origPlace><origDate source="#beit-arie">1578 (fol. 314r)</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Lodi (north Italy)</origPlace><origDate source="#beit-arie" when="1578" >1578 (fol. 314r)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

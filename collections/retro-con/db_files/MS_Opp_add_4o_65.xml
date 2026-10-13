@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="130">ff. 130</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Karaitic semi-cursive scripts.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Mangup (Doros, Crimea),
-            1683, and Koslov (Eupatoria, Crimea)</origPlace><origDate source="#beit-arie">5445 = 1685 (fol.
+            1683, and Koslov (Eupatoria, Crimea)</origPlace><origDate source="#beit-arie" when="1685">5445 = 1685 (fol.
             128r)</origDate></origin></history>
                <additional>
                   <adminInfo>

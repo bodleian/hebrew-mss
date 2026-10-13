@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-2 (fols. 2r-89r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Sh’muel Ibn Thabbon’s translation of the fourth book of Aristotle’s Meteorologica, according to the Arabic translation of el-Batriq</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר מאזני העיונים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive (cursive)
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie"> mid-15th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 92-134)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">[R. Mathathyah ben Mosheh’s] ספר אחיטוב וצלמון</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460"> mid-15th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 92-134)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">[R. Mathathyah ben Mosheh’s] ספר אחיטוב וצלמון</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic
                 cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">
-                [Ashkenaz]</origPlace><origDate source="#beit-arie">18th cent.]</origDate></origin></history></msPart></msDesc>
+                [Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1800">18th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

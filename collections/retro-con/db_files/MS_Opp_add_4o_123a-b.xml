@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="138">ff. 138</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic (Karaite) semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Eastern Europe]</origPlace><origDate source="#beit-arie">1705/6</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Eastern Europe]</origPlace><origDate source="#beit-arie" notBefore="1705" notAfter="1706">1705/6</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -64,7 +64,7 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1 (fols. 1-165) and 3 (fols. 169-300)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ספר מאירת עינים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">each written by a different hand on same
-                paper</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Prague</origPlace><origDate source="#beit-arie">1587 (watermarks: Briquet no. 940, dated
+                paper</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Prague</origPlace><origDate source="#beit-arie" notBefore="1587" notAfter="1588">1587 (watermarks: Briquet no. 940, dated
                 1588)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

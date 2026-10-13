@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="95">ff. 95</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Gorizia]</origPlace><origDate source="#beit-arie">[early 18th cent, (before
+               <history><origin><origPlace source="#beit-arie">[Gorizia]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1710&#10;">[early 18th cent, (before
             1714)]</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-93r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">שיטה מקובצת on N’darim</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[North Africa?]</origPlace><origDate source="#beit-arie">1787 (fol. 57V)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 95r-155r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">ראשית חכמה, Abraham Ibn 'Ezra on astronomy and astrology</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">[mid-15th cent, (watermarks similar to
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[North Africa?]</origPlace><origDate source="#beit-arie" when="1787" >1787 (fol. 57V)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 95r-155r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">ראשית חכמה, Abraham Ibn 'Ezra on astronomy and astrology</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">[mid-15th cent, (watermarks similar to
                 Briquet no. 6650, dated 1442-8)]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

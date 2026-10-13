@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="67">ff. 67</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive script. At the end, some later
             additions.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Bonn (Germany)</origPlace><origDate source="#beit-arie">1591</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Bonn (Germany)</origPlace><origDate source="#beit-arie" when="1591">1591</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic type of square script</handNote></handDesc></physDesc>
-               <history><origin><origDate source="#beit-arie">[c. 1600]</origDate></origin></history>
+               <history><origin><origDate source="#beit-arie" when="1600"  cert="medium">[c. 1600]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

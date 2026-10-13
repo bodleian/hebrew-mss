@@ -48,7 +48,7 @@
             foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Modena</origPlace><origDate source="#beit-arie">1523-4</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Modena</origPlace><origDate source="#beit-arie" notBefore="1523" notAfter="1524">1523-4</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

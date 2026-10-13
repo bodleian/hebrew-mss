@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Italian-Sephardic square and
             semi-cursive script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Castefranco
-            (Italy)</origPlace><origDate source="#beit-arie">1597</origDate></origin></history>
+            (Italy)</origPlace><origDate source="#beit-arie" when="1597">1597</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

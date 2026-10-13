@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="93">ff. 93</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">early-mid-15th cent. (watermarks similar to
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1460">early-mid-15th cent. (watermarks similar to
             Briquet no. 6390, dated 1438; variants of the group nos. 6382-90 are dated
             1409-49)</origDate></origin></history>
                <additional>

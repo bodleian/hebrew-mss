@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="261">ff. 261</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie"> mid-14th cent, (watermarks:
+               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie" notBefore="1340" notAfter="1360"> mid-14th cent, (watermarks:
             Briquet no. 6679, dated 1338 (I?), and later)]</origDate></origin></history>
                <additional>
                   <adminInfo>

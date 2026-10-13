@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic cursive (fols. 1v-32v) and
             semi-cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[North
-            Africa?</origPlace><origDate source="#beit-arie"> c. 1500 (watermarks similar to Briquet nos. 691-2, dated
+            Africa?</origPlace><origDate source="#beit-arie" when="1500"  cert="medium"> c. 1500 (watermarks similar to Briquet nos. 691-2, dated
             1479-83 and 1509)]</origDate></origin></history>
                <additional>
                   <adminInfo>

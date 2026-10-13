@@ -47,7 +47,7 @@
                         <extent n="243">ff. 243</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic
             square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie">13th cent.?]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie" notBefore="1200" notAfter="1300" cert="medium">13th cent.?]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

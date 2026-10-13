@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="12">ff. 12</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive and cursive
             scripts. Fol. 9 is blank.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> mid-16th cent, (watermarks similar to Briquet
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560"> mid-16th cent, (watermarks similar to Briquet
             no. 3086, dated 1543)]</origDate></origin></history>
                <additional>
                   <adminInfo>

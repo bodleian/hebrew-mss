@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="46">ff. 46</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian-Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Rome</origPlace><origDate source="#beit-arie">1873</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Rome</origPlace><origDate source="#beit-arie" when="1873">1873</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

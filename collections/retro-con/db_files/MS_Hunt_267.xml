@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 105-197</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Oriental
-                (semi-) cursive script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient</origPlace><origDate source="#beit-arie">c. 1300?]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 2-104</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Yemenite semi-square
+                (semi-) cursive script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient</origPlace><origDate source="#beit-arie" when="1300">c. 1300?]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 2-104</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Yemenite semi-square
                 script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient (Oriental paper, not
-                Yemenite)]</origPlace><origDate source="#beit-arie">1432</origDate></origin></history></msPart></msDesc>
+                Yemenite)]</origPlace><origDate source="#beit-arie" when="1432">1432</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

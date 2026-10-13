@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="114">ff. 114</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Hamburg and Bingen</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">Hamburg and Bingen</origPlace><origDate source="#beit-arie" notBefore="1816" notAfter="1825">
             1816/17-25</origDate></origin></history>
                <additional>
                   <adminInfo>

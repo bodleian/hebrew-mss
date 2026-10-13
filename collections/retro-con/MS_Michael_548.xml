@@ -64,15 +64,15 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-10)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">A fragment of Hanokh’s מראות אלהים; ends with D. Qamhi’s commentary on Ezekiel i. (incomplete)</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian
-                semi-cursive (cursive) script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">mid-15th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
+                semi-cursive (cursive) script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">mid-15th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
                 11v-41v)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Immanuel’s כנפי נשרים, beginning with the poem אני היום, interrupted by Kabbalistic notes</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic square script. Fols. 38-40, which were left
                 blank by the original copyist, were copied later in Italian cursive script; fol.
                 37v, in Italian semi-cursive and Sephardic square script, also seems to have been
-                added by another hand.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">early 15th
+                added by another hand.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410">early 15th
                 cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 42-201)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">Siddur, Franco-German rite, with Haggadah, Aboth, Qinoth, Hosh'anoth, Simhath Torah, calendar, Yozroth, and Ma'arivim</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script. Fols.
                 61-62 are an interpolated sheet copied by another, later, hand. Fol. 113v is written
                 by different hands. Fols. 220-225, c. 5166= 1405/6 (fol. 221r), added at the end.
-                Some decoration, and additional illustration in the marg.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie">c. 1308/9</origDate></origin></history></msPart></msDesc>
+                Some decoration, and additional illustration in the marg.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie" notBefore="1308" notAfter="1309" cert="medium">c. 1308/9</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

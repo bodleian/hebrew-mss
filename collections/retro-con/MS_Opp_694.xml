@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="98">ff. 98</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie"> Ashkenazic (semi-) cursive scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Eastern Europe]</origPlace><origDate source="#beit-arie"> 1 January 1608 (nos.
+               <history><origin><origPlace source="#beit-arie">[Eastern Europe]</origPlace><origDate source="#beit-arie" when="1608" > 1 January 1608 (nos.
             1-3)</origDate></origin></history>
                <additional>
                   <adminInfo>

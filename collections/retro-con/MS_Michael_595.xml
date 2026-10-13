@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-43)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">[Sh’lomoh Ibn Ayub’s] translation of Averroes’ intermediate comm. on Aristotle’s ‘De Coelo et Mundo.’</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian-Ashkenazic type of
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie">
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1710&#10;">
                 18th-early 19th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-3 (fols. 45-153)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Fol. 45. Elfezer Riesser’s letters and eulogies on R’phael Kohn (partly printed)</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">Fol. 150. מעללי איש, biography of R. Kohn by the same</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Hamburg and Altona</origPlace><origDate source="#beit-arie"> c. 1799 (fol. 112r)-1803</origDate></origin></history></msPart></msDesc>
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Hamburg and Altona</origPlace><origDate source="#beit-arie" notBefore="1799" notAfter="1803" cert="medium"> c. 1799 (fol. 112r)-1803</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

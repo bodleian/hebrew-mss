@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="184">ff. 184</extent><foliation source="#beit-arie">Fol. 60 is threefold, fol. 172 is double.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian
             cursive script by various hands.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">[mid-15th cent, (watermarks similar
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">[mid-15th cent, (watermarks similar
             to the group of Briquet nos. 5278-9, dated 1401-55)]</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Outer sheets of quires made of parchment.</support><extent n="97">ff. 97</extent></supportDesc></objectDesc>
                <additions><note source="#beit-arie">Fols. 91-97: A different hand on different paper (watermark: Briquet no. 15864,
             dated 1415-36) </note></additions><handDesc><handNote source="#beit-arie">Byzantine semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Byzantium</origPlace><origDate source="#beit-arie">15th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Byzantium</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1500">15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Cleves (Germany)
-            (title-page)</origPlace><origDate source="#beit-arie"> 1713</origDate></origin></history>
+            (title-page)</origPlace><origDate source="#beit-arie" when="1713">1713</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

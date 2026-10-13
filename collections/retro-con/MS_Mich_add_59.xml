@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="185">ff. 185</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie">1536-8</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie" notBefore="1536" notAfter="1538">1536-8</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

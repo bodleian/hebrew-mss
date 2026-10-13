@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="552">ff. 552</extent><foliation source="#beit-arie">The quire of
             fols. 82-93 is bound in upside-down.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic-Oriental semi-cursive script. </handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Jerusalem?</origPlace><origDate source="#beit-arie">c. 1530</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Jerusalem?</origPlace><origDate source="#beit-arie" when="1530">c. 1530</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

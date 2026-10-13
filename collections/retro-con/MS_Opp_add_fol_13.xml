@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="177">ff. 177</extent><foliation source="#beit-arie">Fol. 100 is threefold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Berlin and Lwow</origPlace><origDate source="#beit-arie">1770 (fol.
+               <history><origin><origPlace source="#beit-arie">Berlin and Lwow</origPlace><origDate source="#beit-arie" notBefore="1770" notAfter="1782">1770 (fol.
             119r)-1782</origDate></origin></history>
                <additional>
                   <adminInfo>

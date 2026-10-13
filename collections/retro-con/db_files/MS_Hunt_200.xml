@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Oriental
             semi-cursive script by seven hands.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Orient
-            (Iraq?)]</origPlace><origDate source="#beit-arie">1590 Sel. = 1279</origDate></origin></history>
+            (Iraq?)]</origPlace><origDate source="#beit-arie" when="1279">1590 Sel. = 1279</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

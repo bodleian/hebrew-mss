@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="149">ff. 149</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive (fols. 1-21:
             Provencal cursive) script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Provence?]</origPlace><origDate source="#beit-arie">late 15th cent. (watermarks similar to
+               <history><origin><origPlace source="#beit-arie">[Provence?]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">late 15th cent. (watermarks similar to
             Briquet no. 15676, etc.)</origDate></origin></history>
                <additional>
                   <adminInfo>

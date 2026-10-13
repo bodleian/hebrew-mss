@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="215">ff. 215</extent></supportDesc></objectDesc>
                </physDesc>
-               <history><origin><origPlace source="#beit-arie">Poland</origPlace><origDate source="#beit-arie">[late 16th cent, (watermarks of the type of Briquet nos. 1488-91 of east
+               <history><origin><origPlace source="#beit-arie">Poland</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600">[late 16th cent, (watermarks of the type of Briquet nos. 1488-91 of east
             Europe)]</origDate></origin></history>
                <additional>
                   <adminInfo>

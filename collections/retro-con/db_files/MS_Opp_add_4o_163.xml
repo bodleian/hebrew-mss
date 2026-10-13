@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Outer and inner sheets of quires made of
         parchment.</support><extent n="142">ff. 142</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie">early 15th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">early 15th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

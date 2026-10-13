@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="110">ff. 110</extent><foliation source="#beit-arie">no fols.; quires and leaves in confused order.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental semi-cursive script,</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">1360/1</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie" notBefore="1360" notAfter="1361">1360/1</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -65,8 +65,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-87, many blank leaves or
-                pages)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">An index for R. Y. Lorya’s various books</title></msItem></msContents><history><origin><origDate source="#beit-arie">[c. 1700]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
-                88-124)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">A grammatical poem, with a comm. of Y’hudah Aryeh Lob [of Carpentras]</title></msItem></msContents><history><origin><origDate source="#beit-arie">[Early-mid-18th cent.]</origDate></origin></history></msPart></msDesc>
+                pages)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">An index for R. Y. Lorya’s various books</title></msItem></msContents><history><origin><origDate source="#beit-arie" when="1700"  cert="medium">[c. 1700]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
+                88-124)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">A grammatical poem, with a comm. of Y’hudah Aryeh Lob [of Carpentras]</title></msItem></msContents><history><origin><origDate source="#beit-arie" notBefore="1700" notAfter="1760">[Early-mid-18th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

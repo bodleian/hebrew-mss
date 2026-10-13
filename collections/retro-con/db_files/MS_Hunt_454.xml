@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper and vellum</support><extent n="187">ff. 187</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive scripts (fols. 88v-108r: Italian semi-cursive
             script).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">[late 14th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1390" notAfter="1400">[late 14th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

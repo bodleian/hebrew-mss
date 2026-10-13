@@ -65,8 +65,8 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1
                 (fols. 1-64)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">שער התפלה, compendium of Hayyim Vital’s שער הכוונות</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Oriental semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient?]</origPlace><origDate source="#beit-arie"> c.
-                1700?]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 65-177)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">מאורות נתן</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> c. 1700]</origDate></origin></history></msPart></msDesc>
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient?]</origPlace><origDate source="#beit-arie" when="1700"  cert="medium"> c.
+                1700?]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 65-177)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">מאורות נתן</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" when="1700"  cert="medium"> c. 1700]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

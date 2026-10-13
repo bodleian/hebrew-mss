@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="103">ff. 103</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Ashkenaz</origPlace><origDate source="#beit-arie">early-mid-15th
+               <history><origin><origPlace source="#beit-arie">Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1460">early-mid-15th
             cent.</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="78">ff. 78</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script. Fol. 78: A later (early 18th-cent.)
             addition.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">mid-17th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1640" notAfter="1660">mid-17th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

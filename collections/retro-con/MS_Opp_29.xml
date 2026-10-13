@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="331">ff. 331</extent><foliation source="#beit-arie">Fols. 17-24 should follow fol. 32; fols. 89-96 should follow fol. 104; fols.
             177-184 should follow fol. 192.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">c. 1650]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" when="1650"  cert="medium">c. 1650]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

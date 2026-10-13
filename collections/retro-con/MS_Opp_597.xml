@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Outer and inner sheets of quires made of parchment.</support><extent n="222">ff. 222</extent><foliation source="#beit-arie">Fol. 128 is double.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script (glosses in Italian hand). Small parts are
             written in a different style.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Provence?</origPlace><origDate source="#beit-arie"> late 14th cent, (watermarks
+               <history><origin><origPlace source="#beit-arie">[Provence?</origPlace><origDate source="#beit-arie" notBefore="1390" notAfter="1400"> late 14th cent, (watermarks
             similar to Briquet no. 3560, dated 1376, and no. 7514, dated 1383-1404)]</origDate></origin></history>
                <additional>
                   <adminInfo>

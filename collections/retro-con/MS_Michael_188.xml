@@ -65,9 +65,9 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-3r,
                 5-97)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Commentary on the Canon, part I</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">c. 1500 (watermarks similar
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" when="1500"  cert="medium">c. 1500 (watermarks similar
                 to Briquet no. 2674, dated 1505)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 100-187)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Agadic comm. and Gematriyyaoth on the Pentateuch</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Prague?]</origPlace><origDate source="#beit-arie">late
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Prague?]</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600" cert="medium">late
                 16th cent. (watermarks of Prague’s coat of arms, similar to Briquet no. 2327, dated
                 1577; also Briquet no. 3331, Prague?, 1588)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>

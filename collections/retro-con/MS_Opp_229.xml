@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="181">ff. 181</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> late 15th cent, (watermarks similar to
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500"> late 15th cent, (watermarks similar to
             Briquet no. 14355. dated 1473, and Valls i Subirà no. 1604, dated 1470—cf. No.
             1162)]</origDate></origin></history>
                <additional>

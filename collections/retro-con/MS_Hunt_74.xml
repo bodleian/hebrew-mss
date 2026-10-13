@@ -49,7 +49,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote><handNote source="#beit-arie">The end of the completion (fols. 249v-251r) in (Sephardic) cursive
             script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Spain or North
-            Africa]</origPlace><origDate source="#beit-arie">mid-late 14th cent. (watermarks, reproduced by
+            Africa]</origPlace><origDate source="#beit-arie" notBefore="1390" notAfter="1400">mid-late 14th cent. (watermarks, reproduced by
             beta-radiography, similar to Briquet nos. 3193 and 3169, dated 1368 and 1369, but
             without cross-piece)</origDate></origin></history>
                <additional>

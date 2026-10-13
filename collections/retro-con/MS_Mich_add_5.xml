@@ -47,7 +47,7 @@
                         <extent n="93">ff. 93</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script (Nos. 1073-1074) and
             square script (Nos. 1075-1076).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Avignon]</origPlace><origDate source="#beit-arie"> 1721/2 (Nos.
+               <history><origin><origPlace source="#beit-arie">[Avignon]</origPlace><origDate source="#beit-arie" notBefore="1721" notAfter="1722"> 1721/2 (Nos.
             1073-1074)</origDate></origin></history>
                <additional>
                   <adminInfo>

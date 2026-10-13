@@ -65,12 +65,12 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-114)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Responsa by Sh’lomoh ben Addereth (printed)</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Byzantine-Sephardic semi-cursive script, several
                 variants by the same hand.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Provato region in
-                Isle of Chios (near Turkey)</origPlace><origDate source="#beit-arie">1538 (colophon on fol.
+                Isle of Chios (near Turkey)</origPlace><origDate source="#beit-arie" when="1538" >1538 (colophon on fol.
                 109v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2: Fols. 119-141,
                 157-162</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Responsa by Sh’lomoh ben Addereth</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive (and semi-cursive)
-                scripts.</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[Early 16th cent, (watermarks similar to Briquet no.
+                scripts.</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" notBefore="1500" notAfter="1510&#10;">[Early 16th cent, (watermarks similar to Briquet no.
                 10747, dated 1526)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 142-156</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
-            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie">[early 15th cent, (watermarks similar to Briquet no. 3527, dated
+            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">[early 15th cent, (watermarks similar to Briquet no. 3527, dated
                 1412-40)]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

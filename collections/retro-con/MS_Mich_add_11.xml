@@ -48,7 +48,7 @@
             fourfold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian
             semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Forli (Italy)</origPlace><origDate source="#beit-arie"> 1490</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Forli (Italy)</origPlace><origDate source="#beit-arie" when="1490">1490</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

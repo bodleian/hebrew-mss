@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support><extent n="215">ff. 215</extent></supportDesc></objectDesc>
                <additions><note source="#beit-arie">Fol. 215: Jaca (Spain); </note></additions><handDesc><handNote source="#beit-arie">Sephardic square script</handNote><handNote source="#beit-arie">Fols. 1r-149r: Vocalized and accentuated.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie">14th cent.?]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie" notBefore="1300" notAfter="1400" cert="medium">14th cent.?]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

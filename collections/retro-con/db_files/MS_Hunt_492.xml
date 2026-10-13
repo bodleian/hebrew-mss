@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-37)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Oriental
-                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">c. 1387</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">no. 2 (fols. 38-70)</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Oriental semi-cursive
-            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">[c.
+                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie" when="1387">c. 1387</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">no. 2 (fols. 38-70)</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Oriental semi-cursive
+            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie" when="1400">[c.
                 1400]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

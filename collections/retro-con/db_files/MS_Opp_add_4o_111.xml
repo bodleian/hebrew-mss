@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="118">ff. 118</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">late 16th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600">late 16th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

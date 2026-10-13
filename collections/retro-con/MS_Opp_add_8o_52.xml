@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="188">ff. 188</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Corfu (fol. 183r)</origPlace><origDate source="#beit-arie">[18th
+               <history><origin><origPlace source="#beit-arie">Corfu (fol. 183r)</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1800">[18th
             cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>

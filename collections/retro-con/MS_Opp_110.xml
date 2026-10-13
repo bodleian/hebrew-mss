@@ -65,10 +65,10 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-2 (fols.
                 1r-40r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ספר יראת אל</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר הנפש</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script. (fols. 1r-4r seem to have
-                been copied by the scribe of No. 1569).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Friedberg?]</origPlace><origDate source="#beit-arie">early 18th
+                been copied by the scribe of No. 1569).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Friedberg?]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1710">early 18th
                 cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3
                 (fols. 42-66)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">ברוך שאמר</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
-            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">mid-15th cent,
+            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">mid-15th cent,
                 (watermarks)]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

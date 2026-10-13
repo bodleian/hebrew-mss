@@ -65,9 +65,9 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1
                 (fols. 2r-4r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">late 16th
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600">late 16th
                 cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 8r-218r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
-        script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Mantua (Italy)</origPlace><origDate source="#beit-arie">1470</origDate></origin></history></msPart></msDesc>
+        script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Mantua (Italy)</origPlace><origDate source="#beit-arie" when="1470">1470</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

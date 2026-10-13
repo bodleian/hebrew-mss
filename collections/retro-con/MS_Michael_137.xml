@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="180">ff. 180</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">(early?) 17th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1600" notAfter="1610" cert="medium">(early?) 17th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="115">ff. 115</extent><foliation source="#beit-arie">Leaf between fols. 113 and 114 is blank and unfoliated.</foliation></supportDesc></objectDesc>
                <additions><note source="#beit-arie">Fols. 114v-115r: Later
             additions.</note></additions><handDesc><handNote source="#beit-arie">Italian semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie">early 15th cent, (watermarks)]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">early 15th cent, (watermarks)]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

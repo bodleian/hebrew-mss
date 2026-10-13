@@ -46,7 +46,7 @@
                      <supportDesc>
                         <extent n="576">ff. 576</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Worms]</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Worms]</origPlace><origDate source="#beit-arie" when="1629" >
             1629</origDate></origin></history>
                <additional>
                   <adminInfo>

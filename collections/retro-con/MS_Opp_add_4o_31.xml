@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-44)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">R. Todros ben Yizhaq’s Novellae on Nazir</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie">
-                [second half of 14th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 46-105)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Unedited Thosafoth on N’darim</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie">[late 13th cent.]</origDate></origin></history></msPart></msDesc>
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1350" notAfter="1400">
+                [second half of 14th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 46-105)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Unedited Thosafoth on N’darim</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1290" notAfter="1300">[late 13th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

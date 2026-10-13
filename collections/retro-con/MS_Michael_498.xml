@@ -65,9 +65,9 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-3 (fols.
                 1r-65r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">חכמת התכונה</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר יסוד הדקדוק</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">A mathematical fragment</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script. No. 3 (fols. 61-65) probably
-                by a different hand.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie"> mid-18th
+                by a different hand.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie" notBefore="1740" notAfter="1760"> mid-18th
                 cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 4 (fols.
-                68r-229r)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"><title source="#neubauer">Extracts from ספר עץ החיים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> 18th
+                68r-229r)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"><title source="#neubauer">Extracts from ספר עץ החיים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1800"> 18th
             cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

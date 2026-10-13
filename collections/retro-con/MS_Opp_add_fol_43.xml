@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support><extent n="145">ff. 145</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic square and semi-cursive scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Corfu]</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Corfu]</origPlace><origDate source="#beit-arie" notBefore="1600" notAfter="1700">
             17th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>

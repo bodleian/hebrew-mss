@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="71">ff. 71</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive and square
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Worms]</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Worms]</origPlace><origDate source="#beit-arie" notBefore="1600" notAfter="1610&#10;">
             early 17th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>

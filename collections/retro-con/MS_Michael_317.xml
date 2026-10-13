@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="227">ff. 227</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Byzantium</origPlace><origDate source="#beit-arie">mid-late 15th cent, (watermarks similar to
+               <history><origin><origPlace source="#beit-arie">Byzantium</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">mid-late 15th cent, (watermarks similar to
             Briquet no. 5909, dated 1460-5)]</origDate></origin></history>
                <additional>
                   <adminInfo>

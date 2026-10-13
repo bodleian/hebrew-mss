@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support><extent n="333">ff. 333</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">San Severino (Italy)</origPlace><origDate source="#beit-arie"> 1424-6</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">San Severino (Italy)</origPlace><origDate source="#beit-arie" notBefore="1424" notAfter="1426"> 1424-6</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

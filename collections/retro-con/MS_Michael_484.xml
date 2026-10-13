@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-58r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">מהלך, grammar of Mosheh Qamhi with Eliyyah Levita’s comm., preceded by Shabbathai ben Yizhaq’s preface to the same book and Binyamin ben Y’hudah’s introduction</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Rashi and square
-                script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> 1740 (colophon on fol.
-            58r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part"/></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Italian cursive scripts.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">between 1517/18 and 1533</origDate></origin></history></msPart></msDesc>
+                script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" when="1740" > 1740 (colophon on fol.
+            58r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part"/></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Italian cursive scripts.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1517" notAfter="1533">between 1517/18 and 1533</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

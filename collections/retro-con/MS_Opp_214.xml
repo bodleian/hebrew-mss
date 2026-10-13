@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive scripts. No. 1
             (fols. 1-44) in one, more cursive, script, no. 2 (fols. 48, 50r-60r) by another hand on
             different paper.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Turkey?]</origPlace><origDate source="#beit-arie">mid-16th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Turkey?]</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560">mid-16th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

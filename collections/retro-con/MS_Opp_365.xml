@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="205">ff. 205</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic cursive script.</handNote><handNote source="#beit-arie">Fols. 1-5: Ashkenazic cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Turkey?]</origPlace><origDate source="#beit-arie">1556/7-60</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Turkey?]</origPlace><origDate source="#beit-arie" notBefore="1556" notAfter="1557">1556/7-60</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

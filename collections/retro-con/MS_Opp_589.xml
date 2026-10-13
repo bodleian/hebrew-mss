@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="31">ff. 31</extent><foliation source="#beit-arie">Fol. 31 is sixfold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian
             cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">17th-18th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1600" notAfter="1800">17th-18th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

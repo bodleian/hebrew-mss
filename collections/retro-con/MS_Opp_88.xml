@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="138">ff. 138</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Prague</origPlace><origDate source="#beit-arie">1727 (fol. 138V)</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Prague</origPlace><origDate source="#beit-arie" when="1727" >1727 (fol. 138V)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -65,12 +65,12 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-88)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ספר אבן בוחן</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
-            script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[Ashkenaz]</origDate><origDate source="#beit-arie">late 16th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2 (fols. 94-102) and 3 (fols. 108r-139
+            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600">late 16th cent.</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2 (fols. 94-102) and 3 (fols. 108r-139
                 (ix)v)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">אבני שהם</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script (each by a different
-                hand, on different paper)</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy or Holland?]</origPlace><origDate source="#beit-arie">17th
+                hand, on different paper)</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy or Holland?]</origPlace><origDate source="#beit-arie" notBefore="1600" notAfter="1700" cert="medium">17th
                 cent.?</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 4 (fols.
                 140r-253r)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"><title source="#neubauer">אוצר הכבוד</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">mid-16th cent.
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560">mid-16th cent.
                 (watermarks of Briquet’s group nos. 3412-18)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

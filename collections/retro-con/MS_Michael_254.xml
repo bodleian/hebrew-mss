@@ -65,8 +65,8 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-17r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">The 172nd Responsum of R. Yoseph Qolon</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic
                 (semi-) cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz or
-                Italy]</origPlace><origDate source="#beit-arie">[late 15th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
-                19-146)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">שארית יעקב</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[early 19th
+                Italy]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">[late 15th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
+                19-146)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">שארית יעקב</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1800" notAfter="1810">[early 19th
                 cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

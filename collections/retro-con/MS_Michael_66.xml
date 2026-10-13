@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="187">ff. 187</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic square script (Pentateuch),
             Italian semi-cursive script (Onkelos on the marg )</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie">mid-15th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">mid-15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

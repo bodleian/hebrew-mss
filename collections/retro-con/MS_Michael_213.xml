@@ -64,11 +64,11 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-9)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ספר המספר</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic
-                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie"> 15th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 14r-66r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר המספר</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">
+                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1500"> 15th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 14r-66r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר המספר</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560">
                 mid-16th cent, (watermarks similar to Briquet no. 7298, dated 1547, but without the
                 letter M)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 69-222)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">זוכר הברית, the first part of פתח תקוה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script.
-                Certainly autograph.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> mid-16th cent, (watermarks similar to
+                Certainly autograph.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560"> mid-16th cent, (watermarks similar to
                 Briquet no. 7629, dated 1566)]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

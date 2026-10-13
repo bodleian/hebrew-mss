@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Notes and novellae</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive script (fols. 88-93 by a
-                different hand).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Morocco</origPlace><origDate source="#beit-arie">
+                different hand).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Morocco</origPlace><origDate source="#beit-arie" notBefore="1724" >
                 [after 1724]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 108-192)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Novellae on Babylonian Talmud, Sh’bhu’oth and Bava Kamma vii</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive
-                script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[Late 16th cent.?]</origDate></origin></history></msPart></msDesc>
+                script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" notBefore="1590" notAfter="1600" cert="medium">[Late 16th cent.?]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

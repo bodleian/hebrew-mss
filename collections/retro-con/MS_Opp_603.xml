@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="161">ff. 161</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive script. Fols. 54-61, 64, 67,
             146-154 missed in the foliation.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Winden, near Gottingen (Germany)</origPlace><origDate source="#beit-arie">c.
+               <history><origin><origPlace source="#beit-arie">Winden, near Gottingen (Germany)</origPlace><origDate source="#beit-arie" when="1568" >c.
             1568-71</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic
             semi-cursive and cursive scripts</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Ashkenaz
-            (Poland?)</origPlace><origDate source="#beit-arie"> late 16th cent.]</origDate></origin></history>
+            (Poland?)</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600"> late 16th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

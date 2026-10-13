@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="135">ff. 135</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie">1450</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie" when="1450">1450</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

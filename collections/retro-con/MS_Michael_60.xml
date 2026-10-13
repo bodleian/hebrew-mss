@@ -50,7 +50,7 @@
             marg, there, quite probably by the scribe); nos. 5-6 (fols. 110-126) by another hand;
             nos. 7-8 and 10(fols. 129-140, 151-175r): Frankfurt, 1537 (colophon on fol. 175r); no. 9
             (fols. 141-145r) by another hand.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> c. 1537</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" when="1537"  cert="medium"> c. 1537</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

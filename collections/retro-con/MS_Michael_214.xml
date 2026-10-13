@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="210">ff. 210</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine
             semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Constantinople</origPlace><origDate source="#beit-arie"> [late 15th cent,
+               <history><origin><origPlace source="#beit-arie">Constantinople</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500"> [late 15th cent,
             (watermarks similar to Briquet no. 2444, dated 1468-87)]</origDate></origin></history>
                <additional>
                   <adminInfo>

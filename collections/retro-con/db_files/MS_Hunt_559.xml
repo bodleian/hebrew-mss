@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="113">ff. 113</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic cursive (fols. 1-19) and semi-cursive (fols. 20-113)
             scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie"> late 15th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500"> late 15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

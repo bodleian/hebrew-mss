@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="296">ff. 296</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic square
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie"> 1336 (colophon on fol.
+               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" when="1336" > 1336 (colophon on fol.
             53V)</origDate></origin></history>
                <additional>
                   <adminInfo>

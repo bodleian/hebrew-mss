@@ -65,9 +65,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-25)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">comm. on שערי אורה (printed), without the preface</title></msItem></msContents><history><origin><origPlace source="#beit-arie"> רעסשיץ (probably near
-                Prague)</origPlace><origDate source="#beit-arie">5359 = 1599 (colophons on fols. 25v and
+                Prague)</origPlace><origDate source="#beit-arie" when="5359" >5359 = 1599 (colophons on fols. 25v and
                 26v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-3 (fols. 27-163)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">מכתם לדוד</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">פי' על חידות אבן עזרא</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">different hands, one of them
-                semi-cursive.</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[17th cent.]</origDate></origin></history></msPart></msDesc>
+                semi-cursive.</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" notBefore="1600" notAfter="1700">[17th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

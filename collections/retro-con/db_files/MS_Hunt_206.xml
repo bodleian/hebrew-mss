@@ -49,7 +49,7 @@
             cent</note></additions><handDesc><handNote source="#beit-arie">Oriental square (only up to fol. 44) and
             semi-cursive script</handNote><handNote source="#beit-arie">Fols. 3, 9-11, 40-41, 50-52, 54-55, 57-59,
             295-298: Completion by an Oriental semi-cursive 16th-17th- cent. hand.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Orient</origPlace><origDate source="#beit-arie">14th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Orient</origPlace><origDate source="#beit-arie" notBefore="1300" notAfter="1400">14th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

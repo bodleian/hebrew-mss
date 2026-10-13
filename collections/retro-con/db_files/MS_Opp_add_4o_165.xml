@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="277">ff. 277</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental (Karaite) semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">1785</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie" when="1785">1785</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

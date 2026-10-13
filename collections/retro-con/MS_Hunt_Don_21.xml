@@ -48,7 +48,7 @@
             in the foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive (sometimes cursive) scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Sepharad (Sicily?)</origPlace><origDate source="#beit-arie">c. 1470 (watermarks:
+               <history><origin><origPlace source="#beit-arie">Sepharad (Sicily?)</origPlace><origDate source="#beit-arie" when="1470"  cert="medium">c. 1470 (watermarks:
             Briquet unique design no. 1928, Palermo, 1466-9)</origDate></origin></history>
                <additional>
                   <adminInfo>

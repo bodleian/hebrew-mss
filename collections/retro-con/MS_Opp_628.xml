@@ -65,9 +65,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols.
-                1-8).</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">מדבר יהודה, grammatical treatise</title></msItem></msContents><history><origin><origDate source="#beit-arie">[Mid-17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 a (fols. 12r-14
-                (i)r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">R. Yizhaq Lorya’s הטבת חלום; אזמר, with the commentary of No. 1739, 2; סדר התרת נדרים</title></msItem></msContents><history><origin><origDate source="#beit-arie">[Late 17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3
-                (fols. 24-123)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">כנפי יונה, five parts (incomplete)</title></msItem></msContents><history><origin><origDate source="#beit-arie">1660</origDate></origin></history></msPart></msDesc>
+                1-8).</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">מדבר יהודה, grammatical treatise</title></msItem></msContents><history><origin><origDate source="#beit-arie" notBefore="1640" notAfter="1660">[Mid-17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 a (fols. 12r-14
+                (i)r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">R. Yizhaq Lorya’s הטבת חלום; אזמר, with the commentary of No. 1739, 2; סדר התרת נדרים</title></msItem></msContents><history><origin><origDate source="#beit-arie" notBefore="1690" notAfter="1700">[Late 17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3
+                (fols. 24-123)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">כנפי יונה, five parts (incomplete)</title></msItem></msContents><history><origin><origDate source="#beit-arie" when="1660">1660</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

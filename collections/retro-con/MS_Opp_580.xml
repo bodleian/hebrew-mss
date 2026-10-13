@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="130">ff. 130</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> mid-16th cent, (watermarks
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560"> mid-16th cent, (watermarks
             similar to Briquet no. 13578, dated 1544, and no. 13581, dated 1556)]</origDate></origin></history>
                <additional>
                   <adminInfo>

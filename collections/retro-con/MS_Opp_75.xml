@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="222">ff. 222</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Prague?]</origPlace><origDate source="#beit-arie">after 1711 (fol.
+               <history><origin><origPlace source="#beit-arie">[Prague?]</origPlace><origDate source="#beit-arie" notBefore="1711" >after 1711 (fol.
             82v)</origDate></origin></history>
                <additional>
                   <adminInfo>

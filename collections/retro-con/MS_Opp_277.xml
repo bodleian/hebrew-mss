@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="432">ff. 432</extent><foliation source="#beit-arie">Fols. 126 and 192 are double, fol. 353 is
         fourfold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script by different hands.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Frankfurt a. M.</origPlace><origDate source="#beit-arie">1627 (fol.
+               <history><origin><origPlace source="#beit-arie">Frankfurt a. M.</origPlace><origDate source="#beit-arie" when="1627" >1627 (fol.
             70r)</origDate></origin></history>
                <additional>
                   <adminInfo>

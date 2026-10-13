@@ -48,7 +48,7 @@
             separate quire, copied by a different cursive hand.</support><extent n="77">ff. 77</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie">[late 15th cent, (a watermark
+               <history><origin><origPlace source="#beit-arie">[Sepharad]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">[late 15th cent, (a watermark
             similar to Briquet no. 10743, dated 1490/2)]</origDate></origin></history>
                <additional>
                   <adminInfo>

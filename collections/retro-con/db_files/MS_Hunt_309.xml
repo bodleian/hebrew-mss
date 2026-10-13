@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive and
             cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Thebes (Greece) and Philippopolis
-            (Bulgaria)</origPlace><origDate source="#beit-arie"> 1415</origDate></origin></history>
+            (Bulgaria)</origPlace><origDate source="#beit-arie" when="1415">1415</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

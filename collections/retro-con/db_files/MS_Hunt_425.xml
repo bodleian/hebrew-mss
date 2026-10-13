@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Watermarked paper.</support><extent n="145">ff. 145</extent><foliation source="#beit-arie">Fol. 4 belongs between fols. 43 and 44</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">North Africa?]</origPlace><origDate source="#beit-arie">1403</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">North Africa?]</origPlace><origDate source="#beit-arie" when="1403">1403</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

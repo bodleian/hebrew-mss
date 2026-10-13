@@ -65,8 +65,8 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1
                 (fols. 1-84)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Two series of Responsa</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
-            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">1374/5 (colophon
-                on fol. 84V)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 90-165)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Maimonides’ Mishneh Thorah</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[c. 1400]</origDate></origin></history></msPart></msDesc>
+            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1374" notAfter="1375">1374/5 (colophon
+                on fol. 84V)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 90-165)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Maimonides’ Mishneh Thorah</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" when="1400"  cert="medium">[c. 1400]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

@@ -87,7 +87,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <history>
-                     <origin><origDate source="#beit-arie">[17th cent.]</origDate></origin>
+                     <origin><origDate source="#beit-arie" notBefore="1600" notAfter="1700">[17th cent.]</origDate></origin>
                   </history>
                </msPart>
                <msPart>
@@ -97,7 +97,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <history>
-                     <origin><origDate source="#beit-arie">[c. 1700]</origDate></origin>
+                     <origin><origDate source="#beit-arie" when="1700"  cert="medium">[c. 1700]</origDate></origin>
                   </history>
                </msPart>
                <msPart>
@@ -119,7 +119,7 @@
                      </handDesc>
                   </physDesc>
                   <history>
-                     <origin><origDate source="#beit-arie">[c. 1300]</origDate></origin>
+                     <origin><origDate source="#beit-arie" when="1300"  cert="medium">[c. 1300]</origDate></origin>
                   </history>
 
                </msPart>

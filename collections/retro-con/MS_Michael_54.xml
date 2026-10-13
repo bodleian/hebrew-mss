@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="387">ff. 387</extent><foliation source="#beit-arie">Fols. 301 and 302 missed in the
             foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie">1620-2</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie" notBefore="1620" notAfter="1622">1620-2</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

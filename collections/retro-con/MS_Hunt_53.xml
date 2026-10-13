@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="179">ff. 179</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Provence]</origPlace><origDate source="#beit-arie"> 1465 (cf. No. 2426,
+               <history><origin><origPlace source="#beit-arie">[Provence]</origPlace><origDate source="#beit-arie" when="1465" > 1465 (cf. No. 2426,
             3)</origDate></origin></history>
                <additional>
                   <adminInfo>

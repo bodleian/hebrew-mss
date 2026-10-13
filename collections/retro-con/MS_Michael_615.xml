@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="159">ff. 159</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
         scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie">[mid-18th cent, (before
+               <history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie" notBefore="1740" notAfter="1760">[mid-18th cent, (before
             1771)]</origDate></origin></history>
                <additional>
                   <adminInfo>

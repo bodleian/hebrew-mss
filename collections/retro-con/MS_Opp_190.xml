@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="519">ff. 519</extent><foliation source="#beit-arie">One quire
             (fols. 172-177) is bound in upside-down.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive and cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[late 17th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1690" notAfter="1700">[late 17th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

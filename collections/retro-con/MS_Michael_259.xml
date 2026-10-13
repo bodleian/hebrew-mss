@@ -64,10 +64,10 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-30)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">הודאת בעל דין</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[c.
+                script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" when="1800" >[c.
             1800]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 32-72)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">אלפרגאני, compendium of the alMagest</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Provence?]</origPlace><origDate source="#beit-arie">late 16th cent. (frags. of
-                watermarks)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 73r-163r)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">הליכות עולם</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">1608 (colophon on fol. 162r)</origDate></origin></history></msPart></msDesc>
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Provence?]</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600">late 16th cent. (frags. of
+                watermarks)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 73r-163r)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">הליכות עולם</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" when="1608" >1608 (colophon on fol. 162r)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

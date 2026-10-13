@@ -48,7 +48,7 @@
             threefold, and fol. 99 is double.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive scripts</handNote><handNote source="#beit-arie">The formula on fol. 224r
             in Sephardic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[late 14th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1390" notAfter="1400">[late 14th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 1-183</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient?]</origPlace><origDate source="#beit-arie">[late 17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 184-189</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic
-                cursive script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[c. 1672/3]</origDate></origin></history></msPart></msDesc>
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient?]</origPlace><origDate source="#beit-arie" notBefore="1690" notAfter="1700">[late 17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 184-189</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic
+                cursive script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" notBefore="1672" notAfter="1673" cert="medium">[c. 1672/3]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

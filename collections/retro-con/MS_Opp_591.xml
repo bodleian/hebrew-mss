@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Agramunt
-            (Spain)</origPlace><origDate source="#beit-arie"> 1444</origDate></origin></history>
+            (Spain)</origPlace><origDate source="#beit-arie" when="1444">1444</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

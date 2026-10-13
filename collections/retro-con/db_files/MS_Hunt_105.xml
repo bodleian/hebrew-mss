@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="247">ff. 247</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic-Oriental semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Jerusalem?]</origPlace><origDate source="#beit-arie">c. 1530 (watermarks quite similar to Briquet
+               <history><origin><origPlace source="#beit-arie">[Jerusalem?]</origPlace><origDate source="#beit-arie" when="1530">c. 1530 (watermarks quite similar to Briquet
             no. 3430, dated 1531)</origDate></origin></history>
                <additional>
                   <adminInfo>

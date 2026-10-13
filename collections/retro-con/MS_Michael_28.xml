@@ -63,12 +63,12 @@
                   <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=442">no. 2267.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=272">no. 2267.</ref></bibl></listBibl>
                </additional>
        
-            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-45)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">מסכת פורים / מגלת סתרים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic square script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Amsterdam?]</origPlace><origDate source="#beit-arie">late 17th cent. (on fol. 38r a
+            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-45)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">מסכת פורים / מגלת סתרים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic square script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Amsterdam?]</origPlace><origDate source="#beit-arie" notBefore="1690" notAfter="1700">late 17th cent. (on fol. 38r a
                 written title within a blank printed ornamental title-page with the printer’s mark
                 of Uri Phoebus b. Aaron ha-Levi, Amsterdam, 1658-89—cf. A. Yaari, Hebrew Printers'
                 Marks (Jerusalem, 1943), no. 68; on fol. 45v: ‘Amsterdam Anno 1715’)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
                 47r-152r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר מעין חכמה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
-            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[near Amsterdam (title-page)]</origPlace><origDate source="#beit-arie">18th cent.</origDate></origin></history></msPart></msDesc>
+            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[near Amsterdam (title-page)]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1800">18th cent.</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

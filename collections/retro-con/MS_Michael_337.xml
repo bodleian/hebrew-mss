@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="214">ff. 214</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origDate source="#beit-arie">[Early-mid-16th cent]</origDate></origin></history>
+               <history><origin><origDate source="#beit-arie" notBefore="1500" notAfter="1560">[Early-mid-16th cent]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

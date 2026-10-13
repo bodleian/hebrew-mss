@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">nos. 1, 3-4: Italian semi-cursive script; nos. 2,
             5-12: Sephardic semi-cursive script (same
         watermarks).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie">early
+               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410">early
             15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>

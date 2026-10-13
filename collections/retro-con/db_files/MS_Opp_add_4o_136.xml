@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="57">ff. 57</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie">c. 1600 (watermarks quite
+               <history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie" when="1600">c. 1600 (watermarks quite
             similar to Briquet no. 15748, dated 1555, with the same merchant’s mark but without the
             G. like the merchant's mark attached to Briquet no. 1393, dated 1579-80))</origDate></origin></history>
                <additional>

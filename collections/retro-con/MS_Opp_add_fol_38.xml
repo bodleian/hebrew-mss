@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="24">ff. 24</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic cursive and semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">North Africa</origPlace><origDate source="#beit-arie">early 19th cent</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">North Africa</origPlace><origDate source="#beit-arie" notBefore="1800" notAfter="1810">early 19th cent</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

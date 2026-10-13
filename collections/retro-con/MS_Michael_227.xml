@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Outer and inner sheets of quires made of parchment.
         </support><extent n="195">ff. 195</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie"> early
+               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410"> early
             15th cent, (watermarks similar to Briquet no. 3544, dated 1434, similar variants dated
             1452-73)]</origDate></origin></history>
                <additional>

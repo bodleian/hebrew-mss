@@ -48,7 +48,7 @@
         parchment.</support><extent n="164">ff. 164</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie">[late 14th cent, (watermarks similar to Briquet no. 7943, dated 1370, and a
+               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1390" notAfter="1400">[late 14th cent, (watermarks similar to Briquet no. 7943, dated 1370, and a
             variant of no. 10462, dated 1406-7)]</origDate></origin></history>
                <additional>
                   <adminInfo>

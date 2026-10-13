@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="281">ff. 281</extent><foliation source="#beit-arie">Fols. 193 and 195 are double.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> late 17th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1690" notAfter="1700"> late 17th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

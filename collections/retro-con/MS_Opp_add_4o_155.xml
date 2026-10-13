@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="344">ff. 344</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Yemenite semi-square
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Yemen]</origPlace><origDate source="#beit-arie">mid-15th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Yemen]</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">mid-15th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

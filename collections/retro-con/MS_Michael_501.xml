@@ -64,11 +64,11 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-5 (fols. 1-60, 62-71, 73, 87-94, 97-150)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ננזי המלך</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר הנקרא רב פעלים</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">ספר הנקרא צורת עולם</title></msItem><msItem n="4" source="#beit-arie"><title source="#neubauer">צרור המור</title></msItem><msItem n="5" source="#beit-arie"><title source="#neubauer">ספר שער השמים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">semi-cursive script of mixed types (basically an
-                Ashkenazi)</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Luzzara (northern Italy)</origPlace><origDate source="#beit-arie"> 1477 (colophon on fol.
+                Ashkenazi)</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Luzzara (northern Italy)</origPlace><origDate source="#beit-arie" when="1477" > 1477 (colophon on fol.
                 15v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 6 (fols. 151-158) and fols. 61, 72,
                 74-86, 95-96</idno></altIdentifier></msIdentifier><msContents><msItem n="6" source="#beit-arie"><title source="#neubauer">אגרת התשובה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic
                 semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Meknes (Morocco) (colophon on fol.
-                158r)</origPlace><origDate source="#beit-arie"> [early 19th cent.?]</origDate></origin></history></msPart></msDesc>
+                158r)</origPlace><origDate source="#beit-arie" notBefore="1800" notAfter="1810&#10;" cert="medium"> [early 19th cent.?]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

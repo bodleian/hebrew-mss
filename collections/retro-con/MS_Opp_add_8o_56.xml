@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive script. Crude decorations.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Janina?
-            (Ioannina, Greece)</origPlace><origDate source="#beit-arie">1755/6</origDate></origin></history>
+            (Ioannina, Greece)</origPlace><origDate source="#beit-arie" notBefore="1755" notAfter="1756">1755/6</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

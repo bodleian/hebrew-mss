@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="129">ff. 129</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic
             square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> 1427</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" when="1427">1427</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

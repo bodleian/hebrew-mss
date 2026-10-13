@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="35">ff. 35</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental semi-cursive
         script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Syria]</origPlace><origDate source="#beit-arie">between 1467 and
+               <history><origin><origPlace source="#beit-arie">[Syria]</origPlace><origDate source="#beit-arie" notBefore="1467" notAfter="1484">between 1467 and
             1484</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -46,7 +46,7 @@
                      <supportDesc>
                         <extent n="184">ff. 184</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">square script. </handNote></handDesc></physDesc>
-               <history><origin><origDate source="#beit-arie">[Early 18th cent]</origDate></origin></history>
+               <history><origin><origDate source="#beit-arie" notBefore="1700" notAfter="1710">[Early 18th cent]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

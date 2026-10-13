@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="264">ff. 264</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic (semi-) cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[North
-            Africa?</origPlace><origDate source="#beit-arie"> late 15th cent, (watermarks similar to Briquet no. 4361,
+            Africa?</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500"> late 15th cent, (watermarks similar to Briquet no. 4361,
             dated 1488)]</origDate></origin></history>
                <additional>
                   <adminInfo>

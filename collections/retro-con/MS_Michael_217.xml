@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="145">ff. 145</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive and cursive
             scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> mid-14th cent, (watermarks similar to Briquet
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1340" notAfter="1360"> mid-14th cent, (watermarks similar to Briquet
             no. 7502, dated 1359-69)</origDate></origin></history>
                <additional>
                   <adminInfo>

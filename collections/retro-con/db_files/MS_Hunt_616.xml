@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="50">ff. 50</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental semi-cursive script, biblical verses in
             Oriental square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Cairo?</origPlace><origDate source="#beit-arie">13th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Cairo?</origPlace><origDate source="#beit-arie" notBefore="1200" notAfter="1300">13th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

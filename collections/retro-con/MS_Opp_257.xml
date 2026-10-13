@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="210">ff. 210</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Worms</origPlace><origDate source="#beit-arie">1570</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Worms</origPlace><origDate source="#beit-arie" when="1570">1570</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

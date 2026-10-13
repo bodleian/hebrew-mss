@@ -48,7 +48,7 @@
             13-142.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script. Titles and initial words are written in red
             ink alternately.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Ulm (Germany)</origPlace><origDate source="#beit-arie">1444</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Ulm (Germany)</origPlace><origDate source="#beit-arie" when="1444">1444</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

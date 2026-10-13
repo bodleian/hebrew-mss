@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Oriental paper. Sephardic practice of quiring. Oriental practice of indicating new
             quires.</support><extent n="168">ff. 168</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Orient</origPlace><origDate source="#beit-arie"> 14th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Orient</origPlace><origDate source="#beit-arie" notBefore="1300" notAfter="1400"> 14th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

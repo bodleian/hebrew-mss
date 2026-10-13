@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-73 (ii)v)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ספר אוצר הכבוד</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script. Fol. 1 by another
-                hand.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> 2 Nisan 5394=1634 (colophon on fol. 73
-                (ii)v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 74-135)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">סודות ותקונים (incomplete)</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script. </handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> mid-17th cent.]</origDate></origin></history></msPart></msDesc>
+                hand.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" when="5394" > 2 Nisan 5394=1634 (colophon on fol. 73
+                (ii)v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 74-135)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">סודות ותקונים (incomplete)</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script. </handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1640" notAfter="1660"> mid-17th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

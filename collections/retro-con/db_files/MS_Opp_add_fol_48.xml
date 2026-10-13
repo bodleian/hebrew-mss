@@ -64,7 +64,7 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Vol.
-                I</idno></altIdentifier></msIdentifier><history><origin><origDate source="#beit-arie">[Late 15th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Vol.
+                I</idno></altIdentifier></msIdentifier><history><origin><origDate source="#beit-arie" notBefore="1490" notAfter="1500">[Late 15th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Vol.
                 II</idno></altIdentifier></msIdentifier><history><origin><origPlace source="#beit-arie">Fez (Morocco)</origPlace><origDate source="#beit-arie">1505 (colophon on fol.
                 256r)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>

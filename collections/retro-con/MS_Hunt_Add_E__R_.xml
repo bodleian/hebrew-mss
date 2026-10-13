@@ -46,7 +46,7 @@
                      <supportDesc>
                         </supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Paris]</origPlace><origDate source="#beit-arie">c. 1604-7</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Paris]</origPlace><origDate source="#beit-arie" notBefore="1604" notAfter="1607" cert="medium">c. 1604-7</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

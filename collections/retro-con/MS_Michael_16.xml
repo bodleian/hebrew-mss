@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="371">ff. 371</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">December 1586 or beg. of January
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1586" notAfter="1587">December 1586 or beg. of January
             1587</origDate></origin></history>
                <additional>
                   <adminInfo>

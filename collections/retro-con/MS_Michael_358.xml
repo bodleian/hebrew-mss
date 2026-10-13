@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-72)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">The same, books vi (beg. wanting) to rx (end wanting), with marginal notes</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic
-                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie"> c. 1300]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-3 (fols.
+                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" when="1300"  cert="medium"> c. 1300]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-3 (fols.
                 73r-123r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">A comm. on שש כנפים</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">שש כנפים</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script (the tables, fols. 101-123,
-                in a different hand).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> 18th
+                in a different hand).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1800"> 18th
                 cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

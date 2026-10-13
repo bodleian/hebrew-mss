@@ -46,7 +46,7 @@
                      <supportDesc material="mixed">
                         <support source="#neubauer">paper and vellum</support><extent n="173">ff. 173</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Spain</origPlace><origDate source="#beit-arie">c.
+               <history><origin><origPlace source="#beit-arie">Spain</origPlace><origDate source="#beit-arie" when="1400" >c.
             1400 (watermarks similar to Briquet no. 9937, dated 1407, in no. 1, and no. 12080, dated
             1398, in no. 2)]</origDate></origin></history>
                <additional>

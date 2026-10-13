@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support><extent n="71">ff. 71</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive and square scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Northern Italy]</origPlace><origDate source="#beit-arie">[second half of 15th
+               <history><origin><origPlace source="#beit-arie">[Northern Italy]</origPlace><origDate source="#beit-arie" notBefore="1450" notAfter="1500">[second half of 15th
             cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>

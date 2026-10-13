@@ -48,7 +48,7 @@
             be placed after fol. 40, followed by fols. 17-21. Fols. 106 and 107 missed in the
             foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie">[mid-16th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560">[mid-16th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>
@@ -66,8 +66,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos.
-                7-8 (fols. 109r-120r)</idno></altIdentifier></msIdentifier><msContents><msItem n="7" source="#beit-arie"><title source="#neubauer">[א׳ו׳ה [שערי דורא (end wanting), preceded by the index. Marg, notes extracted from the books of well-known Rabbis.</title></msItem><msItem n="8" source="#beit-arie"><title source="#neubauer">Collection of Agadic passages.</title></msItem></msContents><history><origin><origPlace source="#beit-arie">Hub near Regensburg</origPlace><origDate source="#beit-arie">1547 (fol. 112v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 9 (fol. 121v)</idno></altIdentifier></msIdentifier><msContents><msItem n="9" source="#beit-arie"><title source="#neubauer">תקנת קהיל' שום על החליצה, document dated the 15th of Ab 5146 = 1386, signed by Mosheh ben Y’quthiel hal-Levi מולין and seven other Rabbis. A casuistical note, headed מצאתי העתק מכתב יד של הגאון הזקן
-.מה׳ר׳ר יעקב ווייל</title></msItem></msContents><history><origin><origPlace source="#beit-arie">Wallerstein</origPlace><origDate source="#beit-arie">1541</origDate></origin></history></msPart></msDesc>
+                7-8 (fols. 109r-120r)</idno></altIdentifier></msIdentifier><msContents><msItem n="7" source="#beit-arie"><title source="#neubauer">[א׳ו׳ה [שערי דורא (end wanting), preceded by the index. Marg, notes extracted from the books of well-known Rabbis.</title></msItem><msItem n="8" source="#beit-arie"><title source="#neubauer">Collection of Agadic passages.</title></msItem></msContents><history><origin><origPlace source="#beit-arie">Hub near Regensburg</origPlace><origDate source="#beit-arie" when="1547" >1547 (fol. 112v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 9 (fol. 121v)</idno></altIdentifier></msIdentifier><msContents><msItem n="9" source="#beit-arie"><title source="#neubauer">תקנת קהיל' שום על החליצה, document dated the 15th of Ab 5146 = 1386, signed by Mosheh ben Y’quthiel hal-Levi מולין and seven other Rabbis. A casuistical note, headed מצאתי העתק מכתב יד של הגאון הזקן
+.מה׳ר׳ר יעקב ווייל</title></msItem></msContents><history><origin><origPlace source="#beit-arie">Wallerstein</origPlace><origDate source="#beit-arie" when="1541">1541</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="343">ff. 343</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Shklov (Poland = Belorussia)</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">Shklov (Poland = Belorussia)</origPlace><origDate source="#beit-arie" when="1693" >
             1693</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="206">ff. 206</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">end
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1580" notAfter="1700" cert="medium">end
             of 16th cent. (fol. 101v is dated 1601, by a censor?)-17th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>

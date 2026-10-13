@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="322">ff. 322</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie">up to 5450= 1679 (fol. 317r),
+               <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie" when="1679">up to 5450= 1679 (fol. 317r),
             and later additions</origDate></origin></history>
                <additional>
                   <adminInfo>

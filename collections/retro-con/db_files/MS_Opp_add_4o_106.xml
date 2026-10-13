@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="216">ff. 216</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive and cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Marrakesh (Morocco)</origPlace><origDate source="#beit-arie">1587</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Marrakesh (Morocco)</origPlace><origDate source="#beit-arie" when="1587">1587</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

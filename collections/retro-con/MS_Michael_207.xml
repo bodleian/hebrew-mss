@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="238">ff. 238</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Rome district</origPlace><origDate source="#beit-arie"> 1413</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Rome district</origPlace><origDate source="#beit-arie" when="1413">1413</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

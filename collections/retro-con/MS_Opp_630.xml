@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="99">ff. 99</extent><foliation source="#beit-arie">Fols. 65-69 missed in the foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> early-mid-14th cent, (type of
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1300" notAfter="1360"> early-mid-14th cent, (type of
             watermarks)]</origDate></origin></history>
                <additional>
                   <adminInfo>

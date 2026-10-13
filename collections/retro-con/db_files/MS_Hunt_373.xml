@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="250">ff. 250</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental-Yemenite semi-square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Safed</origPlace><origDate source="#beit-arie">1485</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Safed</origPlace><origDate source="#beit-arie" when="1485">1485</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

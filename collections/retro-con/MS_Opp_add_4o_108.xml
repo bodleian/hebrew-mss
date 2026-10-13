@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="198">ff. 198</extent><foliation source="#beit-arie">Fol. 37 (ii) is blank.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic type of semi-cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Mantua</origPlace><origDate source="#beit-arie">1483</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Mantua</origPlace><origDate source="#beit-arie" when="1483">1483</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

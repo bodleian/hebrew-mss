@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support><extent n="197">ff. 197</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Rome?]</origPlace><origDate source="#beit-arie">[late 13th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Rome?]</origPlace><origDate source="#beit-arie" notBefore="1290" notAfter="1300">[late 13th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

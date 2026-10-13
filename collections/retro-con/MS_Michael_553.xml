@@ -49,7 +49,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive script (glosses in Italian script).</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Italy or
-            Sicily?</origPlace><origDate source="#beit-arie">c. 1400 (Italian watermarks similar to Briquet no. 2717,
+            Sicily?</origPlace><origDate source="#beit-arie" when="1400"  cert="medium">c. 1400 (Italian watermarks similar to Briquet no. 2717,
             dated 1395-8, and no. 4619, dated 1390-1400)</origDate></origin></history>
                <additional>
                   <adminInfo>

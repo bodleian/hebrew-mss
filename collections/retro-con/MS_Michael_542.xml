@@ -48,7 +48,7 @@
             is continuous.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian
             semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie">15th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Italy</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1500">15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

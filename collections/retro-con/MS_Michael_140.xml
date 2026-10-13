@@ -66,8 +66,8 @@
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1, fols.
                 15-45</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">A collection of phrases extracted from the Old Testament and the Thalmud</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">(the beg. in another hand or script); fols. 52-85 by another, calligraphic
                 hand, on different paper, probably a little
-                earlier.</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[Early 18th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 95-234, 89r,
-                237v)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">An index to the Zohar according to the sections</title></msItem></msContents><history><origin><origDate source="#beit-arie">[Late 18th cent.]</origDate></origin></history></msPart></msDesc>
+                earlier.</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" notBefore="1700" notAfter="1710&#10;">[Early 18th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 95-234, 89r,
+                237v)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">An index to the Zohar according to the sections</title></msItem></msContents><history><origin><origDate source="#beit-arie" notBefore="1790" notAfter="1800">[Late 18th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

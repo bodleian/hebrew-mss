@@ -64,12 +64,12 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-2 (fols. 1r-44r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ספר הגלגולים</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">On מטטרון; ענין עליית מט; שמות של מט</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script. Me’ir b. Asher is probably an
-            owner</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> early 18th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 47r-62v)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">אגרת התכונה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive script. For another MS. copied by Elijah b. Isaac of
+            owner</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1710"> early 18th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 47r-62v)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">אגרת התכונה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive script. For another MS. copied by Elijah b. Isaac of
                 Mestre in Forli in 1522 cf. Manuscrits medievaux iii.
                 71.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Forlì
-                (Italy)</origPlace><origDate source="#beit-arie"> 1497 (colophon on fol. 61v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 4 (fols. 68r-113r) and no. 5 (fols.
+                (Italy)</origPlace><origDate source="#beit-arie" when="1497" > 1497 (colophon on fol. 61v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 4 (fols. 68r-113r) and no. 5 (fols.
                 118r-120r)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"><title source="#neubauer">ספר זכרון</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian (semi-) cursive script (no. 5 by a different
-                hand).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie"> early 16th
+                hand).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie" notBefore="1500" notAfter="1510"> early 16th
                 cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

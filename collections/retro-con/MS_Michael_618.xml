@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-43r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">אגרת פורים (modem title, תורת הקנאות)</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script.
-                Autograph.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Altona]</origPlace><origDate source="#beit-arie">after 24 Av 1752 (fol. 43v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 107-296 and additional
+                Autograph.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Altona]</origPlace><origDate source="#beit-arie" notBefore="1752" >after 24 Av 1752 (fol. 43v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 107-296 and additional
                 letters bound in MS. Mich. 618*, fols. 1-12)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Casuistical Responsa</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic
-                cursive scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie">1712-94</origDate></origin></history></msPart></msDesc>
+                cursive scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie" notBefore="1712" notAfter="1794">1712-94</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

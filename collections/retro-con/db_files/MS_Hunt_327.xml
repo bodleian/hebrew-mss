@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Provencal
             square, semi-square, and semi-cursive script. </handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Montpellier? (fol. 25r, by the
-            copyist)</origPlace><origDate source="#beit-arie">c. 1290 (fol. 34v)</origDate></origin></history>
+            copyist)</origPlace><origDate source="#beit-arie" when="1290">c. 1290 (fol. 34v)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

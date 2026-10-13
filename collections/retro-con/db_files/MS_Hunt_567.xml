@@ -66,7 +66,7 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols, 1r-84 (ii)r</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Oriental semi-cursive
                 script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Tabriz
-                (Iran)</origPlace><origDate source="#beit-arie">1310</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 85v-121v), no. 3 (fols.
+                (Iran)</origPlace><origDate source="#beit-arie" when="1310">1310</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 85v-121v), no. 3 (fols.
                 122r-127v), and no. 4 (fols. 128V-147V)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">each written by a
                 different hand, probably in the same area and at the approximate time as those of
                 no. 1.</handNote></handDesc></physDesc><history><origin/></history></msPart></msDesc>

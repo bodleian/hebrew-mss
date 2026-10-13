@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-35r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">הגדה (Italian rite)</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic square
-                script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> 1289/90 (colophon on fol.
+                script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1289" notAfter="1290"> 1289/90 (colophon on fol.
             35r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 35v-46r)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Mosheh Qamhi’s מהלך with marginal notes</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian
-                semi-cursive and square script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> c. 1375</origDate></origin></history></msPart></msDesc>
+                semi-cursive and square script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" when="1375"  cert="medium"> c. 1375</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

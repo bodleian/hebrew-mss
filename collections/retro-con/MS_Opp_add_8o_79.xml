@@ -47,7 +47,7 @@
                         <extent n="168">ff. 168</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian and Ashkenazic-Italian cursive
             scripts.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Padua]</origPlace><origDate source="#beit-arie">c. 1732-3</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Padua]</origPlace><origDate source="#beit-arie" when="1732"  cert="medium">c. 1732-3</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

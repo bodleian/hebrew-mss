@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Uherský Brod
-            (Moravia)</origPlace><origDate source="#beit-arie"> [c. 1712]</origDate></origin></history>
+            (Moravia)</origPlace><origDate source="#beit-arie" when="1712"  cert="medium"> [c. 1712]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

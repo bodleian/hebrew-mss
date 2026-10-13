@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="140">ff. 140</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Fromista (Spain)</origPlace><origDate source="#beit-arie">1480/1</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Fromista (Spain)</origPlace><origDate source="#beit-arie" notBefore="1480" notAfter="1481">1480/1</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

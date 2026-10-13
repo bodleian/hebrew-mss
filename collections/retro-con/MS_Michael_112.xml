@@ -65,9 +65,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-78)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ספר העברונות, rules for calendar</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Fols. 16v to
-                the end perhaps by a different hand.</handNote></handDesc><decoDesc><decoNote/></decoDesc></physDesc><history><origin><origDate source="#beit-arie">c. 1650 (fol. 17r: כגון עתה בשנת ת״ל
+                the end perhaps by a different hand.</handNote></handDesc><decoDesc><decoNote/></decoDesc></physDesc><history><origin><origDate source="#beit-arie" when="1650"  cert="medium">c. 1650 (fol. 17r: כגון עתה בשנת ת״ל
                 לס״ק).</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
-                83-149)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר עברונות</title></msItem></msContents><history><origin><origPlace source="#beit-arie">Germany (cf. fols. 138v-141r)</origPlace><origDate source="#beit-arie">1709/10 (fol. 83r)</origDate></origin></history></msPart></msDesc>
+                83-149)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר עברונות</title></msItem></msContents><history><origin><origPlace source="#beit-arie">Germany (cf. fols. 138v-141r)</origPlace><origDate source="#beit-arie" notBefore="1709" notAfter="1710">1709/10 (fol. 83r)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

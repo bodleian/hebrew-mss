@@ -64,11 +64,11 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1
-                (fols. 1v-7v, 96r-98r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">R. Yoseph Qaro’s question relating to the preference of being buried in the Holy Land, with R. Sh’lomoh’s answer</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">
+                (fols. 1v-7v, 96r-98r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">R. Yoseph Qaro’s question relating to the preference of being buried in the Holy Land, with R. Sh’lomoh’s answer</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560">
                 mid-16th cent, (watermarks: Briquet no. 8792, dated 1531-9)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-3
                 (fols. 8v-95v)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Kabbalistical explanations of some commandments</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">ס' מערכת האלהות, with the appendices of No. 1637 (on Genesis i. 1) and 2. c of No. 1638, followed by some other fragments extracted from Nahmanides’ books, and the prayer attributed to R. N’honyah ben haq-Qanah</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script. The acrostic Lipman ha-Levi
                 is pointed out on fols. 69v-70r, and the word מומש (of Worms) on fol.
-                93v.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> (late?) 15th
+                93v.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500" cert="medium"> (late?) 15th
                 cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

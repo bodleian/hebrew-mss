@@ -48,7 +48,7 @@
         parchment.</support><extent n="145">ff. 145</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Mondovi (Italy)</origPlace><origDate source="#beit-arie">1434</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Mondovi (Italy)</origPlace><origDate source="#beit-arie" when="1434">1434</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

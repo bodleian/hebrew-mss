@@ -49,7 +49,7 @@
                <handDesc><handNote source="#beit-arie">Oriental semi-cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Eastern Orient (morphology of paper
-            handwriting)]</origPlace><origDate source="#beit-arie">1305</origDate></origin></history>
+            handwriting)]</origPlace><origDate source="#beit-arie" when="1305">1305</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

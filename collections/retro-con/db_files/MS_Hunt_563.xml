@@ -48,7 +48,7 @@
             32, and both should be placed between fols. 102 and
         103.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Aleppo</origPlace><origDate source="#beit-arie">5 January 1484</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Aleppo</origPlace><origDate source="#beit-arie" when="1484">5 January 1484</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

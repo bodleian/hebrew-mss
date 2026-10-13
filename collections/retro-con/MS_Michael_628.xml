@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic square script for the biblical
             texts, Ashkenazic cursive script for Rashi. Fol. 81: Completion of a missing leaf by a
             much later hand. Rashi’s text is frequently disposed in geometrical forms.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">late 13th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1290" notAfter="1300">late 13th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

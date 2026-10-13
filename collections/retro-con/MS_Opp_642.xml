@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="393">ff. 393</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic square and semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> c. 1336/7 (the beg. of the
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1336" notAfter="1337" cert="medium"> c. 1336/7 (the beg. of the
             calendar on fol. 316v)</origDate></origin></history>
                <additional>
                   <adminInfo>

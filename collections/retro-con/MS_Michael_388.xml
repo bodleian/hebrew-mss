@@ -49,7 +49,7 @@
                <additions><note source="#beit-arie">Fols. 1-2, 195-196: [Italy, 14th cent.].
             Parchment</note></additions><handDesc><handNote source="#beit-arie">Sephardic calligraphic cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain?]</origPlace><origDate source="#beit-arie">[early 15th cent, (watermarks similar to
+               <history><origin><origPlace source="#beit-arie">[Spain?]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">[early 15th cent, (watermarks similar to
             Briquet no. 2399, dated 1409-15)]</origDate></origin></history>
                <additional>
                   <adminInfo>

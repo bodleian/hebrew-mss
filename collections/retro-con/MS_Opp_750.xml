@@ -48,7 +48,7 @@
             Italian technique of ruling in the entire MS.</support><extent n="79">ff. 79</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Northern Italy?</origPlace><origDate source="#beit-arie">[mid-15th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Northern Italy?</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">[mid-15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

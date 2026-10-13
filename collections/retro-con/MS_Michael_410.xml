@@ -46,7 +46,7 @@
                      <supportDesc>
                         <extent n="183">ff. 183</extent><foliation source="#beit-arie">Some leaves at end misbound.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie">[mid-15th cent, (watermarks similar
+               <history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">[mid-15th cent, (watermarks similar
             to Briquet no. 2738, dated 1446 and 1448, no. 7788, dated 1455, and no. 3533, dated
             1453-71)]</origDate></origin></history>
                <additional>

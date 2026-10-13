@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="228">ff. 228</extent><foliation source="#beit-arie">Fols. 197-208
             omitted in the foliation.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Ashkenaz</origPlace><origDate source="#beit-arie">[early 15th cent, (before 1437)]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">[early 15th cent, (before 1437)]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

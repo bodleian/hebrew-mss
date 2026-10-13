@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="157">ff. 157</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic
             cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Cracow</origPlace><origDate source="#beit-arie"> 1633/4</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Cracow</origPlace><origDate source="#beit-arie" notBefore="1633" notAfter="1634"> 1633/4</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

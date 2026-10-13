@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="135">ff. 135</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[late 15th cent. (nos. 1-3: watermarks of the group of Briquet nos. 14871-4,
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">[late 15th cent. (nos. 1-3: watermarks of the group of Briquet nos. 14871-4,
             dated mostly in the second half of the 15th cent, and also 1501-20; no. 4: watermarks
             similar to Briquet no. 2489, dated 1467-73)]</origDate></origin></history>
                <additional>

@@ -48,7 +48,7 @@
         parchment.</support><extent n="104">ff. 104</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive
             script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie"> c. 1375 (watermarks similar to
+               <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie" when="1375"  cert="medium"> c. 1375 (watermarks similar to
             Briquet no. 3564, dated 1365-75)]</origDate></origin></history>
                <additional>
                   <adminInfo>

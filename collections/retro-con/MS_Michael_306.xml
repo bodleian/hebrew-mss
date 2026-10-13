@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="105">ff. 105</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Ottingen</origPlace><origDate source="#beit-arie">1780-6 (fol. 93r)</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Ottingen</origPlace><origDate source="#beit-arie" notBefore="1780" notAfter="1786">1780-6 (fol. 93r)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="145">ff. 145</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian (?) semi-cursive script by
             scribes 2 and 3, Ashkenazic cursive script by scribe 1. </handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">early 13th cent.?]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1200" notAfter="1210&#10;" cert="medium">early 13th cent.?]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

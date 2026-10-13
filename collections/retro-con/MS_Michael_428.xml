@@ -46,7 +46,7 @@
                      <supportDesc>
                         <extent n="360">ff. 360</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Malta?]</origPlace><origDate source="#beit-arie">1660 (fol. 360v)</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Malta?]</origPlace><origDate source="#beit-arie" when="1660" >1660 (fol. 360v)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

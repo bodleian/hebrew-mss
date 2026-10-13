@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="219">ff. 219</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive and cursive
             scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> mid-15th cent, (watermarks of
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460"> mid-15th cent, (watermarks of
             no. 4 similar to Briquet no. 13008, dated 1452-60 watermarks of no. 5 similar to Briquet
             nos. 5547 and 5549, dated 1452 and 1453 respectively; watermarks of fols. 190-198
             similar to Briquet nos. 15873 and 15875, dated 1447-62 and 1452-60

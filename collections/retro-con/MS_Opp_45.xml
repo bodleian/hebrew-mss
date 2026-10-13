@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="430">ff. 430</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Cracow (fol. 12v)</origPlace><origDate source="#beit-arie">1625 (fols. 2v and 12v) and earlier</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Cracow (fol. 12v)</origPlace><origDate source="#beit-arie" when="1625" >1625 (fols. 2v and 12v) and earlier</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

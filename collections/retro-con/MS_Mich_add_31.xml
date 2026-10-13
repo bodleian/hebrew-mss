@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="60">ff. 60</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive
             scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie"> mid-16th cent, (watermarks
+               <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560"> mid-16th cent, (watermarks
             similar to Briquet no. 3417, dated 1540-1)]</origDate></origin></history>
                <additional>
                   <adminInfo>

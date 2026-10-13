@@ -46,7 +46,7 @@
                      <supportDesc material="mixed">
                         <support source="#neubauer">paper and vellum</support><extent n="173">ff. 173</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie">early 14th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie" notBefore="1300" notAfter="1310&#10;">early 14th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>
@@ -64,7 +64,7 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 10 (fols.
-                160r-173r)</idno></altIdentifier></msIdentifier><msContents><msItem n="10" source="#beit-arie"><title source="#neubauer">ספר היושר / ספר שמירת הבריאות</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">early 18th
+                160r-173r)</idno></altIdentifier></msIdentifier><msContents><msItem n="10" source="#beit-arie"><title source="#neubauer">ספר היושר / ספר שמירת הבריאות</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1710">early 18th
                 cent.</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

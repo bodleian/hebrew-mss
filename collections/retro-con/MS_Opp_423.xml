@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="21">ff. 21</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic
             cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Prague</origPlace><origDate source="#beit-arie">5 January 1712</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Prague</origPlace><origDate source="#beit-arie" when="1712" >5 January 1712</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

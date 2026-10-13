@@ -56,7 +56,7 @@
                   </handDesc>
                </physDesc>
                <history>
-                  <origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[14th cent.]</origDate></origin>
+                  <origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1300" notAfter="1400">[14th cent.]</origDate></origin>
                </history>
                <additional>
                   <adminInfo>

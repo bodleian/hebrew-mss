@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="230">ff. 230</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Altona</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">Altona</origPlace><origDate source="#beit-arie" when="1728" >
             1728</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -48,7 +48,7 @@
             written on 5-sheet quires (Italian practice); fols. 161-244, which were most likely
             copied by a different hand, are written on 6-sheet quires.</support><extent n="244">ff. 244</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Italy?</origPlace><origDate source="#beit-arie">late 15th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Italy?</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500">late 15th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

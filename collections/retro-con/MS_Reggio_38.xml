@@ -65,11 +65,11 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-36)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Notes of various contents; kabbalistic notes, gematriot, prayers, etc.</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive and semi-cursive
             scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Salonica, Tripoli
-                (Lebanon), and Egypt</origPlace><origDate source="#beit-arie">1576 (fol. 17v)-1609 (fol.
+                (Lebanon), and Egypt</origPlace><origDate source="#beit-arie" notBefore="1576" notAfter="1609">1576 (fol. 17v)-1609 (fol.
                 28v)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 38-65)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Letters from members of the family Morpurgo</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian
-                semi-cursive and cursive scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">after 1694</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols.
+                semi-cursive and cursive scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1694" >after 1694</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols.
                 66-158)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">Collectanea, mostly medical notes</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script. Fol. 70 is from an earlier MS.,
-                written in semi-cursive script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Sienna</origPlace><origDate source="#beit-arie">1529 (fol. 69r)-1576 (fol.
+                written in semi-cursive script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Sienna</origPlace><origDate source="#beit-arie" notBefore="1529" notAfter="1576">1529 (fol. 69r)-1576 (fol.
                 85v)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

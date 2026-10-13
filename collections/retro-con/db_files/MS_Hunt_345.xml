@@ -65,9 +65,9 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols.
                 24-217)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Oriental semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Eastern Orient]</origPlace><origDate source="#beit-arie">c. 1300 (fols.
+                         script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Eastern Orient]</origPlace><origDate source="#beit-arie" when="1300">c. 1300 (fols.
                 1-23: Aleppo, late 15th cent.)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Oriental
-                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">1462</origDate></origin></history></msPart></msDesc>
+                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie" when="1462">1462</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

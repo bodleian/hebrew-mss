@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Nos. 1-7 (fols. 1-180): Provencal semi-cursive script; Nos. 8-9 (fols. 186v-197r):
             Italian (semi-) cursive script; No. 10 (fols. 200-238): Ashkenazic semi-cursive script.
             Scribe's name on fol. 238v.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">c. 1400 ]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" when="1400"  cert="medium">c. 1400 ]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

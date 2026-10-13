@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="165">ff. 165</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Rashi
             script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Hildesheim (Germany)</origPlace><origDate source="#beit-arie">[c. 1740 (after 1738)]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Hildesheim (Germany)</origPlace><origDate source="#beit-arie" notBefore="1738"  cert="medium">[c. 1740 (after 1738)]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

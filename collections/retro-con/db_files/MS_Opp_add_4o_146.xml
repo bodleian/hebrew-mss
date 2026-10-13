@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="124">ff. 124</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Italy? (Italian practice of quiring)</origPlace><origDate source="#beit-arie">c.
+               <history><origin><origPlace source="#beit-arie">Italy? (Italian practice of quiring)</origPlace><origDate source="#beit-arie" when="1400">c.
             1400</origDate></origin></history>
                <additional>
                   <adminInfo>

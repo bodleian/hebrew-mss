@@ -65,9 +65,9 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-3 (fols. 1r-120r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">[Sh’muel of Marseilles’] Hebrew translation of Averroes’ intermediate comm. on Aristotle’s Ethica ad Nicomachum</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר ההערה אל דרך ההצלחה</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">פרקים לאבונצר, Aphorisms</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive
                 script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain or
-                Provence</origPlace><origDate source="#beit-arie"> c. 1400 (watermarks similar to Briquet no. 3175,
+                Provence</origPlace><origDate source="#beit-arie" when="1400"  cert="medium"> c. 1400 (watermarks similar to Briquet no. 3175,
                 dated 1401-5)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 4 (fols. 121r-130r, 132r,
-                135r-138r)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"><title source="#neubauer">תורת המוקצה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script. Autograph.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">17th-18th
+                135r-138r)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"><title source="#neubauer">תורת המוקצה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive script. Autograph.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1600" >17th-18th
                 cent.</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

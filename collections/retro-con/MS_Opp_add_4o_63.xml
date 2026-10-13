@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="323">ff. 323</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Algiers]</origPlace><origDate source="#beit-arie"> 1656</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Algiers]</origPlace><origDate source="#beit-arie" when="1656">1656</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

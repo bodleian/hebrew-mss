@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="144">ff. 144</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie">14th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Byzantium]</origPlace><origDate source="#beit-arie" notBefore="1300" notAfter="1399">14th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

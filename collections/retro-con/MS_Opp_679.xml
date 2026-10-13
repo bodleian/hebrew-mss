@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 1r-4r</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic
-                cursive script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[c. 1700]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 5r-62r</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">[Early 17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 62v-86v</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
-            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Frankfurt? (fol. 72v)</origPlace><origDate source="#beit-arie"> [17th cent.]</origDate></origin></history></msPart></msDesc>
+                cursive script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" when="1700"  cert="medium">[c. 1700]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 5r-62r</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
+                script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" notBefore="1600" notAfter="1610&#10;">[Early 17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 62v-86v</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
+            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Frankfurt? (fol. 72v)</origPlace><origDate source="#beit-arie" notBefore="1600" notAfter="1700"> [17th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

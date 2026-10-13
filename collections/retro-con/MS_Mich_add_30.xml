@@ -48,7 +48,7 @@
             parchment.</support><extent n="18">ff. 18</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Provencal cursive script. Fols. 2v-3r
             in semi-cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Provence or Italy]</origPlace><origDate source="#beit-arie">mid-15th cent.
+               <history><origin><origPlace source="#beit-arie">[Provence or Italy]</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">mid-15th cent.
             (watermarks of the letter R)</origDate></origin></history>
                <additional>
                   <adminInfo>

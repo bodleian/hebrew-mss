@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="116">ff. 116</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
             script by different hands, sharing the same paper.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie">[mid-16th cent, (watermarks of the ‘boar’
+               <history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560">[mid-16th cent, (watermarks of the ‘boar’
             type, Briquet nos. 13576-80, dated 1526-66)]</origDate></origin></history>
                <additional>
                   <adminInfo>

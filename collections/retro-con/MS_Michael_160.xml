@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="143">ff. 143</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic
             cursive scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> 17th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" notBefore="1600" notAfter="1700"> 17th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="206">ff. 206</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic
             semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie"> 1456</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie" when="1456">1456</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

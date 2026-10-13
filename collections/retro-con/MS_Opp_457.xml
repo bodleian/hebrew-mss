@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="265">ff. 265</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
         scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Poland</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">Poland</origPlace><origDate source="#beit-arie" notBefore="1626" notAfter="1627">
             1626/7</origDate></origin></history>
                <additional>
                   <adminInfo>

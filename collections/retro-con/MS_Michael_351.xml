@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="196">ff. 196</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Bia
-            (Hungary)</origPlace><origDate source="#beit-arie"> 1770 (decorated title-page)</origDate></origin></history>
+            (Hungary)</origPlace><origDate source="#beit-arie" when="1770" > 1770 (decorated title-page)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

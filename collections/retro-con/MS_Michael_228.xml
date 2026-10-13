@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="117">ff. 117</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origDate source="#beit-arie">[17th cent]</origDate></origin></history>
+               <history><origin><origDate source="#beit-arie" notBefore="1600" notAfter="1700">[17th cent]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

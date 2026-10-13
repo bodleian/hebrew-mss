@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Italian
             quiring.</support><extent n="202">ff. 202</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian-Byzantine semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy or Byzantium]</origPlace><origDate source="#beit-arie">1492</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy or Byzantium]</origPlace><origDate source="#beit-arie" when="1492">1492</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

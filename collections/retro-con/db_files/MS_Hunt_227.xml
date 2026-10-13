@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Outer and inner sheets of quires made of parchment; early pre-watermarked
             Spanish paper.</support><extent n="104">ff. 104</extent></supportDesc></objectDesc>
                <additions><note source="#beit-arie">Fol. 98: Later hand on later paper leaf.</note></additions><handDesc><handNote source="#beit-arie">Sephardic semi-square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie">early 13th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie" notBefore="1200" notAfter="1210&#10;">early 13th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

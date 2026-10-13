@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="243">ff. 243</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic (semi-)
             cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz (or Italy?)</origPlace><origDate source="#beit-arie"> mid-16th cent, (watermarks
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz (or Italy?)</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560" cert="medium"> mid-16th cent, (watermarks
             similar to Briquet no. 5212 (?), dated 1566)]</origDate></origin></history>
                <additional>
                   <adminInfo>

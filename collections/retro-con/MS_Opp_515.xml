@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic
             cursive script. (MS. Opp. 517, fols. 83-237 and 243-247: Ashkenazic-Sephardic
             semi-cursive script).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Prague]</origPlace><origDate source="#beit-arie"> 1710-11</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Prague]</origPlace><origDate source="#beit-arie" notBefore="1710" notAfter="1711"> 1710-11</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

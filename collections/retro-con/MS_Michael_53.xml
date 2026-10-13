@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="358">ff. 358</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Moravia</origPlace><origDate source="#beit-arie">[mid-18th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Moravia</origPlace><origDate source="#beit-arie" notBefore="1740" notAfter="1760">[mid-18th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

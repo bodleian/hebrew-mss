@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="340">ff. 340</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic
             (semi-) cursive scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">1633/4 (nos. 1-5 a) and
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560">1633/4 (nos. 1-5 a) and
             [mid-17th cent.] (no. 7 after 1653—cf. fol. 340r)</origDate></origin></history>
                <additional>
                   <adminInfo>

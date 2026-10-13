@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="8">ff. 8</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic square and
             cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[late 16th cent, (watermarks
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600">[late 16th cent, (watermarks
             similar to Briquet no. 8262, dated 1554)]</origDate></origin></history>
                <additional>
                   <adminInfo>

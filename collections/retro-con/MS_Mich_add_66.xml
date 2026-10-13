@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="685">ff. 685</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Safed (fols. 130V et al.)</origPlace><origDate source="#beit-arie">[c.
+               <history><origin><origPlace source="#beit-arie">Safed (fols. 130V et al.)</origPlace><origDate source="#beit-arie" when="1600" >[c.
             1600]</origDate></origin></history>
                <additional>
                   <adminInfo>

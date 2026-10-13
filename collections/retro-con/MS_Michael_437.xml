@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Ashkenazic square script</handNote><handNote source="#beit-arie">Glosses by the vocalizer
             Perigors b. Kalonymus (according to his gloss to his Selihah on fol. 225r) in cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie"> late 13th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Germany]</origPlace><origDate source="#beit-arie" notBefore="1290" notAfter="1300"> late 13th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

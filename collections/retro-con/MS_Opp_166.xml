@@ -49,7 +49,7 @@
                <additions><note source="#beit-arie">Fols.
             1-35, 155-159: [15th cent]</note></additions><handDesc><handNote source="#beit-arie">Ashkenazic square script, semi- cursive script for the marg. comm.
             </handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie"> early 14th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1300" notAfter="1310&#10;"> early 14th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="221">ff. 221</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy?</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Italy?</origPlace><origDate source="#beit-arie" notBefore="1440" notAfter="1460">
             mid-15th cent, (watermarks similar to Briquet nos. 2667, dated 1447-50, and 2669, dated
             1459)]</origDate></origin></history>
                <additional>

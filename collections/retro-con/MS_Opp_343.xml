@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="383">ff. 383</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic (semi-) cursive and cursive
             scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Heddernheim (Germany)</origPlace><origDate source="#beit-arie">1595 (fol. 383V)</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Heddernheim (Germany)</origPlace><origDate source="#beit-arie" when="1595" >1595 (fol. 383V)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

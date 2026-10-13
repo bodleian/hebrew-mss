@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="116">ff. 116</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic-Oriental cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Palestine]</origPlace><origDate source="#beit-arie">[early 19th cent, (before
+               <history><origin><origPlace source="#beit-arie">[Palestine]</origPlace><origDate source="#beit-arie" notBefore="1800" notAfter="1810&#10;">[early 19th cent, (before
             1831)]</origDate></origin></history>
                <additional>
                   <adminInfo>

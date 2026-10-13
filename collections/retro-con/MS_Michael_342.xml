@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="194">ff. 194</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> 1691 and 1696 (fols.
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1691" notAfter="1696"> 1691 and 1696 (fols.
             118-120)</origDate></origin></history>
                <additional>
                   <adminInfo>

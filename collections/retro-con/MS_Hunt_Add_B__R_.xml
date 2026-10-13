@@ -46,7 +46,7 @@
                      <supportDesc>
                         </supportDesc></objectDesc>
                </physDesc>
-               <history><origin><origPlace source="#beit-arie">[China</origPlace><origDate source="#beit-arie">before mid-17th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[China</origPlace><origDate source="#beit-arie" notBefore="1640" notAfter="1660">before mid-17th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="83">ff. 83</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">late 16th cent. (watermarks of
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1590" notAfter="1600">late 16th cent. (watermarks of
             the crowned double-headed eagle of the last quarter of the 16th cent. and Briquet no.
             15926, dated 1582-91)</origDate></origin></history>
                <additional>

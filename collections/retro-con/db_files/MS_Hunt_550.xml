@@ -65,8 +65,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 1-128</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive and semi-cursive
-                scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie">[late 13th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 129-140</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
-            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie">[c.
+                scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1290" notAfter="1300">[late 13th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 129-140</idno></altIdentifier></msIdentifier><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive
+            script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" when="1400">[c.
                 1400 (watermarks, reproduced by beta-radiography, quite similar to Briquet no.
                 10465, dated 1412)]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>

@@ -65,8 +65,8 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1-272)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">[ספר מצות נתל], part I</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote><handNote source="#beit-arie">According to the
                 concluding formula the scribe copied for
-                himself</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[France?]</origPlace><origDate source="#beit-arie">[mid-late 13th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 273-282)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">On 51 §§, according to the index</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
-        script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">[c. mid-14th cent.]</origDate></origin></history></msPart></msDesc>
+                himself</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[France?]</origPlace><origDate source="#beit-arie" notBefore="1290" notAfter="1300">[mid-late 13th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols. 273-282)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">On 51 §§, according to the index</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
+        script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" notBefore="1340" notAfter="1360" cert="medium">[c. mid-14th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

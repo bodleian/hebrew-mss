@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Turkey or
-            Orient]</origPlace><origDate source="#beit-arie">[c. 1600 (watermarks similar to Briquet no. 6091, dated
+            Orient]</origPlace><origDate source="#beit-arie" when="1600"  cert="medium">[c. 1600 (watermarks similar to Briquet no. 6091, dated
             1590-1602)]</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="142">ff. 142</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive script</handNote><handNote source="#beit-arie">Nos. 1-2 (fols. 6r-36r), no. 3 (fols. 37r-85v), no. 4 (fols. 86r-142v), and
             the frags, in fols. 1-4, each written by a different hand.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie">late 14th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy</origPlace><origDate source="#beit-arie" notBefore="1390" notAfter="1400">late 14th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

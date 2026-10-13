@@ -65,9 +65,9 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-4 (fols. 1r-139r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Kabbalistical comm. on the prayers</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר הבטחון</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">תפלת היחוד</title></msItem><msItem n="4" source="#beit-arie"><title source="#neubauer">דרשא השנה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic-Provencal semi-cursive
                 (fols. 1r-29v, 1. 11) and Ashkenazic (semi-) cursive (fols. 29v, 1. 12-139r)
-                scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie">early 15th cent, (watermarks similar to
+                scripts</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">early 15th cent, (watermarks similar to
                 Briquet no. 8348, dated 1412)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 5-6 (fols. 143-163)</idno></altIdentifier></msIdentifier><msContents><msItem n="5" source="#beit-arie"><title source="#neubauer">Liturgical pieces</title></msItem><msItem n="6" source="#beit-arie"><title source="#neubauer">ספר יסוד היראה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian cursive
-                script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">early 14th cent, (watermarks: Briquet no.
+                script.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1300" notAfter="1310&#10;">early 14th cent, (watermarks: Briquet no.
                 4171, dated 1306, 1312, 1317)]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

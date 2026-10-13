@@ -67,7 +67,7 @@
                 1-3 (fols. 1v-18r)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"/><msItem n="2" source="#beit-arie"/><msItem n="3" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive
                 script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> early 14th
                 cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 4-13 (fols. 19v-183v)</idno></altIdentifier></msIdentifier><msContents><msItem n="4" source="#beit-arie"/><msItem n="5" source="#beit-arie"/><msItem n="6" source="#beit-arie"/><msItem n="7" source="#beit-arie"/><msItem n="8" source="#beit-arie"/><msItem n="9" source="#beit-arie"/><msItem n="10" source="#beit-arie"/><msItem n="11" source="#beit-arie"/><msItem n="12" source="#beit-arie"/><msItem n="13" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script, most probably by one hand over a long
-                period.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie"> c. 1300]</origDate></origin></history></msPart></msDesc>
+                period.</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" when="1300"  cert="medium"> c. 1300]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

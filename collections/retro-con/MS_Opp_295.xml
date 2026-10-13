@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="26">ff. 26</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic
             semi-cursive-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie">[mid-16th cent, (watermarks, reproduced by beta-radiography, similar to
+               <history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie" notBefore="1540" notAfter="1560">[mid-16th cent, (watermarks, reproduced by beta-radiography, similar to
             Briquet no. 13580, dated 1556 and 1560)]</origDate></origin></history>
                <additional>
                   <adminInfo>

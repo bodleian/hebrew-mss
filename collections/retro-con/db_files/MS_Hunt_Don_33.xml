@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="78">ff. 78</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain or North Africa]</origPlace><origDate source="#beit-arie">c. 1300? (Spanish
+               <history><origin><origPlace source="#beit-arie">[Spain or North Africa]</origPlace><origDate source="#beit-arie" when="1300">c. 1300? (Spanish
             pre-watermarked paper, chain-lines spaced 45-50 mm. apart, with zigzag signs at top of
             sheets)</origDate></origin></history>
                <additional>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="6">ff. 6</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental
             square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Orient</origPlace><origDate source="#beit-arie">12th-13th cent]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Orient</origPlace><origDate source="#beit-arie" >12th-13th cent]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

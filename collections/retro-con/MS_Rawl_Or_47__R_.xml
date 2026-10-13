@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic type
             of square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Italy?</origPlace><origDate source="#beit-arie">16th cent.?]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Italy?</origPlace><origDate source="#beit-arie" notBefore="1500" notAfter="1600" cert="medium">16th cent.?]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

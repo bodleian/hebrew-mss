@@ -65,9 +65,9 @@
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols. 1r-61v)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">short commentaries on the five M’giiloth and other biblical passages</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script by two hands (one hand
                 completed the original MS. on different paper on fols. 2, 4, 6, 9-10, 13, 15-20, 24,
-                27, 40-43, 46-55).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Turkey?</origPlace><origDate source="#beit-arie">c.
+                27, 40-43, 46-55).</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Turkey?</origPlace><origDate source="#beit-arie" when="1600" >c.
                 1600]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-5</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Comm. on מערכת האלהות</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">Commentary (Notariqon, Gematria, and Agadah) on Proverbs</title></msItem><msItem n="4" source="#beit-arie"><title source="#neubauer">Commentary (D’rash and P’shat) on Job</title></msItem><msItem n="5" source="#beit-arie"><title source="#neubauer">Miscellanea</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive script, (no. 4 and most of no. 5 by same
-                hand; no. 2 and no. 3 each by a different hand)</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie">c.
+                hand; no. 2 and no. 3 each by a different hand)</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Ashkenaz</origPlace><origDate source="#beit-arie" when="1600" >c.
             1600]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

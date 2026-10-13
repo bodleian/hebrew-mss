@@ -49,7 +49,7 @@
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Candia
-            (Crete)</origPlace><origDate source="#beit-arie"> 1374/5</origDate></origin></history>
+            (Crete)</origPlace><origDate source="#beit-arie" notBefore="1374" notAfter="1375"> 1374/5</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

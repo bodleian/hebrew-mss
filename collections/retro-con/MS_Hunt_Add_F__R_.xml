@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">square
             script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Brest-Litovsk
-            (Lithuania)</origPlace><origDate source="#beit-arie">[mid-18th cent.]</origDate></origin></history>
+            (Lithuania)</origPlace><origDate source="#beit-arie" notBefore="1740" notAfter="1760">[mid-18th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

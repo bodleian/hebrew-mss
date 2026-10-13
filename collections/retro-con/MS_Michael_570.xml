@@ -48,7 +48,7 @@
             301, and 302 are double. In MS. Mich 570, fols. 16, 18, and 157 are double, fols. 53 and
             78 are threefold.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">c. 1600 (earliest censor’s
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1600" notAfter="1623" cert="medium">c. 1600 (earliest censor’s
             signature dated 1602)-c. 1623</origDate></origin></history>
                <additional>
                   <adminInfo>

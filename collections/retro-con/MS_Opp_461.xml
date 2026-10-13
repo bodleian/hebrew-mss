@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="81">ff. 81</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Mannheim
-            (Germany)</origPlace><origDate source="#beit-arie"> 1712 (title-page and colophon on fol. 81 r)</origDate></origin></history>
+            (Germany)</origPlace><origDate source="#beit-arie" when="1712" > 1712 (title-page and colophon on fol. 81 r)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

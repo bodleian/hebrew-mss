@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support><extent n="112">ff. 112</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic square script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie">early 13th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Spain</origPlace><origDate source="#beit-arie" notBefore="1200" notAfter="1210&#10;">early 13th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

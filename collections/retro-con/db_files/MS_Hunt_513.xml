@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Tripoli
-            (Libya)</origPlace><origDate source="#beit-arie"> 1449</origDate></origin></history>
+            (Libya)</origPlace><origDate source="#beit-arie" when="1449">1449</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

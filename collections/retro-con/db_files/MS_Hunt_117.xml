@@ -49,7 +49,7 @@
             42)</support><extent n="132">ff. 132</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Fez</origPlace><origDate source="#beit-arie">c. 1165, or Fostat, c. 1167/8]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Fez</origPlace><origDate source="#beit-arie" notBefore="1165" notAfter="1167">c. 1165, or Fostat, c. 1167/8]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

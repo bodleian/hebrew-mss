@@ -46,7 +46,7 @@
                      <supportDesc>
                         <extent n="49">ff. 49</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian square script, semi-cursive script for the marg. prayers.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie"> early 15th cent]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;"> early 15th cent]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -64,8 +64,8 @@
                   <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=262">no. 1212.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=155">no. 1212.</ref></bibl></listBibl>
                </additional>
        
-            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 51-80, 82-84</idno></altIdentifier></msIdentifier><history><origin><origDate source="#beit-arie">[Early 14th
-                cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols, 1-50, 81, 85-88</idno></altIdentifier></msIdentifier><history><origin><origDate source="#beit-arie">[Mid-14th
+            <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols. 51-80, 82-84</idno></altIdentifier></msIdentifier><history><origin><origDate source="#beit-arie" notBefore="1300" notAfter="1310">[Early 14th
+                cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Fols, 1-50, 81, 85-88</idno></altIdentifier></msIdentifier><history><origin><origDate source="#beit-arie" notBefore="1340" notAfter="1360">[Mid-14th
             cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

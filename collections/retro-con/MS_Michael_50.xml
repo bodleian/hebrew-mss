@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="100">ff. 100</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive scripts (no. 3 in more cursive
             script).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">c.
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" when="1300" >c.
             1300</origDate></origin></history>
                <additional>
                   <adminInfo>

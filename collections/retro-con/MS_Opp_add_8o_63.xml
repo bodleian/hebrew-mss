@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="18">ff. 18</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">square script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">1777 (title-page)</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" when="1777" >1777 (title-page)</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

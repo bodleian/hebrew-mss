@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="8">ff. 8</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic square
             script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Brody</origPlace><origDate source="#beit-arie"> 1704</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Brody</origPlace><origDate source="#beit-arie" when="1704">1704</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

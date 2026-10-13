@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Karaite semi-cursive
             script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">[Turkey or
-            Crimea]</origPlace><origDate source="#beit-arie">late 18th cent.</origDate></origin></history>
+            Crimea]</origPlace><origDate source="#beit-arie" notBefore="1790" notAfter="1800">late 18th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

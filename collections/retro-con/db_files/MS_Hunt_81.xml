@@ -48,7 +48,7 @@
                <additions><note source="#beit-arie">The scribe broke off in the middle of the first column of fol. 53v and resumed on
             fol. 54r; another hand completed the missing text on fol. 53v and on the upper marg, on
             fol. 54r.</note></additions><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">מסין, Jebel Nefusa (Libya)</origPlace><origDate source="#beit-arie">1452</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">מסין, Jebel Nefusa (Libya)</origPlace><origDate source="#beit-arie" when="1452">1452</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

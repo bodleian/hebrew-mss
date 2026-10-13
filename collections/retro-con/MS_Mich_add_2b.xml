@@ -46,7 +46,7 @@
                      <supportDesc>
                         <support source="#beit-arie">Sephardic-Italian semi-cursive script</support><extent n="18">ff. 18</extent></supportDesc></objectDesc>
                </physDesc>
-               <history><origin><origPlace source="#beit-arie">[Cosenza (Italy)</origPlace><origDate source="#beit-arie"> c. 1478 (watermarks
+               <history><origin><origPlace source="#beit-arie">[Cosenza (Italy)</origPlace><origDate source="#beit-arie" when="1478"  cert="medium"> c. 1478 (watermarks
             similar in fact to Briquet no. 691, dated 1479-83)]</origDate></origin></history>
                <additional>
                   <adminInfo>

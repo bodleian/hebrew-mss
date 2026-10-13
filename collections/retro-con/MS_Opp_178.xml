@@ -48,7 +48,7 @@
             parchment</support><extent n="323">ff. 323</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie">early 15th cent. (watermarks similar to Briquet
+               <history><origin><origPlace source="#beit-arie">[Italy?]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">early 15th cent. (watermarks similar to Briquet
             no. 2841, dated 1401 and 1420-47)</origDate></origin></history>
                <additional>
                   <adminInfo>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">vellum</support><extent n="89">ff. 89</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script.</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Bocdighcim
-            (Germany)</origPlace><origDate source="#beit-arie">1798 (introduction on the verso of the first unnumbered
+            (Germany)</origPlace><origDate source="#beit-arie" when="1798" >1798 (introduction on the verso of the first unnumbered
             folio)</origDate></origin></history>
                <additional>
                   <adminInfo>

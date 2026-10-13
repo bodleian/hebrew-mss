@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="6">ff. 6</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive
         script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Ashkenaz]</origPlace><origDate source="#beit-arie" when="1690" >
             1690</origDate></origin></history>
                <additional>
                   <adminInfo>

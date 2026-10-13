@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="240">ff. 240</extent><foliation source="#beit-arie">Bound erroneously: Fol. 9 should replace fol. 18 and vice versa; the correct
             order of the quire of fols. 57-66 is fols. 57-59,61,60,63, 62,64-66.</foliation></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script.</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Granada]</origPlace><origDate source="#beit-arie"> 1480</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Granada]</origPlace><origDate source="#beit-arie" when="1480">1480</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

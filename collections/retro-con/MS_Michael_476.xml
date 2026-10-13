@@ -64,10 +64,10 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Commentary on el-Fasi</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian semi-cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">[mid-14th cent, (watermarks similar to
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1340" notAfter="1360">[mid-14th cent, (watermarks similar to
                 Briquet no. 5623, dated 1324-44, in Shabbethai’s paper; similar to Briquet no. 7328,
                 dated 1335-44, in Pethahiah’s paper)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 2-3 (fols. 125-205)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">Commentary on el-Fasi</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">Commentary on Zohar</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Italian
-                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">[18th cent.]</origDate></origin></history></msPart></msDesc>
+                semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1700" notAfter="1800">[18th cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

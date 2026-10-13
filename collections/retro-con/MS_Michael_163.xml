@@ -48,7 +48,7 @@
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive
             script</handNote></handDesc></physDesc>
                <history><origin><origPlace source="#beit-arie">Montalto
-            (Italy)</origPlace><origDate source="#beit-arie"> 1493</origDate></origin></history>
+            (Italy)</origPlace><origDate source="#beit-arie" when="1493">1493</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -64,9 +64,9 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">Homilies on casuistic and Agadic matters</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
-                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie">
+                script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">Germany</origPlace><origDate source="#beit-arie" notBefore="1777" notAfter="1789">
                 1777 (fol. 1r)-1789(fol. 83r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"><title source="#neubauer">יש סדר למשנה, commentary on the Mishna of Z’ra’im</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Ashkenazic cursive
-            script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">1775/6 (fol.
+            script</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" notBefore="1775" notAfter="1776">1775/6 (fol.
                 155v)</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

@@ -64,8 +64,8 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-2</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">List of books given to his son; צוואה שלי; Index for No. 2; Letter</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">Preface to his יש מנחילין</title></msItem></msContents><history><origin><origPlace source="#beit-arie">Moravia (fol. 10r: Leipnik,
-                Boskowitz)</origPlace><origDate source="#beit-arie">1746/7 (fol. 1r)-1760 (fol.
-            108r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 11r-37r)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">ספר ישועות ישראל</title></msItem></msContents><history><origin><origPlace source="#beit-arie">Nikolsburg</origPlace><origDate source="#beit-arie">1757</origDate></origin></history></msPart></msDesc>
+                Boskowitz)</origPlace><origDate source="#beit-arie" notBefore="1746" notAfter="1760">1746/7 (fol. 1r)-1760 (fol.
+            108r)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 11r-37r)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">ספר ישועות ישראל</title></msItem></msContents><history><origin><origPlace source="#beit-arie">Nikolsburg</origPlace><origDate source="#beit-arie" when="1757">1757</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

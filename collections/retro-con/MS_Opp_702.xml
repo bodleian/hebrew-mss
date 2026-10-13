@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="67">ff. 67</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive and cursive script. </handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Leszno (Poland)</origPlace><origDate source="#beit-arie"> 1691/2?</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Leszno (Poland)</origPlace><origDate source="#beit-arie" notBefore="1691" notAfter="1692" cert="medium"> 1691/2?</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

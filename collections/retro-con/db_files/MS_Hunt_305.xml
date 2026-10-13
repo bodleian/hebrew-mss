@@ -46,7 +46,7 @@
                      <supportDesc material="chart">
                         <support source="#neubauer">paper</support><extent n="200">ff. 200</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Safed</origPlace><origDate source="#beit-arie">1314</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Safed</origPlace><origDate source="#beit-arie" when="1314">1314</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

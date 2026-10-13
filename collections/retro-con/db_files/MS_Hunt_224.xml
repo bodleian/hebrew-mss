@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="102">ff. 102</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental (Persian?) semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Persia?]</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Persia?]</origPlace><origDate source="#beit-arie" when="1562">
             1562</origDate></origin></history>
                <additional>
                   <adminInfo>

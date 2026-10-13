@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="84">ff. 84</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Oriental semi-cursive
             script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie">
+               <history><origin><origPlace source="#beit-arie">[Orient]</origPlace><origDate source="#beit-arie" notBefore="1690" notAfter="1693">
             late 17th cent, (before 1692/3)]</origDate></origin></history>
                <additional>
                   <adminInfo>

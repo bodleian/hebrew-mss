@@ -46,7 +46,7 @@
                      <supportDesc material="perg">
                         <support source="#neubauer">vellum</support><extent n="142">ff. 142</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[France?]</origPlace><origDate source="#beit-arie"> mid-13th cent.]</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[France?]</origPlace><origDate source="#beit-arie" notBefore="1240" notAfter="1260"> mid-13th cent.]</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

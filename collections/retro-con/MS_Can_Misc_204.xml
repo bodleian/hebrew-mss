@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="104">ff. 104</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian
             cursive scripts</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Venice</origPlace><origDate source="#beit-arie">1633 and 1617</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Venice</origPlace><origDate source="#beit-arie" notBefore="1617" notAfter="1633">1633 and 1617</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

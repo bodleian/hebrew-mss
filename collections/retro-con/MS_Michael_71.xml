@@ -65,7 +65,7 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-2 (fols, 1-57)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ס' הארבע מאמרות) משפטי הככבים</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר ראשית חכמה</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Fol. 34 by a later hand (probably W. Heidenheim’s), which also added some
-                marg. notes.</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie">17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 61-148)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">סדר גיטין וחליצה</title></msItem></msContents><history><origin><origDate source="#beit-arie">[c.
+                marg. notes.</handNote></handDesc></physDesc><history><origin><origDate source="#beit-arie" notBefore="1600" notAfter="1700">17th cent.]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 3 (fols. 61-148)</idno></altIdentifier></msIdentifier><msContents><msItem n="3" source="#beit-arie"><title source="#neubauer">סדר גיטין וחליצה</title></msItem></msContents><history><origin><origDate source="#beit-arie" when="1700" >[c.
             1700]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

@@ -46,7 +46,7 @@
                      <supportDesc>
                         <extent n="457">ff. 457</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Ashkenazic cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">Prague</origPlace><origDate source="#beit-arie">1718</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">Prague</origPlace><origDate source="#beit-arie" when="1718">1718</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="351">ff. 351</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote><handNote source="#beit-arie">Variants of script, e.g. fols. 159v-169v, 172r-172v, seem to be of the same hand,
             but last pages (fols. 349r-350r) are definitely by a different hand</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">North Africa?</origPlace><origDate source="#beit-arie">early 15th cent, (watermark similar to
+               <history><origin><origPlace source="#beit-arie">North Africa?</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">early 15th cent, (watermark similar to
             Briquet no. 11719)]</origDate></origin></history>
                <additional>
                   <adminInfo>

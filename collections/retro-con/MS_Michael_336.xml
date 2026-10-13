@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper and vellum</support><extent n="140">ff. 140</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive script (colophon’s scribe and
             second scribe—of Sephardic type).</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Byzantium or southern Italy]</origPlace><origDate source="#beit-arie">1425</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Byzantium or southern Italy]</origPlace><origDate source="#beit-arie" when="1425">1425</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>

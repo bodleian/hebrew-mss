@@ -64,7 +64,7 @@
                </additional>
        
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">Nos. 1-4 (fols. 1v-84v)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"><title source="#neubauer">ספר כללי הרפואות</title></msItem><msItem n="2" source="#beit-arie"><title source="#neubauer">ספר המעלות</title></msItem><msItem n="3" source="#beit-arie"><title source="#neubauer">ספר סיטנימש</title></msItem><msItem n="4" source="#beit-arie"><title source="#neubauer">Medical sentences</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote><handNote source="#beit-arie">Fol. 84r, l. 14-84v by another hand</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Sicily or
-                Provence?]</origPlace><origDate source="#beit-arie">c. 1475 (watermarks similar to Briquet no. 3700,
+                Provence?]</origPlace><origDate source="#beit-arie" when="1475"  cert="medium">c. 1475 (watermarks similar to Briquet no. 3700,
                 dated 1469)</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 5
                 (fols. 97-112)</idno></altIdentifier></msIdentifier><msContents><msItem n="5" source="#beit-arie"><title source="#neubauer">A fragment of a medical treatise translated from the Arabic</title></msItem></msContents><physDesc><handDesc><handNote source="#beit-arie">As nos. 1-4, by another hand</handNote><handNote source="#beit-arie">Fols. 113-114: Byzantine script?</handNote></handDesc></physDesc><history><origin/></history></msPart></msDesc>
          </sourceDesc>

@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support><extent n="309">ff. 309</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Byzantine semi-cursive script</handNote><handNote source="#beit-arie">(fols. 298r-309v by a
             different hand)</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Byzantium</origPlace><origDate source="#beit-arie">c. 1500 (watermarks, reproduced by beta-radiography, similar to Briquet nos.
+               <history><origin><origPlace source="#beit-arie">[Byzantium</origPlace><origDate source="#beit-arie" when="1500"  cert="medium">c. 1500 (watermarks, reproduced by beta-radiography, similar to Briquet nos.
             743-4, 746, 748-9 (fol. 19), and 5920, 5922-4 (fol. 129))]</origDate></origin></history>
                <additional>
                   <adminInfo>

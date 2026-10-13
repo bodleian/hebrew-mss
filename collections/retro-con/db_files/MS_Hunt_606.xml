@@ -66,7 +66,7 @@
             <msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 1 (fols.
                 1-16)</idno></altIdentifier></msIdentifier><msContents><msItem n="1" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Provence?]</origPlace><origDate source="#beit-arie"> early 16th cent,
                 (watermarks similar to Briquet no. 10745, dated 1501-15)]</origDate></origin></history></msPart><msPart><msIdentifier><altIdentifier><idno type="part" source="#beit-arie">No. 2 (fols.
-                17-225)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie"> late 15th
+                17-225)</idno></altIdentifier></msIdentifier><msContents><msItem n="2" source="#beit-arie"/></msContents><physDesc><handDesc><handNote source="#beit-arie">Sephardic semi-cursive script</handNote></handDesc></physDesc><history><origin><origPlace source="#beit-arie">[Spain]</origPlace><origDate source="#beit-arie" notBefore="1490" notAfter="1500"> late 15th
                 cent.]</origDate></origin></history></msPart></msDesc>
          </sourceDesc>
       </fileDesc>

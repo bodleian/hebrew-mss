@@ -47,7 +47,7 @@
                         <support source="#beit-arie">Only the unnumbered leaf at the head, fols. 1, 22-27, and the last two leaves
             (fols. 49-50) are made of parchment.</support><extent n="50">ff. 50</extent></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">Italian semi-cursive script</handNote></handDesc></physDesc>
-               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie">early 15th cent.</origDate></origin></history>
+               <history><origin><origPlace source="#beit-arie">[Italy]</origPlace><origDate source="#beit-arie" notBefore="1400" notAfter="1410&#10;">early 15th cent.</origDate></origin></history>
                <additional>
                   <adminInfo>
                      <recordHist>
