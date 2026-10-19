@@ -47,7 +47,7 @@
                         <support source="#neubauer">paper</support></supportDesc></objectDesc>
                <handDesc><handNote source="#beit-arie">unusual square
             script.</handNote></handDesc></physDesc>
-               <history><origin><origDate source="#beit-arie" notBefore="1640" notAfter="1660">[Mid-17th-mid-18th cent. (watermarks of the type of V. Mosin,
+               <history><origin><origDate source="#beit-arie" notBefore="1640" notAfter="1760">[Mid-17th-mid-18th cent. (watermarks of the type of V. Mosin,
             Anchor Watermarks (Amsterdam, 1973) [Monumenta Chartae Papyraceae Historiam Illustrantia
             xiii], nos. 1282-1320, dated 1659-1743)]</origDate></origin></history>
                <additional>
@@ -63,7 +63,7 @@
                 
                   <listBibl>
                      
-                  <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref>no. 2576.</ref></bibl><bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref>no. 2576.</ref></bibl></listBibl>
+                  <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;amp;seq=609">no. 2576.</ref></bibl><bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp;seq=306">no. 2576.</ref></bibl></listBibl>
                </additional>
        
             </msDesc>
