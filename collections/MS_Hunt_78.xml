@@ -1,0 +1,164 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_712">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Hunt. 78</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Hunt_78</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Huntington Collection</collection>
+                  <idno>MS. Hunt. 78</idno>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">712</idno>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="uri">256</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem n="1">
+                     <title xml:lang="he-Latn-x-lc" key="work_50">Arbaʾah Ṭurim (Even ha-ʾEzer,
+                        Ḥoshen Mishpaṭ)‏</title>
+                     <title xml:lang="he" key="work_50">ארבעה טורים (חשן משפט, אבן העזר)</title>
+                     <author key="person_301582237">
+                        <persName>Jacob ben Asher, approximately 1269-approximately 1340</persName>
+                        <persName xml:lang="he">יעקב בן אשר</persName></author>
+                     <note>Contains two out of the four divisions of the <hi rend="italic">Arbaʾah
+                           Ṭurim</hi>.</note>
+                     <note>Both divisions are incomplete. The <hi rend="italic">Ḥoshen Mishpaṭ</hi>
+                        ends on <locus>f. 282v</locus>, coinciding with the end of <hi rend="italic"
+                           >Siman 382</hi> (<hi rend="italic">Siman 380</hi> of the printed
+                        edition); the <hi rend="italic">Even ha-ʾEzer</hi> begins on the facing
+                        folio (<locus>f. 283r</locus>), towards the end of <hi rend="italic">Siman
+                           37</hi> (<hi rend="italic">Siman 38</hi> of the printed edition).</note>
+                     <note>The end of one division and the beginning of the next are signalled by
+                        two short Latin notes at the bottom of <locus>ff. 282v and
+                        283r</locus>.</note>
+                     <note>With annotations and corrections found in between the lines and on the
+                        margins.</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent n="354">ff. 354</extent>
+                        <condition>The lower margin of <locus>f. 71</locus> has been torn off,
+                           resulting in the loss of several lines of text. Similar tears along the
+                           outer and lower margins of <locus>ff. 207-8</locus> has not resulted in
+                           any loss of text. Some minor worm damage along the lower margins of some
+                           folios.</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>Sephardic semi-cursive scripts</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Smooth golden-brown leather over pasteboards, with blind-tooled decoration
+                        along the turn-ins and the outer edges of the boards. The author’s name
+                        (‘JACOB B. ASHER’) and the current shelfmark are gold-tooled on the
+                        spine.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin><origPlace>[Sepharad;</origPlace><origDate calendar="#Julian"
+                        notBefore="1425" notAfter="1475">mid-15th century]</origDate> As indicated
+                     by various watermarks, e.g. Briquet no. 3528, dated <date calendar="#Julian"
+                        >1429-53</date>.</origin>
+                  <acquisition>It belonged to the oriental collection of <persName
+                        ref="http://viaf.org/viaf/34684157" key="person_131">Robert
+                        Huntington</persName>
+                     <date calendar="#Gregorian">(1637-1701)</date>, and was bought in <date
+                        calendar="#Gregorian">1693</date> together with 645 other MSS for £752
+                     10s.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=117"
+                              >no. 712</ref>, and <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=110"
+                              >no. 712</ref>, and on the data of the Institute of Microfilmed Hebrew
+                           Manuscripts, National Library of Israel with additional enhancements by
+                           the cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 20938</idno>
+                     </bibl>
+                     <bibl>
+                        <idno n="S.F. Or" type="microfilm">???</idno>
+                     </bibl></surrogates>
+                  <listBibl>
+
+                     <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=117"
+                           >no. 712.</ref></bibl>
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
+                           rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                           Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=110"
+                           >no. 712.</ref></bibl>
+                  </listBibl>
+               </additional>
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

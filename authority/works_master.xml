@@ -16,6 +16,14 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3385">
+               <title type="uniform">Hebrew Bible: Prophets (Minor Prophets and Ezekiel)</title>
+               <title type="variant" xml:lang="he">נביאים (תרי עשר ויחזקאל)</title>
+               <title type="variant">Neviʾim (trei asar ve-Yeḥezḳel)</title>
+               <ref target="MS_Hunt_604-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Hunt_604.xml#MS_Hunt_604-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3384">
                <title type="uniform">Sefer ha-Rimon</title>
                <title type="variant" xml:lang="he">ספר הרמון</title>
@@ -3823,10 +3831,14 @@
                <textLang mainLang="arc" otherLangs="jrb"/>
             </bibl>
             <bibl xml:id="work_50">
-               <title type="uniform">Arbaʾah ṭurim (Even ha-ʾezer, Ḥoshen mishpaṭ)‏</title>
+               <title type="uniform">Arbaʾah Ṭurim (Even ha-ʾEzer, Ḥoshen Mishpaṭ)‏</title>
+               <title type="variant">ארבעה טורים (חשן משפט, אבן העזר)</title>
+               <title type="variant">Ṭur (Even ha-ʾezer, Ḥoshen mishpaṭ)‏</title>
                <title type="variant">טור (אבן העזר, חשן משפט)</title>
                <ref target="MS_Canonici_Or_79-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Canonici_Or_79.xml#MS_Canonici_Or_79-item1 -->
+               <ref target="MS_Hunt_78-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Hunt_78.xml#MS_Hunt_78-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_464">
@@ -19205,8 +19217,13 @@
             <bibl xml:id="work_289">
                <title type="uniform">Sefer ha-Mikhlol</title>
                <title type="variant">ספר המכלול</title>
+               <title type="variant">Mikhlol</title>
+               <title type="variant">מכלול</title>
+               <title type="variant">The Book of Completeness</title>
                <ref target="MS_Kennicott_1-item2"/>
                <!-- ../../hebrew-mss/collections/MS_Kennicott_1.xml#MS_Kennicott_1-item2 -->
+               <ref target="MS_Hunt_184-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Hunt_184.xml#MS_Hunt_184-item1 -->
             </bibl>
             <bibl xml:id="work_357">
                <title type="uniform">Sefer ha-Mitsṿot le-Leṿi ben Yafet</title>
