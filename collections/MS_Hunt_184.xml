@@ -1,0 +1,163 @@
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_n_1470">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Hunt. 184</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Hunt_184</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Stub Files</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Huntington collection</collection>
+                  <idno>MS. Huntington 184</idno>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">1470</idno>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="uri">476</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem n="1">
+                     <title xml:lang="he-Latn-x-lc" key="work_289">Sefer ha-Mikhlol</title>
+                     <title>ספר המכלול</title>
+                     <author key="person_100213323">
+                        <persName>Kimhi, David, approximately 1160-approximately 1235</persName>
+                        <persName xml:lang="he">דוד בן יוסף קמחי</persName>
+                     </author>
+                     <note>Throughout the text, numerous superscript and marginal annotations and
+                        corrections in tiny Sephardic cursive hands.</note>
+                     <note>The ending is defective; the text terminates just before the end of the
+                        section on numerals (the final words are <foreign xml:lang="he">יגמר המספר
+                           בעצמו</foreign>).</note>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent n="199">ff. 199 <dimensions type="leaf" unit="mm">
+                              <height>250</height>
+                              <width>162</width>
+                           </dimensions></extent>
+                        <condition><p>Relatively extensive worm damage, especially on the outer
+                              margins in the first half of the manuscript, some of which have been
+                              repaired with small rectangular slips of paper. In some cases, this
+                              affects the legibility of the text.</p></condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>Oriental-Sephardic semi-cursive script, employing Sephardic cursive
+                        forms</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Dark brown cloth over pasteboards, quarter-bound in dark brown fine-grained
+                        leather. The author’s name (‘D. KIMCHI’) and the current shelfmark have been
+                        gold-tooled on the spine.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin><origPlace>[Orient</origPlace><origDate calendar="#Julian" notBefore="1300"
+                        notAfter="1399"> 14th cent.]</origDate></origin>
+                  <provenance/>
+                  <acquisition>It belonged to the oriental collection of <persName
+                        ref="http://viaf.org/viaf/34684157" key="person_131">Robert
+                        Huntington</persName>
+                     <date calendar="#Gregorian">(1637-1701)</date> (whose signature is found on
+                        <locus>f. 2r</locus>), and was bought in <date calendar="#Gregorian"
+                        >1693</date> together with 645 other MSS for £752 10s.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;amp=&amp;seq=309"
+                              >no. 1470</ref>, and <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;amp=&amp;seq=179"
+                              >no. 1470</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 16389</idno>
+                     </bibl>
+                     <bibl>
+                        <idno n="S.F. Or" type="microfilm">???</idno>
+                     </bibl></surrogates>
+                  <listBibl>
+                     <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=309"
+                           >no. 1470.</ref></bibl>
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi
+                           rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                           Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=179"
+                           >no. 1470.</ref></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
