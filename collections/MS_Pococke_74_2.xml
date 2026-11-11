@@ -69,8 +69,9 @@
                      <textLang mainLang="he">Hebrew</textLang>
                      <note>This collection consists mainly of poems but also includes numerous
                         correspondences and short prose works. A significant portion of these are by
-                        <persName key="person_7059">Saʻadiah Longo</persName>; the others appear to be the works of other Jewish authors
-                        living in Salonika during the same period.</note>
+                           <persName key="person_7059">Saʻadiah Longo</persName>; the others appear
+                        to be the works of other Jewish authors living in Salonika during the same
+                        period.</note>
                      <note>At the beginning and end of the manuscript (<locus>ff. i-vii,
                            233-238</locus>), additional poems have been copied by later hands; many
                         of these are duplicates of poems already found in the main part of the
@@ -91,18 +92,18 @@
                      <handNote>Sephardic cursive script</handNote>
                   </handDesc>
                   <bindingDesc>
-                     <p>Smooth golden-brown leather over paper boards, simple blind-tooled
-                        decoration around and along the edges of upper and lower boards. The title
-                        (‘CHARTAE IMPERFECTAE’) and current shelfmark have been gold-tooled on the
-                        spine.</p>
+                     <p>Smooth golden-brown leather over pasteboards, simple blind-tooled
+                        decoration around and along the edges of the right and left boards. The
+                        title (‘CHARTAE IMPERFECTAE’) and current shelfmark have been gold-tooled on
+                        the spine.</p>
                      <condition><p>The binding has become detached from the text block. Some loose
                            and detached quires.</p></condition>
                   </bindingDesc>
                </physDesc>
                <history>
                   <origin><origPlace>Salonica?</origPlace><origDate calendar="Gregorian"
-                        notBefore="1586" notAfter="1599">late 16th cent, after 1586 (the letters on ff. 34r and
-                        77v are dated to this year)</origDate></origin>
+                        notBefore="1586" notAfter="1599">late 16th cent, after 1586 (the letters on
+                        ff. 34r and 77v are dated to this year)</origDate></origin>
                   <provenance/>
                   <acquisition><persName ref="https://viaf.org/en/viaf/41849535">Edward
                         Pococke</persName>'s <date calendar="#Gregorian">(1604-1691)</date>

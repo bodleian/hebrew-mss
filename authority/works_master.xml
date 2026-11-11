@@ -16,12 +16,45 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3389">
+               <title type="uniform">Masoretic Signs in Aramaic</title>
+               <title type="variant" xml:lang="he">סימני המסרה בלשון ארמי</title>
+               <ref target="MS_Reggio_55-item3"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_55.xml#MS_Reggio_55-item3 -->
+               <textLang mainLang="he" otherLangs="jpa"/>
+            <bibl xml:id="work_3388">
+               <title type="uniform">Magen Nashim</title>
+               <title type="variant" xml:lang="he">מגן נשים</title>
+               <ref target="MS_Reggio_55-item2"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_55.xml#MS_Reggio_55-item2 -->
+               <textLang mainLang="he" otherLangs="ita"/>
+            <bibl xml:id="work_3387">
+               <title type="uniform">Dvar Shmuʾel</title>
+               <title type="variant" xml:lang="he">דבר שמואל</title>
+               <ref target="MS_Reggio_55-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_55.xml#MS_Reggio_55-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3386">
+               <title type="uniform">Zeraʿ Emet</title>
+               <title type="variant" xml:lang="he">זרע אמת</title>
+               <ref target="MS_Reggio_55-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_55.xml#MS_Reggio_55-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3386">
+               <title type="uniform">Sefer Turgeman</title>
+               <title type="variant" xml:lang="he">ספר תורגמן</title>
+               <ref target="MS_Reggio_15-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_15.xml#MS_Reggio_15-item1 -->
+               <textLang mainLang="he" otherLangs="itk"/>
+            </bibl>
             <bibl xml:id="work_3385">
                <title type="uniform">Hebrew Bible: Prophets (Minor Prophets and Ezekiel)</title>
                <title type="variant" xml:lang="he">נביאים (תרי עשר ויחזקאל)</title>
                <title type="variant">Neviʾim (trei asar ve-Yeḥezḳel)</title>
-               <ref target="MS_Hunt_604-item1"/>
-               <!-- ../../hebrew-mss/collections/MS_Hunt_604.xml#MS_Hunt_604-item1 -->
+               <ref target="MS_Huntington_604-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Huntington_604.xml#MS_Huntington_604-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_3384">
@@ -3837,8 +3870,8 @@
                <title type="variant">טור (אבן העזר, חשן משפט)</title>
                <ref target="MS_Canonici_Or_79-item1"/>
                <!-- ../../hebrew-mss/collections/MS_Canonici_Or_79.xml#MS_Canonici_Or_79-item1 -->
-               <ref target="MS_Hunt_78-item1"/>
-               <!-- ../../hebrew-mss/collections/MS_Hunt_78.xml#MS_Hunt_78-item1 -->
+               <ref target="MS_Huntington_78-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Huntington_78.xml#MS_Huntington_78-item1 -->
                <textLang mainLang="he"/>
             </bibl>
             <bibl xml:id="work_464">
@@ -19222,8 +19255,8 @@
                <title type="variant">The Book of Completeness</title>
                <ref target="MS_Kennicott_1-item2"/>
                <!-- ../../hebrew-mss/collections/MS_Kennicott_1.xml#MS_Kennicott_1-item2 -->
-               <ref target="MS_Hunt_184-item1"/>
-               <!-- ../../hebrew-mss/collections/MS_Hunt_184.xml#MS_Hunt_184-item1 -->
+               <ref target="MS_Huntington_184-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Huntington_184.xml#MS_Huntington_184-item1 -->
             </bibl>
             <bibl xml:id="work_357">
                <title type="uniform">Sefer ha-Mitsṿot le-Leṿi ben Yafet</title>
