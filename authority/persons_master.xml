@@ -18820,7 +18820,78 @@
                     <persName type="variant" xml:lang="he">אליהו מאישפרנאי</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Oppenheim_338.xml -->
                 </person>
-
+                <person xml:id="person_7102">
+                    <persName type="display">Jedidiah (Amadio) ben Moses of Recanati ca. 16.
+                        Jh.</persName>
+                    <persName type="variant" xml:lang="he">ידידיה שלמה בן משה מריכאניטי</persName>
+                    <persName type="variant" xml:lang="he">ידידיה מארימינו</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/409145662624505031395">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_15.xml -->
+                </person>
+                <person xml:id="person_7103">
+                    <persName type="display">Ishmael ben Abraham Isaac, ha-Kohen, 1723-1811</persName>
+                    <persName type="variant" xml:lang="he">ישמעאל בן אברהם יצחק הכהן</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/28815335">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7104">
+                    <persName type="display">Aboab, Samuel ben Abraham, -1694</persName>
+                    <persName type="variant" xml:lang="he">אבוהב, שמואל בן אברהם</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/97604990">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7105">
+                    <persName type="display">Sommi, Leone de', approximately 1525-approximately 1590</persName>
+                    <persName type="variant" xml:lang="he">יהודה בן יצחק סומו משער אריה</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/88004325">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7106">
+                    <persName type="display">Jacob Fano</persName>
+                    <persName type="variant" xml:lang="he">יעקב מפאנו</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/314882106">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
             </listPerson>
         </body>
     </text>
