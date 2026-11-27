@@ -18837,7 +18837,8 @@
                     <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_15.xml -->
                 </person>
                 <person xml:id="person_7103">
-                    <persName type="display">Ishmael ben Abraham Isaac, ha-Kohen, 1723-1811</persName>
+                    <persName type="display">Ishmael ben Abraham Isaac, ha-Kohen,
+                        1723-1811</persName>
                     <persName type="variant" xml:lang="he">ישמעאל בן אברהם יצחק הכהן</persName>
                     <note type="links">
                         <list type="links">
@@ -18865,7 +18866,8 @@
                     <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
                 </person>
                 <person xml:id="person_7105">
-                    <persName type="display">Sommi, Leone de', approximately 1525-approximately 1590</persName>
+                    <persName type="display">Sommi, Leone de', approximately 1525-approximately
+                        1590</persName>
                     <persName type="variant" xml:lang="he">יהודה בן יצחק סומו משער אריה</persName>
                     <note type="links">
                         <list type="links">
@@ -18890,6 +18892,119 @@
                             </item>
                         </list>
                     </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7107">
+                    <persName type="display">Hannah of Rieti</persName>
+                    <persName type="variant" xml:lang="he">חנה מריאיטי</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7108">
+                    <persName type="display">Reʾuven Sullam</persName>
+                    <persName type="variant" xml:lang="he">ראובן סלם</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7109">
+                    <persName type="display">Shlomoh b. Yehudah Abudiente</persName>
+                    <persName type="variant">Shlomoh Abudiente</persName>
+                    <persName type="variant" xml:lang="he">שלמה בן יהודה אבודינטי</persName>
+                    <persName type="variant" xml:lang="he">שלמה אבודינטי</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7110">
+                    <persName type="display">Uziel, Isaac ben Abraham, -1622</persName>
+                    <persName type="variant" xml:lang="he">עוזיאל, יצחק בן אברהם</persName>
+                    <persName>Isaac Uziel</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/291989452">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7111">
+                    <persName type="display">Mortera, Saul Levi, 1596?-1660</persName>
+                    <persName type="variant" xml:lang="he">שאול הלוי מורטרה</persName>
+                    <persName type="variant">Saul Mortera</persName>
+                    <persName type="variant">Shaʾul Morṭera</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/12376948">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7112">
+                    <persName type="display">Caro, Isaac ben Joseph, approximately
+                        1440-1518</persName>
+                    <persName type="variant" xml:lang="he">יצחק בן יוסף קרו</persName>
+                    <persName type="variant" xml:lang="he">יצחק קארו</persName>
+                    <persName type="variant">Isaac Caro</persName>
+                    <persName type="variant">Yitsḥak Ḳaro</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/100308746">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7113">
+                    <persName type="display">Shmuʾel Masʿud</persName>
+                    <persName type="variant">Samuel Masʿud</persName>
+                    <persName type="variant" xml:lang="he">שמואל מסעוד</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7114">
+                    <persName type="display">Mosheh Montalto</persName>
+                    <persName type="variant">Moses Montalto</persName>
+                    <persName type="variant" xml:lang="he">משה מונטיאלטו</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7115">
+                    <persName type="display">Uriah ha-Levi</persName>
+                    <persName type="variant" xml:lang="he">אוריה הלוי</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7116">
+                    <persName type="display">Avraham Pimienta</persName>
+                    <persName type="variant">Abraham Pimienta</persName>
+                    <persName type="variant" xml:lang="he">אברהם פימיינטה</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7117">
+                    <persName type="display">David b. Aharon</persName>
+                    <persName type="variant">David b. Aaron</persName>
+                    <persName type="variant" xml:lang="he">דוד בן אהרן</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7118">
+                    <persName type="display">Yitsḥak Montalto</persName>
+                    <persName type="variant">Isaac Montalto</persName>
+                    <persName type="variant" xml:lang="he">יצחק מונטיאלטו</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7119">
+                    <persName type="display">Avraham Lombroso</persName>
+                    <persName type="variant">Abraham Lombroso</persName>
+                    <persName type="variant" xml:lang="he">אברהם לומברוזו</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
+                </person>
+                <person xml:id="person_7120">
+                    <persName type="display">Elhanan David Karmi</persName>
+                    <persName type="variant">Elḥanan David Ḳarmi</persName>
+                    <persName type="variant" xml:lang="he">אלחנן דוד קרמי</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_55.xml -->
                 </person>
             </listPerson>

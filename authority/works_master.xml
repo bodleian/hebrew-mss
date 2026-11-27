@@ -16,8 +16,22 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3391">
+               <title type="uniform">Sefer ha-ʾOt</title>
+               <title type="variant" xml:lang="he">ספר האות</title>
+               <title type="variant">Sefer Zekharyahu</title>
+               <title type="variant" xml:lang="he">ספר זכריהו</title>
+               <ref target="MS_Reggio_55-item7"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_55.xml#MS_Reggio_55-item7 -->
+               <textLang mainLang="he"/>
+            <bibl xml:id="work_3390">
+               <title type="uniform">Targum Sheni on Esther: in Hebrew</title>
+               <title type="variant" xml:lang="he">תרגום שני לאסתר מתורגם לעברית</title>
+               <ref target="MS_Reggio_55-item6"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_55.xml#MS_Reggio_55-item6 -->
+               <textLang mainLang="he"/>
             <bibl xml:id="work_3389">
-               <title type="uniform">Masoretic Signs in Aramaic</title>
+               <title type="uniform">Masoretic Mnemonics (Simanim) in Aramaic</title>
                <title type="variant" xml:lang="he">סימני המסרה בלשון ארמי</title>
                <ref target="MS_Reggio_55-item3"/>
                <!-- ../../hebrew-mss/collections/MS_Reggio_55.xml#MS_Reggio_55-item3 -->

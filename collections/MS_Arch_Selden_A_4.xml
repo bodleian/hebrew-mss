@@ -6,7 +6,11 @@
         <fileDesc>
             <titleStmt>
                 <title>Digital description of MS. Arch. Selden. A. 4</title>
-                <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><persName>Benjamin Whittle</persName></respStmt><respStmt xml:id="ZB">
+                <respStmt xml:id="BW">
+                    <resp when="2024">Cataloguer</resp>
+                    <persName>Benjamin Whittle</persName>
+                </respStmt>
+                <respStmt xml:id="ZB">
                     <resp when="2016">Cataloguer</resp>
                     <name type="person">Zsofia Buda</name>
                 </respStmt>
@@ -22,7 +26,8 @@
                         <settlement>Oxford</settlement>
                         <postCode>OX1 3BG</postCode>
                         <addrLine>
-                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections"
+                                >Bodleian Library</ref>
                         </addrLine>
                         <addrLine>
                             <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -33,7 +38,8 @@
                 <idno type="catalogue">Hebrew</idno>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Arch_Selden_A_4" xml:lang="en">
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Arch_Selden_A_4"
+                    xml:lang="en">
                     <msIdentifier>
                         <country>United Kingdom</country>
                         <region type="county">Oxfordshire</region>
@@ -56,17 +62,20 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary>Mishneh Torah (Sefer Neziḳin - Sefer Shofṭim) by Maimonides</summary>
+                        <summary>Mishneh Torah (Sefer Neziḳin - Sefer Shofṭim) by
+                            Maimonides</summary>
                         <msItem n="1" xml:id="MS_Arch_Selden_A_4_a">
-                            <locus>ff. 1r-300v</locus>                           
+                            <locus>ff. 1r-300v</locus>
                             <title xml:lang="he"> משנה תורה (ספר נזיקין-שופטים)</title>
-                            <title xml:lang="he-Latn-x-lc">Mishneh Torah (Sefer Neziḳin - Sefer Shofṭim)</title>
+                            <title xml:lang="he-Latn-x-lc">Mishneh Torah (Sefer Neziḳin - Sefer
+                                Shofṭim)</title>
                             <author ref="http://viaf.org/viaf/100185495" key="person_100185495">
                                 <persName>Maimonides, Moses, 1135-1204 </persName>
                                 <persName xml:lang="he">משה בן מימון</persName>
                             </author>
                             <note>At the end of the different books are Responsa on the subjects
-                                treated in the book, chiefly of <persName key="person_89860273">Meir of Rothenburg</persName>.</note>
+                                treated in the book, chiefly of <persName key="person_89860273">Meir
+                                    of Rothenburg</persName>.</note>
                             <colophon> </colophon>
                             <textLang mainLang="he">Hebrew</textLang>
                         </msItem>
@@ -104,20 +113,27 @@
                                 <source> Manuscript description based on <bibl>Catalogue of the
                                         Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
                                         Neubauer, Oxford 1886, </bibl>
-                                    <ref facs="bej0213.jpg bej0095.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=105">No. 610
-                                        </ref>, <bibl>Catalogue of the Hebrew manuscripts in the
-                                        Bodleian Library; Supplement of Addenda and Corrigenda to
-                                        Vol. I, </bibl>
-                                    <ref facs="beo0102.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=102">No. 610</ref>, and
-                                    on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000089752&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    <ref facs="bej0213.jpg bej0095.jpg"
+                                        target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=105"
+                                        >No. 610 </ref>, <bibl>Catalogue of the Hebrew manuscripts
+                                        in the Bodleian Library; Supplement of Addenda and
+                                        Corrigenda to Vol. I, </bibl>
+                                    <ref facs="beo0102.jpg"
+                                        target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=102"
+                                        >No. 610</ref>, and on the data of the <ref
+                                        target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000089752&amp;local_base=NNLMSS"
+                                        >Institute of Microfilmed Hebrew Manuscripts</ref>, National
                                     Library of Israel with additional enhancements by the
                                     cataloguer. </source>
                             </recordHist>
                             <availability status="restricted">
                                 <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
+                                    a valid reader's card (for admissions procedures contact <ref
+                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                                        >Bodleian Admissions</ref>). Contact
+                                        <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                                    for further information on the availability of this
+                                    manuscript.</p>
                             </availability>
                         </adminInfo>
                         <surrogates>
@@ -127,12 +143,15 @@
                         </surrogates>
                         <listBibl>
                             <bibl>Neubauer, Adolf. <hi rend="italic">Catalogue of the Hebrew
-                                    Manuscripts in the Bodleian Library</hi> (Oxford 1886),
-                                <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=105">no. 610.</ref></bibl>
+                                    Manuscripts in the Bodleian Library</hi> (Oxford 1886), <ref
+                                    target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=105"
+                                    >no. 610.</ref></bibl>
                             <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
                                     of the Hebrew manuscripts in the Bodleian Library; Supplement of
                                     Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue).
-                                Oxford 1994. <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=102">no. 610.</ref></bibl>
+                                Oxford 1994. <ref
+                                    target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=102"
+                                    >no. 610.</ref></bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
@@ -158,9 +177,9 @@
                 </taxonomy>
                 <taxonomy xml:id="IMHM">
                     <desc>Catalogue of the <bibl>
-                            <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+                            <ref target="http://www.jnul.huji.ac.il/imhm/"> Institute of Microfilmed
+                                Hebrew Manuscripts, Jewish National and University Library,
+                                Jerusalem</ref>
                         </bibl>
                     </desc>
                 </taxonomy>
@@ -176,12 +195,12 @@
                 </keywords>
                 <keywords scheme="#LCSH">
                     <term>
-                        <persName ref="http://viaf.org/viaf/51728429" key="person_51728429">Selden, John,
-                            1584-1654</persName>
+                        <persName ref="http://viaf.org/viaf/51728429" key="person_51728429">Selden,
+                            John, 1584-1654</persName>
                     </term>
                     <term>
-                        <persName ref="http://viaf.org/viaf/89860273" key="person_89860273">Meir ben Baruch, of
-                            Rothenburg, approximately 1215-1293</persName>
+                        <persName ref="http://viaf.org/viaf/89860273" key="person_89860273">Meir ben
+                            Baruch, of Rothenburg, approximately 1215-1293</persName>
                     </term>
                 </keywords>
                 <keywords scheme="IMHM">
@@ -191,8 +210,10 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
-            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for publication</change><change when="2016-02-11">
-                <name type="person">Zsofia Buda</name> created this file</change>            
+            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for
+                publication</change>
+            <change when="2016-02-11">
+                <name type="person">Zsofia Buda</name> created this file</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>

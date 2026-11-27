@@ -26,6 +26,11 @@
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_a_2.xml -->
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_76.xml -->
             </place>
+            <place xml:id="place_116">
+               <placeName type="index" source="TGN">Amsterdam</placeName>
+               <placeName type="variant" xml:lang="he" source="bodl">אמשטראדאם</placeName>
+               <!-- Found in: ../collections/MS_Reggio_55.xml -->
+            </place>
             <place xml:id="place_98">
                <placeName type="index" source="TGN">Anagni</placeName>
                <placeName type="variant" xml:lang="he" source="bodl">אנאניי</placeName>
@@ -86,6 +91,11 @@
             <place xml:id="place_8">
                <placeName type="index" source="bodl">Chios</placeName>
                <!-- Found in: ../collections/MS_Canonici_Or_53.xml -->
+            </place>
+            <place xml:id="place_117">
+               <placeName type="index" source="TGN">Corfu</placeName>
+               <placeName type="variant" xml:lang="he" source="bodl">קורפו</placeName>
+               <!-- Found in: ../collections/MS_Reggio_55.xml -->
             </place>
             <place xml:id="place_79">
                <placeName type="index" source="bodl">Damascus</placeName>
@@ -336,6 +346,11 @@
             <place xml:id="place_39">
                <placeName type="index" source="bodl">Tiberias</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_c_13.xml -->
+            </place>
+            <place xml:id="place_118">
+               <placeName type="index" source="TGN">Tossignano</placeName>
+               <placeName type="variant" xml:lang="he" source="bodl">טוסינייאנו</placeName>
+               <!-- Found in: ../collections/MS_Reggio_55.xml -->
             </place>
             <place xml:id="place_99">
                <placeName type="index" source="TGN">Trieste</placeName>
